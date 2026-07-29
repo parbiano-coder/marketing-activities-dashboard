@@ -1,0 +1,18 @@
+{
+  "name": "marketing-activities-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "국내 IT서비스/디지털금융 기업의 마케팅 활동(행사·전시·웨비나·신제품 출시·언론보도·고객사례) 모니터링 대시보드",
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/collect.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@mozilla/readability": "^0.6.0",
+    "cheerio": "^1.0.0",
+    "dotenv": "^17.4.2",
+    "fast-xml-parser": "^5.10.1",
+    "jsdom": "^25.0.1"
+  }
+}
