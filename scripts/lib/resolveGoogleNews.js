@@ -13,7 +13,7 @@ export async function resolveGoogleNewsLink(url) {
   if (!isGoogleNewsLink(url)) return url;
 
   try {
-    const page = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
+    const page = await fetch(url, { headers: { "User-Agent": USER_AGENT }, signal: AbortSignal.timeout(15000) });
     const html = await page.text();
 
     const id = html.match(/data-n-a-id="([^"]+)"/)?.[1];
@@ -37,6 +37,7 @@ export async function resolveGoogleNewsLink(url) {
         "User-Agent": USER_AGENT,
       },
       body: "f.req=" + encodeURIComponent(freq),
+      signal: AbortSignal.timeout(15000),
     });
     const text = await res.text();
     const match = text.match(/"garturlres\\?",\\?"([^"\\]+)/);

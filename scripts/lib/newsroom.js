@@ -11,7 +11,7 @@ export async function fetchNewsroom(company) {
   const { newsroom, name } = company;
   if (!newsroom) return [];
 
-  const res = await fetch(newsroom.url, { headers: { "User-Agent": USER_AGENT } });
+  const res = await fetch(newsroom.url, { headers: { "User-Agent": USER_AGENT }, signal: AbortSignal.timeout(15000) });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
   const html = await res.text();

@@ -96,14 +96,14 @@ export async function extractActivity({ company, category, title, publisher, tex
   await waitForRateLimit();
   let result;
   try {
-    result = await model.generateContent(prompt);
+    result = await model.generateContent(prompt, { timeout: 30000 });
   } catch (err) {
     const retryDelayMs = parseRetryDelayMs(err);
     if (!retryDelayMs) throw err;
     console.log(`  [Gemini 429] ${Math.round(retryDelayMs / 1000)}초 대기 후 재시도...`);
     await sleep(retryDelayMs);
     lastCallAt = Date.now();
-    result = await model.generateContent(prompt); // 한 번만 재시도, 또 실패하면 그대로 던져서 fallback 처리
+    result = await model.generateContent(prompt, { timeout: 30000 }); // 한 번만 재시도, 또 실패하면 그대로 던져서 fallback 처리
   }
   const raw = result.response.text();
 

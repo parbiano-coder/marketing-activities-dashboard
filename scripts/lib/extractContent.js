@@ -26,6 +26,7 @@ export async function extractArticle(url) {
   const res = await fetch(resolvedUrl, {
     headers: { "User-Agent": USER_AGENT },
     redirect: "follow",
+    signal: AbortSignal.timeout(15000),
   });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const html = await res.text();

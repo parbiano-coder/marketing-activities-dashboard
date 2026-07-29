@@ -24,7 +24,7 @@ function buildFeedUrl(query) {
 
 export async function fetchGoogleNews(query, limit = 10) {
   const url = buildFeedUrl(query);
-  const res = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
+  const res = await fetch(url, { headers: { "User-Agent": USER_AGENT }, signal: AbortSignal.timeout(15000) });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
   const xml = await res.text();
