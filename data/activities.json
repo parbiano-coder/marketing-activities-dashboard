@@ -1,0 +1,845 @@
+{
+  "updatedAt": "2026-07-29T07:02:35.329Z",
+  "categories": [
+    "IT 서비스",
+    "디지털 금융"
+  ],
+  "companies": [
+    {
+      "name": "삼성SDS",
+      "category": "IT 서비스"
+    },
+    {
+      "name": "LG CNS",
+      "category": "IT 서비스"
+    },
+    {
+      "name": "SK AX",
+      "category": "IT 서비스"
+    },
+    {
+      "name": "네이버",
+      "category": "IT 서비스"
+    },
+    {
+      "name": "카카오",
+      "category": "IT 서비스"
+    },
+    {
+      "name": "NHN",
+      "category": "IT 서비스"
+    },
+    {
+      "name": "더존비즈온",
+      "category": "IT 서비스"
+    },
+    {
+      "name": "한글과컴퓨터",
+      "category": "IT 서비스"
+    },
+    {
+      "name": "KT",
+      "category": "IT 서비스"
+    },
+    {
+      "name": "네이버클라우드",
+      "category": "IT 서비스"
+    },
+    {
+      "name": "두나무",
+      "category": "디지털 금융"
+    },
+    {
+      "name": "빗썸코리아",
+      "category": "디지털 금융"
+    },
+    {
+      "name": "코인원",
+      "category": "디지털 금융"
+    },
+    {
+      "name": "카카오페이",
+      "category": "디지털 금융"
+    },
+    {
+      "name": "네이버파이낸셜",
+      "category": "디지털 금융"
+    },
+    {
+      "name": "토스",
+      "category": "디지털 금융"
+    },
+    {
+      "name": "코빗",
+      "category": "디지털 금융"
+    },
+    {
+      "name": "고팍스",
+      "category": "디지털 금융"
+    },
+    {
+      "name": "컴투스",
+      "category": "디지털 금융"
+    }
+  ],
+  "activityTypes": [
+    "행사·컨퍼런스",
+    "전시",
+    "웨비나",
+    "신제품·서비스 출시",
+    "언론보도",
+    "고객사례",
+    "파트너십·제휴",
+    "기타"
+  ],
+  "activities": [
+    {
+      "id": "ae1a9ff7c60120ac",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "삼성SDS, 아시아 최대 보험 콘퍼런스서 AI 자동 동시통역 서비스 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/fn-250923.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T07:00:13.082Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20250923034611",
+      "activityType": "언론보도",
+      "eventDate": "2025년 9월 22일",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 아시아 최대 보험 콘퍼런스에서 AI 자동 동시통역 서비스를 선보였다는 내용의 언론보도입니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T07:00:13.082Z"
+    },
+    {
+      "id": "92a437f9f275c387",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "80개 기업 집결 태평양 보험 콘퍼런스서…삼성SDS, 4개 언어 AI 동시통역 서비스 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/se-250922.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T07:00:06.360Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20250923034611",
+      "activityType": "언론보도",
+      "eventDate": "2025년 9월 22일",
+      "location": null,
+      "format": "언론 보도",
+      "slogan": null,
+      "keyMessage": "삼성SDS는 80개 기업이 참가한 태평양 보험 콘퍼런스에서 4개 언어 AI 동시통역 서비스를 선보였습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T07:00:06.360Z"
+    },
+    {
+      "id": "37bceec41ee83a5a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "삼성SDS  AI 동시통역  글로벌 무대 데뷔 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/hk-250922.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T06:59:00.784Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20250923034611",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS  AI 동시통역  글로벌 무대 데뷔 | 언론보도 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:59:00.784Z"
+    },
+    {
+      "id": "4f08f31700cd09d6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "오픈AI, 삼성SDS와 포항에 데이터센터 짓는다 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/hk-251002.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T06:58:00.629Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20251002103708",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "오픈AI, 삼성SDS와 포항에 데이터센터 짓는다 | 언론보도 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:58:00.629Z"
+    },
+    {
+      "id": "539fedb789265327",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "삼성SDS, 기업용  AI 에이전트  혁신 주도…모든 직원이  개인 비서  얻어 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/hk-251010.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T06:57:00.482Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20251010012109",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, 기업용  AI 에이전트  혁신 주도…모든 직원이  개인 비서  얻어 | 언론보도 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:57:00.482Z"
+    },
+    {
+      "id": "b4e79dde799fe59b",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "‘국가 AI컴퓨팅 센터’ 전남 해남 유력 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/da-251022.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T06:56:00.336Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20251022095121",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "‘국가 AI컴퓨팅 센터’ 전남 해남 유력 | 언론보도 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:56:00.336Z"
+    },
+    {
+      "id": "982c1d90c25aadff",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "국가AI컴퓨팅센터에 삼성SDS 단독 입찰…후보지로 전남 해남 솔라시도 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/se-251022.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T06:55:01.074Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20251022095121",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "국가AI컴퓨팅센터에 삼성SDS 단독 입찰…후보지로 전남 해남 솔라시도 | 언론보도 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:55:01.074Z"
+    },
+    {
+      "id": "f4436100365a0b4c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "삼성SDS 컨소시엄 국가AI컴퓨팅 입찰 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/hk-251022.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T06:54:00.908Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20251022095121",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS 컨소시엄 국가AI컴퓨팅 입찰 | 언론보도 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:54:00.908Z"
+    },
+    {
+      "id": "50b5fd7efec3cd65",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "삼성SDS, 오픈AI와 손잡고 ‘AI 풀스택’ 역량으로 기업 업무 혁신 선도 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/donga-251029.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T06:53:00.764Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20251029102942",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, 오픈AI와 손잡고 ‘AI 풀스택’ 역량으로 기업 업무 혁신 선도 | 언론보도 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:53:00.764Z"
+    },
+    {
+      "id": "a1e0b7c9d356a145",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "삼성SDS,  스킬셋  중심 교육체계로 AX 인재 양성 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/et-251029.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T06:52:00.612Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20251029102942",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS,  스킬셋  중심 교육체계로 AX 인재 양성 | 언론보도 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:52:00.612Z"
+    },
+    {
+      "id": "12659a6caf80c856",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "범정부 AI행정시대 개막....삼성SDS, 핵심서비스 제공 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/fn-251125.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T06:51:00.445Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20251125102048",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "범정부 AI행정시대 개막....삼성SDS, 핵심서비스 제공 | 언론보도 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:51:00.445Z"
+    },
+    {
+      "id": "20cfa93fbed90e3b",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "이재용·샘 올트먼  깐부 … 韓기업 AX 맞손 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/mk-251224.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T06:50:00.334Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20251224102538",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "이재용·샘 올트먼  깐부 … 韓기업 AX 맞손 | 언론보도 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:50:00.334Z"
+    },
+    {
+      "id": "997ae52e2e5d1af8",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "이재용·올트먼  AI 동맹  첫 성과…삼성, 챗GPT로 기업 AX 돕는다 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/hk-251224.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T06:49:01.148Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20251224102538",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "이재용·올트먼  AI 동맹  첫 성과…삼성, 챗GPT로 기업 AX 돕는다 | 언론보도 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:49:01.148Z"
+    },
+    {
+      "id": "5463bcd56120ea4c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "삼성, ‘기업용 챗GPT’ 리셀러 계약… 이재용-올트먼 ‘협력 논의’ 결실 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/da-251224.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T06:48:00.937Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20251224102538",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성, ‘기업용 챗GPT’ 리셀러 계약… 이재용-올트먼 ‘협력 논의’ 결실 | 언론보도 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:48:00.937Z"
+    },
+    {
+      "id": "c168f8a83093a8a6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "삼성SDS, 오픈AI 국내 첫 리셀러 파트너됐다 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/cs-251224.html",
+      "publisher": "삼성SDS",
+      "pubDate": "2026-07-29T06:47:00.792Z",
+      "keyVisual": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20260107035808",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, 오픈AI 국내 첫 리셀러 파트너됐다 | 언론보도 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:47:00.792Z"
+    },
+    {
+      "id": "49fa7e9ed19632a0",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 베트남 AI 기반 교육 인프라 구축…동남아 DX·AX '전방위 공습'",
+      "link": "https://www.theguru.co.kr/news/article.html?no",
+      "publisher": "더구루",
+      "pubDate": "Wed, 29 Jul 2026 05:50:09 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "베트남",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 베트남에 AI 기반 교육 인프라를 구축하며 동남아시아 시장의 디지털 전환(DX) 및 인공지능 전환(AX) 사업을 확대합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T07:00:22.811Z"
+    },
+    {
+      "id": "581f7f66352b602a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "GPT·제미나이·클로드 품은 삼성SDS…'기업용 AI' 영토 확장",
+      "link": "https://v.daum.net/v/20260729070702650",
+      "publisher": "v.daum.net",
+      "pubDate": "Tue, 28 Jul 2026 22:07:02 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/29/552788-vZw4wcp/20260729070702869sonk.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "GPT·제미나이·클로드 품은 삼성SDS…'기업용 AI' 영토 확장",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:39:00.403Z"
+    },
+    {
+      "id": "10cc7cd735f0d5b8",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "�뵿, ���� ���AX�÷��� ����� ������LG CNS �� ���ҽþ� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260728n25313",
+      "publisher": "네이트",
+      "pubDate": "Tue, 28 Jul 2026 07:05:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/iu/2026/07/28/687661_635783_1911.png",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 컨소시엄에 참여하여 첨단 AI 및 AX 플랫폼 구축·운영을 위한 특수목적법인(SPC)을 설립하고 본격적인 사업 추진에 나선다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T07:02:06.228Z"
+    },
+    {
+      "id": "805d58bc419b08c9",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, SCP 파트너 생태계 확대...메가존클라우드 첫 '플래티넘' 선정",
+      "link": "https://news.mtn.co.kr/news-detail/2026072815041064270",
+      "publisher": "MTN 머니투데이방송",
+      "pubDate": "Tue, 28 Jul 2026 06:18:01 GMT",
+      "keyVisual": "https://menu.mtn.co.kr/upload/article/2026/07/28/2026072815041064270_00_234.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 자사 클라우드 플랫폼(SCP) 생태계 확대를 위해 메가존클라우드를 최고 등급인 플래티넘 파트너로 선정하고 공공 및 AI 클라우드 사업 협력을 강화한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:40:03.971Z"
+    },
+    {
+      "id": "b5b68fcc2fa8e87b",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "메가존클라우드, 삼성SDS 클라우드 최상위 '플래티넘 파트너' 됐다",
+      "link": "https://www.fnnews.com/news/202607281411526813",
+      "publisher": "파이낸셜뉴스",
+      "pubDate": "Tue, 28 Jul 2026 05:24:31 GMT",
+      "keyVisual": "https://image.fnnews.com/resource/media/image/2026/07/28/202607281415343746_l.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "메가존클라우드, 삼성SDS 클라우드 최상위 '플래티넘 파트너' 됐다",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:44:00.336Z"
+    },
+    {
+      "id": "18422d2af5132542",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "KMI, GSI·삼성SDS 찾아 디지털·AI 전환·공급망 대응 점검",
+      "link": "https://www.dailian.co.kr/news/view/1671442/KMI-GSI%EC%82%BC%EC%84%B1SDS-%EC%B0%BE%EC%95%84-%EB%94%94%EC%A7%80%ED%84%B8A-2026",
+      "publisher": "데일리안",
+      "pubDate": "Tue, 28 Jul 2026 04:36:00 GMT",
+      "keyVisual": "https://cdnimage.dailian.co.kr/news/202607/news_1785141488_1671442_m_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "삼성SDS 판교물류캠퍼스",
+      "format": "현장 방문",
+      "slogan": null,
+      "keyMessage": "한국해양수산개발원(KMI)이 삼성SDS 판교물류캠퍼스를 방문해 이그제큐티브 브리핑 센터와 글로벌 컨트롤 센터를 둘러보고 실시간 공급망 위험 관리 체계 및 디지털 물류 운영 현황을 점검했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:40:15.792Z"
+    },
+    {
+      "id": "a18b5d0607434d35",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "데이터센터 넘어 NPU 서비스까지…삼성SDS, AI 인프라 기업 전환 가속",
+      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno",
+      "publisher": "위키리크스한국",
+      "pubDate": "Tue, 28 Jul 2026 03:15:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "데이터센터 넘어 NPU 서비스까지…삼성SDS, AI 인프라 기업 전환 가속",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:43:01.153Z"
+    },
+    {
+      "id": "39c95b68614ba7e4",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "대동·LG CNS 컨소시엄, 국가 농업AX플랫폼 최종 선정",
+      "link": "https://www.fnnews.com/news/202607281035211478",
+      "publisher": "파이낸셜뉴스",
+      "pubDate": "Tue, 28 Jul 2026 02:05:45 GMT",
+      "keyVisual": "https://image.fnnews.com/resource/media/image/2026/07/08/202607080601266875_l.jpeg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 참여한 컨소시엄이 국가 농업AX플랫폼 민간참여자로 최종 선정되어 실시협약을 체결하고 연내 SPC 설립을 통해 AI 영농 솔루션 및 스마트팜 사업을 본격 추진한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T07:00:40.217Z"
+    },
+    {
+      "id": "96e9b83dce86df15",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'앤트로픽 선점' 삼성SDS, 남은 '경쟁 지점'은",
+      "link": "https://contents.premium.naver.com/thebell/stock/contents/260727173714321je",
+      "publisher": "네이버 프리미엄콘텐츠",
+      "pubDate": "Mon, 27 Jul 2026 22:21:28 GMT",
+      "keyVisual": "https://scs-phinf.pstatic.net/MjAyNjA3MjdfMzYg/MDAxNzg1MTMwNzI4OTgx.x3CuT16pUjpOlMIGyD4UjWkKshut3i0fmw0suWmGkQ0g.zaHYl3DMVIU04H6c_rhyLf6cQoUp0DswZCjOr9BoMNMg.JPEG/%EC%82%BC%EC%84%B1SDS_23.jpg?type=w800",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-07-25",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국내 기업 중 유일하게 앤트로픽과 전략적 파트너십을 체결하고 클로드 기반 기업용 AI 사업 확대 및 국내 시장 공동 개발에 나섰다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:41:05.191Z"
+    },
+    {
+      "id": "012059b09284b590",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 상반기 매출·영업익↑...삼성SDS·현대오토에버 영업익↓",
+      "link": "https://www.consumernews.co.kr/news/articleView.html?idxno",
+      "publisher": "소비자가 만드는 신문",
+      "pubDate": "Mon, 27 Jul 2026 21:09:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 상반기 매출·영업익↑...삼성SDS·현대오토에버 영업익↓",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:42:01.032Z"
+    },
+    {
+      "id": "012059b09284b590",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 상반기 매출·영업익↑...삼성SDS·현대오토에버 영업익↓",
+      "link": "https://www.consumernews.co.kr/news/articleView.html?idxno",
+      "publisher": "소비자가 만드는 신문",
+      "pubDate": "Mon, 27 Jul 2026 21:09:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 주요 경쟁사들의 영업이익 감소세와 달리 상반기 매출과 영업이익이 모두 증가했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T07:01:02.652Z"
+    },
+    {
+      "id": "71d314cbf386813c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "남양주 1조원 ‘X-AI 데이터센터’ 첫발…LG CNS 등 300억원 투자",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xZ2txWnRiZVlRWXZIdDJWVi1WQWtwSmg1Vm1KZjJhdktCZHZVbzlmdGREZFBOd2FHX1RxejRQaVpnVDV6dXl3OERpemc1SkxIOTFja2J1YXJlLVU?oc=5",
+      "publisher": "에너지경제신문",
+      "pubDate": "Mon, 27 Jul 2026 13:06:20 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "남양주",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 남양주 1조 원 규모의 'X-AI 데이터센터' 조성 사업에 300억 원을 투자하며 사업을 본격 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T07:00:29.123Z"
+    },
+    {
+      "id": "997fc1ba30f4e329",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"블록체인·AI 무역금융 검증\"…포스코인터·LG CNS 손잡았다",
+      "link": "https://v.daum.net/v/20260727191651586",
+      "publisher": "v.daum.net",
+      "pubDate": "Mon, 27 Jul 2026 10:16:51 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/27/kedtv/20260727191652607pndv.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-07-27",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 포스코인터내셔널과 함께 블록체인 및 AI 기술을 글로벌 무역 환경에 적용하는 기술검증(PoC)을 완료하고 단계적 사업화를 추진한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T07:00:48.087Z"
+    },
+    {
+      "id": "e665480aa379d5e8",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI가 벌어준 하루, 당신의 조직은 어디에 쓰고 있습니까? | 인사이트리포트 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/insights/ai-saved-time-strategic-clarity.html",
+      "publisher": "Samsung SDS America",
+      "pubDate": "Mon, 27 Jul 2026 06:41:33 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/07/27/thumb_0727.png?queryString=20260727031045",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "AI가 벌어준 하루, 당신의 조직은 어디에 쓰고 있습니까? | 인사이트리포트 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:46:00.652Z"
+    },
+    {
+      "id": "f1fa174b8745bc25",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 글로벌 AI 신소재 개발 협력체 합류…\"국내 기업 AX 지원\"",
+      "link": "https://news.mtn.co.kr/news-detail/2026072710301699778",
+      "publisher": "MTN 머니투데이방송",
+      "pubDate": "Mon, 27 Jul 2026 02:41:39 GMT",
+      "keyVisual": "https://menu.mtn.co.kr/upload/article/2026/07/27/2026072710301699778_00_293.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "27일",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 커스프AI의 글로벌 AI 신소재 개발 협력체인 'AI 머티리얼즈 파운드리'에 합류하여 국내 제조 및 소재 기업의 AI 전환(AX)과 신소재 개발 프로젝트를 지원한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T07:02:13.386Z"
+    },
+    {
+      "id": "e0dac4a90c90b4c0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "�ＺSDS����Ʈ����, ?AI ������� ��Ʈ�ʽ� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260727n13611",
+      "publisher": "네이트",
+      "pubDate": "Mon, 27 Jul 2026 02:31:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/hr/2026/07/27/rcv.YNA.20260725.PYH2026072503810001300_P1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "�ＺSDS����Ʈ����, ?AI ������� ��Ʈ�ʽ� : ����Ʈ ����",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:45:00.653Z"
+    },
+    {
+      "id": "49f9a6b6d1aab50b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, '엔비디아·메타 참여' 글로벌 AI 신소재 연합 합류",
+      "link": "https://www.newsis.com/view/NISX20260727_0003724049",
+      "publisher": "뉴시스",
+      "pubDate": "Mon, 27 Jul 2026 01:00:00 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/07/27/NISI20260727_0002196316_web.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 글로벌 AI 신소재 개발 협력체인 'AI 머티리얼즈 파운드리'에 창립 멤버로 합류하여 국내 제조·소재 기업의 AI 기반 신소재 개발과 AX(인공지능 전환)를 본격적으로 지원한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T07:00:55.647Z"
+    },
+    {
+      "id": "8dc441f5a4ab4899",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버·삼성SDS, 빅테크와 빅사이즈 협력 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/07/27/2026072611215798557",
+      "publisher": "머니투데이",
+      "pubDate": "Sun, 26 Jul 2026 19:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026072611215798557_1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 앤트로픽과 전략적 파트너십을 체결하여 클로드(Claude) 기반의 기술검증, 응용형 AI 엔지니어 양성, '클라이언트 제로' 전략을 통해 국내 기업용 AI 시장 공략을 강화한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T06:38:20.706Z"
+    },
+    {
+      "id": "520f7c1f6b672995",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS·LG CNS, 2분기 실적은?...AI 온기에도 영업이익 엇갈려",
+      "link": "https://www.techm.kr/news/articleView.html?idxno",
+      "publisher": "테크M",
+      "pubDate": "Sat, 25 Jul 2026 22:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS와 LG CNS의 2분기 실적 발표를 앞두고 AI 적용 확대에도 불구하고 양사의 영업이익 전망이 엇갈리고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-29T07:02:20.101Z"
+    }
+  ]
+}
