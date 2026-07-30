@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T01:17:00.886Z",
+  "updatedAt": "2026-07-30T22:07:37.282Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,380 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "c481d26f439c133c",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"땡큐 엔비디아\" 네이버 급등하더니…하루 만에 '비명' [종목+]",
+      "link": "https://www.hankyung.com/article/2026073061356",
+      "publisher": "hankyung.com",
+      "pubDate": "Thu, 30 Jul 2026 21:30:01 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202607/01.42505366.1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 엔비디아로부터 10억 달러 규모의 지분 투자를 유치하고 3대 주주로 맞아 AI 팩토리 사업 추진 및 인프라 확대를 도모하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 교육·서비스 제휴와 달리 엔비디아로부터 대규모 지분 투자를 유치하며 22년 만에 제3자배정 유상증자를 단행한 이례적인 대형 글로벌 파트너십 사례입니다."
+      },
+      "processedAt": "2026-07-30T22:07:23.196Z"
+    },
+    {
+      "id": "41c0090276051ee4",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "구글보다 13년 늦었다…네이버, 클라우드 빗장 이제야 푼 속내 [팩플]",
+      "link": "https://v.daum.net/v/20260731050235874",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 30 Jul 2026 20:02:35 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/31/joongang/20260731050236563txor.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "구글보다 13년 늦었다…네이버, 클라우드 빗장 이제야 푼 속내 [팩플]",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-30T22:07:01.043Z"
+    },
+    {
+      "id": "177b1ae099948ff6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "클라우드로 날개 단 삼성SDS…AI 인프라·디지털 자산에 승부수",
+      "link": "https://www.sentv.co.kr/article/view/sentv202607300143",
+      "publisher": "서울경제TV",
+      "pubDate": "Thu, 30 Jul 2026 09:04:33 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/07/30/sentv20260730000160.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "실적발표 컨퍼런스콜",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 클라우드와 물류 사업 성장에 힘입어 2분기 실적을 개선했으며, 급증하는 AI 컴퓨팅 수요에 맞춘 AI 인프라 확대와 두나무와의 디지털 자산 인프라 사업 추진으로 신성장동력을 확보할 계획이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 AI 서비스 및 데이터센터 중심 활동과 달리, 두나무와 협력하여 스테이블코인 및 가상자산 기반 금융 SI 등 디지털 자산 인프라 시장 진출을 본격 추진하는 점이 특징적입니다."
+      },
+      "processedAt": "2026-07-30T22:05:47.015Z"
+    },
+    {
+      "id": "fc6bc18499247360",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 2분기 실적 \"클라우드·물류 대외사업 성장\"",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CaHVhRGV0czYtRV9qamVKdlNiamg3SE5mQ0lKVEJYUmZsa3VqQmJWdXBfMU1QVHBEbzA1a1NjaF9LSnRScUxWU3J1OFBtcGZ6ZHpEdGJKWkw0NHpHSzhyWkVSeEhSUQ?oc=5",
+      "publisher": "디일렉",
+      "pubDate": "Thu, 30 Jul 2026 08:34:08 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2분기 실적 발표에서 클라우드 및 물류 대외사업의 성장을 나타냈습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 AI 서비스 및 데이터센터 관련 마케팅 활동과 달리 기업 분기 실적을 다룬 언론보도입니다."
+      },
+      "processedAt": "2026-07-30T22:04:10.302Z"
+    },
+    {
+      "id": "0eff2174c2c87dfd",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독]LG CNS, 중국 로봇 전초기지 세운다…'로보틱스 랩' 가동",
+      "link": "https://v.daum.net/v/20260730171403796",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 30 Jul 2026 08:14:03 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/30/552788-vZw4wcp/20260730171403607uglo.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-07-30",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 세계 최대 로봇 시장인 중국에서 현지 기술 확보와 로봇 사업 기회 발굴을 위해 중국 법인 내 전문 연구 조직인 '로보틱스 랩'을 신설한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존 AI·AX 플랫폼 및 스마트시티/농업 협력 위주의 활동에서 확장하여 중국 현지 연구조직 신설을 통한 피지컬 AI 및 로보틱스 R&D 전초기지 구축에 나섰다는 점에서 차별화된다."
+      },
+      "processedAt": "2026-07-30T22:05:57.159Z"
+    },
+    {
+      "id": "9320fd6db6125458",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 2031년까지 AI 인프라 800MW 이상으로 확대",
+      "link": "https://www.sisajournal-e.com/news/articleViewAmp.html?idxno",
+      "publisher": "시사저널e",
+      "pubDate": "Thu, 30 Jul 2026 07:58:49 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, 2031년까지 AI 인프라 800MW 이상으로 확대",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-30T22:04:28.305Z"
+    },
+    {
+      "id": "4745b7a465698c99",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "���̷�, �ＺSDS�� AI ��ǻ�� ��� ����ȭ��GPU ��� ���� ���� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260730n30866",
+      "publisher": "네이트",
+      "pubDate": "Thu, 30 Jul 2026 07:57:06 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/dd/2026/07/30/2026072109063428203_l.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "���̷�, �ＺSDS�� AI ��ǻ�� ��� ����ȭ��GPU ��� ���� ���� : ����Ʈ ����",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-30T22:04:01.261Z"
+    },
+    {
+      "id": "ac0d133d90836862",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, CAPEX서 엿보인 AI 인프라 확장 의지",
+      "link": "https://www.topdaily.kr/articles/111225",
+      "publisher": "톱데일리",
+      "pubDate": "Thu, 30 Jul 2026 07:51:00 GMT",
+      "keyVisual": "https://assets.repress.co.kr/photos/76086300d22e44c3fd37c1b85bf37e7e/thumb.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "실적발표 컨퍼런스콜",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2분기 CAPEX를 전 분기 대비 88.7% 늘린 1,489억 원 투입하고, DBO와 지분투자 방식을 병행하여 2031년까지 800MW급 AI 인프라를 확보하겠다는 로드맵을 발표했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-30T22:05:08.428Z"
+    },
+    {
+      "id": "5a92301c31dc8a60",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "클라우드 덕에 선방…삼성SDS \"AI 투자 확대\"",
+      "link": "https://news.bizwatch.co.kr/article/mobile/2026/07/30/0038",
+      "publisher": "비즈워치",
+      "pubDate": "Thu, 30 Jul 2026 07:07:16 GMT",
+      "keyVisual": "https://cdn.bizwatch.co.kr/news/photo/2026/06/16/394450c233d199e83a6a946b6daeb80a.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 클라우드 사업 성장에 힘입어 2분기 실적 방어에 성공했으며, 향후 데이터센터 등 AI 인프라 구축과 피지컬 AI 및 디지털자산 투자를 확대할 계획이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존 AI 서비스(동시통역, 에이전트) 선보이기 중심의 활동과 달리, 2분기 실적 공개와 함께 피지컬 AI 및 디지털자산 등 신규 영역으로의 투자 확대 계획을 발표했다."
+      },
+      "processedAt": "2026-07-30T22:05:18.108Z"
+    },
+    {
+      "id": "c0ecb7764c948bda",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS·업스테이지, NH농협생명 임직원에 AI 활용법 전수 - 글로벌이코노믹",
+      "link": "https://www.g-enews.com/article/Finance/2026/07/202607301513464631e30fcb1ba8_1",
+      "publisher": "글로벌이코노믹",
+      "pubDate": "Thu, 30 Jul 2026 06:30:13 GMT",
+      "keyVisual": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026073015142908313e30fcb1ba811011241189.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS·업스테이지, NH농협생명 임직원에 AI 활용법 전수 - 글로벌이코노믹",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-30T22:06:18.735Z"
+    },
+    {
+      "id": "71cb9d0811c521e7",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS \"두나무와 스테이블코인·AI 사업 논의\"(종합2보)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kbkljV1hlaFRyTDJCMm9lYlF5Rm9Ga205YkdVdF82VVhxMl9GSmxET1llZ2pQNG04bUNIR3dKYnAxczJQMDZQNzFPLUZoMlN4VXg3WjRhZk5SbWlTR1ZQWNIBYEFVX3lxTE9kbkljV1hlaFRyTDJCMm9lYlF5Rm9Ga205YkdVdF82VVhxMl9GSmxET1llZ2pQNG04bUNIR3dKYnAxczJQMDZQNzFPLUZoMlN4VXg3WjRhZk5SbWlTR1ZQWA?oc=5",
+      "publisher": "연합뉴스",
+      "pubDate": "Thu, 30 Jul 2026 06:17:26 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 두나무와 스테이블코인 및 AI 사업 협력을 논의하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 AI 에이전트 및 데이터센터 중심 활동과 달리 두나무와의 스테이블코인 관련 사업 논의가 새롭게 추진되고 있습니다."
+      },
+      "processedAt": "2026-07-30T22:04:20.400Z"
+    },
+    {
+      "id": "92bcb2fb0e2af8d6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[컨콜]삼성SDS \"두나무와 스테이블코인·AI 결제 사업 추진\"",
+      "link": "https://www.newsis.com/view/NISX20260730_0003730104",
+      "publisher": "뉴시스",
+      "pubDate": "Thu, 30 Jul 2026 05:59:44 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/04/23/NISI20260423_0002118826_web.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": "컨퍼런스콜",
+      "slogan": null,
+      "keyMessage": "삼성SDS는 두나무에 대한 전략적 지분 투업을 바탕으로 스테이블코인 및 AI 기반 차세대 결제 등 디지털 자산 인프라 사업 협력을 구체화하고 있다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 AI 서비스 제공이나 데이터센터 구축 활동과 달리 가상자산 기업 두나무와의 협력을 통해 디지털 자산 금융 인프라 시장 진출을 본격화했다는 점에서 차별화된다."
+      },
+      "processedAt": "2026-07-30T22:03:56.643Z"
+    },
+    {
+      "id": "d486d96784fa3082",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 2분기 매출 3.7조 달성...AI 및 클라우드 실적 견인",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qLTJRVndVTXFEdDVlZHFiaXhGWW91WjdQdWEwQ25UMDB2b3NzRWgyd3lzMExDY3FMaHRJaWVwMVhsanFuTU1qeHhFVVNJXzQxYWJLTDBTRXdFRXQyTnVYWnlNd3VIMkIwQmc?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Thu, 30 Jul 2026 05:01:09 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI 및 클라우드 사업 실적 성장에 힘입어 2분기 매출 3.7조 원을 달성했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-30T22:04:37.884Z"
+    },
+    {
+      "id": "bd07a4020d2be670",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 2분기 물류사업 매출 6.6% 증가한 1조 9,553억 원",
+      "link": "https://www.klnews.co.kr/news/articleView.html?idxno",
+      "publisher": "물류신문",
+      "pubDate": "Thu, 30 Jul 2026 04:02:22 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS 2분기 물류사업 매출 6.6% 증가한 1조 9,553억 원",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-30T22:05:32.180Z"
+    },
+    {
+      "id": "f8e2a8b895cf7c17",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS 합류한 AI 신소재 연합, 4억5000만달러 시리즈B 유치",
+      "link": "https://www.greened.kr/news/articleView.html?idxno",
+      "publisher": "녹색경제신문",
+      "pubDate": "Thu, 30 Jul 2026 01:19:39 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 합류한 AI 신소재 연합이 4억 5000만 달러 규모의 시리즈B 투자를 유치했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 스마트시티, 교육, 농업 분야 DX/AX 사업 추진과 달리 AI 신소재 기술 연합 참여 및 투자 유치를 다룬 점이 특이합니다."
+      },
+      "processedAt": "2026-07-30T22:06:03.970Z"
+    },
+    {
+      "id": "9bbfcd54de60914c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[유미's 픽] 금융사업 날개 단 LG CNS, 2분기 외형 성장 지속…수익성은?",
+      "link": "https://v.daum.net/v/20260730101151038",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 30 Jul 2026 01:11:51 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/30/ZDNetKorea/20260730101152735yfme.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-07-30",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 금융권 차세대 시스템 구축 및 클라우드·AI 사업 성장에 힘입어 2분기 매출 성장을 이어가고 있으며, AX 및 RX 플랫폼 투자 고도화를 통해 하반기 수익성 개선을 도모하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-30T22:06:38.723Z"
+    },
+    {
+      "id": "01f5adb0146f7ba1",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Thu, 30 Jul 2026 01:10:01 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "본문은 ZDNet Korea의 뉴스레터 구독 신청 관련 안내 문구로 LG CNS의 마케팅 활동 내용을 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "LG CNS의 AI 및 DX 중심 사업 활동들과 달리 언론사의 단순 뉴스레터 구독 안내 내용만 포함되어 있습니다."
+      },
+      "processedAt": "2026-07-30T22:06:14.023Z"
+    },
     {
       "id": "64e8ac4491ffe3eb",
       "company": "토스",
@@ -3174,6 +3548,28 @@
       "processedAt": "2026-07-30T00:32:00.626Z"
     },
     {
+      "id": "54b7b75acc4db35d",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] LG CNS, 태국 최대 개발기업 아마타와 AI 스마트시티 프로젝트 '시동'…동남아 AX 맹주 '군침'",
+      "link": "https://www.theguru.co.kr/news/article.html?no",
+      "publisher": "더구루",
+      "pubDate": "Tue, 28 Jul 2026 00:50:21 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 태국 최대 개발기업 아마타와 함께 동남아시아 AI 스마트시티 프로젝트를 본격 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-30T22:06:27.945Z"
+    },
+    {
       "id": "97bc2db412d1684c",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -5016,7 +5412,7 @@
       "slogan": null,
       "keyMessage": "[단독] 네이버 무료 API, 네이버클라우드로… “2027년 요금제 도입 검토”",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:26:00.638Z"
@@ -5038,7 +5434,7 @@
       "slogan": null,
       "keyMessage": "박현주 “코빗, 미래에셋의 새 일원…Digital X로 새출발“",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:57:00.698Z"
@@ -5264,6 +5660,28 @@
       "processedAt": "2026-07-29T22:09:13.818Z"
     },
     {
+      "id": "2d3694cd7d3642be",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SKT, 독파모 컨소시엄에 SK AX·테크노매트릭스 합류",
+      "link": "https://v.daum.net/v/xSbXi42uA2",
+      "publisher": "v.daum.net",
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/14/akn/20260714163449613twlr.png",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-07-14",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "SK AX가 SK텔레콤의 정부 독자 AI 파운데이션 모델 프로젝트 컨소시엄에 합류하여 B2B AX 사례 발굴과 실증 등 산업 AI 전환 역량을 강화합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-30T22:06:56.251Z"
+    },
+    {
       "id": "e7d49f7479b8af0d",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -5306,6 +5724,28 @@
         "llmNote": null
       },
       "processedAt": "2026-07-29T22:09:00.680Z"
+    },
+    {
+      "id": "a1035974bbeb7a4e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "아시아투데이",
+      "link": "https://www.asiatoday.co.kr/error.php?code=3",
+      "publisher": "아시아투데이",
+      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "keyVisual": "https://img.asiatoday.co.kr/social/kr_asiatoday_og.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문에 LG CNS의 마케팅 활동 내용이 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 활동들과 달리 LG CNS의 구체적인 마케팅 및 사업 활동 정보가 본문에 포함되어 있지 않습니다."
+      },
+      "processedAt": "2026-07-30T22:06:46.479Z"
     },
     {
       "id": "ec5c14a6903cfbd5",
