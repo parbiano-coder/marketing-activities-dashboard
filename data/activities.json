@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T22:07:37.282Z",
+  "updatedAt": "2026-07-31T22:05:24.397Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,270 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "8efccb6277361c23",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI 수요 잡은 삼성SDS·LG CNS…하반기 인프라 확장 속도",
+      "link": "https://v.daum.net/v/20260731161641972",
+      "publisher": "v.daum.net",
+      "pubDate": "Fri, 31 Jul 2026 07:16:41 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/31/552779-26fvic8/20260731161643485peus.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-07-31",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI 및 클라우드 수요 증가에 힘입어 2분기 실적 성장을 달성했으며, 하반기에도 GPU·NPU 기반 AI 인프라 확충과 AX 사업 확대를 추진할 계획이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-31T22:02:35.453Z"
+    },
+    {
+      "id": "83b11f56d1434626",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "뉴스토마토 :: 대한민국 대표 경제전문 멀티미디어 뉴스통신 채널",
+      "link": "https://www.newstomato.com/default.aspx",
+      "publisher": "뉴스토마토",
+      "pubDate": "Fri, 31 Jul 2026 06:50:08 GMT",
+      "keyVisual": "/images/logo.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI 분야에 집중 투자하며 영업이익 성장을 보이고 있는 반면 경쟁사는 주춤하며 실적 희비가 엇갈렸다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-31T22:04:04.111Z"
+    },
+    {
+      "id": "fb614f003c7a3d4d",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "대외 사업 확대로 성장 입증한 LG CNS, AI·클라우드 매출 비중 59% 달성해",
+      "link": "https://www.hellot.net/news/article.html?no",
+      "publisher": "헬로티",
+      "pubDate": "Fri, 31 Jul 2026 06:35:48 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 대외 사업 확대를 통해 AI 및 클라우드 매출 비중 59%를 달성하며 성장을 입증했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-31T22:04:37.873Z"
+    },
+    {
+      "id": "464597bd1275548b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 상반기 매출 2.8조 달성...\"AI·클라우드가 59% 차지\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13eC1EV0JGcVRuYmRGWXVVSFozTlpIelNla2JPZlNYNWdMN1pad09kelc5R2Y5cGllOVhuMzRxdXc1ZjdvWlFiMnQzMGZGZDZQQWV2Sm5tNU5fQXBlb2dDQ19UT0ZCc3ZrdVE?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Fri, 31 Jul 2026 06:18:42 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 상반기 매출 2.8조 원을 달성했으며, 전체 매출 중 AI와 클라우드 사업 비중이 59%를 차지했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-31T22:04:52.362Z"
+    },
+    {
+      "id": "9f2c60ec419942dc",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "실적 개선 삼성SDS, AI인프라·디지털 자산 사업 속도",
+      "link": "https://www.sentv.co.kr/article/view/sentv202607310100",
+      "publisher": "서울경제TV",
+      "pubDate": "Fri, 31 Jul 2026 06:06:24 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/07/31/sentv20260731000116.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "실적발표 컨퍼런스콜",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2분기 실적 개선을 발판으로 AI 인프라 사업을 대폭 확대하고, 두나무와의 협력을 통해 디지털 자산 금융 인프라 시장 진출을 본격 추진한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-31T22:03:09.707Z"
+    },
+    {
+      "id": "8b69f39d998208c7",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 2분기 영업익 전년비 9.2%↓···프로젝트 지연 영향",
+      "link": "https://www.sisajournal-e.com/news/articleViewAmp.html?idxno",
+      "publisher": "시사저널e",
+      "pubDate": "Fri, 31 Jul 2026 05:56:59 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 프로젝트 지연 영향으로 2분기 영업이익이 전년 동기 대비 9.2% 감소했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-31T22:05:00.692Z"
+    },
+    {
+      "id": "ad003b21c833a988",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS·LG CNS, AI 투자 본게임...하반기 실적 '시험대'",
+      "link": "https://news.mtn.co.kr/news-detail/2026073113535947683",
+      "publisher": "MTN 머니투데이방송",
+      "pubDate": "Fri, 31 Jul 2026 05:55:49 GMT",
+      "keyVisual": "https://menu.mtn.co.kr/upload/article/2026/07/31/2026073113535947683_00_463.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "실적 발표 컨퍼런스콜",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 클라우드 사업 성장에 힘입어 2분기 실적 상승을 기록했으며, AI 인프라 대폭 확대 및 금융·공공 AX 사업을 추진하여 하반기에도 성장을 이어갈 계획이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-31T22:03:00.133Z"
+    },
+    {
+      "id": "2a164d2a29400d5e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 상반기 매출액 6.1% 증가한 2조 8,358억 원",
+      "link": "https://www.klnews.co.kr/news/articleView.html?idxno",
+      "publisher": "물류신문",
+      "pubDate": "Fri, 31 Jul 2026 05:25:52 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 상반기 매출액 2조 8,358억 원을 기록하며 전년 동기 대비 6.1% 증가했다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-31T22:04:44.335Z"
+    },
+    {
+      "id": "3e33bd8713a48777",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS “2분기 영업이익 감소는 일시적…내년 피지컬 AI 사업 본격화”",
+      "link": "https://biz.chosun.com/it-science/ict/2026/07/31/D4XVRK6ZRZDNPP3OSZIDO6WP6M/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Fri, 31 Jul 2026 04:03:06 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/GIZWGMZRGAYWIZRXGA3DQNBWGY.jpg?auth=fe8e11732e975610df9cca18640003e70dd3bf3466203e3ac1434cc2bf9d2cdd&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 2분기 영업이익 감소는 일시적이라고 밝히며 내년부터 피지컬 AI 사업을 본격화할 계획이라고 발표했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "실적 감소 해명과 함께 '피지컬 AI'라는 신사업 구상을 내년부터 본격화하겠다고 명시적으로 제시한 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-07-31T22:04:30.652Z"
+    },
+    {
+      "id": "51ce739104317d4a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 2분기 영업익 9.2% 감소…전략투자·계약 이연 영향(종합)",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zRU9yY0pGbWt4UUNDVF82WC1YUWRlVzBNSk4yVXJJU0pwSDNWdjJFV1A0MFJoUURhQmU0c0lYMGdmSk05LVgyTEY2cnFmOGpQNGpLVjlzak5tUU9sSVd2LTJjY0RuZ0dLbktONUFuVW8?oc=5",
+      "publisher": "연합인포맥스",
+      "pubDate": "Fri, 31 Jul 2026 03:07:46 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 전략 투자 및 계약 이연의 영향으로 2분기 영업이익이 전년 동기 대비 9.2% 감소했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 AI·로보틱스 등 기술 투자 및 사업 확장 성과를 주로 발표하던 것과 달리 영업이익 감소 실적을 다루고 있다는 점이 다릅니다."
+      },
+      "processedAt": "2026-07-31T22:05:09.512Z"
+    },
+    {
+      "id": "24e4875aa408c3ff",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AX·클라우드 올라탄 삼성SDS·LG CNS…인프라 투자 계속된다",
+      "link": "https://v.daum.net/v/20260731113129448",
+      "publisher": "v.daum.net",
+      "pubDate": "Fri, 31 Jul 2026 02:31:29 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/31/akn/20260731113130777adhh.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 클라우드 및 AI 사업의 성장에 힘입어 2분기 실적을 개선하고, 2031년까지 AI 인프라를 800MW 이상으로 확장함과 동시에 두나무 전략적 투자를 통해 디지털 자산 및 차세대 결제 등 신규 사업 영역에 진출합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-31T22:04:13.057Z"
+    },
+    {
+      "id": "b6de4fed4a6e43d0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[부고] 이동준 씨(삼성SDS 부장) 모친상",
+      "link": "https://www.news1.kr/society/general-society/6244964",
+      "publisher": "뉴스1",
+      "pubDate": "Fri, 31 Jul 2026 00:00:37 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2024/6/10/6696688/high.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS 이동준 부장의 모친상 소식입니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 AI 인프라, 클라우드 사업 및 실적 발표 등 경영/마케팅 활동과 달리 임직원의 개인적인 부고 소식입니다."
+      },
+      "processedAt": "2026-07-31T22:03:16.263Z"
+    },
     {
       "id": "c481d26f439c133c",
       "company": "네이버",
@@ -314,6 +578,28 @@
       "processedAt": "2026-07-30T22:06:18.735Z"
     },
     {
+      "id": "33afa780a4d78914",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[부고] 이동준(삼성SDS 부장)씨 모친상 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260730135200007",
+      "publisher": "yna.co.kr",
+      "pubDate": "Thu, 30 Jul 2026 06:26:42 GMT",
+      "keyVisual": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_1200x800_kr01.jpg",
+      "activityType": "기타",
+      "eventDate": "2026-07-30",
+      "location": "건국대병원 장례식장 103호",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS 이동준 부장의 모친상(고 권영자)에 대한 부고 소식이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 AI 인프라 및 클라우드 실적 관련 마케팅 활동과 달리 기업 활동이 아닌 임직원 개인의 부고 소식이다."
+      },
+      "processedAt": "2026-07-31T22:02:44.573Z"
+    },
+    {
       "id": "71cb9d0811c521e7",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -334,6 +620,28 @@
         "llmNote": "기존의 AI 에이전트 및 데이터센터 중심 활동과 달리 두나무와의 스테이블코인 관련 사업 논의가 새롭게 추진되고 있습니다."
       },
       "processedAt": "2026-07-30T22:04:20.400Z"
+    },
+    {
+      "id": "91edd990a93d4312",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS \"두나무와 스테이블코인·AI 사업 논의\"(종합2보) | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260730071652527",
+      "publisher": "yna.co.kr",
+      "pubDate": "Thu, 30 Jul 2026 06:17:26 GMT",
+      "keyVisual": "https://img5.yna.co.kr/etc/inner/KR/2026/07/30/AKR20260730071652527_01_i_P4.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-07-30",
+      "location": null,
+      "format": "실적발표 컨퍼런스콜",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 두나무와의 전략적 투자 및 협력을 통해 스테이블코인 인프라와 AI 기반 차세대 결제 등 디지털 자산 사업을 추진한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존 AI 인프라 및 클라우드 중심 활동과 달리 두나무와의 제휴를 통해 스테이블코인 등 디지털 자산 분야로 협력 영역을 확장하고 있다는 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-07-31T22:02:52.166Z"
     },
     {
       "id": "92bcb2fb0e2af8d6",
@@ -400,6 +708,28 @@
         "llmNote": null
       },
       "processedAt": "2026-07-30T22:05:32.180Z"
+    },
+    {
+      "id": "8dbe35242046cb78",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[속보] 삼성SDS 2분기 매출 3.71조원…전년比 5.9% 증가",
+      "link": "https://v.daum.net/v/20260730102527810",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 30 Jul 2026 01:25:27 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/30/NEWS1/20260730102527801uqwa.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-07-30",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2026년 2분기 매출 3조 7,178억 원, 영업이익 2,318억 원을 기록하며 전년 동기 대비 각각 5.9%, 0.7% 증가했다고 공시했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-07-31T22:04:20.602Z"
     },
     {
       "id": "f8e2a8b895cf7c17",
@@ -3872,7 +4202,7 @@
       "slogan": null,
       "keyMessage": "코인원·코빗·업비트 짝 찾았는데… ‘사면초가’ 빗썸은 누구와 손잡나[경제 블로그]",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:48:01.202Z"
@@ -4422,7 +4752,7 @@
       "slogan": null,
       "keyMessage": "'디지털X'로 새 출발한 코빗…박현주 승부처는 법인 시장 - THE FACT",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:55:00.340Z"
@@ -4884,7 +5214,7 @@
       "slogan": null,
       "keyMessage": "코빗 품은 미래에셋·코인원 올라탄 한투…증권사 STO 선점전",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:53:01.043Z"
@@ -4972,7 +5302,7 @@
       "slogan": null,
       "keyMessage": "네이버·두나무 결합 '숨통'…규합위, 대주주 적격심사 예외 규정 권고",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:23:00.290Z"
@@ -4994,7 +5324,7 @@
       "slogan": null,
       "keyMessage": "네이버-두나무 '빅딜' 청신호…규합위, 특금법 개정안 개선 권고 ",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:22:01.160Z"
@@ -5016,7 +5346,7 @@
       "slogan": null,
       "keyMessage": "네이버·두나무 합병 걸림돌 걷어냈다…특금법 시행령 '개선 권고'",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:43:00.903Z"
@@ -5038,7 +5368,7 @@
       "slogan": null,
       "keyMessage": "규제개혁위원회가 특금법 시행령 개선을 권고함에 따라 네이버의 두나무 인수를 가로막던 규제 장애물이 해소될 것으로 전망된다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:35:11.140Z"
@@ -5060,7 +5390,7 @@
       "slogan": null,
       "keyMessage": "[단독] 네이버의 두나무 인수 장애물 사라진다… 규합위, 특금법 시행령 개선 권고",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:16:00.757Z"
@@ -5082,7 +5412,7 @@
       "slogan": null,
       "keyMessage": "금융사 업은 코빗·코인원…양강 구도 흔들까",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:51:00.625Z"
@@ -5104,7 +5434,7 @@
       "slogan": null,
       "keyMessage": "한글과컴퓨터? 이제는 한컴…\"AI 기업으로 완전한 변화\"",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:07:00.645Z"
@@ -5126,7 +5456,7 @@
       "slogan": null,
       "keyMessage": "'한글과컴퓨터' 역사 속으로⋯&quot;한컴으로 사명&middot;종목명 변경 완료&quot;",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:10:01.196Z"
@@ -5148,7 +5478,7 @@
       "slogan": null,
       "keyMessage": "한글과컴퓨터, 36년 만에 '한컴'으로 사명 변경…\"AI 기업 전환\"",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:08:00.909Z"
@@ -5170,7 +5500,7 @@
       "slogan": null,
       "keyMessage": "\"AI로 시세 조회·주문까지\"…코빗 'CLI' 출시",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:52:00.932Z"
@@ -5192,7 +5522,7 @@
       "slogan": null,
       "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:09:00.994Z"
@@ -5214,7 +5544,7 @@
       "slogan": null,
       "keyMessage": "'한글과컴퓨터'→‘한컴(HANCOM)’",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:14:00.756Z"
@@ -5236,7 +5566,7 @@
       "slogan": null,
       "keyMessage": "한글과컴퓨터, 36년 만에 ‘한컴’으로 사명·종목명 변경…AI 기업 전환 본격화",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:13:00.594Z"
@@ -5258,7 +5588,7 @@
       "slogan": null,
       "keyMessage": "“시세 보여줘, 비트코인 주문해”…코빗, AI 에이전트 트레이딩 도구 출시",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:56:00.528Z"
@@ -5280,7 +5610,7 @@
       "slogan": null,
       "keyMessage": "36년 만 ‘한글과컴퓨터’ 사명 변경…새출발 ‘한컴’, AI 기업으로 도약",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:11:00.310Z"
@@ -5302,7 +5632,7 @@
       "slogan": null,
       "keyMessage": "한글과컴퓨터, 36년만에 '한컴'으로 사명 변경…\"AI 기업 전환\" | 연합뉴스",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:05:00.438Z"
@@ -5324,7 +5654,7 @@
       "slogan": null,
       "keyMessage": "[게시판] 코빗, 챗GPT·클로드 연동 'AI 에이전트 트레이딩' 지원 | 연합뉴스",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:54:01.337Z"
@@ -5346,7 +5676,7 @@
       "slogan": null,
       "keyMessage": "코빗, 생성형AI 통해 거래된다…'코빗 CLI' 출시",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:50:00.466Z"
@@ -5368,7 +5698,7 @@
       "slogan": null,
       "keyMessage": "한컴, 36년 만에 '한글과컴퓨터' 떼고 새 출발…AI 기업 전환 본격화 | 아주경제",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:12:00.473Z"
@@ -5390,7 +5720,7 @@
       "slogan": null,
       "keyMessage": "코빗, AI 에이전트로 코인 거래하는 '코빗 CLI' 출시",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:49:00.316Z"
