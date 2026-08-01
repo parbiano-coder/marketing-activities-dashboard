@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T22:05:24.397Z",
+  "updatedAt": "2026-08-01T21:55:27.314Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,72 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "45e0eeef3ff686c6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 'AI 풀스택' 강화 전략…AI 인프라 7배 확대 : 네이버 블로그",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbTYzdUpva1VnQnVIbG9tU3FuUUtyTVFhVEJjN1lYemUwZU5INDBzMTUzV3NTS191Q0lmYlY1VW5WcEJZcmJNazZaR3BNVGw3REstYmMweUx2UV94Q21XdW02bndYbHZnQXFLbm9KRl9aWS1JOE5lUC1pVmdUa1MzRmRmUGxxOF83bTFSNS1MZw?oc=5",
+      "publisher": "Naver Blog",
+      "pubDate": "Sat, 01 Aug 2026 14:25:36 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 'AI 풀스택' 전략을 강화하고 AI 인프라를 7배 확대할 계획입니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-01T21:52:48.263Z"
+    },
+    {
+      "id": "9f55601a11f5704a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[#클라우드 월드] LG CNS '상반기 매출 2조8358억'·이노그리드 'K-디자인 어워드' 수상·리눅스재단 '오픈소스 서밋 코리아'·NC AI '에이전틱 AI 국책사업' 선정·EDB 'AI 에이전트 데이터 플랫폼 성능' 강화",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno",
+      "publisher": "뉴스웍스",
+      "pubDate": "Fri, 31 Jul 2026 14:19:51 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 상반기 매출 2조 8,358억 원을 달성했다는 소식이 언론을 통해 보도되었습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-01T21:54:19.896Z"
+    },
+    {
+      "id": "b0435ee00223feb9",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, AI·클라우드가 끌었다… 2분기 이익은 감소",
+      "link": "https://www.newscj.com/news/articleView.html?idxno",
+      "publisher": "newscj.com",
+      "pubDate": "Fri, 31 Jul 2026 10:56:39 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI와 클라우드 사업의 성장으로 실적을 이끌었으나 2분기 이익은 감소했다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-01T21:54:35.568Z"
+    },
     {
       "id": "8efccb6277361c23",
       "company": "삼성SDS",
@@ -204,6 +270,28 @@
       "processedAt": "2026-07-31T22:03:09.707Z"
     },
     {
+      "id": "3fc2ebe117c3679f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 2분기 영업이익 1228억원…전년比 9.2% 감소",
+      "link": "https://www.metroseoul.co.kr/article/20260731500140",
+      "publisher": "메트로신문",
+      "pubDate": "Fri, 31 Jul 2026 05:58:39 GMT",
+      "keyVisual": "//cdn.emetro.co.kr/data2/content/image/2026/07/31/.cache/512/20260731500141.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 2026년 2분기 매출 1조 5208억 원, 영업이익 1228억 원을 기록하였으며 AI·클라우드 및 피지컬 AI 분야로 사업을 적극 확장하고 있다고 밝혔다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-01T21:54:45.799Z"
+    },
+    {
       "id": "8b69f39d998208c7",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -248,6 +336,28 @@
       "processedAt": "2026-07-31T22:03:00.133Z"
     },
     {
+      "id": "a5b221f3338d3d72",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS 상반기 매출 2.8조…AI·클라우드 성장",
+      "link": "https://www.nocutnews.co.kr/news/6556559",
+      "publisher": "노컷뉴스",
+      "pubDate": "Fri, 31 Jul 2026 05:55:00 GMT",
+      "keyVisual": "https://file2.nocutnews.co.kr/newsroom/image/2026/07/31/202607311455028208_0.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI·클라우드 사업 성장과 대외 사업 확대에 힘입어 상반기 매출 2조 8,358억 원을 달성했으며, 하반기에는 피지컬 AI 및 글로벌 사업 확대를 가속화할 계획입니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-01T21:54:04.118Z"
+    },
+    {
       "id": "2a164d2a29400d5e",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -268,6 +378,28 @@
         "llmNote": null
       },
       "processedAt": "2026-07-31T22:04:44.335Z"
+    },
+    {
+      "id": "e4a5deffd66dd9fc",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "아시아투데이",
+      "link": "https://www.asiatoday.co.kr/error.php?code=3",
+      "publisher": "아시아투데이",
+      "pubDate": "Fri, 31 Jul 2026 04:15:47 GMT",
+      "keyVisual": "https://img.asiatoday.co.kr/social/kr_asiatoday_og.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문에 LG CNS의 마케팅 활동 관련 내용이 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-01T21:54:53.741Z"
     },
     {
       "id": "3e33bd8713a48777",
@@ -314,6 +446,28 @@
       "processedAt": "2026-07-31T22:05:09.512Z"
     },
     {
+      "id": "e1887b4b0ee4d489",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "zdnet.co.kr",
+      "pubDate": "Fri, 31 Jul 2026 02:53:45 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 지디넷코리아 웹사이트의 푸터 및 뉴스레터 구독 안내 내용으로 LG CNS의 마케팅 활동 정보를 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-01T21:54:11.582Z"
+    },
+    {
       "id": "24e4875aa408c3ff",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -334,6 +488,72 @@
         "llmNote": null
       },
       "processedAt": "2026-07-31T22:04:13.057Z"
+    },
+    {
+      "id": "1aefd8b98eda0c6a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[����] LG CNS \"������ AI �÷����������� ���� ����ȭ������ �ø� �� Ȯ��\" : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260731n12846?mid",
+      "publisher": "news.nate.com",
+      "pubDate": "Fri, 31 Jul 2026 02:10:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/en/2026/07/31/1718618_749113_838.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 2분기 실적 발표를 통해 엔터프라이즈 AI 플랫폼과 GPUaaS 기반의 고객사 확대 현황을 공유하고, 향후 로봇 전환(RX) 사업을 포함한 AI·클라우드 혁신을 지속 확장하겠다고 밝혔습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-01T21:55:13.090Z"
+    },
+    {
+      "id": "c44f667301cf97bb",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, '직접투자·지분투자·DBO'로 AIDC 사업 다각화",
+      "link": "https://v.daum.net/v/5ed9UyvmmM",
+      "publisher": "v.daum.net",
+      "pubDate": "Fri, 31 Jul 2026 01:48:01 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S800x400/?fname=https://t1.daumcdn.net/news/202607/30/bloter/20260730180919005rqtm.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "실적발표 콘퍼런스콜",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 직접투자, 지분투자, DBO 방식을 통해 인공지능데이터센터(AIDC) 사업을 다각화하고 2031년까지 AI 인프라 사업 규모를 800MW 이상으로 확장한다는 로드맵을 발표했다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-01T21:53:16.933Z"
+    },
+    {
+      "id": "7b127f8c56407902",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 2026년 2분기 영업이익 1279억원⋯ 전년比 9.2%↓",
+      "link": "https://www.viva100.com/article/20260731500143",
+      "publisher": "브릿지경제",
+      "pubDate": "Fri, 31 Jul 2026 00:46:00 GMT",
+      "keyVisual": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/01/07/.cache/512/20260107500242.jpg?v=20260802065420",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS는 2026년 2분기 매출 1조 5208억원, 영업이익 1279억원을 기록했으며, AI·클라우드 등 핵심 사업의 성장을 기반으로 상반기 실적 상승세를 이어갔다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-01T21:54:28.141Z"
     },
     {
       "id": "b6de4fed4a6e43d0",
@@ -468,6 +688,28 @@
       "processedAt": "2026-07-30T22:05:57.159Z"
     },
     {
+      "id": "46df63f95fc73ea5",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독]LG CNS, 중국에 '로보틱스 랩' 설립 추진···新사업 기회 모색",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsV0JhZ3dBdFdnVmdHcWJ6dGFMcVUxTFFNa2RjZDRaRXhBY2dlSXVFdi1aZXExbF9tdWZqQnNTX1UzMmFZaVhmdmdiWmNsSFFzZUZuRW9XMG5pZEktdjRFYlkxSDJlV0hPWnc?oc=5",
+      "publisher": "뉴스웨이",
+      "pubDate": "Thu, 30 Jul 2026 08:13:07 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "중국",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 신사업 기회를 모색하기 위해 중국에 '로보틱스 랩' 설립을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존 AI·클라우드 실적 및 매출 비중 발표 위주의 소식과 달리, 해외 현지에 '로보틱스 랩'을 설립한다는 구체적인 신사업 거점 마련 행보가 두드러집니다."
+      },
+      "processedAt": "2026-08-01T21:55:02.009Z"
+    },
+    {
       "id": "9320fd6db6125458",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -534,6 +776,28 @@
       "processedAt": "2026-07-30T22:05:08.428Z"
     },
     {
+      "id": "42eb1e262deedc4f",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 2031년까지 AI 인프라 800MW 이상으로 확대",
+      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno",
+      "publisher": "시사저널e",
+      "pubDate": "Thu, 30 Jul 2026 07:34:49 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2031년까지 AI 인프라를 800MW 이상으로 확장할 계획이라고 밝혔다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-01T21:53:02.901Z"
+    },
+    {
       "id": "5a92301c31dc8a60",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -554,6 +818,28 @@
         "llmNote": "기존 AI 서비스(동시통역, 에이전트) 선보이기 중심의 활동과 달리, 2분기 실적 공개와 함께 피지컬 AI 및 디지털자산 등 신규 영역으로의 투자 확대 계획을 발표했다."
       },
       "processedAt": "2026-07-30T22:05:18.108Z"
+    },
+    {
+      "id": "3823df19b4427bd6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "zdnet.co.kr",
+      "pubDate": "Thu, 30 Jul 2026 06:31:32 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "지디넷코리아의 뉴스레터 구독 신청 안내 문구로, 삼성SDS의 주요 마케팅 활동 정보는 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "AI 및 클라우드 사업 성과 중심의 기존 마케팅 활동 기사들과 달리 언론사 푸터 및 뉴스레터 구독 안내 텍스트만 포함되어 있습니다."
+      },
+      "processedAt": "2026-08-01T21:52:58.035Z"
     },
     {
       "id": "c0ecb7764c948bda",
@@ -642,6 +928,50 @@
         "llmNote": "기존 AI 인프라 및 클라우드 중심 활동과 달리 두나무와의 제휴를 통해 스테이블코인 등 디지털 자산 분야로 협력 영역을 확장하고 있다는 점이 눈에 띕니다."
       },
       "processedAt": "2026-07-31T22:02:52.166Z"
+    },
+    {
+      "id": "bffe89f3081f4aea",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "zdnet.co.kr",
+      "pubDate": "Thu, 30 Jul 2026 06:13:39 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 미디어 사이트의 푸터 및 구독 정보이며 삼성SDS의 마케팅 활동 관련 내용을 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-01T21:53:24.552Z"
+    },
+    {
+      "id": "1ebc0e3ef007e06c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "zdnet.co.kr",
+      "pubDate": "Thu, 30 Jul 2026 06:13:22 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "ZDNet Korea의 뉴스레터 구독 신청 안내 정보입니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-01T21:53:32.066Z"
     },
     {
       "id": "92bcb2fb0e2af8d6",
@@ -5258,7 +5588,7 @@
       "slogan": null,
       "keyMessage": "“특금법 완화와 별개”…공정위, 네이버·두나무 결합 ‘심층 검토’ 지속",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:21:01.033Z"
@@ -5280,7 +5610,7 @@
       "slogan": null,
       "keyMessage": "[분석] 네이버, 두나무 100% 품는다…규제합리화위 권고에 합병 장애물 해소",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:24:00.427Z"
