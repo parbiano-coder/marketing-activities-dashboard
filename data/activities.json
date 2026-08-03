@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T21:57:27.429Z",
+  "updatedAt": "2026-08-03T22:09:54.399Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,336 @@
   ],
   "activities": [
     {
+      "id": "9e9af86051e1850c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "‘국가 AI 컴퓨팅센터’ 착공… 삼성SDS, 대한민국 AI 경쟁력 강화 위한 핵심 인프라 구축",
+      "link": "http://www.mediadale.com/news/articleView.html?idxno",
+      "publisher": "미디어데일",
+      "pubDate": "Mon, 03 Aug 2026 21:33:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "‘국가 AI 컴퓨팅센터’ 착공… 삼성SDS, 대한민국 AI 경쟁력 강화 위한 핵심 인프라 구축",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:07:00.371Z"
+    },
+    {
+      "id": "0ebbc3b5620f360b",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI가 키운 그룹 수요…IT서비스, ‘집안 든든’이 실적 갈랐다",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04R2pObG02cDFCUEt1ZDZLYXdFclY3ODVvb3JILVEyQ19LSlZvYWU1M3RGdlhJX0J2RmJXVkhQeGUtNlpkMkpxWFM2R1hacUE0WUMyb19pbWcwcExmRUptTW1yMzVEOVR5TVlNTjRmUTRSOUJW?oc=5",
+      "publisher": "대한경제",
+      "pubDate": "Mon, 03 Aug 2026 20:00:10 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "AI 도입으로 인한 그룹 내부 수요 증가가 IT 서비스 기업들의 실적을 가르는 주요 요인이 되었다는 언론 보도입니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:08:37.246Z"
+    },
+    {
+      "id": "0ebbc3b5620f360b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI가 키운 그룹 수요…IT서비스, ‘집안 든든’이 실적 갈랐다",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04R2pObG02cDFCUEt1ZDZLYXdFclY3ODVvb3JILVEyQ19LSlZvYWU1M3RGdlhJX0J2RmJXVkhQeGUtNlpkMkpxWFM2R1hacUE0WUMyb19pbWcwcExmRUptTW1yMzVEOVR5TVlNTjRmUTRSOUJW?oc=5",
+      "publisher": "대한경제",
+      "pubDate": "Mon, 03 Aug 2026 20:00:10 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "그룹 계열사의 AI 수요 등 내부 물량이 IT서비스 기업들의 실적을 가르는 주요 요인으로 작용하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:09:19.181Z"
+    },
+    {
+      "id": "87f5d6fcf56dc54b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 상반기 매출 2.8조원… 대외 사업 확대로 실적 견인",
+      "link": "https://www.hgnet.co.kr/round-up/72516/",
+      "publisher": "hgnet.co.kr",
+      "pubDate": "Mon, 03 Aug 2026 14:18:54 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 대외 사업 확대를 바탕으로 상반기 매출 2.8조 원을 달성하며 실적을 견인했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:09:41.915Z"
+    },
+    {
+      "id": "b12d22581d05a13d",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 대한민국 AI 경쟁력 강화 위한 핵심 인프라 구축",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqOWgyMGxQTDV6MGNoTlktY3FjN2V0a184TG4wT2tNWjhHbW9Lel83bnJ2WUs2Zm82Q1FRalhaTS16a3c0aURDTmZnYzhRN1FSRTMxakVYTUNrUjFld3h1R2loWHhpZw?oc=5",
+      "publisher": "이슈투데이",
+      "pubDate": "Mon, 03 Aug 2026 12:28:20 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 대한민국 AI 경쟁력 강화를 위한 핵심 인프라 구축에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:08:28.898Z"
+    },
+    {
+      "id": "f271653ef7db9f0c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"클라우드가 중심축\"…대기업SI, 체질 개선",
+      "link": "https://news.bizwatch.co.kr/article/mobile/2026/08/03/0019",
+      "publisher": "비즈워치",
+      "pubDate": "Mon, 03 Aug 2026 08:18:02 GMT",
+      "keyVisual": "https://cdn.bizwatch.co.kr/news/photo/2026/06/01/442174109aecd8e5cf87f2f2061a0de0.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS는 2분기 클라우드 및 AI 부문 매출이 전체의 59.5%를 차지하며 핵심 성장 동력으로 자리잡았으며, 'XPUWorks'와 'AgenticWorks' 플랫폼을 필두로 AI·클라우드 사업 확대를 본격화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:09:27.333Z"
+    },
+    {
+      "id": "129f2dadce3c68fd",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 'AI 고속도로' 뚫는다…국가 AI 컴퓨팅센터 착공",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kcEtsbnRNYjFzTFBseTBQYmk5R25tZERvaTZCSkpRM2FKRVZCQk90aU9KaDNZWUFDeHpuelBXR29FeTY4Mms2MnlnVmh5RjJDZGg3cVY1NjgyVGhnNFBwZzVXZ0NKZGxvdjhqd1VqVE8?oc=5",
+      "publisher": "신아일보",
+      "pubDate": "Mon, 03 Aug 2026 08:13:54 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국가 AI 컴퓨팅센터 착공에 들어가며 AI 인프라 구축 사업을 본격화합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:07:25.723Z"
+    },
+    {
+      "id": "f73f511a45361723",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국가 AI 컴퓨팅센터 착공…2.5조원 규모",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno",
+      "publisher": "매일일보",
+      "pubDate": "Mon, 03 Aug 2026 06:17:29 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2.5조 원 규모의 국가 AI 컴퓨팅센터 착공에 나섰습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:08:14.459Z"
+    },
+    {
+      "id": "2d9162782de08220",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "﻿삼성SDS, 국가 AI 컴퓨팅센터 인프라 착공",
+      "link": "https://www.sentv.co.kr/article/view/sentv202608030149",
+      "publisher": "서울경제TV",
+      "pubDate": "Mon, 03 Aug 2026 05:57:00 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/08/03/sentv20260803000143.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "3일",
+      "location": "전남 해남 솔라시도 데이터센터파크",
+      "format": "오프라인 착공식",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 컨소시엄 대표사로서 전남 해남 솔라시도 데이터센터파크에 총 2조 5천억 원 규모의 국가 AI 컴퓨팅센터 인프라 착공식을 개최하고 본격적인 구축 및 운영을 추진한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:07:17.632Z"
+    },
+    {
+      "id": "bbc44a76decec9c8",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 2.5조 국가 AI 인프라 총괄…‘GPU 공급자’ 넘어 생태계 운영자로",
+      "link": "https://www.itdaily.kr/news/articleView.html?idxno",
+      "publisher": "아이티데일리",
+      "pubDate": "Mon, 03 Aug 2026 05:22:33 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2.5조 원 규모의 국가 AI 인프라 사업을 총괄하며 단순 GPU 공급자를 넘어 AI 생태계 운영자로 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "자체 및 민간 클라우드·AI 인프라 확대를 넘어 2.5조 원 규모의 대형 국가 AI 인프라 총괄 사업자로 참여했다는 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-08-03T22:07:09.124Z"
+    },
+    {
+      "id": "28a57a7e3f23771e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국가 AI 컴퓨팅센터 착공…2.5조원 투입 AI 인프라 구축",
+      "link": "http://www.paxetv.com/news/articleView.html?idxno",
+      "publisher": "팍스경제TV",
+      "pubDate": "Mon, 03 Aug 2026 05:15:29 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2.5조 원을 투입하여 국가 AI 컴퓨팅센터 착공 및 AI 인프라 구축에 본격 착수한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:08:05.062Z"
+    },
+    {
+      "id": "70b039367d4dceb9",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'AI 고속도로' 깐다…삼성SDS 주도 국가AI컴퓨팅센터 착공",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1laER1UzJWS3pUTEp2eXRrMHdWd01YWFJVZml1OXVZNENJS1N3ZFNxc3h0VFB5OGNseGdZUE55NkJYWVgzMVh3a3JJNkNQQQ?oc=5",
+      "publisher": "전자신문",
+      "pubDate": "Mon, 03 Aug 2026 05:10:23 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 주도하는 국가AI컴퓨팅센터가 착공되어 본격적인 AI 인프라 구축에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:06:46.391Z"
+    },
+    {
+      "id": "ae2d775437e507e5",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SKT-삼성SDS-LG CNS, 차세대 먹거리 ‘피지컬 AI’ 투자 강화",
+      "link": "https://www.viva100.com/article/20260803500736",
+      "publisher": "브릿지경제",
+      "pubDate": "Mon, 03 Aug 2026 04:37:00 GMT",
+      "keyVisual": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/05/07/.cache/512/20260507500553.jpg?v=20260804070647",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국 피지컬 AI 기업 월든 로보틱스에 전략적 투자를 단행하고 로봇 오케스트레이션 사업을 추진한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 클라우드 및 AI 인프라 중심 활동에서 피지컬 AI 및 로보틱스 분야로 투자를 확대한 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-08-03T22:06:53.477Z"
+    },
+    {
+      "id": "ae2d775437e507e5",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SKT-삼성SDS-LG CNS, 차세대 먹거리 ‘피지컬 AI’ 투자 강화",
+      "link": "https://www.viva100.com/article/20260803500736",
+      "publisher": "브릿지경제",
+      "pubDate": "Mon, 03 Aug 2026 04:37:00 GMT",
+      "keyVisual": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/05/07/.cache/512/20260507500553.jpg?v=20260804070838",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SKT-삼성SDS-LG CNS, 차세대 먹거리 ‘피지컬 AI’ 투자 강화",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:08:47.421Z"
+    },
+    {
+      "id": "cf0d3ad91acdf5a3",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, AI ���ڷ� �� �����⡦�� ����� ���� ����� ��ȿ-LS : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260803n03562?mid",
+      "publisher": "네이트",
+      "pubDate": "Sun, 02 Aug 2026 22:59:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ed/2026/08/03/PS26080300108.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LS증권 리포트에 따르면 LG CNS는 AI 플랫폼 기반 사업 확장과 클라우드 MSP 서비스 강화를 통해 중장기적 성장 모멘텀을 지속 확보할 것으로 전망됩니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:08:55.867Z"
+    },
+    {
       "id": "830603c3ff080e10",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -182,6 +512,28 @@
       "processedAt": "2026-08-02T21:55:09.586Z"
     },
     {
+      "id": "3339d0eadb76461b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "베트남 주요 기업 9곳 불러모은 LG CNS, AI 인큐베이터 사업 본격화",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nal9zMjRyaFlsbEtoZGdCbEpsbEwwckxoUV9lMjk5dmxPNEdvZ0E5YUZRRHJib2dfOWZPZENGdnBELW5WYnVxVVo0WlFhNWRyRVk4Rm9zeDZPTkFpNEdBcHFIMA?oc=5",
+      "publisher": "더구루",
+      "pubDate": "Sat, 01 Aug 2026 23:00:27 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 베트남 주요 기업 9곳과 협업하여 AI 인큐베이터 사업을 본격적으로 시작하며 글로벌 AI 시장 공략을 강화합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:09:11.032Z"
+    },
+    {
       "id": "551078871aaf0033",
       "company": "네이버",
       "category": "IT 서비스",
@@ -224,6 +576,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-01T21:52:48.263Z"
+    },
+    {
+      "id": "370819947603d59f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 2�б� ������ 9.2%�顦AI���������� �Ϲݱ� �ݵ� ��� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260801n02912",
+      "publisher": "네이트",
+      "pubDate": "Fri, 31 Jul 2026 23:01:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/js/2026/08/01/17854877371785487737_godisrain.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 2분기 AI·클라우드 및 금융 사업 매출 성장에도 불구하고 영업이익이 전년 동기 대비 9.2% 감소하였으나, 하반기 AI 데이터센터 및 금융 대형 사업의 실적 반영을 통해 반등을 목표로 하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-03T22:09:35.049Z"
     },
     {
       "id": "4c310e3674411aa1",
@@ -2398,7 +2772,7 @@
       "slogan": null,
       "keyMessage": "고팍스 발목 잡은 '고파이'...재무통 김나영 대표, VASP 갱신 해결하나",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T01:01:00.326Z"
@@ -3894,7 +4268,7 @@
       "slogan": null,
       "keyMessage": "네이버파이낸셜, 두나무 결합 속도 내나…대주주 적격성 예외 반영 가닥 [네이버파이낸셜-두나무 합병]",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:15:00.593Z"
@@ -4180,7 +4554,7 @@
       "slogan": null,
       "keyMessage": "네이버·두나무 합병 변수, 공정위 결합심사 의견 나오나?",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:19:00.730Z"
@@ -4400,7 +4774,7 @@
       "slogan": null,
       "keyMessage": "비트코인 거래 실종 '벼랑 끝'…고팍스, 예치금이용료 첫 인상 승부수",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:58:00.870Z"
@@ -4620,7 +4994,7 @@
       "slogan": null,
       "keyMessage": "하나證 \"네이버, 엔비디아 지분 투자 확인…목표가 40만원\"",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:20:00.903Z"
@@ -4642,7 +5016,7 @@
       "slogan": null,
       "keyMessage": "700억 절감·경영권 유지…코인원의 '영리한 딜'",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:56:00.423Z"
@@ -4686,7 +5060,7 @@
       "slogan": null,
       "keyMessage": "'고파이 해결' 놓고 바이낸스·당국 줄다리기…2년째 멈춘 고팍스 갱신신고",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T01:04:00.775Z"
@@ -4708,7 +5082,7 @@
       "slogan": null,
       "keyMessage": "LG CNS, 상반기 매출·영업익↑...삼성SDS·현대오토에버 영업익↓",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T06:42:01.032Z"
@@ -4730,7 +5104,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 주요 경쟁사들의 영업이익 감소세와 달리 상반기 매출과 영업이익이 모두 증가했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T07:01:02.652Z"
@@ -4752,7 +5126,7 @@
       "slogan": null,
       "keyMessage": "네이버, 엔비디아와 전략적 투자 계약…1.5조 규모 : 네이버 블로그",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:30:00.250Z"
@@ -4774,7 +5148,7 @@
       "slogan": null,
       "keyMessage": "코인원·코빗·업비트 짝 찾았는데… ‘사면초가’ 빗썸은 누구와 손잡나[경제 블로그]",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:52:00.770Z"
@@ -4818,7 +5192,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 남양주 1조 원 규모의 'X-AI 데이터센터' 조성 사업에 300억 원을 투자하며 사업을 본격 추진합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T07:00:29.123Z"
@@ -4840,7 +5214,7 @@
       "slogan": null,
       "keyMessage": "네이버가 엔비디아, 브룩필드와 함께 총 100억 달러 규모의 글로벌 AI 팩토리 구축을 위한 전략적 투자 협약을 체결하고 엔비디아로부터 10억 달러 투자를 유치했다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T22:09:20.276Z"
@@ -4862,7 +5236,7 @@
       "slogan": null,
       "keyMessage": "고팍스, 김나영 신임 대표 선임… “고파이 상환 해결 최우선” ",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T01:02:00.444Z"
@@ -4884,7 +5258,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 포스코인터내셔널과 함께 블록체인 및 AI 기술을 글로벌 무역 환경에 적용하는 기술검증(PoC)을 완료하고 단계적 사업화를 추진한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T07:00:48.087Z"
@@ -4906,7 +5280,7 @@
       "slogan": null,
       "keyMessage": "▒이데일리-세상을 올바르게,세상을 따뜻하게▒",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:33:00.768Z"
@@ -4928,7 +5302,7 @@
       "slogan": null,
       "keyMessage": "네이버·두나무 합병 다시 ‘청신호’ … 이해진, 디지털금융 글로벌 확장 전기 맞나",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:44:00.545Z"
@@ -4950,7 +5324,7 @@
       "slogan": null,
       "keyMessage": "네이버·두나무 합병 다시 ‘청신호’ … 이해진, 디지털금융 글로벌 확장 전기 맞나",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:17:00.421Z"
@@ -4972,7 +5346,7 @@
       "slogan": null,
       "keyMessage": "카카오페이, 실적 개선·스테이블코인 수혜 기대에 12% 상승",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:06:01.034Z"
@@ -4994,7 +5368,7 @@
       "slogan": null,
       "keyMessage": "NHN KCP·신한은행, CBDC 실증 맞손…예금토큰 결제 생태계 넓힌다",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T22:36:00.942Z"
@@ -5016,7 +5390,7 @@
       "slogan": null,
       "keyMessage": "편의점·대형마트서 예금토큰 결제한다…NHN KCP·신한은행 실증 - 글로벌이코노믹",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T22:37:01.116Z"
@@ -5038,7 +5412,7 @@
       "slogan": null,
       "keyMessage": "토스, 업무 연속성 국제표준 'ISO 22301' 인증 획득 - 금융이 알고 싶을 때, 토스피드",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:31:00.516Z"
@@ -5060,7 +5434,7 @@
       "slogan": null,
       "keyMessage": "고팍스 김나영 대표 선임…\"고파이 상환 최우선\"",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:59:01.007Z"
@@ -5082,7 +5456,7 @@
       "slogan": null,
       "keyMessage": "AI가 벌어준 하루, 당신의 조직은 어디에 쓰고 있습니까? | 인사이트리포트 | 삼성SDS",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T06:46:00.652Z"
@@ -5104,7 +5478,7 @@
       "slogan": null,
       "keyMessage": "한투증권·코인원 첫 협업 성과…앱 하나로 코인·주식 오간다",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:57:00.575Z"
@@ -5126,7 +5500,7 @@
       "slogan": null,
       "keyMessage": "고팍스, AWS코리아 출신 김나영 신임 대표 선임",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T01:00:01.152Z"
@@ -5148,7 +5522,7 @@
       "slogan": null,
       "keyMessage": "코인원, 앱에서 ‘한투증권 주식거래’ 연동",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:02:00.402Z"
@@ -5170,7 +5544,7 @@
       "slogan": null,
       "keyMessage": "코인 거래소-금융사 연합전선 넓히는데… ‘빅2’ 빗썸, 골든타임 놓치나",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:49:00.291Z"
@@ -5192,7 +5566,7 @@
       "slogan": null,
       "keyMessage": "네이버-두나무 ‘빅딜’ 규제 부담 덜었다…12월 주식교환 ‘청신호’",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:18:00.582Z"
@@ -5214,7 +5588,7 @@
       "slogan": null,
       "keyMessage": "한투증권, 코인원 앱 내 국내주식 거래서비스 시작…첫 협업",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:58:00.769Z"
@@ -5236,7 +5610,7 @@
       "slogan": null,
       "keyMessage": "한국투자증권, 코인원 앱 연계 국내주식 거래 서비스 시작",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:04:00.684Z"
@@ -5258,7 +5632,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 글로벌 AI 기반 신소재 개발 협력체 'AI 머티리얼즈 파운드리'에 창립멤버로 합류하여 국내 제조·소재 기업의 AI전환(AX) 지원을 본격화한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 데이터센터 투자, 영농 및 교육 분야 DX·AX 중심 활동에서 벗어나 글로벌 빅테크 및 스타트업과 협력해 신소재 개발 영역으로 AX 사업 영역을 확장한 점이 특징이다."
       },
       "processedAt": "2026-07-29T22:00:13.313Z"
@@ -5280,7 +5654,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 커스프AI의 글로벌 AI 신소재 개발 협력체인 'AI 머티리얼즈 파운드리'에 합류하여 국내 제조 및 소재 기업의 AI 전환(AX)과 신소재 개발 프로젝트를 지원한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T07:02:13.386Z"
@@ -5302,7 +5676,7 @@
       "slogan": null,
       "keyMessage": "[WTS 론칭 이벤트] 코인원에서 한국투자증권의 주식바로가기 서비스를 만나보세요!",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:55:00.210Z"
@@ -5324,7 +5698,7 @@
       "slogan": null,
       "keyMessage": "�ＺSDS����Ʈ����, ?AI ������� ��Ʈ�ʽ� : ����Ʈ ����",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T06:45:00.653Z"
@@ -5368,7 +5742,7 @@
       "slogan": null,
       "keyMessage": "LG CNS, 엔비디아·메타와 나란히 글로벌 AI 신소재 연합 합류",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T21:59:14.000Z"
@@ -5390,7 +5764,7 @@
       "slogan": null,
       "keyMessage": "코인거래소 고팍스, 새 대표에 김나영 전 AWS코리아 금융사업개발 총괄",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T01:03:00.615Z"
@@ -5412,7 +5786,7 @@
       "slogan": null,
       "keyMessage": "고팍스, 김나영 신임 대표 선임…고파이 상환ㆍ경영 정상화 집중",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T01:07:00.243Z"
@@ -5434,7 +5808,7 @@
       "slogan": null,
       "keyMessage": "NHN KCP, 신한은행과 ‘프로젝트 한강’ 2단계 참여…CBDC 결제 실증 나서",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T22:34:00.697Z"
@@ -5456,7 +5830,7 @@
       "slogan": null,
       "keyMessage": "가상자산거래소 고팍스, AWS 출신 김나영 대표 선임",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T01:05:00.904Z"
@@ -5478,7 +5852,7 @@
       "slogan": null,
       "keyMessage": "고팍스, 신임 대표에 김나영 전 AWS 본부장 선임",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T01:06:01.145Z"
@@ -5500,7 +5874,7 @@
       "slogan": null,
       "keyMessage": "NHN KCP·신한은행, 한국은행 주관 '프로젝트 한강' 2단계 공동 참여",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T22:32:00.354Z"
@@ -5522,7 +5896,7 @@
       "slogan": null,
       "keyMessage": "코인원·한국투자증권 첫 협업…가상자산 앱에서 주식투자 서비스 연결",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:00:01.076Z"
@@ -5544,7 +5918,7 @@
       "slogan": null,
       "keyMessage": "한국투자증권, ‘코인원’ 앱 연계 국내주식 거래 서비스 오픈",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:01:00.198Z"
@@ -5566,7 +5940,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 글로벌 AI 스타트업 큅스AI가 주도하는 'AI 매티리얼스 파운드리' 이니셔티브에 창립멤버로 참여해 신소재 개발 분야의 AI 전환(AX) 사업을 가속화합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 데이터센터 투자, 농업 AX, 베트남 교육 인프라 구축 등 영역 중심 활동에서 나아가 글로벌 AI 스타트업 이니셔티브 참여를 통해 신소재 개발 영역으로 AX 적용 범위를 확장했습니다."
       },
       "processedAt": "2026-07-29T22:00:06.423Z"
@@ -5588,7 +5962,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 글로벌 AI 신소재 개발 협력체인 'AI 머티리얼즈 파운드리'에 창립 멤버로 합류하여 국내 제조·소재 기업의 AI 기반 신소재 개발과 AX(인공지능 전환)를 본격적으로 지원한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T07:00:55.647Z"
@@ -5610,7 +5984,7 @@
       "slogan": null,
       "keyMessage": "'AI 서밋'으로 빅테크 협력 구체화...네이버·삼성SDS 수혜",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T21:58:51.736Z"
@@ -5632,7 +6006,7 @@
       "slogan": null,
       "keyMessage": "[게시판] 코인원, 앱에 한투 WTS 연결 메뉴 도입 | 연합뉴스",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:59:00.988Z"
@@ -5654,7 +6028,7 @@
       "slogan": null,
       "keyMessage": "NHN KCP, 신한은행과 '프로젝트 한강' 참여...\"PG·은행 협업\"",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T22:38:00.236Z"
@@ -5676,7 +6050,7 @@
       "slogan": null,
       "keyMessage": "경찰청이 택한 두나무…수탁 사업 맡는다",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:40:00.424Z"
@@ -5698,7 +6072,7 @@
       "slogan": null,
       "keyMessage": "Error",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T22:35:00.821Z"
@@ -5720,7 +6094,7 @@
       "slogan": null,
       "keyMessage": "LS�� \"īī������, īī�� �����ڻ� ��� �� �͡���ǥ�� 6��1000��\" : ����Ʈ ����",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:09:00.512Z"
@@ -5742,7 +6116,7 @@
       "slogan": null,
       "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-30T00:03:00.515Z"
@@ -5764,7 +6138,7 @@
       "slogan": null,
       "keyMessage": "네이버, 엔비디아와 전략적 투자 계약…1.5조 규모 - 딜사이트",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-07-29T23:34:00.944Z"
