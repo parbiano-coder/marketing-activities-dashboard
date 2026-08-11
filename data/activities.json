@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T21:41:35.831Z",
+  "updatedAt": "2026-08-11T21:46:34.772Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,292 @@
   ],
   "activities": [
     {
+      "id": "28227d142f1c5765",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국가 AI 연구용 최신 블랙웰 GPU 공급",
+      "link": "https://www.donga.com/news/amp/all/20260811/134460125/2",
+      "publisher": "동아일보",
+      "pubDate": "Tue, 11 Aug 2026 15:30:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": "11일",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 과학기술정보통신부와 정보통신기획평가원이 주관하는 프로젝트에서 1순위 GPU 자원 공급사로 선정되어 국내 대학 및 연구기관에 AI 연구용 컴퓨팅 인프라를 제공합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-11T21:43:31.208Z"
+    },
+    {
+      "id": "de07dd3f3264956c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국가 AI 연구에 블랙웰 GPU 공급",
+      "link": "https://www.seoul.co.kr/news/economy/industry/2026/08/12/20260812031002",
+      "publisher": "서울신문",
+      "pubDate": "Tue, 11 Aug 2026 15:21:10 GMT",
+      "keyVisual": "https://img.seoul.co.kr//img/n24/seoul_share.png",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-11",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 과기정통부와 IITP의 AI 연구용 컴퓨팅 지원 사업 1순위 공급사로 선정되어 엔비디아 블랙웰 울트라 기반 GPU 클러스터와 통합 AI 연구 인프라를 제공합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-11T21:45:08.503Z"
+    },
+    {
+      "id": "3d390aa61f2f4df8",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "Press Announcements – Press Announcements | Borderless Magazine NFP",
+      "link": "https://borderlessmag.org/category/press-announcements/?news",
+      "publisher": "Borderless Magazine NFP",
+      "pubDate": "Tue, 11 Aug 2026 10:09:00 GMT",
+      "keyVisual": "https://borderlessmag.org/wordpress/wp-content/uploads/2019/10/cropped-cropped-Favicon.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 해외 비영리 언론사인 보더리스 매거진의 동향 및 언론보도 내용으로 SK AX의 마케팅 활동과 관련된 내용이 없습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 SK AX의 AI 및 AX 중심 마케팅 활동과 달리 전혀 관련 없는 해외 언론사의 소식이 제공되었습니다."
+      },
+      "processedAt": "2026-08-11T21:46:14.396Z"
+    },
+    {
+      "id": "383861e94af86614",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국가 AI 연구용 GPU 공급사 선정… 엔비디아 B300 투입",
+      "link": "https://www.kmib.co.kr/article/view_amp.asp?arcid",
+      "publisher": "국민일보",
+      "pubDate": "Tue, 11 Aug 2026 07:25:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, 국가 AI 연구용 GPU 공급사 선정… 엔비디아 B300 투입",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-11T21:44:00.769Z"
+    },
+    {
+      "id": "bc7a79b60016263b",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국가 AI 연구용 GPU 공급사 1순위 선정",
+      "link": "https://www.donga.com/news/Economy/article/all/20260811/134457831/1",
+      "publisher": "동아일보",
+      "pubDate": "Tue, 11 Aug 2026 07:10:00 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134458387.1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 과학기술정보통신부와 정보통신기획평가원이 주관하는 프로젝트에서 1순위 GPU 자원 공급사로 선정되어 국내 대학 및 연구기관에 엔비디아 H100 및 B300 기반 인프라를 제공한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-11T21:43:15.064Z"
+    },
+    {
+      "id": "61942044ff91eb92",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "아시아투데이",
+      "link": "https://www.asiatoday.co.kr/error.php?code=3",
+      "publisher": "아시아투데이",
+      "pubDate": "Tue, 11 Aug 2026 06:32:17 GMT",
+      "keyVisual": "https://img.asiatoday.co.kr/social/kr_asiatoday_og.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문은 아시아투데이 언론사의 등록 및 저작권 정보만 포함되어 있어 LG CNS의 마케팅 활동 내용을 확인할 수 없습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-11T21:45:57.312Z"
+    },
+    {
+      "id": "36b8bfdbc3670593",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS '국가 AI 연구용 GPU 서비스' 시작",
+      "link": "https://www.newstree.kr/newsView/ntr202608110014",
+      "publisher": "뉴스;트리",
+      "pubDate": "Tue, 11 Aug 2026 06:08:19 GMT",
+      "keyVisual": "https://www.newstree.kr/data/ntr/image/2025/03/11/ntr202503110003.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "7월 20일",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 과학기술정보통신부의 'AI 연구용 컴퓨팅 지원 프로젝트' 공급사로 선정되어 대학 및 연구기관을 대상으로 엔비디아 GPU 기반 AI 연구 인프라 서비스를 시작했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 실적 전망 및 데이터센터 착공 소식과 달리 국가 주도의 대규모 AI 컴퓨팅 인프라 공급 사업을 수주하여 직접 서비스를 개시했다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-11T21:43:50.151Z"
+    },
+    {
+      "id": "7a2c04ca0ed93969",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS·엘리스그룹, '국가 AI 연구용 GPU 컴퓨팅 서비스' 책임진다",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBINlRMTjNYZ1hoY2ppazBEN2ZuSlh1NHhCb1R0eGJpbWJQeUVjd25IcHQxRW5haHJJeHR0VE9EOGtDdm1FdHJ4SVBDemwzMkpIbllaUW15NFVHcVpCZ1BVMmx0TkNMRl9DWFE?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Tue, 11 Aug 2026 04:50:15 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 엘리스그룹과 함께 '국가 AI 연구용 GPU 컴퓨팅 서비스'를 책임지고 제공한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "자체 AI 데이터센터 구축이나 투자가 아닌 국가 단위 AI 연구용 사업을 위해 엘리스그룹과 협력하는 파트너십 행보라는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-08-11T21:43:57.841Z"
+    },
+    {
+      "id": "15dc31293d98c1f3",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국가 AI 연구용 GPU 공급 개시···B300 포함",
+      "link": "https://www.sisajournal-e.com/news/articleViewAmp.html?idxno",
+      "publisher": "시사저널e",
+      "pubDate": "Tue, 11 Aug 2026 02:50:10 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 B300을 포함한 국가 AI 연구용 GPU 공급을 개시했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 투자 및 데이터센터 구축 관련 소식에서 나아가 국가 AI 연구용 GPU 공급이라는 구체적인 공공 인프라 공급 성과를 전하고 있습니다."
+      },
+      "processedAt": "2026-08-11T21:45:33.335Z"
+    },
+    {
+      "id": "2b3781f69058bf6b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 3370억 규모 새마을금고 계정계 최신화 우선협상자 선정",
+      "link": "https://v.daum.net/v/20260811103250491",
+      "publisher": "v.daum.net",
+      "pubDate": "Tue, 11 Aug 2026 01:32:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/11/ZDNetKorea/20260811103251362oqoc.jpg",
+      "activityType": "고객사례",
+      "eventDate": "2026-08-11",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 3,370억 원 규모의 새마을금고 계정계 최신화 구축 사업 우선협상대상자로 선정되어 코어뱅킹 재구축 및 IT 운영 환경 고도화를 수행하게 되었습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-11T21:45:49.292Z"
+    },
+    {
+      "id": "f04538141cedac59",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 데이터센터 DBO 경쟁서 LG CNS 추격할까",
+      "link": "https://www.topdaily.kr/articles/111397",
+      "publisher": "톱데일리",
+      "pubDate": "Tue, 11 Aug 2026 01:16:00 GMT",
+      "keyVisual": "https://assets.repress.co.kr/photos/f4c4ca42858ac9644c3a833596c90727/thumb.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 데이터센터 DBO(설계·구축·운영) 시장에서 다수의 대형 수주와 장기 운영 실적, 해외 진출 성과를 바탕으로 경쟁 우위를 지속하고 있다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-11T21:45:39.209Z"
+    },
+    {
+      "id": "e44f6f54855bf1ce",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국가 AI 연구용 GPU 컴퓨팅 서비스 개시",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sZ0x1dG10c0tNbTRtdWJwMGw1M29YT2xNbDRiSlBRMkZOdGpoTDlFWXhfWUQzakJlZ1o2VmVuc0ZsYWI1eTNpU0c1ZzFtQQ?oc=5",
+      "publisher": "전자신문",
+      "pubDate": "Tue, 11 Aug 2026 00:13:29 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국가 AI 연구를 지원하기 위한 GPU 컴퓨팅 서비스를 본격 개시했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-11T21:45:23.115Z"
+    },
+    {
+      "id": "897debaf0a075759",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국가 AI 연구에 최신 GPU 자원 공급",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20260811085911538",
+      "publisher": "연합뉴스TV",
+      "pubDate": "Mon, 10 Aug 2026 23:59:00 GMT",
+      "keyVisual": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR20260811085911538_01_i.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 과학기술정보통신부와 정보통신기획평가원의 '2026년 AI 연구용 컴퓨팅 지원 프로젝트' GPU 자원 공급사로 선정되어 국가 AI 연구에 최신 GPU 인프라를 제공합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 실적 전망 및 데이터센터 구축 관련 보도와 달리, 정부 주도 대규모 국가 AI 연구 지원 프로젝트의 GPU 공급사로 참여한다는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-08-11T21:43:41.256Z"
+    },
+    {
       "id": "d8c119860de3a64c",
       "company": "네이버",
       "category": "IT 서비스",
@@ -158,6 +444,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-10T21:41:00.888Z"
+    },
+    {
+      "id": "db77636091dc0895",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "�ＺSDS ���� ��� �� �ޡ����� â���� �繫������ ���� : ����Ʈ ����",
+      "link": "https://m.news.nate.com/view/20260811n01741?mid",
+      "publisher": "네이트",
+      "pubDate": "Mon, 10 Aug 2026 20:51:00 GMT",
+      "keyVisual": "https://news.nateimg.co.kr/orgImg/mw/2026/08/11/mw_1786403164751_47818_0.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론보도",
+      "slogan": null,
+      "keyMessage": "삼성SDS의 노동조합 및 사내 근무환경·인사 이슈에 관한 내용을 다룬 언론보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 투자 및 데이터센터 건립 등 기술 중심의 대외 활동과 달리 사내 노사 및 근무환경 이슈를 다루고 있다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-11T21:43:23.761Z"
     },
     {
       "id": "0c873b44ad40bf95",
@@ -2002,7 +2310,7 @@
       "slogan": null,
       "keyMessage": "LG CNS의 2분기 실적은 본업 영업이익이 감소했음에도 영업외손익 착시로 당기순이익이 증가했으며 계열사 의존도가 높게 유지되고 있다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 AI·클라우드 사업 성과와 대외 사업 확대를 주로 강조하던 활동들과 달리 본업 수익성 감소 및 계열사 내부거래 쏠림 문제를 분석·지적하는 보도이다."
       },
       "processedAt": "2026-08-04T22:10:21.294Z"
@@ -2046,7 +2354,7 @@
       "slogan": null,
       "keyMessage": "클라우드 비중이 확대됨에 따라 삼성SDS와 LG CNS의 주력 성장축이 클라우드 중심으로 변화하고 있다는 분석입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-04T22:10:27.879Z"
@@ -9312,6 +9620,28 @@
       "processedAt": "2026-07-29T22:06:00.266Z"
     },
     {
+      "id": "47e440d1c2ecb374",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "울산과학대, SK AX ‘SKALA’ 울산캠퍼스 개소…‘개방형 캠퍼스’ 시대 본격화",
+      "link": "https://news.unn.net/news/articleView.html?idxno",
+      "publisher": "news.unn.net",
+      "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "울산과학대학교와 SK AX가 AI 인재 양성을 위한 'SKALA' 울산캠퍼스를 개소하고 개방형 캠퍼스 시대를 본격화했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-11T21:46:21.569Z"
+    },
+    {
       "id": "369e14e9fe7506f6",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -9750,6 +10080,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-10T21:39:20.701Z"
+    },
+    {
+      "id": "90ede270768794ff",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG·LG CNS 엔비디아 동맹 구체화에 '방긋'…삼성·현대 SI 기업은 '울상'",
+      "link": "https://www.hankyung.com/article/202606220939i",
+      "publisher": "hankyung.com",
+      "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202606/01.44749381.1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-06-22",
+      "location": "엔비디아 본사",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 LG그룹 경영진의 엔비디아 본사 방문단을 이끌며 AI 및 로보틱스 분야의 협업을 구체화하고 핵심 역할을 맡고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 국내 AX 수주 중심 활동들과 달리 글로벌 빅테크 기업인 엔비디아와의 직접적인 파트너십 논의 및 본사 방문을 다루고 있다는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-08-11T21:46:06.932Z"
     }
   ]
 }
