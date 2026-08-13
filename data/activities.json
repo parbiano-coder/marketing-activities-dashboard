@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T21:44:35.303Z",
+  "updatedAt": "2026-08-13T21:44:52.150Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,270 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "0ff2cafd3f40887d",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Thu, 13 Aug 2026 08:54:41 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 지디넷코리아 웹사이트의 푸터 및 뉴스레터 구독 관련 안내문으로 삼성SDS의 별도 마케팅 활동 정보를 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-13T21:42:35.286Z"
+    },
+    {
+      "id": "7ecef23f29f4735f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "‘보안 특화 AI’ 개발에 LG 참전…SKT·네이버도 참여 검토",
+      "link": "https://www.itdaily.kr/news/articleView.html?idxno",
+      "publisher": "아이티데일리",
+      "pubDate": "Thu, 13 Aug 2026 08:37:51 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG가 보안 특화 AI 개발 사업에 참여하며 SKT, 네이버 등 주요 IT 기업들도 참여를 검토하고 있다는 소식입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-13T21:44:23.053Z"
+    },
+    {
+      "id": "54a13fca0b1022c2",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG, 2Q 매출·영익 동반 증가…LG CNS 매출·지분법손익 증가 영향",
+      "link": "https://www.news1.kr/industry/general-industry/6258485",
+      "publisher": "뉴스1",
+      "pubDate": "Thu, 13 Aug 2026 08:17:56 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2021/9/23/4983869/high.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG의 2분기 매출 및 영업이익 동반 증가에 LG CNS의 매출과 지분법손익 증가가 영향을 미쳤다는 소식입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-13T21:43:10.884Z"
+    },
+    {
+      "id": "401047acfb23f595",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[테크 NOW] SDT·삼성SDS·아이티센글로벌",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TMTEtVlBPWFNvdTlxZjZvNzlIODdNUU1YOVhKVEJlM3RENEJCa3VScVhhNDA0U3RjQ011UXpVcFBod2M1U3VTTl9vU2FDSlVuODRCQWNteHJIdnVHUGhlemVCSjZhV2JDcHFVQ1VLRE8zNERI?oc=5",
+      "publisher": "dnews.co.kr",
+      "pubDate": "Thu, 13 Aug 2026 07:10:47 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 SDT 및 아이티센글로벌 등과 함께 주요 테크 기업 관련 소식으로 언론에 언급되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-13T21:42:14.069Z"
+    },
+    {
+      "id": "1c5b737faeae5c3b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "��LG, 2�б� ������ 5330����������� 92.5%�� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260813n24269",
+      "publisher": "네이트",
+      "pubDate": "Thu, 13 Aug 2026 06:23:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ss/2026/08/13/202682341786601844.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS는 2분기 매출액 1조 5208억 원으로 전년 동기 대비 4.2% 증가했으나, 영업이익은 1279억 원으로 9.2% 감소했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-13T21:44:37.577Z"
+    },
+    {
+      "id": "b0b86c9785fc0e95",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[클라우드 월드] 삼성SDS '브리티웍스' 중앙부처 도입·NHN클라우드 '티베로 TAC' 검증·오케스트로 '소버린 AI 데이터센터' 전략·AWS '도그우드' 공개·오픈AI '엔터프라이즈 시그널' 발표·오픈AI-엔비디아 '코리아 개발자 밋업' 개최",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno",
+      "publisher": "뉴스웍스",
+      "pubDate": "Thu, 13 Aug 2026 06:07:47 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 협업 솔루션 '브리티웍스'가 중앙부처에 도입되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-13T21:43:03.975Z"
+    },
+    {
+      "id": "ba140aa70629d7a1",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "㈜LG, 2Q 영업익 5330억원…전자계열 선전에 93% 급증, 매출도 2조 돌파",
+      "link": "https://www.newsis.com/view/NISX20260813_0003748052",
+      "publisher": "뉴시스",
+      "pubDate": "Thu, 13 Aug 2026 06:06:02 GMT",
+      "keyVisual": "https://img1.newsis.com/2025/04/07/NISI20250407_0020763316_web.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS의 2분기 매출은 전년 동기 대비 4.2% 증가한 1조 5208억 원을 기록했으나, 영업이익은 9.2% 감소한 1279억 원을 기록했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-13T21:43:47.859Z"
+    },
+    {
+      "id": "83b65b87f23a518c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "데이타솔루션, 삼성SDS와 AI데이터센터 인프라구축 '매출만 422%'...앤트로픽發 AI확장 수혜",
+      "link": "https://www.datatooza.com/article/202608131131373537e80ea65769_80",
+      "publisher": "데이터투자",
+      "pubDate": "Thu, 13 Aug 2026 04:34:25 GMT",
+      "keyVisual": "https://cgeimage.commutil.kr/datatooza202508_www/img/default_bimg.png?p=003",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS는 데이타솔루션과 대규모 AI 컴퓨팅 인프라 공급 계약을 체결하고 앤트로픽과의 전략적 협력을 강화하며 AI 풀스택 중심의 기업용 생성형 AI 시장 공략을 본격화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-13T21:42:08.795Z"
+    },
+    {
+      "id": "8b329f04ff38d4fa",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[전자·IT 레이더] 웹케시·LG CNS·한컴, 각 분야 AI 플랫폼 구축·연동…기업 AX 영토 넓힌다",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OZHd3bXF4WW9Say1nSTBmbTYxOVNtS1hER1ZZU2dEVmg2OEZSakNPZ0ZxMjJPbjBmX0ZCMHhMbFVza1NZQ2xiWWJVVFQ3WjlKQ2hV?oc=5",
+      "publisher": "더밸류뉴스",
+      "pubDate": "Thu, 13 Aug 2026 04:19:14 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 웹케시, 한컴 등과 함께 각 분야 AI 플랫폼 구축 및 연동을 추진하며 기업의 AX 영토 확장에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-13T21:44:09.090Z"
+    },
+    {
+      "id": "87d57516d9120393",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, AI 협업 도구 ‘브리티웍스’ 중앙 부처 9곳 도입",
+      "link": "https://www.khan.co.kr/article/202608131055001",
+      "publisher": "경향신문",
+      "pubDate": "Thu, 13 Aug 2026 01:55:00 GMT",
+      "keyVisual": "https://img.khan.co.kr/news/2026/08/13/news-p.v1.20260813.94e33915b1044677aba2ad04172b603c_P1.jpg",
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 AI 협업 솔루션 '브리티웍스'가 9개 중앙부처에 도입되어 공공 분야의 인공지능 전환(AX)을 적극 지원한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 GPU 인프라 및 클라우드 컴퓨팅 자원 공급 위주의 활동과 달리, 생성형 AI 협업 솔루션(SaaS)의 공공 부문 대규모 도입 사례를 제시했다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-13T21:42:26.475Z"
+    },
+    {
+      "id": "d57a023b34b48ff5",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[AI픽] 중앙부처 9곳, 삼성SDS '브리티웍스' 도입 확정 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260813032700017",
+      "publisher": "연합뉴스",
+      "pubDate": "Thu, 13 Aug 2026 00:19:29 GMT",
+      "keyVisual": "https://img1.yna.co.kr/etc/inner/KR/2026/08/13/AKR20260813032700017_02_i_P4.jpg",
+      "activityType": "고객사례",
+      "eventDate": "2026년 08월 13일",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 AI 협업 솔루션 '브리티웍스'가 중앙부처 9곳의 공식 협업 도구로 도입되어 공공 분야의 업무 환경 혁신과 AX 지원에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 GPU 컴퓨팅 인프라 공급 및 클라우드 파트너십 중심의 활동과 달리, 자체 AI 협업 솔루션(SaaS)의 공공기관 대규모 도입 성과를 발표했다는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-08-13T21:41:49.132Z"
+    },
+    {
+      "id": "f066bddc739642a0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "보훈부·산업부서 삼성SDS AI 업무 플랫폼 쓴다",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95Um5CRjdwWWZfYTQ3dUtES2tZcG1zN3BNWU05THFQeG9JMEQ2UTBTWHVpNnAtMGhKVGYxb0pyOGc0VHdUUVhBZV9LX1hoa3AwVUHSAVNBVV95cUxNX2VHSlRMRThUZ3h3cWlMb3lXNm1WSXYtQzFNYXRCRzFfQzE1QmQ0WDlDb0lHWHZGSTBBczh0MnNvUW9QLWFXNnE0MEp1elUxY3V5SQ?oc=5",
+      "publisher": "서울경제",
+      "pubDate": "Wed, 12 Aug 2026 23:52:32 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "국가보훈부와 산업통상자원부 등 정부 주요 부처에서 업무 효율화를 위해 삼성SDS의 AI 업무 플랫폼을 도입하여 사용합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 AI 연구용 컴퓨팅 인프라 및 GPU 공급 중심 활동에서 정부 부처의 AI 업무 플랫폼 서비스 실제 도입 사례로 확장되었습니다."
+      },
+      "processedAt": "2026-08-13T21:41:57.079Z"
+    },
     {
       "id": "bba3faf1f41f8fbc",
       "company": "LG CNS",
@@ -204,6 +468,28 @@
       "processedAt": "2026-08-12T21:43:45.496Z"
     },
     {
+      "id": "903e2fde675a71a1",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, '사이버보안 특화 AI' 도전장⋯SKT·네이버클라우드와 3파전?",
+      "link": "https://v.daum.net/v/20260812152009876",
+      "publisher": "v.daum.net",
+      "pubDate": "Wed, 12 Aug 2026 06:20:09 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/12/inews24/20260812152010728ygcs.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-12",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 LG AI연구원, LG유플러스와 컨소시엄을 구성하여 과기정통부의 사이버보안 특화 AI 파운데이션 모델 개발 사업 참여를 추진한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-13T21:43:20.502Z"
+    },
+    {
       "id": "e1c6c63ecd24cd28",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -224,6 +510,50 @@
         "llmNote": "기존의 금융 시스템 구축, 데이터센터 운영 등 수주 중심 활동과 달리 정부 주도의 사이버보안 특화 AI 파운데이션 모델 개발 사업에 그룹 계열사 컨소시엄 형태로 직접 도전한다는 점에서 차별화됩니다."
       },
       "processedAt": "2026-08-12T21:44:06.500Z"
+    },
+    {
+      "id": "bdf13a21897205d2",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 동아쏘시오그룹 AI 신약개발 플랫폼 구축",
+      "link": "http://www.inews24.com/view/1994153",
+      "publisher": "아이뉴스24",
+      "pubDate": "Wed, 12 Aug 2026 01:00:01 GMT",
+      "keyVisual": "https://image.inews24.com/v1/e2391f824b1d37.jpg",
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 동아쏘시오그룹 IT 계열사 DAI와 협력하여 연구 데이터 통합 및 단계별 연구를 지원하는 'AI 신약개발 플랫폼' 구축을 완료했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-13T21:44:29.658Z"
+    },
+    {
+      "id": "b21087fd20487d04",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 동아쏘시오그룹 ‘AI 신약개발 플랫폼’ 구축",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/12/2YMYFKI7WZAZNLIQF6ROJ5Z7PE/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Wed, 12 Aug 2026 01:00:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/3QJWZP5C3BGADCJN37EDZCT3YA.jpg?auth=a424037044a1eb57a2c204f17ceb0ea596c5b47812b76bd8c30a7f5eabb8d61f&width=1200&height=630&smart=true",
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 동아쏘시오그룹의 AI 신약개발 플랫폼 구축을 진행했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-13T21:43:35.918Z"
     },
     {
       "id": "e22bbfe7e198b184",
@@ -1936,7 +2266,7 @@
       "slogan": null,
       "keyMessage": "네이버페이가 얼굴인식 결제 서비스 '페이스사인'을 탑재한 'Npay 커넥트' 단말기를 10만 개 이상 가맹점에 공급하며 오프라인 결제 생태계를 확장하고 있다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 대규모 AI 투자, 클라우드, 로봇 등 원천 기술 개발/투자 위주의 활동과 달리, 오프라인 핀테크 가맹점 및 결제 인프라 확장에 집중한 보도라는 점이 차별화됩니다."
       },
       "processedAt": "2026-08-07T01:03:25.793Z"
@@ -2134,7 +2464,7 @@
       "slogan": null,
       "keyMessage": "지디넷코리아의 뉴스레터 구독 신청 및 매체 운영 관련 정보입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-07T01:03:13.534Z"
