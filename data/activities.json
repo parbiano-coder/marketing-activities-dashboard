@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T21:44:52.150Z",
+  "updatedAt": "2026-08-14T21:25:39.052Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,292 @@
   ],
   "activities": [
     {
+      "id": "5a57659649320611",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "현신균 LG CNS 대표, 상반기 13억원 수령...상여 52.7%↑",
+      "link": "https://v.daum.net/v/20260814182900886",
+      "publisher": "v.daum.net",
+      "pubDate": "Fri, 14 Aug 2026 09:29:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/14/552782-ZYLYaJX/20260814182901410fmvf.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-14",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "현신균 LG CNS 대표가 AI·클라우드 사업 성장에 따른 지난해 및 상반기 경영성과를 반영받아 올해 상반기 약 13억원의 보수를 수령했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-14T21:24:17.293Z"
+    },
+    {
+      "id": "8ed2f2e30f8cee0c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 'AI 성과'에 보상...상반기 보수 1위 이호준 부사장, 상여가 급여 웃돌아",
+      "link": "https://news.mtn.co.kr/news-detail/2026081418022174585",
+      "publisher": "MTN 머니투데이방송",
+      "pubDate": "Fri, 14 Aug 2026 09:28:43 GMT",
+      "keyVisual": "https://menu.mtn.co.kr/upload/article/2026/08/14/2026081418022174585_00_403.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS는 AI 및 클라우드 사업에서 실질적 성과를 거둔 임원들에게 급여를 웃도는 상여금을 지급하는 등 AI와 클라우드 중심의 성과 보상 체계를 강화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 솔루션 도입, 파트너십, 인프라 공급 소식과 달리 임원의 성과급 및 보상 체계와 AI·클라우드 사업 성과의 연계에 주목한 언론보도라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-14T21:22:34.096Z"
+    },
+    {
+      "id": "80424f281c30368d",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 상반기 영업익 전년比 37%↓…연구개발비도 줄었다",
+      "link": "https://v.daum.net/v/20260814180048085",
+      "publisher": "v.daum.net",
+      "pubDate": "Fri, 14 Aug 2026 09:00:48 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/14/ZDNetKorea/20260814180049459ncdj.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-14",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 올해 상반기 영업이익 감소와 R&D 투자 축소 속에서도 생성형 AI와 클라우드 등 핵심 IT서비스 사업 경쟁력 강화를 위한 투자를 이어가고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 솔루션 도입 및 파트너십 소식이 주를 이루었던 것과 달리, 상반기 영업이익 하락 및 R&D 비용 감축 등 재무/실적 현황에 대한 보도이다."
+      },
+      "processedAt": "2026-08-14T21:22:23.450Z"
+    },
+    {
+      "id": "1e26f885d1837859",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 이호준 부사장, 상반기 보수 11.7억원…임원 중 최고",
+      "link": "https://www.newsis.com/view/NISX20260814_0003750099",
+      "publisher": "뉴시스",
+      "pubDate": "Fri, 14 Aug 2026 08:20:05 GMT",
+      "keyVisual": "https://img1.newsis.com/2025/02/20/NISI20250220_0001774694_web.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS 반기보고서 공시에 따르면 이호준 클라우드사업부장 부사장이 AI·클라우드 사업 성과를 인정받아 상반기 보수 11억 7600만원으로 임원 중 최고 수령액을 기록했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "제품 출시나 기술 제휴 등 비즈니스 마케팅 중심의 최근 활동들과 달리 임원 보수 및 실적 공시 정보를 다룬 언론보도입니다."
+      },
+      "processedAt": "2026-08-14T21:22:42.400Z"
+    },
+    {
+      "id": "e13983e1b498a9f4",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "구광모가 점찍은 '미지의 영역'···AI 신약 보폭 넓히는 LG CNS",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVGJjeUZzZzF2ZmdTNUpGb1c0RE5VNFVUa1Q3UDBoSHdlRGkwbV9Qb3dEeHI3dDFybWhBVTItT3lOOUVQTjZEVWdkZWxNclE0T3o1amg0bjg4dFdOUk5NangxakRSR0VPdkE?oc=5",
+      "publisher": "뉴스웨이",
+      "pubDate": "Fri, 14 Aug 2026 08:07:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI 기술을 활용한 신약 개발 분야로 사업 보폭을 넓히며 새로운 미지의 영역에 진출하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 매출 실적 발표나 일반적인 기업용 AX 플랫폼 구축 활동과 달리 AI 신약 개발이라는 바이오·제약 분야로 사업 영역을 확장하고 있습니다."
+      },
+      "processedAt": "2026-08-14T21:24:46.422Z"
+    },
+    {
+      "id": "eb3678a54c6aaca7",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Fri, 14 Aug 2026 07:57:23 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "지디넷코리아 웹사이트 운영 정보 및 뉴스레터 구독 신청 안내입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-14T21:24:34.958Z"
+    },
+    {
+      "id": "981e50cc4307066d",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Fri, 14 Aug 2026 07:33:36 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 지디넷코리아의 사이트 안내 및 뉴스레터 구독 관련 내용으로 SK AX의 마케팅 활동 정보가 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-14T21:25:23.245Z"
+    },
+    {
+      "id": "26740690d79b739d",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 스테이블코인 발행·거래 플랫폼 개발",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xLTZGT1lLWWhXbXZPTjhVODljejRqbzl2Nld4cnBWZE9zTklLb21IRHg2OVpPRnVJOU5PblNjdXczUS1hWjc0X3ZHdjlmX1VmbUwzNUpPaFdKNFh1TW9BZ1ZoZ2RGdExlYzZROFlQeTUxZw?oc=5",
+      "publisher": "디지털애셋",
+      "pubDate": "Fri, 14 Aug 2026 07:05:00 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 스테이블코인 발행 및 거래를 지원하는 플랫폼을 개발했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 AI 및 경영 실적 중심의 활동과 달리 블록체인 기반의 스테이블코인 플랫폼 개발 소식을 공개했습니다."
+      },
+      "processedAt": "2026-08-14T21:24:51.611Z"
+    },
+    {
+      "id": "0341175ed2bf5631",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS·롯데이노베이트, 로봇 HW보다 SW…피지컬 AI 승부",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno",
+      "publisher": "데일리한국",
+      "pubDate": "Fri, 14 Aug 2026 06:17:46 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 롯데이노베이트와 함께 로봇 하드웨어보다 소프트웨어 중심의 피지컬 AI 영역에 집중하며 경쟁에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 일반적인 AI 플랫폼 구축 활동에서 더 나아가 로봇 소프트웨어 및 피지컬 AI 분야로 전략적 영역을 확장하고 있습니다."
+      },
+      "processedAt": "2026-08-14T21:24:27.353Z"
+    },
+    {
+      "id": "6b894da2ba69d191",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "정부 ‘보안 특파모’ 참여경쟁 시작…LG CNS 확정, SKT·네이버클라우드 검토 – 바이라인네트워크",
+      "link": "https://byline.network/2026/08/14-614/",
+      "publisher": "바이라인네트워크",
+      "pubDate": "Fri, 14 Aug 2026 06:14:44 GMT",
+      "keyVisual": "https://cdn.byline.network/wp-content/uploads/2026/08/SECURITY-AI.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 정부의 사이버 보안 특화 AI 파운데이션 모델 개발 사업에 주관사로 참여를 확정하고, LG AI연구원의 '엑사원'을 기반으로 보안 특화 모델 구축을 추진한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-14T21:25:02.283Z"
+    },
+    {
+      "id": "de0731037c846518",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS ‘브리티웍스’, 중앙부처 9곳 도입… 정부 AI 행정혁신 가속",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQZ2wzT3REVDdlUTFKR1RVaE9yRlpuTmdGdHRSclNqWkdPQVF0Wi13MF94MHBpNEZ2bFR5NExoOVVlaFhzNzZrQkRDUjJOajl5Mi1PMWdzTFVwQ28?oc=5",
+      "publisher": "에너지경제신문",
+      "pubDate": "Fri, 14 Aug 2026 05:41:05 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 협업 솔루션 '브리티웍스'가 중앙부처 9곳에 도입되어 정부의 AI 행정혁신을 가속화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-14T21:22:49.475Z"
+    },
+    {
+      "id": "497134c6a9cc9789",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "엔비디아 AI에 LG '몸통'…전자·엔솔·CNS '수주 패키지' 만든다",
+      "link": "https://www.newspim.com/news/view/20260814000649",
+      "publisher": "뉴스핌",
+      "pubDate": "Fri, 14 Aug 2026 05:07:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/08/14/2608141139347310_863_tc.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "미국 캘리포니아주 산타클라라 엔비디아 본사",
+      "format": "전략적 사업 협력 MOU 체결",
+      "slogan": null,
+      "keyMessage": "LG가 엔비디아와의 협력을 계열사 전체로 확장하는 'One LG' 전략을 본격화하며 LG CNS의 시스템 통합·운영 역량을 바탕으로 산업용 AI 솔루션 공급자로의 전환을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 개별 AI 구축 및 실적 발표와 달리 엔비디아와의 그룹 차원 글로벌 대형 파트너십을 통해 'One LG' 패키지 공급 전략을 추진한다는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-08-14T21:25:13.293Z"
+    },
+    {
+      "id": "7b29c552d4f8549b",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[전자·IT 레이더] 삼성전자·삼성SDS, ‘삼성표 AI 생태계’ 가속…데이터센터 공조부터 공공 AI 협업까지",
+      "link": "http://www.thevaluenews.co.kr/news/200800",
+      "publisher": "더밸류뉴스",
+      "pubDate": "Fri, 14 Aug 2026 04:32:07 GMT",
+      "keyVisual": "https://www.thevaluenews.co.kr/data/cheditor4/2608/0fd28c50dd1cc80ae05c9de615b94f922bb3b8dd.jpeg",
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS는 AI 협업 솔루션 '브리티웍스'를 9개 주요 중앙행정기관에 공급하며 공공 분야의 인공지능 전환(AX) 지원을 확대하고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-14T21:24:04.575Z"
+    },
+    {
       "id": "0ff2cafd3f40887d",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -136,6 +422,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-13T21:44:23.053Z"
+    },
+    {
+      "id": "cac54396fc5207c9",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "정부 AI시스템 구축사업 경쟁…'양'은 삼성SDS, '질'은 네이버",
+      "link": "https://www.hankyung.com/article/2026081300441",
+      "publisher": "한국경제",
+      "pubDate": "Thu, 13 Aug 2026 08:27:36 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202608/AA.45330342.1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "세종시",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI 협업 솔루션 '브리티웍스'를 9개 중앙부처에 도입 확정하며, 연말까지 30개 정부부처로 확대하기 위해 세종시를 중심으로 전방위 마케팅 및 영업전을 펼치고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-14T21:22:58.922Z"
     },
     {
       "id": "54a13fca0b1022c2",
@@ -312,6 +620,28 @@
         "llmNote": "최근 GPU 인프라 및 클라우드 컴퓨팅 자원 공급 위주의 활동과 달리, 생성형 AI 협업 솔루션(SaaS)의 공공 부문 대규모 도입 사례를 제시했다는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-08-13T21:42:26.475Z"
+    },
+    {
+      "id": "e7927cf7fb83aa42",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS AI 협업 도구, 중앙부처 9곳 택해",
+      "link": "https://www.news1.kr/it-science/internet-platform/6257762",
+      "publisher": "뉴스1",
+      "pubDate": "Thu, 13 Aug 2026 01:23:38 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2026/8/13/8053845/high.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 AI 협업 도구가 9개 중앙부처에 채택되었다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-14T21:23:09.848Z"
     },
     {
       "id": "d57a023b34b48ff5",
@@ -1870,7 +2200,7 @@
       "slogan": null,
       "keyMessage": "네이버가 2분기 역대 최대 매출을 달성한 가운데 실적 발표 컨퍼런스콜을 통해 소버린 AI 및 글로벌 AX(인공지능 전환) 사업 확대 전략을 밝혔습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-09T21:30:31.776Z"
@@ -1892,7 +2222,7 @@
       "slogan": null,
       "keyMessage": "네이버가 역대 최대 매출을 기록했으나 이익은 정체되어 AI 수익화 검증이라는 시험대에 올랐습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-07T21:38:03.727Z"
@@ -1914,7 +2244,7 @@
       "slogan": null,
       "keyMessage": "카카오 노사가 전체 근로자 연봉 6.3% 인상과 특별격려금 300만 원 지급 등을 골자로 하는 2026년도 임금협약을 최종 타결했다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-09T21:31:44.187Z"
@@ -1936,7 +2266,7 @@
       "slogan": null,
       "keyMessage": "네이버가 숏폼 서비스 클립을 시청하면서 네이버페이 포인트로 교환 가능한 코인을 적립할 수 있는 '피드코인' 이벤트를 오는 23일까지 진행합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-07T21:39:04.135Z"
@@ -1980,7 +2310,7 @@
       "slogan": null,
       "keyMessage": "네이버는 2분기 실적발표 컨퍼런스 콜을 통해 두나무와의 기업 결합이 현금 흐름에 플러스 요인이 되며 두나무의 현금성 자산을 연결 관점에서 활용할 수 있다고 밝혔습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-07T21:38:38.228Z"
@@ -2002,7 +2332,7 @@
       "slogan": null,
       "keyMessage": "네이버가 2분기 AI 기반 광고와 커머스 성장에 힘입어 역대 최대 매출을 기록했으나, AI 인프라 투자 확대의 영향으로 영업이익은 소폭 감소했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-08T21:29:15.184Z"
@@ -2024,7 +2354,7 @@
       "slogan": null,
       "keyMessage": "네이버가 컨퍼런스 콜을 통해 1조 원 규모의 자사주를 소각하여 전체 발행 주식의 3.1%를 줄였다고 밝혔습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 AI 인프라 투자, 결제 서비스 생태계 확장 등 사업·기술적 활동과 달리 대규모 주주환원을 위한 자사주 소각 소식을 전한 점이 특이합니다."
       },
       "processedAt": "2026-08-07T21:38:23.026Z"
@@ -2046,7 +2376,7 @@
       "slogan": null,
       "keyMessage": "네이버페이가 오프라인 결제 단말기 'Npay 커넥트'를 AI 사업자 플랫폼으로 발전시켜 5년 내 오프라인 결제 규모를 연간 130조 원까지 확대하겠다는 목표를 발표했다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-07T21:38:56.960Z"
@@ -2068,7 +2398,7 @@
       "slogan": null,
       "keyMessage": "네이버는 AI 브리핑 도입 이후 블로그 창작자 지원금 및 수익 합산 규모가 2배 가까이 증가했다고 발표하며, 창작자 체감 수익 확대를 통해 양질의 콘텐츠 생산 선순환을 강화하겠다고 밝혔다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-08T21:29:37.355Z"
@@ -2090,7 +2420,7 @@
       "slogan": null,
       "keyMessage": "네이버가 AI탭 출시 한 달 만에 월간 누적 이용자 1000만 명을 돌파했으며 새벽 배송 서비스를 시작합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 AI 검색·광고·국방 AI 중심 활동들과 달리 커머스 분야의 새벽 배송 서비스 시작 소식이 포함되어 있습니다."
       },
       "processedAt": "2026-08-09T21:29:31.288Z"
@@ -2112,7 +2442,7 @@
       "slogan": null,
       "keyMessage": "네이버는 2분기 실적발표 컨퍼런스 콜에서 Npay 커넥트 보급을 앞당겨 내년까지 온오프라인 합산 B2C 결제액 1위 사업자가 되겠다는 목표를 밝혔습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-07T21:38:46.182Z"
@@ -2134,7 +2464,7 @@
       "slogan": null,
       "keyMessage": "네이버가 주주 가치 제고를 위해 발행 주식 총수의 3.1%에 해당하는 약 1조 원 규모의 기보유 자사주를 소각했다고 밝혔습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-08T21:30:01.382Z"
@@ -2156,7 +2486,7 @@
       "slogan": null,
       "keyMessage": "네이버가 주주가치 제고를 위해 발행주식 총수의 3.1%에 해당하는 약 1조 원 규모의 자사주 490만1094주를 소각했다고 밝혔다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-08T21:30:08.121Z"
@@ -2178,7 +2508,7 @@
       "slogan": null,
       "keyMessage": "네이버가 주주 가치 제고를 위해 발행 주식 총수의 3.1%에 해당하는 약 1조 원 규모의 자사주를 소각했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 AI 인프라 투자 및 페이 서비스 확장 등의 활동과 달리 대규모 자사주 소각을 통한 주주 환원 소식을 다루고 있습니다."
       },
       "processedAt": "2026-08-07T21:38:14.317Z"
@@ -2200,7 +2530,7 @@
       "slogan": null,
       "keyMessage": "네이버가 주주 가치 제고를 위해 1조 원 규모의 자사주 소각을 추진합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 사업 성과 발표나 서비스 확장 및 제휴 소식과 달리 1조 원 규모의 대규모 자사주 소각이라는 주주환원 정책을 다루고 있다는 점이 특이합니다."
       },
       "processedAt": "2026-08-07T21:38:32.158Z"
@@ -2222,7 +2552,7 @@
       "slogan": null,
       "keyMessage": "실적 결과에 따라 네이버 주가는 4%대 하락한 반면 카카오 주가는 2%대 상승하며 두 회사의 주가 향방이 갈렸다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-09T21:29:19.995Z"
@@ -2244,7 +2574,7 @@
       "slogan": null,
       "keyMessage": "네이버가 AI 접목 효과와 C2C 사업 성장에 힘입어 2분기 매출 3조 3,888억 원을 기록했으나, AI 인프라 투자 등의 영향으로 영업이익은 5,203억 원으로 소폭 감소했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-07T01:03:04.196Z"
