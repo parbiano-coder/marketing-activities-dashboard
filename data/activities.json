@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T21:25:39.052Z",
+  "updatedAt": "2026-08-15T21:22:21.385Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,50 @@
   ],
   "activities": [
     {
+      "id": "8a234b23a943ba88",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "대한항공, AI 정비결함 분석 시스템 가동…LG CNS·AWS 6개월 개발",
+      "link": "https://www.specialtimes.co.kr/news/articleView.html?idxno",
+      "publisher": "스페셜타임스",
+      "pubDate": "Sat, 15 Aug 2026 16:51:45 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AWS와 협력하여 대한항공의 AI 정비결함 분석 시스템을 6개월 동안 개발하고 본격 가동을 시작했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:22:06.793Z"
+    },
+    {
+      "id": "ba2465672125022f",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"AI 큰손 잡아라\"…정부 수주전에 네이버클라우드·삼성SDS 격돌",
+      "link": "https://www.fnnews.com/news/202608151100595166",
+      "publisher": "파이낸셜뉴스",
+      "pubDate": "Sat, 15 Aug 2026 02:01:00 GMT",
+      "keyVisual": "https://image.fnnews.com/resource/media/image/2026/08/15/202608151100475896_l.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 정부의 AI 행정 전환에 발맞추어 협업 솔루션 '브리티웍스' 공급 및 첨단 GPU 인프라 구축 사업을 수주하며 공공 AI 시장 영역을 적극적으로 확대하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:18:58.525Z"
+    },
+    {
       "id": "5a57659649320611",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -132,7 +176,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS는 AI 및 클라우드 사업에서 실질적 성과를 거둔 임원들에게 급여를 웃도는 상여금을 지급하는 등 AI와 클라우드 중심의 성과 보상 체계를 강화하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 솔루션 도입, 파트너십, 인프라 공급 소식과 달리 임원의 성과급 및 보상 체계와 AI·클라우드 사업 성과의 연계에 주목한 언론보도라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-08-14T21:22:34.096Z"
@@ -154,10 +198,54 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 올해 상반기 영업이익 감소와 R&D 투자 축소 속에서도 생성형 AI와 클라우드 등 핵심 IT서비스 사업 경쟁력 강화를 위한 투자를 이어가고 있다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 AI 솔루션 도입 및 파트너십 소식이 주를 이루었던 것과 달리, 상반기 영업이익 하락 및 R&D 비용 감축 등 재무/실적 현황에 대한 보도이다."
       },
       "processedAt": "2026-08-14T21:22:23.450Z"
+    },
+    {
+      "id": "62839f71159d3bfb",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Fri, 14 Aug 2026 08:59:04 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 지디넷코리아의 뉴스레터 구독 신청 관련 하단 정보로 삼성SDS의 마케팅 활동 정보를 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:18:19.772Z"
+    },
+    {
+      "id": "871b20cc2dd07f99",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "이호준 삼성SDS 부사장, 상반기 보수 11억7600만원",
+      "link": "https://www.sentv.co.kr/article/view/sentv202608140225",
+      "publisher": "서울경제TV",
+      "pubDate": "Fri, 14 Aug 2026 08:51:59 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/08/14/sentv20260814000229.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS 이호준 부사장이 AI·클라우드 인프라 및 AX 사업 성과를 인정받아 올해 상반기 임원 중 가장 많은 11억 7,600만 원의 보수를 수령했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:18:41.354Z"
     },
     {
       "id": "1e26f885d1837859",
@@ -176,7 +264,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS 반기보고서 공시에 따르면 이호준 클라우드사업부장 부사장이 AI·클라우드 사업 성과를 인정받아 상반기 보수 11억 7600만원으로 임원 중 최고 수령액을 기록했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "제품 출시나 기술 제휴 등 비즈니스 마케팅 중심의 최근 활동들과 달리 임원 보수 및 실적 공시 정보를 다룬 언론보도입니다."
       },
       "processedAt": "2026-08-14T21:22:42.400Z"
@@ -246,6 +334,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-14T21:25:23.245Z"
+    },
+    {
+      "id": "72e9a4565678f976",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 스테이블코인 발행·거래 플랫폼 개발",
+      "link": "https://bloomingbit.io/feed/news/118332",
+      "publisher": "블루밍비트",
+      "pubDate": "Fri, 14 Aug 2026 07:28:11 GMT",
+      "keyVisual": "https://media.bloomingbit.io/news/18572ba7-4280-43d5-b83f-2b442d7d2dde.webp",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 스테이블코인 발행·거래·유통 플랫폼과 CBDC 기반의 Agentic AI 결제 서비스 등 블록체인 관련 선행 기술을 개발 중이라고 밝혔습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:20:38.672Z"
     },
     {
       "id": "26740690d79b739d",
@@ -330,7 +440,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS의 협업 솔루션 '브리티웍스'가 중앙부처 9곳에 도입되어 정부의 AI 행정혁신을 가속화하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-14T21:22:49.475Z"
@@ -374,7 +484,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS는 AI 협업 솔루션 '브리티웍스'를 9개 주요 중앙행정기관에 공급하며 공공 분야의 인공지능 전환(AX) 지원을 확대하고 있다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-14T21:24:04.575Z"
@@ -396,7 +506,7 @@
       "slogan": null,
       "keyMessage": "제공된 본문은 지디넷코리아 웹사이트의 푸터 및 뉴스레터 구독 관련 안내문으로 삼성SDS의 별도 마케팅 활동 정보를 포함하고 있지 않습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-13T21:42:35.286Z"
@@ -440,7 +550,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 AI 협업 솔루션 '브리티웍스'를 9개 중앙부처에 도입 확정하며, 연말까지 30개 정부부처로 확대하기 위해 세종시를 중심으로 전방위 마케팅 및 영업전을 펼치고 있다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-14T21:22:58.922Z"
@@ -484,7 +594,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 SDT 및 아이티센글로벌 등과 함께 주요 테크 기업 관련 소식으로 언론에 언급되었습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-13T21:42:14.069Z"
@@ -528,7 +638,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS의 협업 솔루션 '브리티웍스'가 중앙부처에 도입되었습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-13T21:43:03.975Z"
@@ -572,7 +682,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS는 데이타솔루션과 대규모 AI 컴퓨팅 인프라 공급 계약을 체결하고 앤트로픽과의 전략적 협력을 강화하며 AI 풀스택 중심의 기업용 생성형 AI 시장 공략을 본격화하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-13T21:42:08.795Z"
@@ -600,6 +710,50 @@
       "processedAt": "2026-08-13T21:44:09.090Z"
     },
     {
+      "id": "1a795dd862da79bd",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS ‘브리티웍스’ 중앙부처 9곳으로 확대…공공 AI 공략",
+      "link": "https://v.daum.net/v/20260813122400162",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 13 Aug 2026 03:24:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/13/mk/20260813122401793vuss.jpg",
+      "activityType": "고객사례",
+      "eventDate": "2026-08-13",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 생성형 AI 협업 솔루션 '브리티웍스'를 9개 중앙부처에 공급하며 공공 분야 인공지능 전환(AX) 사업을 확대하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:18:34.096Z"
+    },
+    {
+      "id": "27b5f37ea0fc322e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 브리티웍스, 정부 9개 부처 도입",
+      "link": "https://v.daum.net/v/20260813112649358",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 13 Aug 2026 02:26:49 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/13/ned/20260813112649795euco.jpg",
+      "activityType": "고객사례",
+      "eventDate": "2026-08-13",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 자사의 AI 협업 솔루션 '브리티웍스'를 정부 9개 부처에 공급하며 공공 분야의 인공지능 전환(AX)과 행정 혁신을 지원한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:20:15.801Z"
+    },
+    {
       "id": "87d57516d9120393",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -616,10 +770,32 @@
       "slogan": null,
       "keyMessage": "삼성SDS의 AI 협업 솔루션 '브리티웍스'가 9개 중앙부처에 도입되어 공공 분야의 인공지능 전환(AX)을 적극 지원한다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 GPU 인프라 및 클라우드 컴퓨팅 자원 공급 위주의 활동과 달리, 생성형 AI 협업 솔루션(SaaS)의 공공 부문 대규모 도입 사례를 제시했다는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-08-13T21:42:26.475Z"
+    },
+    {
+      "id": "02817fd0f968fbe0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 중앙부처 9곳에 AI 협업 솔루션 ‘브리티웍스’ 공급",
+      "link": "https://v.daum.net/v/20260813103812604",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 13 Aug 2026 01:38:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/13/segye/20260813103813012udaf.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-13",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 인공지능 협업 솔루션 브리티웍스를 9개 중앙행정기관에 공급하며 공공 부문의 AI 전환 체계 구축 지원을 확대한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:20:08.907Z"
     },
     {
       "id": "e7927cf7fb83aa42",
@@ -638,10 +814,54 @@
       "slogan": null,
       "keyMessage": "삼성SDS의 AI 협업 도구가 9개 중앙부처에 채택되었다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-14T21:23:09.848Z"
+    },
+    {
+      "id": "087027b4b38a9ee7",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS '브리티웍스', 중앙부처 9곳 도입…AI 행정 확산",
+      "link": "https://nwww.newsis.com/view/NISX20260813_0003747207",
+      "publisher": "뉴시스",
+      "pubDate": "Thu, 13 Aug 2026 00:50:27 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/08/13/NISI20260813_0002211208_web.jpg",
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS의 AI 협업 솔루션 '브리티웍스'가 9개 중앙부처의 공식 협업 도구로 도입되어 공공 분야의 AI 행정 혁신을 가속화합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:18:50.047Z"
+    },
+    {
+      "id": "cbb20bd647a8ff30",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 브리티웍스, 중앙부처 9곳 공식 협업도구 선정",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/13/P57EVX3SHVHITDUYHK5LPEUEII/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Thu, 13 Aug 2026 00:27:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/6PSVOOP6NJEM3MWZF5GJPKAAKU.jpg?auth=8157d95ea06203216b083ced613765841b478cc50e64b1ab19510f8eed1f047c&width=1200&height=630&smart=true",
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 협업도구 '브리티웍스'가 주요 중앙부처 9곳의 공식 협업도구로 선정되었습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:19:03.766Z"
     },
     {
       "id": "d57a023b34b48ff5",
@@ -660,7 +880,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS의 AI 협업 솔루션 '브리티웍스'가 중앙부처 9곳의 공식 협업 도구로 도입되어 공공 분야의 업무 환경 혁신과 AX 지원에 나섭니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 GPU 컴퓨팅 인프라 공급 및 클라우드 파트너십 중심의 활동과 달리, 자체 AI 협업 솔루션(SaaS)의 공공기관 대규모 도입 성과를 발표했다는 점에서 차별화됩니다."
       },
       "processedAt": "2026-08-13T21:41:49.132Z"
@@ -682,10 +902,54 @@
       "slogan": null,
       "keyMessage": "국가보훈부와 산업통상자원부 등 정부 주요 부처에서 업무 효율화를 위해 삼성SDS의 AI 업무 플랫폼을 도입하여 사용합니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존 AI 연구용 컴퓨팅 인프라 및 GPU 공급 중심 활동에서 정부 부처의 AI 업무 플랫폼 서비스 실제 도입 사례로 확장되었습니다."
       },
       "processedAt": "2026-08-13T21:41:57.079Z"
+    },
+    {
+      "id": "d2019fccb342e413",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 동아쏘시오그룹 AI 신약개발 플랫폼 구축…후보물질 발굴부터 검증까지 지원",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno",
+      "publisher": "인공지능신문",
+      "pubDate": "Wed, 12 Aug 2026 11:54:23 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 동아쏘시오그룹의 AI 신약개발 플랫폼을 구축하여 후보물질 발굴부터 검증까지 지원합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:20:31.755Z"
+    },
+    {
+      "id": "f00e496de83d8ee3",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 동아쏘시오그룹에 'AI 신약개발 플랫폼' 구축",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wbTRTampqRndWb01pRHRKRzczVHVYdi14RlgtTHFJRTgzYy1uV0VQZ3pBSVFhdzBVSWFPOUtMU0w4OF9mZG9jVE1qUENzcnN6eWxYVFlnQUFjVnlfYlZRUFF3aURTMkZ3dUE?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Wed, 12 Aug 2026 09:33:12 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 동아쏘시오그룹에 AI 신약개발 플랫폼을 구축했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:21:03.384Z"
     },
     {
       "id": "bba3faf1f41f8fbc",
@@ -732,6 +996,28 @@
       "processedAt": "2026-08-12T21:43:39.578Z"
     },
     {
+      "id": "a58c62d2faf889d8",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS-동아쏘시오, 신약개발 지원하는 'AI 플랫폼' 구축",
+      "link": "https://www.newstree.kr/newsView/ntr202608120012",
+      "publisher": "newstree.kr",
+      "pubDate": "Wed, 12 Aug 2026 07:51:26 GMT",
+      "keyVisual": "https://www.newstree.kr/data/ntr/image/2026/06/09/ntr202606090003.jpg",
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 동아쏘시오그룹 IT 계열사 DAI와 협력하여 연구 데이터 통합부터 생성형 AI 기반 설계, 시뮬레이션 검증까지 지원하는 'AI 신약개발 플랫폼' 구축을 완료했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:20:24.798Z"
+    },
+    {
       "id": "8eaf2d9969b7b6fa",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -770,7 +1056,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS는 2분기 클라우드 매출이 17% 성장했으나, AI 인프라 확장을 위한 설비투자(CAPEX) 영향으로 영업이익 증가율은 0.7%에 그치며 선투자 비용 회수가 과제로 제시되었습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 국가 AI 연구용 GPU 인프라 공급사업 수주 활동 위주였던 것과 달리, 이번 활동은 2분기 실적 분석을 통해 AI 인프라 선투자에 따른 수익성 정체 및 비용 회수 과제를 다루고 있습니다."
       },
       "processedAt": "2026-08-12T21:42:21.726Z"
@@ -842,6 +1128,50 @@
       "processedAt": "2026-08-12T21:44:06.500Z"
     },
     {
+      "id": "ecefd6263dcc38c4",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 동아쏘시오 AI 신약개발 플랫폼 구축",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rOUptQ043b2JnVWg5aXFNWXpMUmxRdHF0LWFZNkVLeTcwaVRsQnoyYTlLVTBXN0c5YXRya0VXLUZRcU9rOVRjbk1KZjkwWHU4UHBCM0k2TzRzb0o3QWNLeExpTGxBSm91Zzc0UHo0RjA?oc=5",
+      "publisher": "연합인포맥스",
+      "pubDate": "Wed, 12 Aug 2026 01:15:31 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 동아쏘시오의 AI 신약개발 플랫폼을 구축합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:20:49.998Z"
+    },
+    {
+      "id": "3979705b1cfee252",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 동아쏘시오그룹 'AI 신약개발 플랫폼' 구축 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260812029800017",
+      "publisher": "연합뉴스",
+      "pubDate": "Wed, 12 Aug 2026 01:00:02 GMT",
+      "keyVisual": "https://img5.yna.co.kr/photo/cms/2026/08/04/14/PCM20260804000114017_P4.jpg",
+      "activityType": "고객사례",
+      "eventDate": "2026-08-12",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 동아쏘시오그룹 IT 계열사 DAI와 함께 연구 데이터 통합 및 후보물질 발굴부터 검증까지 지원하는 'AI 신약 개발 플랫폼'을 구축했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-15T21:20:57.434Z"
+    },
+    {
       "id": "bdf13a21897205d2",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -902,7 +1232,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS는 AWS와의 파트너십을 바탕으로 공공 및 금융 분야의 클라우드 전환 컨설팅, 운영, 애플리케이션 최적화 서비스를 제공하며 클라우드 역량을 지속적으로 확장하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 활동이 국가 AI 연구용 GPU 인프라 공급 사업에 집중되었던 것과 달리, 이번 보도는 AWS와의 파트너십 기반 클라우드 매니지드 서비스 및 마켓플레이스 활동에 관한 내용입니다."
       },
       "processedAt": "2026-08-12T21:42:28.707Z"
@@ -924,7 +1254,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 과학기술정보통신부와 정보통신기획평가원이 주관하는 프로젝트에서 1순위 GPU 자원 공급사로 선정되어 국내 대학 및 연구기관에 AI 연구용 컴퓨팅 인프라를 제공합니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-11T21:43:31.208Z"
@@ -946,7 +1276,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 과기정통부와 IITP의 AI 연구용 컴퓨팅 지원 사업 1순위 공급사로 선정되어 엔비디아 블랙웰 울트라 기반 GPU 클러스터와 통합 AI 연구 인프라를 제공합니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-11T21:45:08.503Z"
@@ -990,7 +1320,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS, 국가 AI 연구용 GPU 공급사 선정… 엔비디아 B300 투입",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-11T21:44:00.769Z"
@@ -1012,7 +1342,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 과학기술정보통신부와 정보통신기획평가원이 주관하는 '2026년 AI 연구용 컴퓨팅 지원 프로젝트'에서 1순위 GPU 공급사로 선정되어 국내 대학과 연구기관에 엔비디아 GPU 기반 AI 연구 인프라를 제공합니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-12T21:42:09.537Z"
@@ -1034,7 +1364,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 과학기술정보통신부와 정보통신기획평가원이 주관하는 프로젝트에서 1순위 GPU 자원 공급사로 선정되어 국내 대학 및 연구기관에 엔비디아 H100 및 B300 기반 인프라를 제공한다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-11T21:43:15.064Z"
@@ -1078,7 +1408,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 과학기술정보통신부의 'AI 연구용 컴퓨팅 지원 프로젝트' 공급사로 선정되어 대학 및 연구기관을 대상으로 엔비디아 GPU 기반 AI 연구 인프라 서비스를 시작했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존 실적 전망 및 데이터센터 착공 소식과 달리 국가 주도의 대규모 AI 컴퓨팅 인프라 공급 사업을 수주하여 직접 서비스를 개시했다는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-08-11T21:43:50.151Z"
@@ -1100,7 +1430,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 엘리스그룹과 함께 '국가 AI 연구용 GPU 컴퓨팅 서비스'를 책임지고 제공한다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "자체 AI 데이터센터 구축이나 투자가 아닌 국가 단위 AI 연구용 사업을 위해 엘리스그룹과 협력하는 파트너십 행보라는 점에서 특이점이 있습니다."
       },
       "processedAt": "2026-08-11T21:43:57.841Z"
@@ -1122,7 +1452,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 B300을 포함한 국가 AI 연구용 GPU 공급을 개시했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 AI 투자 및 데이터센터 구축 관련 소식에서 나아가 국가 AI 연구용 GPU 공급이라는 구체적인 공공 인프라 공급 성과를 전하고 있습니다."
       },
       "processedAt": "2026-08-11T21:45:33.335Z"
@@ -1144,7 +1474,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 과학기술정보통신부와 정보통신기획평가원이 주관하는 AI 연구용 컴퓨팅 지원 프로젝트의 1순위 공급사로 선정되어 엔비디아 B300 기반 GPU 클러스터 등 고성능 인프라 서비스를 개시했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-12T21:43:21.598Z"
@@ -1166,7 +1496,7 @@
       "slogan": null,
       "keyMessage": "본문은 삼성SDS의 마케팅 활동 내용이 아닌 지디넷코리아의 뉴스레터 구독 신청 안내 정보만을 담고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 AI 연구용 GPU 인프라 공급 관련 소식들과 달리 삼성SDS의 기업 마케팅 활동 관련 내용이 전혀 포함되어 있지 않습니다."
       },
       "processedAt": "2026-08-12T21:43:04.990Z"
@@ -1188,7 +1518,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 정부의 'AI 연구용 컴퓨팅 지원 프로젝트' 1순위 자원 공급사로 선정되어 대학 및 연구기관에 엔비디아 B300 등 AI 연구용 컴퓨팅 인프라를 제공합니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-12T21:42:35.722Z"
@@ -1254,7 +1584,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 국가 AI 연구를 지원하기 위한 GPU 컴퓨팅 서비스를 본격 개시했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-11T21:45:23.115Z"
@@ -1276,7 +1606,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 과학기술정보통신부와 정보통신기획평가원의 '2026년 AI 연구용 컴퓨팅 지원 프로젝트' GPU 자원 공급사로 선정되어 국가 AI 연구에 최신 GPU 인프라를 제공합니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 실적 전망 및 데이터센터 구축 관련 보도와 달리, 정부 주도 대규모 국가 AI 연구 지원 프로젝트의 GPU 공급사로 참여한다는 점에서 차별화됩니다."
       },
       "processedAt": "2026-08-11T21:43:41.256Z"
@@ -1298,7 +1628,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 과학기술정보통신부와 정보통신기획평가원의 AI 연구용 컴퓨팅 지원 프로젝트 사업 공급사로 선정되어 엔비디아 B300 및 H100 기반 GPU 컴퓨팅 서비스를 개시했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-12T21:43:12.365Z"
@@ -1320,7 +1650,7 @@
       "slogan": null,
       "keyMessage": "생성형 AI 확산으로 2026년 7월 구글의 월간 활성 이용자 수(MAU)가 4,702만 명을 기록하며 모바일인덱스 통계 집계 이래 처음으로 네이버를 제치고 생산성 앱 1위에 올랐습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 네이버 자사 마케팅 및 AI 서비스 출시/협력 발표 중심 활동과 달리, 경쟁사(구글)에 의한 포털 MAU 역전이라는 위기 상황 및 시장 동향을 다룬 외부 언론보도입니다."
       },
       "processedAt": "2026-08-10T21:39:44.945Z"
@@ -1342,7 +1672,7 @@
       "slogan": null,
       "keyMessage": "�ݵ�ü ������ �����̴١��Ｚ SDS��SDI������ ���⵿ [�Ｚ AI ����������] : ����Ʈ ����",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-10T21:38:44.032Z"
@@ -1364,7 +1694,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 삼성SDI 및 삼성전기와 함께 AI 전력 및 인프라 관련 투자 및 대응에 총력을 기울이고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 과기정통부 AI 연구용 GPU 자원 공급 사업 관련 활동들과 달리, 삼성 그룹 계열사들과 함께 AI 전력 및 인프라 분야 투자를 다룬 기사라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-08-12T21:42:01.764Z"
@@ -1408,7 +1738,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS의 노동조합 및 사내 근무환경·인사 이슈에 관한 내용을 다룬 언론보도입니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 AI 투자 및 데이터센터 건립 등 기술 중심의 대외 활동과 달리 사내 노사 및 근무환경 이슈를 다루고 있다는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-08-11T21:43:23.761Z"
@@ -1430,7 +1760,7 @@
       "slogan": null,
       "keyMessage": "네이버가 통합교섭 추진 등의 이슈로 인해 카카오에 이어 파업 가능성 등 노사 관계의 변수에 직면해 있다는 소식입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 AI 서비스 출시, 마케팅, R&D 투자 등 사업적 성과나 마케팅 활동과 달리 노사 갈등 및 파업 이슈를 다루고 있다는 점에서 특이점이 있습니다."
       },
       "processedAt": "2026-08-10T21:39:31.868Z"
@@ -1496,7 +1826,7 @@
       "slogan": null,
       "keyMessage": "TV홈쇼핑 업계가 네이버쇼핑, 쿠팡 등 플랫폼 사업자와의 경쟁 형평성을 고려해 낡은 방송 규제를 개선하고 플랫폼 중심 유통 환경에 맞춘 제도 재설계를 촉구하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "네이버의 직접적인 사업 및 마케팅 발표가 아닌 홈쇼핑 업계 규제 관련 언론보도에서 경쟁 플랫폼으로 언급된 내용입니다."
       },
       "processedAt": "2026-08-10T21:39:39.231Z"
@@ -1518,7 +1848,7 @@
       "slogan": null,
       "keyMessage": "생성형 AI 확산으로 GPU 인프라 구축 및 운영 부담이 증가하는 가운데, 삼성SDS는 데이터센터부터 AI 플랫폼까지 통합 제공해 비용 효율성과 자원 활용률을 높이는 SCP GPUaaS를 대안으로 제시한다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 국가 AI 연구용 GPU 인프라 공급 사업 수주 소식과 달리, 기업 고객을 대상으로 GPUaaS의 가치와 아키텍처를 설명하는 인사이트 리포트를 발간했습니다."
       },
       "processedAt": "2026-08-12T21:42:48.713Z"
@@ -1562,7 +1892,7 @@
       "slogan": null,
       "keyMessage": "춘천 칠전동 조성되는 삼성 AI데이터센터 이달 24일 첫삽",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-10T21:38:48.121Z"
@@ -1584,7 +1914,7 @@
       "slogan": null,
       "keyMessage": "네이버가 미국 생성형 AI 기업 앤트로픽에 비공개 간접 투자를 단행하며 글로벌 선두 AI 기술 활용 및 협력 가능성을 확보했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "자체 LLM 개발 및 소버린 AI 전략에 집중하던 기존 행보와 달리 경쟁 관계인 글로벌 프론티어 AI 기업에 처음으로 투자를 진행했습니다."
       },
       "processedAt": "2026-08-10T21:39:56.262Z"
@@ -1606,7 +1936,7 @@
       "slogan": null,
       "keyMessage": "수원도시공사가 '에너지의 날'을 기념해 진행하는 SNS 초성퀴즈 이벤트의 당첨자 경품으로 네이버페이 포인트가 제공됩니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "네이버가 직접 주도하는 AI 및 서비스 마케팅 활동과 달리 타 기관의 이벤트 경품으로 네이버페이가 활용된 사례입니다."
       },
       "processedAt": "2026-08-10T21:40:29.607Z"
@@ -1628,7 +1958,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS, AI투자로 재평가 기대 목표가 37만원 제시",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-10T21:38:31.759Z"
@@ -1650,7 +1980,7 @@
       "slogan": null,
       "keyMessage": "NH투자증권은 네이버의 2분기 실적 부진에도 불구하고 브룩필드 투자 유치 등 에셋 라이트 방식의 AI 팩토리 구축을 통해 2027년부터 중장기 성과가 본격화될 것으로 전망했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-10T21:40:12.069Z"
@@ -1672,7 +2002,7 @@
       "slogan": null,
       "keyMessage": "네이버가 국가평생교육진흥원과 업무협약을 체결하고 시니어 및 디지털 소외계층을 위한 AI·디지털 교육 콘텐츠와 문해 교과서를 공동 개발한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 상업적 AI 서비스 및 기술 인프라 홍보 중심 활동과 달리, 공공기관과 협력해 시니어 대상 디지털 포용 교육 콘텐츠를 개발하는 ESG 성격의 파트너십이라는 점이 특이합니다."
       },
       "processedAt": "2026-08-10T21:40:05.983Z"
@@ -1694,7 +2024,7 @@
       "slogan": null,
       "keyMessage": "네이버가 엔비디아와의 협력을 기반으로 AI 팩토리 및 데이터센터 사업을 확장하며 시장 내 우위를 점할 것으로 전망된다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-10T21:40:35.168Z"
@@ -1716,7 +2046,7 @@
       "slogan": null,
       "keyMessage": "대신증권은 네이버가 AI 인프라 투자 비용 증가로 단기 수익성 부담을 겪고 있으나, 로컬 AI 에이전트 선점 및 GPUaaS 신사업 등 재평가 가능한 신사업 다수를 보유하고 있다고 평가했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-10T21:40:20.400Z"
@@ -1738,7 +2068,7 @@
       "slogan": null,
       "keyMessage": "HLB제약이 네이버 브랜드스토어 관심 고객 10만 명 돌파를 기념하여 전 제품 할인 쿠폰 및 경품 혜택을 제공하는 온라인 감사제를 진행한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-10T21:40:48.205Z"
@@ -1892,7 +2222,7 @@
       "slogan": null,
       "keyMessage": "기사 제목 및 본문이 텍스트 깨짐(인코딩 오류)으로 인해 인지할 수 없어 마케팅 활동의 내용을 확인할 수 없습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-09T21:30:04.943Z"
@@ -2002,7 +2332,7 @@
       "slogan": null,
       "keyMessage": "네이버 쇼핑라이브를 통해 진행된 '갤럭시 Z8' 사전판매가 완판을 기록하며 흥행을 끌고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 AI 기술 및 서비스 사업 확장 중심의 활동들과 달리 쇼핑라이브를 통한 커머스 사전판매 성과를 조명하고 있습니다."
       },
       "processedAt": "2026-08-09T21:29:53.365Z"
@@ -2024,7 +2354,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS를 포함한 주요 SI 3사의 2분기 실적과 하반기 AI 사업 구체화 전망을 조명한 언론 보도입니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-09T21:29:01.795Z"
@@ -2046,7 +2376,7 @@
       "slogan": null,
       "keyMessage": "네이버는 AI 브리핑 광고 및 커머스 수익화의 성과를 바탕으로 물류 서비스 강화와 엔비디아 협력 기반의 AI 팩토리 사업을 통해 성장을 이어나갈 계획이다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-09T21:30:13.063Z"
@@ -2068,7 +2398,7 @@
       "slogan": null,
       "keyMessage": "네이버가 엔비디아, 브룩필드 등과의 협력을 기반으로 AI 데이터센터와 GPU 인프라를 확대하는 AI 팩토리 사업 및 소버린 AI 시장 공략에 R&D 투자를 집중하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 AI 맞춤형 광고, 서비스 적용, 국방 AX 협력 등 서비스 및 응용 분야 중심 활동에 비해 엔비디아·브룩필드와의 대규모 AI 데이터센터 및 인프라 구축 투자 전략을 강조하고 있다는 점에서 차별화됩니다."
       },
       "processedAt": "2026-08-09T21:29:37.031Z"
@@ -2090,7 +2420,7 @@
       "slogan": null,
       "keyMessage": "네이버가 대화형 AI 검색 'AI탭' 활용 경험을 숏폼으로 제작할 대학생 창작자 지원 프로그램 '네이버 AI 디깅클럽' 참가자 100명을 모집한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-08T21:29:46.373Z"
@@ -2112,7 +2442,7 @@
       "slogan": null,
       "keyMessage": "네이버가 대화형 AI 검색 서비스 'AI탭' 활용 경험을 숏폼으로 제작하는 대학생 창작자 지원 프로그램 '네이버 AI 디깅클럽' 참가자를 모집합니다. 이를 통해 양질의 콘텐츠 생태계를 확대하고 AI 서비스 경쟁력과의 선순환 구조를 강화하고자 합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-09T21:30:23.758Z"
@@ -2134,7 +2464,7 @@
       "slogan": null,
       "keyMessage": "네이버는 AI 브리핑에 광고 상품 '애드부스트 맥스'를 적용하고 AI 탭에 맞춤형 광고 도입을 추진하는 등 AI 기반 맞춤형 광고 사업을 확대하고 있다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-08T21:29:20.907Z"
@@ -2156,7 +2486,7 @@
       "slogan": null,
       "keyMessage": "네이버 AI 브리핑 효과로 인해 블로거의 수익과 지원이 2배 증가했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-08T21:29:27.916Z"
@@ -2178,7 +2508,7 @@
       "slogan": null,
       "keyMessage": "네이버가 국방 AX 전담 조직 신설, 한국항공우주산업(KAI)과의 협력, 김선호 전 국방부 차관 영입을 통해 독자 AI 기술 기반의 국방 AI 시장 선점에 속도를 내고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "실적 발표, 핀테크 결제망 확장, 숏폼 이벤트 등 기존의 B2C 및 일반 B2B 중심 활동과 달리 국방 및 방산 분야 AI 시장 진출을 목표로 전담 조직 신설 및 정부 출신 고문 영입을 추진했다는 점에서 차별화됩니다."
       },
       "processedAt": "2026-08-08T21:29:53.960Z"
