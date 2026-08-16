@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T21:22:21.385Z",
+  "updatedAt": "2026-08-16T21:19:43.011Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,72 @@
   ],
   "activities": [
     {
+      "id": "5dfb821904d4945a",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 AI 팩토리, '20% 마진' 청사진…사업성 검증은 이제부터",
+      "link": "https://v.daum.net/v/20260817060252155",
+      "publisher": "v.daum.net",
+      "pubDate": "Sun, 16 Aug 2026 21:02:52 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/17/552782-ZYLYaJX/20260817060253605orac.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-17",
+      "location": null,
+      "format": "언론보도",
+      "slogan": null,
+      "keyMessage": "네이버가 2027년부터 AI 팩토리 사업을 본격화하여 장기적으로 GW급으로 확대하고 20% 이상의 마진을 확보하겠다는 청사진을 제시했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 서비스 개발이나 지분 투자 활동과 달리 AI 팩토리 인프라 사업의 구체적인 수익성 목표(20% 마진율)를 이례적으로 공식 제시했습니다."
+      },
+      "processedAt": "2026-08-16T21:19:29.668Z"
+    },
+    {
+      "id": "ea2c39a83b0671ec",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 동아쏘시오그룹 AI 신약개발 플랫폼 구축… 후보물질 발굴부터 검증까지 지원",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zZzkwQ2ltRnJwNVZpV0JyQTBwN2ZFdGIxZC00OUVOdl9pcDVJODk0RTk3SUpzN2xGNi1iUEtoOWx0NHFlbmRWQ0d6bFhvTFlQTjF0RDNvcERYUkp0eDhocng2WG1icFBZLVJFT25R?oc=5",
+      "publisher": "koreasprint.com",
+      "pubDate": "Sun, 16 Aug 2026 14:18:00 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 동아쏘시오그룹의 AI 신약개발 플랫폼을 구축하여 후보물질 발굴부터 검증까지 지원합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-16T21:17:44.474Z"
+    },
+    {
+      "id": "12cfaaa3b49806e0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "공무원 협업툴이 AI사업 교두보…네이버·삼성SDS, 온AI 선점전",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85NnhGVEJBbFBXc1JPek42UGw0dzRnaE1lZy1ZYUs2b3ViTjU3N3dQWmdmbTBQNkZ5VlNxSEJ0Z3FFMVhxNkUzSF9ibVlSSEVBWG03bHNHMUZ2cEZpT3R6UU94YXc?oc=5",
+      "publisher": "디지털데일리",
+      "pubDate": "Sat, 15 Aug 2026 23:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 공무원 협업툴을 교두보로 삼아 공공 AI 사업 선점에 적극 나서고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-16T21:17:04.444Z"
+    },
+    {
       "id": "8a234b23a943ba88",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -116,6 +182,28 @@
       "processedAt": "2026-08-15T21:22:06.793Z"
     },
     {
+      "id": "905406a38d319bf3",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'최태원의 전략통'…SK하이닉스 AI 신사업 발굴 맡은 기타리스트 [강경주의 테크X]",
+      "link": "https://www.hankyung.com/article/2026081425646",
+      "publisher": "한국경제",
+      "pubDate": "Sat, 15 Aug 2026 05:00:01 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202608/01.45341798.1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "'최태원의 전략통'…SK하이닉스 AI 신사업 발굴 맡은 기타리스트 [강경주의 테크X]",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-16T21:18:41.838Z"
+    },
+    {
       "id": "ba2465672125022f",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -136,6 +224,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-15T21:18:58.525Z"
+    },
+    {
+      "id": "f07885ea8efe88a9",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"AI 큰손 잡아라\"…정부 수주전에 네이버클라우드·삼성SDS 격돌",
+      "link": "https://www.newsis.com/view/NISX20260814_0003750237",
+      "publisher": "뉴시스",
+      "pubDate": "Sat, 15 Aug 2026 02:00:00 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/08/14/NISI20260814_0002213313_web.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 정부의 AI 행정 전환에 발맞춰 '브리티웍스' 공급 및 GPU 인프라 사업을 수주하며 공공 AI 시장 내 입지를 강화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-16T21:17:28.475Z"
     },
     {
       "id": "5a57659649320611",
@@ -180,6 +290,28 @@
         "llmNote": "기존의 솔루션 도입, 파트너십, 인프라 공급 소식과 달리 임원의 성과급 및 보상 체계와 AI·클라우드 사업 성과의 연계에 주목한 언론보도라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-08-14T21:22:34.096Z"
+    },
+    {
+      "id": "7216e69f75d3343d",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "현신균 LG CNS 대표, 상반기 13억원 수령...상여 52.7%↑",
+      "link": "https://news.mtn.co.kr/news-detail/2026081418244899372",
+      "publisher": "MTN 머니투데이방송",
+      "pubDate": "Fri, 14 Aug 2026 09:28:28 GMT",
+      "keyVisual": "https://menu.mtn.co.kr/upload/article/2026/08/14/2026081418244899372_00_427.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "현신균 LG CNS 대표가 AI·클라우드 사업 성장에 힘입어 올해 상반기 약 13억원의 보수를 수령했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-16T21:18:07.560Z"
     },
     {
       "id": "80424f281c30368d",
@@ -314,6 +446,28 @@
       "processedAt": "2026-08-14T21:24:34.958Z"
     },
     {
+      "id": "4add9230511169eb",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 상반기 영업익 17.4% 증가…AI·DX 사업 실적 견인",
+      "link": "https://v.daum.net/v/20260814163449708?f",
+      "publisher": "v.daum.net",
+      "pubDate": "Fri, 14 Aug 2026 07:34:48 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/14/ZDNetKorea/20260814163450586stet.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-14",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "SK AX가 AI 및 디지털전환(DX) 사업 확대를 바탕으로 올해 상반기 매출 1조 2,717억 원, 영업이익 928억 원을 기록하며 성장과 수익성 개선을 달성했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-16T21:18:34.402Z"
+    },
+    {
       "id": "981e50cc4307066d",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -446,6 +600,28 @@
       "processedAt": "2026-08-14T21:22:49.475Z"
     },
     {
+      "id": "da7013410ab0ebf8",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "에너지경제신문",
+      "link": "https://www.ekn.kr/web/err.php",
+      "publisher": "에너지경제신문",
+      "pubDate": "Fri, 14 Aug 2026 05:41:05 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 에러 페이지 내용으로 삼성SDS의 마케팅 활동 정보를 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-16T21:17:17.762Z"
+    },
+    {
       "id": "497134c6a9cc9789",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -488,6 +664,50 @@
         "llmNote": null
       },
       "processedAt": "2026-08-14T21:24:04.575Z"
+    },
+    {
+      "id": "3ea42e87551acb07",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "‘투자·AX 전략통’ 윤풍영, SK하이닉스 글로벌 성장TF장 맡는다",
+      "link": "https://biz.heraldcorp.com/article/10840941",
+      "publisher": "헤럴드경제",
+      "pubDate": "Thu, 13 Aug 2026 23:07:45 GMT",
+      "keyVisual": "https://wimg.heraldcorp.com/news/cms/2026/08/14/news-p.v1.20260814.fe104962ee394115a66b5198d95b651c_T1.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "윤풍영 SK AX 사장이 SK하이닉스 글로벌 성장 TF장을 겸임하며, AX 및 투자 전략 경험을 바탕으로 계열사 간 협업과 글로벌 AI 사업 확장을 추진한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 사명 변경 및 해외 솔루션 파트너십 중심 활동과 달리, 그룹 계열사인 SK하이닉스와의 시너지 창출을 위해 경영진이 겸임 인사로 전진 배치된 점이 특징적입니다."
+      },
+      "processedAt": "2026-08-16T21:18:57.725Z"
+    },
+    {
+      "id": "112b0641d000120e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 브리티웍스, 중앙부처 9곳 도입…정부 AI 행정혁신 가속",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno",
+      "publisher": "인공지능신문",
+      "pubDate": "Thu, 13 Aug 2026 09:26:46 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 협업 솔루션 '브리티웍스'가 중앙부처 9곳에 도입되어 정부의 AI 행정혁신을 가속화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-16T21:17:10.875Z"
     },
     {
       "id": "0ff2cafd3f40887d",
@@ -730,6 +950,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-15T21:18:34.096Z"
+    },
+    {
+      "id": "f9d2385c78fb8d35",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 중앙부처 9곳에 AI 협업 솔루션 '브리티웍스' 공급",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zOS1ZU1Y3T0Q1ZHNwS0lweWtITUMzMnlBRGJ5bXNRWDQ5bEd5THVqb3U4emxMWU1PYUtZOU9SZ1phUXZmN3hCWXBIZmJwQmlWZDl5dTNOZjJYbmRKcFB6aUJWcHpjOV81LUE?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Thu, 13 Aug 2026 03:09:24 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 중앙부처 9곳에 AI 협업 솔루션 '브리티웍스'를 공급하며 공공 AI 시장에서의 입지를 강화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-16T21:17:34.953Z"
     },
     {
       "id": "27b5f37ea0fc322e",
@@ -1128,6 +1370,28 @@
       "processedAt": "2026-08-12T21:44:06.500Z"
     },
     {
+      "id": "1ae24a2b449f774b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'배당성향 40%' 약속한 LG CNS, 결산배당 늘리나",
+      "link": "https://news.bizwatch.co.kr/article/mobile/2026/08/12/0014",
+      "publisher": "비즈워치",
+      "pubDate": "Wed, 12 Aug 2026 05:11:03 GMT",
+      "keyVisual": "https://cdn.bizwatch.co.kr/news/photo/2026/01/07/3152fb14f8d40a6a0a09e99141a70aca.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS는 올해 상반기 당기순이익 급증으로 중간배당 성향이 하락했으나 결산 배당을 늘려 연간 배당성향 40% 이상 약속을 이행할 방침입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI·클라우드 등 기술 및 사업 성과 발표와 달리 주주환원과 배당 정책에 초점을 맞춘 재무 관련 소식입니다."
+      },
+      "processedAt": "2026-08-16T21:18:15.013Z"
+    },
+    {
       "id": "ecefd6263dcc38c4",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -1214,6 +1478,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-13T21:43:35.918Z"
+    },
+    {
+      "id": "db177c33da4834c5",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 동아쏘시오그룹 AI 신약개발 플랫폼 구축 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/08/12/2026081207284753958",
+      "publisher": "머니투데이",
+      "pubDate": "Wed, 12 Aug 2026 01:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081207284753958_1.jpg",
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 동아쏘시오그룹의 신약 후보물질 발굴과 검증을 지원하는 'AI 신약개발 플랫폼' 구축을 성공적으로 완료하며 제약·바이오 분야 AX 사업을 확대하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-16T21:18:24.348Z"
     },
     {
       "id": "e22bbfe7e198b184",
@@ -1716,7 +2002,7 @@
       "slogan": null,
       "keyMessage": "상장 막힌 카카오엔터에… 앵커PE, 4000억 인수금융 차환 ‘난항’ ",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-10T21:41:00.888Z"
@@ -1782,7 +2068,7 @@
       "slogan": null,
       "keyMessage": "카카오에 이어 네이버 노동조합도 파업 수순에 들어서며 통합교섭 추진에 변수가 생겼다는 보도 내용이다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-10T21:41:13.180Z"
@@ -2134,7 +2420,7 @@
       "slogan": null,
       "keyMessage": "카카오는 AI 인프라 사업 대신 카카오톡 기반의 B2C AI 에이전트 서비스 확대와 수익화에 집중한다는 중장기 전략을 발표했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 노사 협상 및 모빌리티·엔터 사업 관련 이슈와 달리, 카카오톡 중심의 B2C AI 에이전트 서비스 및 수익화에 올인하는 중장기 핵심 전략을 명확히 제시한 점이 특이합니다."
       },
       "processedAt": "2026-08-09T21:30:48.845Z"
@@ -2156,7 +2442,7 @@
       "slogan": null,
       "keyMessage": "카카오가 디지털 자산 생태계 구축을 통한 '슈퍼월렛' 구상을 추진하고 있으나 개발 및 생태계 확장에 시간이 걸리고 있다는 내용이다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 노사 임금협상 및 매출 실적 중심의 보도와 달리, 카카오의 디지털 자산 및 슈퍼월렛 전략과 관련한 이슈를 조명하고 있다는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-08-09T21:30:40.628Z"
@@ -2178,7 +2464,7 @@
       "slogan": null,
       "keyMessage": "카카오는 대규모 AI 인프라 투자 대신 카카오톡 중심의 B2C 에이전틱 AI 서비스에 집중하며, 쿠팡이츠와의 첫 연동을 시작으로 버티컬 생태계 및 수익화를 확대할 계획입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-10T21:40:55.085Z"
@@ -2200,7 +2486,7 @@
       "slogan": null,
       "keyMessage": "카카오가 '제13회 브런치북 출판 프로젝트' 수상작을 정식 출간하였습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-10T21:41:22.135Z"
@@ -2244,7 +2530,7 @@
       "slogan": null,
       "keyMessage": "토스뱅크가 데이터 분석 전담 조직을 신설하고 카카오 출신 이재헌 업무집행책임자를 수장으로 영입하여 데이터 기반 의사결정 체계를 강화한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "카카오 본사의 직접적인 마케팅이나 사업 발표 활동이 아닌 카카오 출신 인사의 타사 영입 관련 보도이다."
       },
       "processedAt": "2026-08-09T21:30:57.672Z"
@@ -2266,7 +2552,7 @@
       "slogan": null,
       "keyMessage": "카카오의 임금협상이 타결되었으나 보상체계에 대한 직원들의 불만이 계속되고 있다는 언론 보도 내용이다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-09T21:31:33.556Z"
@@ -2288,7 +2574,7 @@
       "slogan": null,
       "keyMessage": "코트라, 카카오톡 기반 정보 채널 '세계이슈톡톡' 구독자 1만명 돌파",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-09T21:31:29.381Z"
@@ -2354,7 +2640,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS를 포함한 주요 SI 3사의 2분기 실적과 하반기 AI 사업 구체화 전망을 조명한 언론 보도입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-09T21:29:01.795Z"
@@ -4646,6 +4932,28 @@
         "llmNote": null
       },
       "processedAt": "2026-07-31T22:02:35.453Z"
+    },
+    {
+      "id": "23a9a742053d7aec",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“이자 지원부터 교육까지”…SK AX, 협력사까지 AX 지원",
+      "link": "https://www.sedaily.com/article/20074508",
+      "publisher": "서울경제",
+      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/07/31/news-p.v1.20260719.9972094e660d426e8059c3df74832a56_R.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-07-31",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "SK AX가 중소 협력사의 재무적 안정성과 AI 기술 역량을 제고하기 위해 금융 지원, 정산 주기 단축, 맞춤형 AI 교육 등 상생 지원 정책을 강화하며 동반성장 생태계를 구축하고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-16T21:19:04.912Z"
     },
     {
       "id": "27292918a95b68c9",
@@ -11270,6 +11578,28 @@
       "processedAt": "2026-08-04T22:11:17.844Z"
     },
     {
+      "id": "b8ddbc550ade4697",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, '제조 현장 로봇 전환' 풀스택 서비스 가동",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10OXlfNHdKZlJBRnVOY2U4QWJUQXR4b2dfRTViSnVSWDVqTktKNTg0S0pKdmVrYWhYUzlKSUJKbTJYel95V3BjUDlUekNDUl9LZ3c0VmwzUktpbTRiOTZDbFhVOGx6R0lodWc?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 제조 현장의 로봇 전환을 위한 풀스택 서비스를 본격 가동합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-16T21:19:10.257Z"
+    },
+    {
       "id": "75802c543c3b5840",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -11290,6 +11620,28 @@
         "llmNote": "기존 활동이 AI 인재 양성 및 컨소시엄 합류 중심이었던 것과 달리, 제조업 로봇 전환(RX)을 위한 B2B 서비스 출시와 현장 적용 본격화를 다루고 있습니다."
       },
       "processedAt": "2026-08-02T21:56:53.047Z"
+    },
+    {
+      "id": "b4f951d3f49d522e",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "전북대, SK AX와 AI거점대학 구현 위한 ‘전략적 협력’",
+      "link": "https://news.unn.net/news/articleView.html?idxno",
+      "publisher": "411개 대학을 연결하는 '힘'",
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 전북대학교와 AI 거점 대학 구현을 위한 전략적 협력을 체결했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 해외 기업 협력 및 제조 AX 시장 공략 중심에서 국내 대학과의 AI 거점 구축을 위한 전략적 제휴로 협력 대상을 확장했습니다."
+      },
+      "processedAt": "2026-08-16T21:19:20.214Z"
     },
     {
       "id": "691120a3f829826d",
