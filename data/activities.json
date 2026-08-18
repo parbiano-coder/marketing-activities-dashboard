@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:28:12.086Z",
+  "updatedAt": "2026-08-18T21:24:47.078Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,270 @@
   ],
   "activities": [
     {
+      "id": "1d4412f7e4519128",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "‘뉴스제휴 때 AI학습도 예측’ 네이버에…“그랬으면 챗GPT 왜 못 이겨?”",
+      "link": "https://www.hani.co.kr/arti/society/media/1273495.html",
+      "publisher": "한겨레",
+      "pubDate": "Tue, 18 Aug 2026 20:00:00 GMT",
+      "keyVisual": "https://flexible.img.hani.co.kr/flexible/normal/736/490/imgdb/original/2026/0818/20260818503551.webp",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "서울중앙지법",
+      "format": "언론 보도",
+      "slogan": null,
+      "keyMessage": "네이버가 생성형 AI 모델인 하이퍼클로바 학습에 언론사 뉴스를 무단 활용했다며 방송3사가 제기한 손해배상 소송의 첫 증인 신문이 진행되어 계약 당시 AI 학습 예측 가능 여부를 두고 법정 공방이 벌어졌습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "서비스 출시나 마케팅 활동을 다룬 기존 사례와 달리 AI 모델 학습 데이터의 저작권 침해 관련 방송사들과의 법적 분쟁 및 법정 공방을 다루고 있다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-18T21:23:48.600Z"
+    },
+    {
+      "id": "de5c786723740848",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'보안 우려'에 네이버 내친 일본...결국 미국 의존?",
+      "link": "https://www.ytn.co.kr/_ln/0104_202608182311364860",
+      "publisher": "YTN",
+      "pubDate": "Tue, 18 Aug 2026 14:11:00 GMT",
+      "keyVisual": "https://image.ytn.co.kr/general/jpg/2026/0818/202608182311364860_t.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "일본 정부가 보안 우려를 이유로 네이버클라우드와의 연계를 끊은 이후, 방위 및 안보 관련 기밀 정보를 미국 클라우드 기업에 맡기는 방안을 검토 중이라는 현지 보도가 나왔습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "서비스 고착도 및 창작자 생태계 확장 등 자발적 마케팅 및 플랫폼 전략 중심의 기존 활동들과 달리, 일본 정부의 정책 변화 및 해외 지배구조 이슈를 다룬 외부 언론보도입니다."
+      },
+      "processedAt": "2026-08-18T21:24:06.437Z"
+    },
+    {
+      "id": "3705624108f38633",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 제휴위 정성평가 돌입, \"정량평가 통과매체 어디?\" 혼란",
+      "link": "https://v.daum.net/v/20260818181840798",
+      "publisher": "v.daum.net",
+      "pubDate": "Tue, 18 Aug 2026 09:18:40 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/18/journalist/20260818181841847tapx.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-18",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버 뉴스제휴위원회가 콘텐츠 및 검색 제휴를 위한 정성평가에 돌입했으나, 정량평가 통과 매체 정보 유출 및 절차적 투명성 논란으로 제휴 신청사들 사이에서 혼란이 일고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 동영상 서비스 확장이나 AI 마케팅 활동과 달리 포털 뉴스제휴위원회의 심사 절차 및 포털 정책 관련 논란을 다루고 있다."
+      },
+      "processedAt": "2026-08-18T21:24:33.031Z"
+    },
+    {
+      "id": "0ef00d181b36723f",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "통신·AI 기업 ‘모두의 AI’ 출사표… 네이버는 불참",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/18/VJ244GWL2RAXTM27VELKT2CJSU/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Tue, 18 Aug 2026 08:28:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/VFLTRNCZZNCZFA2LOUOGWP6QSE.png?auth=376c85445ca3f11469a1ce3af3257c5bf83ad415c302ec38f12223ee73dd18a6&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "주요 통신 및 AI 기업들이 '모두의 AI' 출사표를 던지며 결집하는 가운데 네이버는 해당 움직임에 불참했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "자체 AI 모델 및 풀스택 AI 전략을 적극적으로 추진해온 최근 행보와 달리 통신·AI 기업들의 '모두의 AI' 동맹 및 행사에 불참한 점이 특이합니다."
+      },
+      "processedAt": "2026-08-18T21:24:14.888Z"
+    },
+    {
+      "id": "dce68d382361c411",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG전자, 엔비디아와 ‘로봇 데이터 동맹’…10만시간 확보한다",
+      "link": "http://businessnews.chosun.com/site/data/html_dir/2026/08/18/2026081880150.html",
+      "publisher": "디지틀조선TV",
+      "pubDate": "Tue, 18 Aug 2026 08:24:00 GMT",
+      "keyVisual": "https://www.dizzotv.com/site/data/img_dir/2026/08/18/2026081880148_0.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "서울 서초구 LG 데이터팩토리",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS는 LG전자 등 그룹 주요 계열사와 함께 엔비디아와 로봇 데이터 사업 협업을 구체화하고, 연내 10만 시간 규모의 로봇 학습 데이터를 확보해 피지컬 AI 경쟁력을 강화한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 신약개발이나 항공 정비 시스템 구축 등 단독 IT 솔루션 사업 중심의 활동과 달리, 엔비디아와의 글로벌 파트너십을 바탕으로 그룹 차원의 피지컬 AI 및 로보틱스 데이터 생태계 구축에 참여했다."
+      },
+      "processedAt": "2026-08-18T21:21:44.998Z"
+    },
+    {
+      "id": "b25c452161803c1e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "구광모의 '원 LG'에 젠슨 황의 두뇌 심는다… 피지컬 AI 수익화 시험대",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IeUszQXdBT2puM0RGcEFMNFE5YWVtVGNidEV2WlBpY2lZcUdVR09JbjBhQk1VUnNHTTl3VEpmd0MyWGhYZ3ExeU1rdU1udHZ2RlpUOEY0ZGo4SURwLTAtYTBhWGtDRnBVeGUwNkxtUQ?oc=5",
+      "publisher": "이코리아",
+      "pubDate": "Tue, 18 Aug 2026 07:56:01 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG그룹이 엔비디아의 AI 기술을 도입하여 피지컬 AI 사업의 수익화를 본격적으로 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 신약 개발 및 정비 분석 시스템 구축과 달리, 엔비디아 협력을 통해 피지컬 AI 사업화 및 수익화를 추진한다는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-08-18T21:21:36.370Z"
+    },
+    {
+      "id": "f03df4113ea5fd60",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG전자 '클로이드', 연말까지 12년치 데이터 학습…엔비디아와 협업",
+      "link": "https://www.newspost.kr/news/articleView.html?idxno",
+      "publisher": "뉴스포스트",
+      "pubDate": "Tue, 18 Aug 2026 07:54:17 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG전자가 엔비디아와 협업하여 연말까지 12년치 데이터를 '클로이드'에 학습시킬 예정입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 LG CNS의 AI 신약개발 및 클라우드 사업 중심의 활동들과 비교했을 때 엔비디아와의 협업이 다루어진 점이 특징입니다."
+      },
+      "processedAt": "2026-08-18T21:23:04.815Z"
+    },
+    {
+      "id": "bf8a7636d8398178",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "실탄 7.6조, AI 투자만 5조…삼성SDS, ‘오픈AI·구글’ 등에 업고 AI 풀스택 정조준",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno",
+      "publisher": "뉴스퀘스트",
+      "pubDate": "Tue, 18 Aug 2026 07:51:55 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 보유한 자금을 바탕으로 AI 분야에 약 5조 원을 투자하며 오픈AI, 구글 등 글로벌 기업과 협력해 AI 풀스택 경쟁력을 강화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 공공 AI 사업 수주 및 성과 보상 관련 활동에 비해 오픈AI, 구글 등 글로벌 빅테크와의 협력 및 대규모 투자 전략이 강조된 점이 특징입니다."
+      },
+      "processedAt": "2026-08-18T21:20:55.497Z"
+    },
+    {
+      "id": "df59aceacb61f1e0",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'클로이드' 본 젠슨 황 딸 \"어메이징\"… LG, 엔비디아와 손잡는다-경제ㅣ한국일보",
+      "link": "https://www.hankookilbo.com/news/article/A2026081815360003809",
+      "publisher": "한국일보",
+      "pubDate": "Tue, 18 Aug 2026 07:32:00 GMT",
+      "keyVisual": "https://newsimg.hankookilbo.com/2026/08/18/5b6e4da3-749e-4ac9-92f1-70e647f51370.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "서울 서초구 양재 데이터팩토리",
+      "format": "현장 방문 및 비공개 회의",
+      "slogan": null,
+      "keyMessage": "LG CNS가 LG그룹 차원에서 엔비디아와 피지컬 AI 및 로보틱스 분야 협력 방안을 논의하고 물류 자동화 솔루션 등의 역량을 결합하기로 했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 클라우드 및 AI 시스템 구축 사업 중심에서 벗어나 엔비디아와 피지컬 AI 및 로보틱스 분야의 글로벌 파트너십을 본격 추진한 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-08-18T21:22:10.121Z"
+    },
+    {
+      "id": "ba4fbcf8c56271eb",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "매디슨 황 \"인크레더블\"…LG·엔비디아, 12년치 로봇 데이터 구축(종합)",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xbDk4aVBtdG4ydHB3SThvZXZ0T2ZzLUdzblNkY1QzcGdWYUxwd1FjX2w2MElKRW80OEJ0QllJOVA5V2t1OXFHVzVRVWthOGFqbUhYWjlqVzM3ME45Y0FWa0dtUHVSSlhlSTR6aTRrZw?oc=5",
+      "publisher": "마켓잉크",
+      "pubDate": "Tue, 18 Aug 2026 06:12:50 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG가 엔비디업과 협력하여 12년 치에 달하는 로봇 데이터를 구축했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 신약개발 및 항공 정비결함 분석 위주 활동에서 엔비디업과의 파트너십을 통한 로봇 데이터 구축으로 AI 사업 영역을 다양화하고 있습니다."
+      },
+      "processedAt": "2026-08-18T21:22:35.372Z"
+    },
+    {
+      "id": "d6f09f568a7f94a7",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "- 부산일보",
+      "link": "https://www.busan.com/view/busan/view.php?code",
+      "publisher": "부산일보",
+      "pubDate": "Tue, 18 Aug 2026 04:34:40 GMT",
+      "keyVisual": "https://www.busan.comhttps://www.busan.com/nas/wcms/public/pc/images/busanilbo_thum_02.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 부산일보의 저작권 및 푸터 정보로 LG CNS의 마케팅 활동 관련 내용이 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "마케팅 활동 기사가 아닌 언론사 웹사이트 푸터 저작권 정보가 입력되었습니다."
+      },
+      "processedAt": "2026-08-18T21:22:28.111Z"
+    },
+    {
+      "id": "45e97598000d31a1",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG K-엑사원, 독파모 3차 평가 진출…글로벌 프런티어급 AI 도전",
+      "link": "https://www.news1.kr/industry/general-industry/6261666",
+      "publisher": "뉴스1",
+      "pubDate": "Tue, 18 Aug 2026 02:41:50 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2026/5/27/7927626/high.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG의 K-엑사원이 독파모 3차 평가에 진출하며 글로벌 프런티어급 AI 개발에 도전한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-18T21:22:48.870Z"
+    },
+    {
       "id": "57e57abf80f0500b",
       "company": "네이버",
       "category": "IT 서비스",
@@ -114,6 +378,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:23:50.110Z"
+    },
+    {
+      "id": "a38dc9c508bfd178",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[기자의 눈] 네이버가 두나무 품을 때 생긴 ‘예외’…참 절묘한 우연",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TTURCMllmdnpQNy1YTGpKRkZNZDNIVkpKck12b3dUQ0VBNnRVLWhMczBqZE5nUDJyRTJ3SG5pNW1Ob3F3dUszdzNJV3FNNjdPeFRfQUFiTlhkUm8?oc=5",
+      "publisher": "에너지경제신문",
+      "pubDate": "Mon, 17 Aug 2026 21:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 두나무를 지분 인수 또는 협력하는 과정에서 발생한 예외적인 상황을 조명한 기사입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 자사 AI 전략 및 숏폼 서비스 고도화 중심의 활동과 달리 두나무와의 M&A 및 지분 관련 이슈를 다루고 있어 특이점이 있습니다."
+      },
+      "processedAt": "2026-08-18T21:24:23.118Z"
     },
     {
       "id": "1324bed0438587f9",
@@ -534,6 +820,28 @@
       "processedAt": "2026-08-16T21:17:04.444Z"
     },
     {
+      "id": "f07db2443619aaad",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "공무원 협업툴이 AI사업 교두보…네이버·삼성SDS, 온AI 선점전",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83aVc3OXZkaVd6aEY4MWd6WmxDQ1FsNzJyNThpU1VMUS0zblFTQm9udkNWZnNLeG42ZWVPUDV2bWhBdUx0am9BZlVVZUhKRzI4ZmNNdG16NWxMVkJuY0ZHZjVn?oc=5",
+      "publisher": "디지털데일리",
+      "pubDate": "Sat, 15 Aug 2026 23:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 공무원 협업툴을 교두보로 삼아 공공 AI 시장 선점 경쟁에 적극적으로 나서고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-18T21:21:18.089Z"
+    },
+    {
       "id": "8a234b23a943ba88",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -572,7 +880,7 @@
       "slogan": null,
       "keyMessage": "'최태원의 전략통'…SK하이닉스 AI 신사업 발굴 맡은 기타리스트 [강경주의 테크X]",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-16T21:18:41.838Z"
@@ -858,7 +1166,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 AI 및 디지털전환(DX) 사업 확대를 바탕으로 올해 상반기 매출 1조 2,717억 원, 영업이익 928억 원을 기록하며 성장과 수익성 개선을 달성했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-16T21:18:34.402Z"
@@ -880,7 +1188,7 @@
       "slogan": null,
       "keyMessage": "제공된 본문은 지디넷코리아의 사이트 안내 및 뉴스레터 구독 관련 내용으로 SK AX의 마케팅 활동 정보가 포함되어 있지 않습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-14T21:25:23.245Z"
@@ -1122,7 +1430,7 @@
       "slogan": null,
       "keyMessage": "윤풍영 SK AX 사장이 SK하이닉스 글로벌 성장 TF장을 겸임하며, AX 및 투자 전략 경험을 바탕으로 계열사 간 협업과 글로벌 AI 사업 확장을 추진한다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 사명 변경 및 해외 솔루션 파트너십 중심 활동과 달리, 그룹 계열사인 SK하이닉스와의 시너지 창출을 위해 경영진이 겸임 인사로 전진 배치된 점이 특징적입니다."
       },
       "processedAt": "2026-08-16T21:18:57.725Z"
@@ -12148,6 +12456,28 @@
         "llmNote": "기존의 제조·교육 및 얼라이언스 합류 중심 활동과 달리 발전·에너지 분야 공기업인 한국전력기술과 손잡고 에너지 산업 AX 시장으로 협력을 확장했습니다."
       },
       "processedAt": "2026-08-07T21:36:58.889Z"
+    },
+    {
+      "id": "3f992d3f20d3098b",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "한전기술-SK AX, 발전·에너지 산업 AX 공동 추진",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LaFZpT0JMemlFMWJEOXVjVF9KMUQxdnA2Z1huYnJ2d25tYU10M0VhV3Q1UVNqWFAyZWltaXgxQVdVZHRkZzUwQk1iSm83QTJ0c2dxbEQ0SGZYdldzQVM4c3NIS1Y?oc=5",
+      "publisher": "국토일보",
+      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 한전기술과 함께 발전 및 에너지 산업 분야의 AI 전환(AX) 사업을 공동으로 추진한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-18T21:23:25.951Z"
     },
     {
       "id": "76fd75aa9e05d588",
