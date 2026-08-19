@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T21:24:47.078Z",
+  "updatedAt": "2026-08-19T21:29:14.751Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,336 @@
   ],
   "activities": [
     {
+      "id": "57d70c359abfd04d",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "제주 사장님 “육지 손님 몇명 왔어?”…네이버페이는 다 안다 [팩플]",
+      "link": "https://v.daum.net/v/20260820050222527",
+      "publisher": "v.daum.net",
+      "pubDate": "Wed, 19 Aug 2026 20:02:22 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/20/joongang/20260820050223616bkok.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "경기 성남시 네이버 1784 사옥",
+      "format": "언론 인터뷰",
+      "slogan": null,
+      "keyMessage": "네이버페이는 오프라인 및 온라인 결제 데이터와 비금융 데이터를 결합하여 자영업자 대상 분석 리포트를 제공하고, AI 기반의 개인 맞춤형 금융 추천을 강화하는 자산 관리 플랫폼 전략을 추진하고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 소송 및 보안 관련 부정적 이슈나 리스크 소식이 주를 이루었던 것과 달리, 네이버페이의 데이터 및 AI 기반 핀테크 본업 전략을 적극 홍보하는 리더십 인터뷰이다."
+      },
+      "processedAt": "2026-08-19T21:27:58.669Z"
+    },
+    {
+      "id": "b174cbe335396fd8",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI 시대, PLM은 어떻게 진화해야 하는가 | 인사이트리포트 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/insights/plm-evolution-in-the-ai-era.html",
+      "publisher": "Samsung SDS America",
+      "pubDate": "Wed, 19 Aug 2026 10:44:43 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/08/19/thumb_0819.png?queryString=20260819042916",
+      "activityType": "기타",
+      "eventDate": "2026-08-19",
+      "location": null,
+      "format": "인사이트 리포트",
+      "slogan": null,
+      "keyMessage": "AI 시대의 PLM은 단순 데이터 관리를 넘어 Digital Thread와 AI 에이전트를 기반으로 제품 개발 전반의 맥락을 이해하는 지능형 플랫폼으로 진화해야 합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 공공 AI 사업 수주 및 투자 소식과 달리 제조·R&D 분야의 차세대 PLM 전략을 다룬 기술 인사이트 리포트 발간 활동입니다."
+      },
+      "processedAt": "2026-08-19T21:22:22.361Z"
+    },
+    {
+      "id": "a0926d8cc59269b6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[클릭 e종목]\"삼성SDS, 중장기 매출 발생 기대…목표가↑\"",
+      "link": "https://v.daum.net/v/20260819183051195",
+      "publisher": "v.daum.net",
+      "pubDate": "Wed, 19 Aug 2026 09:30:51 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/19/akn/20260819183051161pyyc.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-19",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LS증권은 삼성SDS가 AIDC 인프라부터 AI 솔루션까지 아우르는 풀스택 AX 역량을 바탕으로 중장기 매출 성장을 이끌 것으로 전망하며 목표주가를 상향했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-19T21:22:53.232Z"
+    },
+    {
+      "id": "d9a699b2c8fc9c6c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 매출 6% 늘 때 계약자산 41%&uarr;&hellip;AI 대형사업 &lsquo;현금화&rsquo;가 다음 과제",
+      "link": "https://www.mydaily.co.kr/page/view/2026081916310686505",
+      "publisher": "마이데일리",
+      "pubDate": "Wed, 19 Aug 2026 07:31:06 GMT",
+      "keyVisual": "https://mydaily.co.kr/photos/2026/06/09/2026060910490263590_l.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 매출 6% 늘 때 계약자산 41%&uarr;&hellip;AI 대형사업 &lsquo;현금화&rsquo;가 다음 과제",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-19T21:24:54.664Z"
+    },
+    {
+      "id": "bbebab2ec16532d2",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오, LG유플러스 등 14개사와 컨소시엄 구성…과기부 '모두의 AI' 참여",
+      "link": "https://www.efnews.co.kr/news/articleView.html?idxno",
+      "publisher": "파이낸셜신문",
+      "pubDate": "Wed, 19 Aug 2026 07:12:53 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 카카오, LG유플러스 등 14개사와 컨소시엄을 구성하여 과학기술정보통신부의 '모두의 AI' 사업에 참여합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 엔비디아와의 피지컬 AI 및 로봇 분야 협력에 집중했던 것과 달리, 정부 주도의 다자간 AI 컨소시엄에 참여했습니다."
+      },
+      "processedAt": "2026-08-19T21:25:08.398Z"
+    },
+    {
+      "id": "f9c39df227658dec",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 클라우드, 상반기 ITO 매출 역전…비중 20% 돌파",
+      "link": "https://www.bloter.net/news/articleViewAmp.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Wed, 19 Aug 2026 06:42:08 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS의 클라우드 사업 매출이 상반기 기준 ITO 매출을 역전하며 비중 20%를 돌파했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 분야 투자 및 공공 AI 사업 수주 중심의 활동과 달리, 클라우드 사업의 매출 비중 확대 및 ITO 역전이라는 구체적인 실적 성과를 조명하고 있습니다."
+      },
+      "processedAt": "2026-08-19T21:23:20.312Z"
+    },
+    {
+      "id": "edd2076f238df606",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오, '모두의 AI' 위해 LG AI연구원 등 14개 기업과 컨소시엄",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YVERmcVMzZkhPb0VwRkpJOWNoUC1FTkdMSU5sdG4yXzB5cTJLYW9LbjNONXpHcnN3elc0Z0tVcHdVX1FEbHpBUFRZVTlKeDk2NTlzdnhVSHRTMF9aMFlUZmFHcXZaQQ?oc=5",
+      "publisher": "디일렉",
+      "pubDate": "Wed, 19 Aug 2026 05:51:10 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오가 '모두의 AI' 조성을 위해 LG AI연구원을 포함한 14개 기업과 컨소시엄을 구축했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 엔비디아와의 피지컬 AI 및 로보틱스 협력 중심 행보와 달리, 카카오가 주도하는 AI 컨소시엄에 참여한 점이 특이점입니다."
+      },
+      "processedAt": "2026-08-19T21:24:21.275Z"
+    },
+    {
+      "id": "210b5a98f9ddf7b5",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "&ldquo;지속가능한 미래 만든다&rdquo;&hellip;LG, &lsquo;2025 ESG 보고서&rsquo; 발간",
+      "link": "https://www.ceoscoredaily.com/page/view/2026081914122864962",
+      "publisher": "CEO스코어데일리",
+      "pubDate": "Wed, 19 Aug 2026 05:12:56 GMT",
+      "keyVisual": "/photos/2026/08/19/2026081914064885854_l.PNG",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-19",
+      "location": null,
+      "format": "ESG 보고서 발간",
+      "slogan": null,
+      "keyMessage": "LG는 LG CNS를 포함한 종속·주요 계열사의 지속가능경영 성과와 계획을 담은 '2025 ESG 보고서'를 발간하고, 준법 경영·기후 변화·안전보건 3대 축 중심의 ESG 경영 실천 노력을 공개했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 엔비디아와의 피지컬 AI 및 로보틱스 협력에 집중되던 기술·사업 마케팅 활동과 달리, 그룹 차원의 지속가능경영(ESG) 보고서 발간에 관한 소식입니다."
+      },
+      "processedAt": "2026-08-19T21:25:02.363Z"
+    },
+    {
+      "id": "ac7d5fbdd8d0c4eb",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "㈜LG, ‘2025 ESG 보고서’ 발간… 2050년까지 온실가스 배출량 100% 감축",
+      "link": "https://biz.chosun.com/industry/company/2026/08/19/2SAM3Z5XEBC5LIAHXHN6UPP3E4/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Wed, 19 Aug 2026 02:38:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/G44DIYTDGU2DOMBWGIYTMOLCG4.jpg?auth=86ee87698c30d226d092984415117e803009196296c1f1688cb0faeb25f974f4&width=742&height=389&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "㈜LG가 '2025 ESG 보고서'를 발간하고 2050년까지 온실가스 배출량을 100% 감축하겠다는 목표를 발표했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 엔비디아와의 피지컬 AI 및 로보틱스 협업 중심의 활동들과 달리 지주사 차원의 ESG 경영 및 탄소중립 목표를 다루고 있습니다."
+      },
+      "processedAt": "2026-08-19T21:25:54.607Z"
+    },
+    {
+      "id": "99e2399511ff2dbf",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'모두의AI' 카카오, LG 손잡고 출사표…플랫폼-인프라 결합",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yUkFHcVVWWjBCZDM1M3NNTnBNeDgwZkFoY1dYM2t5VWM1c0I3ck8wUlI0NUZjN3RZUjlUXzdmNVlVSXp6LXZLNU55dkRidG8wZlEtMFZXNFJ5bGVLY01vZV80SlRUOEFlXy1UbU9UaDE?oc=5",
+      "publisher": "신아일보",
+      "pubDate": "Wed, 19 Aug 2026 01:30:21 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "'모두의AI' 카카오, LG 손잡고 출사표…플랫폼-인프라 결합",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-19T21:27:00.807Z"
+    },
+    {
+      "id": "6d03592a53663c85",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오, LG유플러스·LG AI연구원과 '모두의 AI' 사업 참여",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uLUV6cWhxbExlMFVHaS1ET29QZ1ZTbk45MURkbXlJdUVkNnB1ZDdsRVJ5c3M5aEdvVW9aYks1X1ZTNmo0TE1SY0Rub1dMZw?oc=5",
+      "publisher": "전자신문",
+      "pubDate": "Wed, 19 Aug 2026 00:38:54 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오가 LG유플러스 및 LG AI연구원과 함께 '모두의 AI' 사업에 참여한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 엔비디아와의 피지컬 AI 및 로봇 데이터 협력에 집중되던 흐름과 달리 카카오와의 '모두의 AI' 사업 협력 내용이다."
+      },
+      "processedAt": "2026-08-19T21:25:24.400Z"
+    },
+    {
+      "id": "1017d36402fcd94d",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'보안 우려'에 네이버 내친 일본...결국 미국 의존?",
+      "link": "https://science.ytn.co.kr/program/view.php?mcd",
+      "publisher": "YTN 사이언스",
+      "pubDate": "Wed, 19 Aug 2026 00:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "일본이 보안 우려를 이유로 네이버와의 연계를 중단하고 미국 클라우드 기업 의존을 검토 중이라는 소식을 전하는 언론보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-19T21:29:01.380Z"
+    },
+    {
+      "id": "e99ca0ea3c92c61f",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "&ldquo;AI로 의료&middot;신약 개발 속도 낸다&rdquo;&hellip;삼성SDS&middot;LG CNS, &lsquo;의료&middot;바이오 AX&rsquo; 본격화",
+      "link": "https://www.ceoscoredaily.com/page/view/2026081816553195312",
+      "publisher": "CEO스코어데일리",
+      "pubDate": "Tue, 18 Aug 2026 23:59:24 GMT",
+      "keyVisual": "/photos/2026/08/18/2026081816544180933_l.png",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-19",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 종합 병원정보시스템 '넥스메드 EHR'과 클라우드 인프라를 통해 의료 데이터를 표준화하고 의료 AI 전환(AX) 생태계 확장에 적극 나서고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 활동이 공공 AI 분야 수주 및 AI 투자에 집중되었던 것과 달리 제약·바이오 및 디지털 헬스케어 AX 영역 확장에 주목하고 있다는 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-08-19T21:24:14.695Z"
+    },
+    {
+      "id": "df4e8cd90dbeb376",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LS證 “삼성SDS, AX 본격화로 IT 서비스 개척… 목표가 30만7000원으로 상향”",
+      "link": "https://biz.chosun.com/stock/stock_general/2026/08/19/PCHZI2RELNGAJM5JS2KGGG6DY4/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Tue, 18 Aug 2026 23:55:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/GRSDGMBXMQ4TSZBXMQ3GKODBMM.jpg?auth=b0658098255814857e00ab9051be8edddcbe130810fc465433652f1559b536f3&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LS증권이 삼성SDS의 AX 본격화 및 IT 서비스 개척을 긍정적으로 전망하며 목표주가를 30만 7000원으로 상향 조정했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-19T21:23:46.680Z"
+    },
+    {
+      "id": "6904dde78774b43b",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"나흘간 전품목 50% 할인\"…던킨, 네이버페이 결제 프로모션",
+      "link": "https://www.asiae.co.kr/article/2026081908440186024",
+      "publisher": "아시아경제",
+      "pubDate": "Tue, 18 Aug 2026 23:47:11 GMT",
+      "keyVisual": "https://cphoto.asiae.co.kr/listimglink/1/2026081908431884482_1787096598.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "19~22일",
+      "location": null,
+      "format": "제휴 프로모션",
+      "slogan": null,
+      "keyMessage": "네이버페이가 던킨과 함께 나흘간 네이버페이 QR 결제 고객을 대상으로 전 품목 50% 할인 혜택을 제공하는 프로모션을 진행한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 네이버 관련 활동이 주로 AI 무단 학습 소송, 뉴스 제휴 논란, 라인 야후 안보 이슈 등 악재성 이슈에 집중되었던 반면, 이번 활동은 네이버페이 실사용 촉진을 위한 B2C 제휴 마케팅이다."
+      },
+      "processedAt": "2026-08-19T21:27:46.911Z"
+    },
+    {
       "id": "1d4412f7e4519128",
       "company": "네이버",
       "category": "IT 서비스",
@@ -158,6 +488,28 @@
         "llmNote": "기존의 동영상 서비스 확장이나 AI 마케팅 활동과 달리 포털 뉴스제휴위원회의 심사 절차 및 포털 정책 관련 논란을 다루고 있다."
       },
       "processedAt": "2026-08-18T21:24:33.031Z"
+    },
+    {
+      "id": "880182266936176d",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] 네이버페이, 국내 첫 '양자보안 방벽' 쌓았다",
+      "link": "https://www.hankyung.com/article/2026081879241",
+      "publisher": "한국경제",
+      "pubDate": "Tue, 18 Aug 2026 09:13:50 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202608/AA.45375383.1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[단독] 네이버페이, 국내 첫 '양자보안 방벽' 쌓았다",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-19T21:28:31.103Z"
     },
     {
       "id": "0ef00d181b36723f",
@@ -4008,6 +4360,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-07T01:02:22.270Z"
+    },
+    {
+      "id": "af024e7e163d0e2d",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 올해도 주당 750원 중간배당…726.6억원 규모",
+      "link": "https://www.news1.kr/it-science/internet-platform/6250993",
+      "publisher": "뉴스1",
+      "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2026/2/18/7754682/high.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 주당 750원, 총 726.6억 원 규모의 중간배당을 실시합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 엔비디아와의 피지컬 AI 및 로봇 데이터 협력 등 기술·사업 중심의 활동과 달리 재무적 주주환원(중간배당) 관련 소식이라는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-08-19T21:26:29.193Z"
     },
     {
       "id": "16a5ecf0cdfbd4c7",
@@ -12566,6 +12940,28 @@
         "llmNote": "기존의 국내 AX 수주 중심 활동들과 달리 글로벌 빅테크 기업인 엔비디아와의 직접적인 파트너십 논의 및 본사 방문을 다루고 있다는 점에서 차별화됩니다."
       },
       "processedAt": "2026-08-11T21:46:06.932Z"
+    },
+    {
+      "id": "86305618131c2d3b",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, AI가 기업성장 이끄는 '에이전틱 엔터프라이즈' 시대 연다",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85ZzgyTTBCUjJEdXRQN1llTEZjM3M0amVJM3A3Zk9SYVJMcG9sOHhURmFwVmVfWExHR1NadFNia21ZMFVWR0xJQ0JvOUs2UQ?oc=5",
+      "publisher": "전자신문",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 AI 기반의 '에이전틱 엔터프라이즈'를 통해 기업 성장을 이끌어가겠다는 비전을 제시했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-19T21:27:14.614Z"
     }
   ]
 }
