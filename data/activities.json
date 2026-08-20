@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T21:29:14.751Z",
+  "updatedAt": "2026-08-20T21:33:18.265Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,380 @@
   ],
   "activities": [
     {
+      "id": "11af12e616b21bf8",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT서비스 빅2, AIDC전략 엇갈려...삼성SDS-자체 데이터센터 증설​​ vs.​ LG CNS-솔루션 확대",
+      "link": "https://www.consumernews.co.kr/news/articleView.html?idxno",
+      "publisher": "소비자가 만드는 신문",
+      "pubDate": "Thu, 20 Aug 2026 21:10:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 경쟁사인 LG CNS의 솔루션 확대 전략과 달리 자체 데이터센터 증설을 중심으로 한 AIDC 전략을 추진하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-20T21:24:58.715Z"
+    },
+    {
+      "id": "11af12e616b21bf8",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT서비스 빅2, AIDC전략 엇갈려...삼성SDS-자체 데이터센터 증설​​ vs.​ LG CNS-솔루션 확대",
+      "link": "https://www.consumernews.co.kr/news/articleView.html?idxno",
+      "publisher": "소비자가 만드는 신문",
+      "pubDate": "Thu, 20 Aug 2026 21:10:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AIDC(AI 데이터센터) 시장에 대응하기 위해 자체 데이터센터 증설 대신 솔루션 확대 전략을 추진하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-20T21:28:41.691Z"
+    },
+    {
+      "id": "05a27e0f4c20de78",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "타워팰리스에 ‘네 발 로봇 경비원’ 뜬다",
+      "link": "https://www.donga.com/news/People/article/all/20260821/134516248/2",
+      "publisher": "동아일보",
+      "pubDate": "Thu, 20 Aug 2026 19:30:00 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134516615.1.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "타워팰리스에 ‘네 발 로봇 경비원’ 뜬다",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-20T21:26:24.928Z"
+    },
+    {
+      "id": "7b4ef88fc7f05faf",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 카페 글쓰기 오류…안드로이드 이용자들 불편 제기 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260820179700017",
+      "publisher": "연합뉴스",
+      "pubDate": "Thu, 20 Aug 2026 11:29:34 GMT",
+      "keyVisual": "https://img9.yna.co.kr/etc/inner/KR/2026/08/20/AKR20260820179700017_02_i_P4.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-20",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "안드로이드 스마트폰의 모바일 웹 네이버 카페에서 게시글 작성 시 발생하는 스크롤 및 키보드 입력 오류에 대해 네이버 측은 오류를 인지하고 패치를 수정 배포할 예정이라고 밝혔습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 금융 마케팅, AI 소송, 해외 클라우드 이슈 관련 보도와 달리 자사 핵심 서비스의 기술적 오류 발생 및 조치 계획에 관한 언론보도라는 점이 특이합니다."
+      },
+      "processedAt": "2026-08-20T21:31:09.128Z"
+    },
+    {
+      "id": "9d8e16c110d6edca",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[전자·IT 레이더] LG전자·LG CNS, 친환경 신소재와 사족보행 로봇 앞세워 미래 B2B 기술력 입증",
+      "link": "https://www.thevaluenews.co.kr/news/200943",
+      "publisher": "더밸류뉴스",
+      "pubDate": "Thu, 20 Aug 2026 09:19:08 GMT",
+      "keyVisual": "https://www.thevaluenews.co.kr/data/cheditor4/2608/8b476d917273ef00c215efc48c8506abd1762d83.jpeg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": "업무협약(MOU)",
+      "slogan": null,
+      "keyMessage": "LG CNS가 주거시설 관리 기업 타워피엠씨와 업무협약을 맺고 타워팰리스에 자체 로보틱스 플랫폼 기반의 사족보행 경비로봇을 도입하여 주거 공간 내 피지컬 AI 솔루션을 확대한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 대형 사업 수주나 ESG 경영 활동 중심에서 벗어나 주거 보안 영역에 사족보행 로봇 및 피지컬 AI 솔루션을 실증·적용하는 파트너십을 추진한 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-08-20T21:28:18.205Z"
+    },
+    {
+      "id": "900765e77f6682c9",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 디지털트윈 ‘사우디 표준 플랫폼’ 됐다",
+      "link": "https://www.sedaily.com/article/20081534",
+      "publisher": "서울경제",
+      "pubDate": "Thu, 20 Aug 2026 09:06:35 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/08/20/news-g.v1.20260820.c475342e87484cb3b2df6487e13c9c01_R.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-20",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버의 디지털트윈 플랫폼이 사우디아라비아 국가 디지털트윈 표준 플랫폼으로 공식 채택되었으며, 이를 발판으로 로봇, AI, 지도 기반 슈퍼앱 등 중동 사업 확장을 가속화한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 일본 연계 중단 이슈나 AI 학습 소송 등 악재가 이어진 것과 달리, 사우디 정부의 국가 표준 채택이라는 대형 해외 기술 수출 성과를 보여준 점이 특징적입니다."
+      },
+      "processedAt": "2026-08-20T21:32:35.495Z"
+    },
+    {
+      "id": "73fa7f1839f2c9b4",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 노조 “8년 개별교섭 끝내자”…전 계열사 통합교섭 공식 요구",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FSzlLYmhnVUpxcjQ4aWdNMGVYTlBscENtU3hfenUyQmdLT3ZGRVVkMVJ5enZuc29BOU9TblpESXlpY01MQzFVclg0c2pfVmY3SlJ5ZzlYaERlTXc?oc=5",
+      "publisher": "에너지경제신문",
+      "pubDate": "Thu, 20 Aug 2026 07:09:20 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버 노동조합이 8년 동안 이어져 온 계열사별 개별교섭을 끝내고 전 계열사 통합교섭을 공식적으로 요구했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 금융·AI 서비스 마케팅이나 대외 법적·안보 이슈와 달리, 노사 관계 및 전 계열사 교섭 방식 전환 요구를 다룬 보도라는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-08-20T21:30:37.486Z"
+    },
+    {
+      "id": "3708a55ae15684d8",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[르포] 단차 넘고 사람 피하고…타워팰리스 순찰 나선 LG CNS 사족보행 로봇",
+      "link": "https://v.daum.net/v/20260820160054163",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 20 Aug 2026 07:00:54 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/20/552779-26fvic8/20260820160056339jolf.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "2026-08-20",
+      "location": "서울 강남구 타워팰리스",
+      "format": "PoC 현장 시연",
+      "slogan": null,
+      "keyMessage": "LG CNS가 주거시설 관리기업 타워피엠씨와 협력하여 서울 강남 타워팰리스에서 자체 로봇 플랫폼 '피지컬웍스' 기반 사족보행 경비로봇의 기술검증(PoC)을 진행하고 4분기 내 실제 운영에 나설 계획입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 AI 컨소시엄 참여나 ESG 보고서 발간 등과 달리, 피지컬 AI 기술을 적용한 사족보행 로봇의 실체적인 주거시설 순찰 PoC 현장을 직접 선보인 점이 특징적입니다."
+      },
+      "processedAt": "2026-08-20T21:28:49.060Z"
+    },
+    {
+      "id": "ea32c35ee33c4b56",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[웰컴 :) AI 태블로⑤] LG CNS의 픽은? \"구매 조직 협상력, 데이터의 연결\"",
+      "link": "https://www.econovill.com/news/articleView.html?idxno",
+      "publisher": "ER 이코노믹리뷰",
+      "pubDate": "Thu, 20 Aug 2026 06:26:50 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 데이터 연결을 통한 구매 조직의 협상력 강화 방안을 AI 태블로 활용 사례로 강조했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-20T21:27:22.340Z"
+    },
+    {
+      "id": "b2a9ec2ba62496e9",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI 에이전트 시대, AI-Ready 뱅킹의 조건 | 인사이트리포트 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/insights/next-gen-financial-ai-agent-ready.html",
+      "publisher": "Samsung SDS America",
+      "pubDate": "Thu, 20 Aug 2026 05:07:29 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/08/20/thumb_0820_1.png?queryString=20260820014844",
+      "activityType": "기타",
+      "eventDate": "2026-08-20",
+      "location": null,
+      "format": "인사이트 리포트",
+      "slogan": null,
+      "keyMessage": "금융권 AI 전환의 핵심은 모델 성능 경쟁이 아니라 AI-Ready 데이터, 클라우드 아키텍처, 거버넌스를 통합하여 안전하게 업무를 수행할 수 있는 AI Full Stack 실행 환경 구축이라는 점을 제시한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-20T21:25:24.473Z"
+    },
+    {
+      "id": "6a41affef1365d60",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“아파트 순찰하는 로봇”…LG CNS, 사족보행 ‘경비 로봇’ 검증 진행",
+      "link": "https://www.khan.co.kr/article/202608201138001",
+      "publisher": "경향신문",
+      "pubDate": "Thu, 20 Aug 2026 02:38:00 GMT",
+      "keyVisual": "https://img.khan.co.kr/news/2026/08/20/news-p.v1.20260820.5cdfcbd645954c54bf0471c88eedd9af_P1.png",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "서울 마곡 LG사이언스파크 본사",
+      "format": "업무협약 체결",
+      "slogan": null,
+      "keyMessage": "LG CNS가 타워피엠씨와 '보안 로봇 솔루션 서비스 구축' 업무협약을 체결하고, 주상복합단지 내 사족보행 경비로봇 도입을 위한 기술 검증을 진행합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 대형 AI 사업 컨소시엄 참여나 ESG 경영 보고서 발간 등의 활동과 달리, 주거 단지 실증 형태의 피지컬 AI 및 로봇 솔루션 현장 적용으로 협력 범위를 넓혔다는 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-08-20T21:29:18.233Z"
+    },
+    {
+      "id": "902197d0e73e6372",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"사우디 도시계획은 네이버 플랫폼으로\"…사우디 '국가 표준' 됐다 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/08/20/2026082010422511248",
+      "publisher": "머니투데이",
+      "pubDate": "Thu, 20 Aug 2026 01:53:44 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082010422511248_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "\"사우디 도시계획은 네이버 플랫폼으로\"…사우디 '국가 표준' 됐다 - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-20T21:32:05.046Z"
+    },
+    {
+      "id": "3d7f22371a7ab89b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "야간·지하주차장 경비 공백 줄인다...LG CNS, 타워펠리스에 '네발 로봇' 투입",
+      "link": "https://news.mtn.co.kr/news-detail/2026082009310058736",
+      "publisher": "MTN 머니투데이방송",
+      "pubDate": "Thu, 20 Aug 2026 01:28:25 GMT",
+      "keyVisual": "https://menu.mtn.co.kr/upload/article/2026/08/20/2026082009310058736_00_953.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "야간·지하주차장 경비 공백 줄인다...LG CNS, 타워펠리스에 '네발 로봇' 투입",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-20T21:29:49.379Z"
+    },
+    {
+      "id": "78f7d0fbd4c79ccd",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 강남 타워팰리스에 경비로봇 도입… “로봇이 아파트 순찰”",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/20/YM5GUAGCGBAXVNSVHW2ZMFTSQA/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Thu, 20 Aug 2026 01:04:42 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/XPILMAANZNC5FCRVZIS4CBZZ7I.jpg?auth=5740579cc00b57f4b266c42097ce49bd7ad4c66107b8f7a169c52c98b71de569&width=1200&height=630&smart=true",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 강남 타워팰리스에 경비로봇 도입… “로봇이 아파트 순찰”",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-20T21:26:55.897Z"
+    },
+    {
+      "id": "eac169732cb29dde",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 타워팰리스에 경비로봇 도입…RX 플랫폼 '피지컬웍스' 적용",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oUjRJSVA3dFpPZWpLNHdCeWxRa0pFRVVrNnFMVUxLUktyU3hEWld3ZnlLNWJLakZXTmMyb3k5NzI1YjlOY3otMWdPQklvdw?oc=5",
+      "publisher": "전자신문",
+      "pubDate": "Thu, 20 Aug 2026 01:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": "타워팰리스",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 타워팰리스에 경비로봇을 도입하고 RX 플랫폼 '피지컬웍스'를 적용하였습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 사업 참여 및 ESG 경영 중심 활동과 달리 주거 공간에 경비로봇 및 RX(Robotics Transformation) 플랫폼을 직접 적용한 실체적 물리 서비스 사례입니다."
+      },
+      "processedAt": "2026-08-20T21:30:04.750Z"
+    },
+    {
+      "id": "9adcb57f1c192dc3",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 디지털트윈 플랫폼, 사우디 ‘국가 표준’ 됐다…지자체 우선 도입",
+      "link": "https://v.daum.net/v/20260820091758811",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 20 Aug 2026 00:17:58 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/20/ned/20260820091758477ajyh.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-20",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버의 클라우드 기반 디지털트윈 플랫폼이 사우디아라비아 디지털정부청으로부터 지자체용 국가 표준 플랫폼으로 공식 승인받았다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "국내 핀테크, 소송 및 일본 관련 이슈 위주였던 최근 활동들과 달리 사우디아라비아 정부의 B2G 대형 글로벌 사업 성과를 공식 발표했다는 점이 특이합니다."
+      },
+      "processedAt": "2026-08-20T21:31:34.065Z"
+    },
+    {
+      "id": "a248394ee9950df5",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "마켓in",
+      "link": "https://marketin.edaily.co.kr/",
+      "publisher": "마켓인",
+      "pubDate": "Wed, 19 Aug 2026 23:37:05 GMT",
+      "keyVisual": "https://marketin.edaily.co.kr/_next/static/media/marketin02_thumb_400x226.c6833b9d.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 기사는 한국신용평가 세미나 논란 및 M&A, 회사채 등 금융 시장 동향에 대한 뉴스 모음으로 네이버의 마케팅 활동과 관련된 내용은 명시되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "네이버의 고유 마케팅 활동이나 서비스 관련 소식이 아닌 금융 시장 일반 기사 목록이 제출되었다는 점이 특이합니다."
+      },
+      "processedAt": "2026-08-20T21:33:05.635Z"
+    },
+    {
       "id": "57d70c359abfd04d",
       "company": "네이버",
       "category": "IT 서비스",
@@ -110,7 +484,7 @@
       "slogan": null,
       "keyMessage": "네이버페이는 오프라인 및 온라인 결제 데이터와 비금융 데이터를 결합하여 자영업자 대상 분석 리포트를 제공하고, AI 기반의 개인 맞춤형 금융 추천을 강화하는 자산 관리 플랫폼 전략을 추진하고 있다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 소송 및 보안 관련 부정적 이슈나 리스크 소식이 주를 이루었던 것과 달리, 네이버페이의 데이터 및 AI 기반 핀테크 본업 전략을 적극 홍보하는 리더십 인터뷰이다."
       },
       "processedAt": "2026-08-19T21:27:58.669Z"
@@ -158,6 +532,50 @@
         "llmNote": null
       },
       "processedAt": "2026-08-19T21:22:53.232Z"
+    },
+    {
+      "id": "44ccd4ddba744659",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 클라우드, 상반기 ITO 매출 역전…비중 20% 돌파",
+      "link": "https://v.daum.net/v/70FWT3nQEc",
+      "publisher": "v.daum.net",
+      "pubDate": "Wed, 19 Aug 2026 09:02:43 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S800x400/?fname=https://t1.daumcdn.net/news/202608/19/bloter/20260819180243859gwrw.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS의 올해 상반기 클라우드 매출이 ITO 매출을 최초로 역전하며 전체 매출 비중 20%를 돌파했고, 공공·금융 등 대외 고객 확대를 바탕으로 클라우드 중심의 성장세를 이어가고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-20T21:25:53.034Z"
+    },
+    {
+      "id": "4067314395e16fb8",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, ���� 6% �� �� ����ڻ� 41%�衦AI ������� '����ȭ'�� ���� ���� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260819n26944",
+      "publisher": "네이트",
+      "pubDate": "Wed, 19 Aug 2026 07:32:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2026/08/19/2026060910490263590_l.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 상반기 AI 및 클라우드 대형 사업 확대로 매출 성장을 기록했으나, 계약자산이 크게 증가함에 따라 이를 안정적으로 현금화하는 것이 향후 주요 과제로 제시되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-20T21:27:48.303Z"
     },
     {
       "id": "d9a699b2c8fc9c6c",
@@ -352,7 +770,7 @@
       "slogan": null,
       "keyMessage": "일본이 보안 우려를 이유로 네이버와의 연계를 중단하고 미국 클라우드 기업 의존을 검토 중이라는 소식을 전하는 언론보도입니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-19T21:29:01.380Z"
@@ -418,7 +836,7 @@
       "slogan": null,
       "keyMessage": "네이버페이가 던킨과 함께 나흘간 네이버페이 QR 결제 고객을 대상으로 전 품목 50% 할인 혜택을 제공하는 프로모션을 진행한다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 네이버 관련 활동이 주로 AI 무단 학습 소송, 뉴스 제휴 논란, 라인 야후 안보 이슈 등 악재성 이슈에 집중되었던 반면, 이번 활동은 네이버페이 실사용 촉진을 위한 B2C 제휴 마케팅이다."
       },
       "processedAt": "2026-08-19T21:27:46.911Z"
@@ -440,7 +858,7 @@
       "slogan": null,
       "keyMessage": "네이버가 생성형 AI 모델인 하이퍼클로바 학습에 언론사 뉴스를 무단 활용했다며 방송3사가 제기한 손해배상 소송의 첫 증인 신문이 진행되어 계약 당시 AI 학습 예측 가능 여부를 두고 법정 공방이 벌어졌습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "서비스 출시나 마케팅 활동을 다룬 기존 사례와 달리 AI 모델 학습 데이터의 저작권 침해 관련 방송사들과의 법적 분쟁 및 법정 공방을 다루고 있다는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-08-18T21:23:48.600Z"
@@ -462,7 +880,7 @@
       "slogan": null,
       "keyMessage": "일본 정부가 보안 우려를 이유로 네이버클라우드와의 연계를 끊은 이후, 방위 및 안보 관련 기밀 정보를 미국 클라우드 기업에 맡기는 방안을 검토 중이라는 현지 보도가 나왔습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "서비스 고착도 및 창작자 생태계 확장 등 자발적 마케팅 및 플랫폼 전략 중심의 기존 활동들과 달리, 일본 정부의 정책 변화 및 해외 지배구조 이슈를 다룬 외부 언론보도입니다."
       },
       "processedAt": "2026-08-18T21:24:06.437Z"
@@ -484,7 +902,7 @@
       "slogan": null,
       "keyMessage": "네이버 뉴스제휴위원회가 콘텐츠 및 검색 제휴를 위한 정성평가에 돌입했으나, 정량평가 통과 매체 정보 유출 및 절차적 투명성 논란으로 제휴 신청사들 사이에서 혼란이 일고 있다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 동영상 서비스 확장이나 AI 마케팅 활동과 달리 포털 뉴스제휴위원회의 심사 절차 및 포털 정책 관련 논란을 다루고 있다."
       },
       "processedAt": "2026-08-18T21:24:33.031Z"
@@ -506,7 +924,7 @@
       "slogan": null,
       "keyMessage": "[단독] 네이버페이, 국내 첫 '양자보안 방벽' 쌓았다",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-19T21:28:31.103Z"
@@ -528,7 +946,7 @@
       "slogan": null,
       "keyMessage": "주요 통신 및 AI 기업들이 '모두의 AI' 출사표를 던지며 결집하는 가운데 네이버는 해당 움직임에 불참했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "자체 AI 모델 및 풀스택 AI 전략을 적극적으로 추진해온 최근 행보와 달리 통신·AI 기업들의 '모두의 AI' 동맹 및 행사에 불참한 점이 특이합니다."
       },
       "processedAt": "2026-08-18T21:24:14.888Z"
@@ -726,7 +1144,7 @@
       "slogan": null,
       "keyMessage": "해당 기사 본문이 존재하지 않거나 오류가 발생하여 마케팅 활동에 대한 내용을 확인할 수 없습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:23:50.110Z"
@@ -748,7 +1166,7 @@
       "slogan": null,
       "keyMessage": "네이버가 두나무를 지분 인수 또는 협력하는 과정에서 발생한 예외적인 상황을 조명한 기사입니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 자사 AI 전략 및 숏폼 서비스 고도화 중심의 활동과 달리 두나무와의 M&A 및 지분 관련 이슈를 다루고 있어 특이점이 있습니다."
       },
       "processedAt": "2026-08-18T21:24:23.118Z"
@@ -814,7 +1232,7 @@
       "slogan": null,
       "keyMessage": "구글이 월간 활성 이용자 수(MAU)에서 네이버를 추월했으나, 일간 활성 이용자 수(DAU)와 체류 시간 등 서비스 고착도 면에서는 네이버가 여전히 우위를 점하고 있다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:25:03.492Z"
@@ -836,7 +1254,7 @@
       "slogan": null,
       "keyMessage": "유튜브의 신규 창작자 수익화 기준 상향에 대응해, 네이버는 클립 인센티브와 '네이버 메이트' 등 상대적으로 낮은 진입 장벽과 보상 프로그램을 앞세워 창작자 생태계를 확대하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:25:34.926Z"
@@ -858,7 +1276,7 @@
       "slogan": null,
       "keyMessage": "네이버 클립이 일간 활성 이용자 수 1,200만 명을 돌파하며, 기존 숏폼과 리뷰 중심에서 네이버TV를 대체해 최대 7시간의 롱폼 동영상까지 아우르는 통합 동영상·리뷰 플랫폼으로 서비스를 확장한다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 B2B AI 사업 구상, 해외 기업 투자, 노사 이슈 등 대외 전략 및 이슈 위주의 연이은 활동들과 달리, 자사 B2C 동영상 플랫폼 기능 확장 및 크리에이터 생태계 구축에 중점을 둔 활동이다."
       },
       "processedAt": "2026-08-17T21:24:15.000Z"
@@ -880,7 +1298,7 @@
       "slogan": null,
       "keyMessage": "네이버는 자체 AI 모델부터 AI 데이터센터 구축까지 포함하는 '풀스택 AI' 전략을 통해 AI 기반 광고 매출 증가와 장기적 매출 확대를 도모하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:24:36.424Z"
@@ -924,7 +1342,7 @@
       "slogan": null,
       "keyMessage": "모바일인덱스 조사 결과 2026년 7월 구글의 월간 활성 이용자 수(MAU)가 4,702만 명을 넘어서며 통계 집계 이래 처음으로 네이버를 제치고 국내 모바일 이용자 수 1위를 기록했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:26:28.598Z"
@@ -946,7 +1364,7 @@
       "slogan": null,
       "keyMessage": "\"검색창이 사라진다\"… 네이버·카카오, '에이전틱 커머스' 대전[쇼핑AI 上]",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:24:42.465Z"
@@ -1034,7 +1452,7 @@
       "slogan": null,
       "keyMessage": "국립농산물품질관리원이 네이버 등 주요 온라인 플랫폼의 비료 유통 실태를 점검해 거짓·과대광고 판매업소 163곳을 적발하고 시정조치했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 AI 투자 및 사업 전략과 관련된 활동들과 달리 플랫폼 내 입점업체의 과대광고 유통에 대한 정부기관의 단속 및 제재 관련 소식입니다."
       },
       "processedAt": "2026-08-17T21:24:53.475Z"
@@ -1078,7 +1496,7 @@
       "slogan": null,
       "keyMessage": "네이버가 2027년부터 AI 팩토리 사업을 본격화하여 장기적으로 GW급으로 확대하고 20% 이상의 마진을 확보하겠다는 청사진을 제시했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 AI 서비스 개발이나 지분 투자 활동과 달리 AI 팩토리 인프라 사업의 구체적인 수익성 목표(20% 마진율)를 이례적으로 공식 제시했습니다."
       },
       "processedAt": "2026-08-16T21:19:29.668Z"
@@ -1298,7 +1716,7 @@
       "slogan": null,
       "keyMessage": "구글에 밀린 네이버… 중앙일보 “충격 커” 한국경제 “혁신으로 맞서야”",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:26:19.906Z"
@@ -1760,7 +2178,7 @@
       "slogan": null,
       "keyMessage": "생성형 AI 확산에 따른 검색 시장 경쟁 심화와 두나무와의 기업결합 심사 지연, AI 인프라 투자 확대 등으로 네이버의 실적 불확실성과 주가 부진 우려가 제기되고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:25:48.698Z"
