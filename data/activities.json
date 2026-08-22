@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T21:24:47.608Z",
+  "updatedAt": "2026-08-22T21:24:26.687Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,336 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "baf19f4a1ee4ea0b",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-08-22T21:24:06.614Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "토스 팀의 비개발 직무 담당자들이 반복 업무 효율화와 핵심 가치 창출을 위해 AI를 실무에 어떻게 적용하고 활용하는지 소개합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-22T21:24:06.614Z"
+    },
+    {
+      "id": "db5a25b324409bd6",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-08-22T21:23:58.407Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": "온라인 아티클 배포",
+      "slogan": null,
+      "keyMessage": "토스의 비개발 직무 담당자들이 AI를 활용해 반복 업무를 자동화하고 본연의 핵심 업무와 고객 신뢰 형성에 집중하는 일하는 방식과 실무 사례를 공유한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-22T21:23:58.407Z"
+    },
+    {
+      "id": "5f3dee316ab03894",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-08-22T21:23:49.562Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": "온라인 아티클",
+      "slogan": "금융이 알고 싶을 때, 토스피드",
+      "keyMessage": "토스팀 비개발 직무 담당자들이 세일즈, 마케팅 등 업무 전반에서 AI 도구를 활용해 단순 반복 업무를 줄이고 고객 응대 및 핵심 전략 고민에 집중하는 공생 사례를 공유합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-22T21:23:49.562Z"
+    },
+    {
+      "id": "ef02b7935b9618ee",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-08-22T21:23:42.880Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "토스의 비개발 직무 팀원들이 반복 업무 효율화와 본질적인 업무 가치 창출을 위해 업무 현장에서 AI 도구를 실제로 활용하고 공생하는 사례와 노하우를 공유했다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-22T21:23:42.880Z"
+    },
+    {
+      "id": "a90c2c56f2e7daa8",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-08-22T21:23:34.114Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": "온라인 아티클",
+      "slogan": "금융이 알고 싶을 때, 토스피드",
+      "keyMessage": "토스는 세일즈, 마케팅 등 비개발 직무 구성원들이 업무 효율화를 위해 AI 도구를 활용하는 실제 사례와 공생 방식을 소개한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-22T21:23:34.114Z"
+    },
+    {
+      "id": "2c4e19de39892a9c",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-08-22T21:23:26.995Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": "온라인 아티클",
+      "slogan": "금융이 알고 싶을 때, 토스피드",
+      "keyMessage": "토스 팀의 비개발 직무 담당자들이 업무 현장에서 AI를 활용해 단순·반복 업무를 자동화하고, 절약한 시간으로 고객 신뢰 형성과 기획 등 본질적인 핵심 업무에 집중하는 AI 협업 방식을 소개합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-22T21:23:26.995Z"
+    },
+    {
+      "id": "44ddd2e1d6c4b2b2",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-08-22T21:23:16.808Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": "온라인 아티클",
+      "slogan": "금융이 알고 싶을 때, 토스피드",
+      "keyMessage": "토스의 비개발 직무 담당자들이 업무 효율성을 향상하고 본연의 일에 집중하기 위해 AI를 활용하는 구체적인 사례와 협업 노하우를 공유한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-22T21:23:16.808Z"
+    },
+    {
+      "id": "92a9abb7138caf69",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-08-22T21:23:08.519Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": "온라인 아티클",
+      "slogan": "금융이 알고 싶을 때, 토스피드",
+      "keyMessage": "토스의 비개발 직무 담당자들이 AI를 활용해 반복 업무를 자동화하고, 절약한 시간으로 고객 신뢰 쌓기와 마케팅 전략 수립 등 핵심 업무에 집중하는 AI 공생 방식을 소개한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-22T21:23:08.519Z"
+    },
+    {
+      "id": "787014ad3eac5eb9",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-08-22T21:22:56.584Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": "온라인 아티클 인터뷰",
+      "slogan": "금융이 알고 싶을 때, 토스피드",
+      "keyMessage": "토스 팀의 비개발 직무 담당자들이 실제 세일즈 및 마케팅 업무에서 AI를 활용하여 반복 업무를 줄이고 핵심 가치에 집중하는 공생 방식을 소개한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-22T21:22:56.584Z"
+    },
+    {
+      "id": "3d8ae8009ba0422e",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-08-22T21:22:31.496Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "금융이 알고 싶을 때, 토스피드",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-22T21:22:31.496Z"
+    },
+    {
+      "id": "ed81c00a5897072b",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-08-22T21:21:59.469Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "금융이 알고 싶을 때, 토스피드",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-22T21:21:59.469Z"
+    },
+    {
+      "id": "eedc10b6eb0cd314",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-08-22T21:21:27.470Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "금융이 알고 싶을 때, 토스피드",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-22T21:21:27.470Z"
+    },
+    {
+      "id": "1e895ee6fab84a1a",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "더존ICT그룹",
+      "link": "https://www.douzone.com/media/media_room_read.jsp?id=3310&",
+      "publisher": "더존비즈온",
+      "pubDate": "2026-08-22T21:19:45.735Z",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-08-07",
+      "location": "서울 중구 더존을지타워",
+      "format": "업무협약(MOU) 체결",
+      "slogan": null,
+      "keyMessage": "더존비즈온의 핀테크 계열사 테크핀레이팅스가 메인비즈협회와 업무협약을 체결하고 회원사를 위한 기업신용평가 수수료 우대 및 경영진단보고서 무상 제공 등 중소기업 금융 지원에 나선다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-22T21:19:45.735Z"
+    },
+    {
+      "id": "17a30e4f60ed1084",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "더존ICT그룹",
+      "link": "https://www.douzone.com/media/media_room_read.jsp?id=3336&",
+      "publisher": "더존비즈온",
+      "pubDate": "2026-08-22T21:19:37.590Z",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": "2026-08-20",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "더존비즈온이 테크핀레이팅스, KAIST와 공동 연구한 AI 기반 거래관계망 신용평가 모형 논문이 국제 탑티어 학술대회 CIKM에 채택되며 기술력과 독창성을 입증했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-22T21:19:37.590Z"
+    },
+    {
+      "id": "50b2e3e1e9639877",
+      "company": "NHN",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "바둑판 위에서 만난 한중 청소년들, AI '한돌'과 함께 우정을 두다",
+      "link": "https://inside.nhn.com/service/316",
+      "publisher": "NHN",
+      "pubDate": "2026-08-22T21:19:19.586Z",
+      "keyVisual": "https://inside.nhn.com/brand_/storyboard/2026/202608101020351.png",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "7월 21일",
+      "location": "전북 익산 웨스턴라이프 호텔",
+      "format": "오프라인 합동훈련 지원",
+      "slogan": null,
+      "keyMessage": "NHN이 제19회 한중 청소년스포츠교류 행사에서 자체 개발한 바둑 AI '한돌'을 활용해 한국과 중국 바둑 대표 선수들의 합동훈련을 성공적으로 지원했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "B2B 클라우드 및 AI 업무 솔루션 중심의 최근 활동들과 달리, 자체 게임 바둑 AI '한돌'을 활용해 청소년 국제 교류 및 사회공헌 성격의 오프라인 행사를 지원했다는 점에서 차별화된다."
+      },
+      "processedAt": "2026-08-22T21:19:19.586Z"
+    },
     {
       "id": "7ce0ddf12c8ec862",
       "company": "LG CNS",
