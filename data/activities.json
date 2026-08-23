@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T21:24:26.687Z",
+  "updatedAt": "2026-08-23T21:21:40.940Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,182 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "cff50ff52c44146f",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[광화문에서/임현석]네이버 별점 부활… 플랫폼에 갇힌 골목 상권",
+      "link": "https://www.donga.com/news/Opinion/article/all/20260823/134527582/2",
+      "publisher": "동아일보",
+      "pubDate": "Sun, 23 Aug 2026 14:12:00 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/23/134528163.1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 스마트플레이스 지도 서비스에서 별점 제도를 재개했으나, 마케팅 도구 및 검색 노출 알고리즘과 결합하여 자영업자에게 구조적 부담을 유발한다는 지적을 받고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 AI 교육 및 글로벌 디지털트윈 확장 등 B2B·글로벌 중심 활동과 달리, 국내 소상공인 대상 서비스인 네이버 지도의 별점 제도 재개 정책 관련 비판 이슈를 다루고 있습니다."
+      },
+      "processedAt": "2026-08-23T21:20:32.709Z"
+    },
+    {
+      "id": "9d3bc2b13c4c50f3",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "‘몸값 2조 달러’ 앤트로픽,  IPO 추진… SKT·네이버·LG CNS도 웃는다",
+      "link": "https://www.seoul.co.kr/news/economy/industry/2026/08/24/20260824029002",
+      "publisher": "서울신문",
+      "pubDate": "Sun, 23 Aug 2026 09:41:23 GMT",
+      "keyVisual": "https://img.seoul.co.kr//img/n24/seoul_share.png",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-08-24",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "생성형 AI 모델 클로드를 개발한 앤트로픽이 기업공개(IPO)를 추진함에 따라 사업 협력 관계인 LG CNS가 수혜를 입을 것으로 전망됩니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-23T21:19:17.981Z"
+    },
+    {
+      "id": "13803806ccf2b2e3",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버가 ‘모두의 AI’에 불참한 속내",
+      "link": "https://www.chosun.com/economy/tech_it/2026/08/23/SFOMM3ZEJNHL5LYOFD76TGXQZA/",
+      "publisher": "조선일보",
+      "pubDate": "Sun, 23 Aug 2026 04:39:21 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/ME2TIMZWGY2TQOBZGI2TENTGMI.jpg?auth=736cf15cbb8925f89253c74f8830e0be6bfe8484fd02286ea55bba3586158b8a&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 '모두의 AI' 행사에 불참한 배경과 그 속내를 분석한 언론 보도입니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 AI 인재 양성 및 사우디 사업 등 AI 분야 활동을 적극 추진하던 행보와 달리 AI 관련 행사에 불참했다는 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-08-23T21:20:20.662Z"
+    },
+    {
+      "id": "044aceb7abb9980e",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "엔비디아 서버값 인상 ‘변수’…네이버·카카오 AI 투자 셈법 복잡해지나",
+      "link": "https://www.etoday.co.kr/news/view/2617111",
+      "publisher": "이투데이",
+      "pubDate": "Sun, 23 Aug 2026 04:12:00 GMT",
+      "keyVisual": "https://img.etoday.co.kr/pto_db/2026/03/20260330161413_2315011_1200_1200.png",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-23",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "엔비디아의 AI 서버 가격 인상 예고로 인해 네이버 등 국내 플랫폼 기업의 AI 인프라 투자 비용 부담이 늘어나 전략적 변수가 될 것으로 전망된다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "네이버의 자체적인 활동이나 제휴 발표가 아닌 엔비디아 가격 인상이라는 외부 시장 변수와 AI 인프라 비용 영향에 집중한 언론 보도이다."
+      },
+      "processedAt": "2026-08-23T21:21:04.856Z"
+    },
+    {
+      "id": "33510b9ae2a52fb4",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "‘몸값 2조달러’ 앤트로픽 IPO 임박…SKT 웃고 네이버·LG CNS도 기대",
+      "link": "https://www.newsis.com/view/NISX20260823_0003758779",
+      "publisher": "뉴시스",
+      "pubDate": "Sun, 23 Aug 2026 01:50:55 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/07/19/NISI20260719_0002189710_web.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "앤트로픽의 IPO 추진으로 관심이 쏠리는 가운데, LG CNS는 앤트로픽과의 지분 투자 및 '클로드 엔터프라이즈' 도입 계약을 바탕으로 기업용 인공지능전환(AX) 사업 협력을 확대하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-23T21:19:00.074Z"
+    },
+    {
+      "id": "33510b9ae2a52fb4",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "‘몸값 2조달러’ 앤트로픽 IPO 임박…SKT 웃고 네이버·LG CNS도 기대",
+      "link": "https://www.newsis.com/view/NISX20260823_0003758779",
+      "publisher": "뉴시스",
+      "pubDate": "Sun, 23 Aug 2026 01:50:55 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/07/19/NISI20260719_0002189710_web.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "앤트로픽의 상장 추진 속에서 네이버는 개발 조직 전체에 '클로드 코드'를 도입하고 자체 모델 하이퍼클로바X와 외부 모델을 병행하는 멀티모델 전략을 추진하고 있다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "자체 AI 모델인 하이퍼클로바X를 보유 중임에도 외부 인공지능 기업 앤트로픽의 '클로드 코드'를 개발 조직 전체에 도입하며 적극적인 멀티모델 전략을 펼치고 있다는 점이 특이합니다."
+      },
+      "processedAt": "2026-08-23T21:20:45.562Z"
+    },
+    {
+      "id": "cbccc9fa1a370c18",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SKT·네이버가 앤트로픽에 공들이는 이유?…AIDC 고객 선점",
+      "link": "https://www.sentv.co.kr/article/view/sentv202608210117",
+      "publisher": "서울경제TV",
+      "pubDate": "Sat, 22 Aug 2026 23:00:06 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/08/21/sentv20260821000113.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 글로벌 AI 기업 앤트로픽에 대한 간접 투자와 자사 개발 조직으로의 서비스 도입을 통해 접점을 넓히며 향후 AI 인프라 사업 협력 기회를 모색하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-23T21:21:27.413Z"
+    },
+    {
+      "id": "ad12b798ed6bf48a",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, 광고 매출은 커지는데 관리 '한계'도…\"허위·도용모니터링 강화할 것\" - 글로벌이코노믹",
+      "link": "https://www.g-enews.com/article/ICT/2026/08/2026082106520251153d7a510102_1",
+      "publisher": "글로벌이코노믹",
+      "pubDate": "Sat, 22 Aug 2026 23:00:00 GMT",
+      "keyVisual": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260821131058067533d7a5101021752095866.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버 검색광고에 타사 제품 도용 및 허위 광고가 게재되어 모니터링 미흡 지적이 제기되자, 네이버 측은 외부 신고 및 모니터링 체계를 지속해서 강화하겠다고 밝혔다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-23T21:21:13.996Z"
+    },
     {
       "id": "baf19f4a1ee4ea0b",
       "company": "토스",
@@ -422,6 +598,72 @@
         "llmNote": "B2B 클라우드 및 AI 업무 솔루션 중심의 최근 활동들과 달리, 자체 게임 바둑 AI '한돌'을 활용해 청소년 국제 교류 및 사회공헌 성격의 오프라인 행사를 지원했다는 점에서 차별화된다."
       },
       "processedAt": "2026-08-22T21:19:19.586Z"
+    },
+    {
+      "id": "e52995571350f7c7",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "글로벌 톱5 향한 LG CNS 퍼펙트윈의 승부수 'AI' [테크체인저]",
+      "link": "https://v.daum.net/v/0hI87jtW5N?f",
+      "publisher": "v.daum.net",
+      "pubDate": "Sat, 22 Aug 2026 02:19:22 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S800x400/?fname=https://t1.daumcdn.net/news/202608/21/bloter/20260821185507519pcsi.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "서울 강서구 LG CNS 마곡사옥",
+      "format": "언론 인터뷰",
+      "slogan": null,
+      "keyMessage": "LG CNS는 테스트 자동화 솔루션 '퍼펙트윈'에 에이전틱 AI 기술을 적용하여 2030년까지 글로벌 테스트 자동화 시장 톱5 진입을 목표로 미국과 일본 등 해외 시장 공략을 가속화합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-23T21:19:09.311Z"
+    },
+    {
+      "id": "cc7940c6d002a17e",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "경총, AI 기반 안전관리 지원…SK AX 애커튼파트너스와 '맞손'",
+      "link": "https://v.daum.net/v/QAK51Yg2Yt?f",
+      "publisher": "v.daum.net",
+      "pubDate": "Fri, 21 Aug 2026 11:08:18 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/06/yonhap/20250806150153570qopw.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2025-08-06",
+      "location": null,
+      "format": "업무협약 체결",
+      "slogan": null,
+      "keyMessage": "SK AX 애커튼파트너스가 한국경영자총협회와 업무협약을 체결하고 기업들의 안전·보건·환경 분야 AI 기반 위험관리체계 구축 및 산업안전 강화를 지원합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "경영진 인사 및 실적 발표 위주였던 최근 활동과 달리 한국경영자총협회와 협력하여 산업안전 및 ESG 분야로 AI 컨설팅 영역을 확장했습니다."
+      },
+      "processedAt": "2026-08-23T21:20:15.174Z"
+    },
+    {
+      "id": "c9eb6b9f95dc2f45",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[심재석의 입장] 카카오는 네이버-NHN의 길을 갈까 – 바이라인네트워크",
+      "link": "https://byline.network/2026/08/kakao-3/",
+      "publisher": "바이라인네트워크",
+      "pubDate": "Fri, 21 Aug 2026 10:38:17 GMT",
+      "keyVisual": "https://cdn.byline.network/wp-content/uploads/2026/08/kakao-2.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오의 인적분할 및 지배구조 개편 가능성을 2013년 네이버와 NHN의 인적분할 및 지분 정리 사례에 비추어 분석한 언론 칼럼이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "네이버의 직접적인 마케팅이나 사업 활동이 아니라 타 기업의 경영 구조를 분석하며 과거 네이버 사례가 언급된 분석 기사라는 점에서 최근 활동들과 차이가 있다."
+      },
+      "processedAt": "2026-08-23T21:20:53.110Z"
     },
     {
       "id": "7ce0ddf12c8ec862",
@@ -864,6 +1106,28 @@
       "processedAt": "2026-08-21T21:24:33.480Z"
     },
     {
+      "id": "02c81cc4cab217eb",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“로봇이 아파트 순찰한다”… LG CNS, 타워팰리스에 경비로봇 도입",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno",
+      "publisher": "인공지능신문",
+      "pubDate": "Thu, 20 Aug 2026 02:43:23 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 타워팰리스에 아파트 순찰을 담당하는 경비로봇을 도입했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 B2B AI 솔루션 및 데이터센터 중심 활동과 달리 주거 단지에 실물 경비로봇을 도입한 구체적인 적용 사례라는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-08-23T21:19:42.147Z"
+    },
+    {
       "id": "6a41affef1365d60",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -994,6 +1258,50 @@
         "llmNote": null
       },
       "processedAt": "2026-08-21T21:23:07.871Z"
+    },
+    {
+      "id": "3e3e1d766e8f7dd3",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[AI픽] 로봇이 타워팰리스 순찰한다…LG CNS, 경비로봇 도입",
+      "link": "https://v.daum.net/v/20260820100310070",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 20 Aug 2026 01:03:10 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/20/yonhap/20260820100310285ospg.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026년 8월 19일",
+      "location": "서울 마곡 LG사이언스파크 본사",
+      "format": "오프라인 업무협약 체결",
+      "slogan": null,
+      "keyMessage": "LG CNS가 주거시설 관리 전문기업 타워피엠씨와 업무협약을 체결하고, 자사의 RX 플랫폼 '피지컬웍스'를 활용해 타워팰리스에 사족보행 경비 로봇을 도입하며 피지컬 AI 상용화에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-23T21:19:34.089Z"
+    },
+    {
+      "id": "9f87c7e0016a2dee",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI로봇이 타워팰리스 순찰한다…LG CNS, 사족보행 경비로봇 투입",
+      "link": "https://www.newstree.kr/newsView/ntr202608200005",
+      "publisher": "뉴스;트리",
+      "pubDate": "Thu, 20 Aug 2026 01:02:21 GMT",
+      "keyVisual": "https://www.newstree.kr/data/ntr/image/2026/08/20/ntr202608200022.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "서울 마곡 LG사이언스파크 본사",
+      "format": "업무협약 체결",
+      "slogan": null,
+      "keyMessage": "LG CNS가 주거시설 관리 전문기업 타워피엠씨와 업무협약을 체결하고, 로봇 Transformation(RX) 플랫폼 '피지컬웍스'를 활용해 프리미엄 주상복합단지에 사족보행 보안 로봇 솔루션을 도입한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-23T21:19:49.422Z"
     },
     {
       "id": "07ef49eb316ad058",
@@ -2134,7 +2442,7 @@
       "slogan": null,
       "keyMessage": "네이버가 2027년부터 AI 팩토리 사업을 본격화하여 장기적으로 GW급으로 확대하고 20% 이상의 마진을 확보하겠다는 청사진을 제시했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 AI 서비스 개발이나 지분 투자 활동과 달리 AI 팩토리 인프라 사업의 구체적인 수익성 목표(20% 마진율)를 이례적으로 공식 제시했습니다."
       },
       "processedAt": "2026-08-16T21:19:29.668Z"
@@ -9508,6 +9816,28 @@
         "llmNote": null
       },
       "processedAt": "2026-07-29T07:00:06.360Z"
+    },
+    {
+      "id": "acc2801882fcde5a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "춘천에 600억원 규모 삼성 AIDC 들어선다",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OSEZCd0l3OUZhZXo3TkpTNWViQ0F0NzBOTzlqcEZrSF9lSmZTZnJfZDNZZ2ZXamhWR25XR3BaVk9uLS1pVHBIcVZ2Mm5BMnl4R0NSSnJlaHR2Z1l4Vk1LTUZmY1YweDg?oc=5",
+      "publisher": "강원도민일보",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "춘천",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 춘천에 600억 원 규모의 AIDC(AI 데이터센터)를 구축한다는 소식이 언론을 통해 보도되었다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-23T21:18:40.941Z"
     },
     {
       "id": "37bceec41ee83a5a",
