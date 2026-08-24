@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T21:21:40.940Z",
+  "updatedAt": "2026-08-24T21:28:39.832Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,336 @@
   ],
   "activities": [
     {
+      "id": "bc45f8c1e5fd726a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SKT·삼성SDS, 서울대와 AI 협력 맞손",
+      "link": "https://www.segye.com/newsView/20260824514734?OutUrl",
+      "publisher": "세계일보",
+      "pubDate": "Mon, 24 Aug 2026 21:00:00 GMT",
+      "keyVisual": "//img.segye.com/static/2019_segye/resources/images/logo_bk.jpg",
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 서울대의 '지능형 캠퍼스 구현을 위한 차세대 네트워크 플랫폼 전환' 사업을 수주하며 대규모 AI 인프라 및 네트워크 구축 역량을 입증했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-24T21:25:56.343Z"
+    },
+    {
+      "id": "bc13691a100008eb",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "안방보다 외부서 더 벌었다…LG CNS '그룹 의존도' 10년 새 최저",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Mon, 24 Aug 2026 08:35:48 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 대외 사업 성과를 바탕으로 그룹 의존도를 10년 만에 최저 수준으로 낮췄습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 솔루션 해외 진출 및 파트너십 관련 마케팅 활동과 달리, 그룹 의존도 낮춤 및 대외 실적 성과에 초점을 맞춘 보도입니다."
+      },
+      "processedAt": "2026-08-24T21:28:00.732Z"
+    },
+    {
+      "id": "0a3d37d580d24592",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[부산소식] 국립부경대·SK AX, 인재양성·산학협력 협력 | 연합뉴스",
+      "link": "https://www.yna.co.kr/amp/view/AKR20260824143300051",
+      "publisher": "연합뉴스",
+      "pubDate": "Mon, 24 Aug 2026 08:10:32 GMT",
+      "keyVisual": "https://img0.yna.co.kr/etc/inner/KR/2026/08/24/AKR20260824143300051_02_i_P4.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-08-24",
+      "location": null,
+      "format": "산학협력 협약 체결",
+      "slogan": null,
+      "keyMessage": "SK AX가 국립부경대학교와 AI 및 디지털 전환(AX) 분야 첨단 인재 양성과 산학협력 활성화를 위한 업무협약을 체결했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 B2B 사업 협력 및 실적 중심 활동과 달리 대학과의 산학협력을 통한 AI·AX 전문 인재 양성 및 채용 연계에 집중한 점이 특징적입니다."
+      },
+      "processedAt": "2026-08-24T21:28:25.265Z"
+    },
+    {
+      "id": "92e686452ba3e364",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "순찰 돌며 화재 감시…타워팰리스에 뜬 로봇 개",
+      "link": "https://www.hankyung.com/article/2026082479161",
+      "publisher": "한국경제",
+      "pubDate": "Mon, 24 Aug 2026 07:07:46 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202608/AA.45430188.1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "서울 마곡 LG사이언스파크",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 주거시설 관리기업 타워피엠씨와 업무협약을 맺고 타워팰리스에 사족보행 경비로봇을 투입하여 주거 환경에서의 피지컬 AI 솔루션 기술 검증 및 사업 확대를 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 소프트웨어 기반 AX(인공지능전환) 및 솔루션 중심 활동과 달리, 주거 환경 현장에 사족보행 경비로봇을 적용하는 피지컬 AI 사업 협력이라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-24T21:28:17.711Z"
+    },
+    {
+      "id": "e7ba11417a6729f1",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 서울대 차세대 네트워크 사업 수주… 800Gbps급 구축",
+      "link": "https://it.chosun.com/news/articleViewAmp.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Mon, 24 Aug 2026 06:31:59 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 서울대학교 차세대 네트워크 사업을 수주하여 800Gbps급 초고속 네트워크 인프라를 구축합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 클라우드 전환 및 AI(AX) 풀스택 관련 소식이 주를 이루던 것과 달리 대규모 네트워크 인프라 수주 건이라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-24T21:27:06.490Z"
+    },
+    {
+      "id": "dbadbe06b2e5c467",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 서울대 'AI 네이티브 캠퍼스' 구축 지원…차세대 N/W 사업 수주",
+      "link": "https://www.efnews.co.kr/news/articleView.html?idxno",
+      "publisher": "파이낸셜신문",
+      "pubDate": "Mon, 24 Aug 2026 06:24:58 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 서울대학교의 AI 네이티브 캠퍼스 구축을 지원하며 차세대 네트워크 사업을 수주했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 클라우드 및 AIDC AI 솔루션 중심의 전략 발표와 달리 학술기관 대상의 차세대 네트워크 인프라 수주 소식이라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-24T21:27:36.490Z"
+    },
+    {
+      "id": "11998088de324247",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "서울대, 네트워크 재구축으로 AI 캠퍼스 구축 시동···삼성SDS 수주",
+      "link": "https://www.sisajournal-e.com/news/articleViewAmp.html?idxno",
+      "publisher": "시사저널e",
+      "pubDate": "Mon, 24 Aug 2026 06:16:04 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 서울대학교의 AI 캠퍼스 구축을 위한 네트워크 재구축 사업을 수주했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-24T21:27:12.981Z"
+    },
+    {
+      "id": "b4ad6b0280b85007",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[일하는 방식의 변화 ③] Already Ready, 고객이 말하기 전에, 이미 준비 끝 | 인사이트리포트 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/insights/already-ready-proactive-cx.html",
+      "publisher": "Samsung SDS America",
+      "pubDate": "Mon, 24 Aug 2026 06:03:40 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/08/24/03_cover_small_1.png?queryString=20260824025141",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": "인사이트 리포트",
+      "slogan": "Already Ready, 고객이 말하기 전에, 이미 준비 끝",
+      "keyMessage": "삼성SDS는 AI를 활용해 프로젝트 착수 전 업종 인사이트와 전문성을 선제적으로 축적함으로써 고객의 요구 이전에 준비를 마치는 'Already Ready' 업무 방식을 강조한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-24T21:26:04.985Z"
+    },
+    {
+      "id": "ed16c04e65419154",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"AX 넘어 RX까지\"…LG CNS 현신균號, '피지컬 AI' 리더 우뚝",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno",
+      "publisher": "매일일보",
+      "pubDate": "Mon, 24 Aug 2026 05:50:25 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AX를 넘어 RX 영역까지 확장을 도모하며 피지컬 AI 리더로서의 입지를 강화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 소프트웨어 중심 AX 및 에이전틱 AI 관련 활동과 달리 '피지컬 AI'와 'RX'라는 새로운 영역을 강조하고 있다는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-08-24T21:28:08.717Z"
+    },
+    {
+      "id": "00cf2725a55bf660",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 서울대 AI 네이티브 캠퍼스 구축",
+      "link": "https://www.munhwa.com/article/11611591",
+      "publisher": "문화일보",
+      "pubDate": "Mon, 24 Aug 2026 05:47:38 GMT",
+      "keyVisual": "https://wimg.munhwa.com/news/cms/2026/08/24/news-p.v1.20260824.87779b52821a46999fa198a69226728e_R.jpg",
+      "activityType": "고객사례",
+      "eventDate": "21일",
+      "location": "서울대미술관",
+      "format": "착수보고회",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 서울대학교의 '지능형 캠퍼스 구현을 위한 차세대 네트워크 플랫폼 전환' 사업을 수주하여 대용량 AI 연구와 교육 환경을 지원하는 AI 네이티브 캠퍼스를 구축한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AIDC 및 클라우드·AI 솔루션 중심 활동과 달리 대학 캠퍼스 대상의 대규모 차세대 네트워크(SDN) 인프라 구축 사업 수주 소식을 다루고 있습니다."
+      },
+      "processedAt": "2026-08-24T21:26:18.444Z"
+    },
+    {
+      "id": "2f6cd7ba823c2459",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 인도 물류·공급망 차세대 비전 공유… '카고넥스트 뉴델리' 출격",
+      "link": "https://theguru.co.kr/news/article.html?no",
+      "publisher": "더구루",
+      "pubDate": "Mon, 24 Aug 2026 05:38:43 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": "인도 뉴델리",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 인도 뉴델리에서 '카고넥스트'를 통해 물류 및 공급망 분야의 차세대 비전을 공유했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 활동들이 주로 AI, 클라우드, AIDC 등 IT 솔루션 및 인프라에 집중된 반면, 이번 활동은 해외 물류 및 공급망 사업 분야의 비전 공유 행사라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-24T21:26:24.024Z"
+    },
+    {
+      "id": "3ca65ef23205df71",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 서울대 대규모 네트워크 인프라 강화…“AI 네이티브 캠퍼스 본격화”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13c3JFR2xVckphMkM3bHhKQ2k5QmdPaVBDY2Nqam1zQ0prTXFuT0JNUzRlTXBCNVlGVlhJUWtQWlJIdWp6Rmo3bkZzTzFDNk9faGhWbHphS20xQW1ub3BNN1lxOGVacndxbVE?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Mon, 24 Aug 2026 05:02:47 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 서울대학교의 대규모 네트워크 인프라를 강화하며 AI 네이티브 캠퍼스 구축을 본격화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-24T21:26:31.464Z"
+    },
+    {
+      "id": "7d6b675e0ab05dc1",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "앤트로픽 치솟자, “SKT·네이버·LG CNS 들썩…투자부터 AIDC, AX까지”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tM1NGTzgzd01qY1RzX0R6OF9YSmVteGlFWXNwMExtOTRfeEtFSElzd0lveXFLUUlHN3FiNzJLbXFVQTdyZi1TZGRNU0JTOEdEMC1JUGhfTDE0cFU?oc=5",
+      "publisher": "에너지경제신문",
+      "pubDate": "Mon, 24 Aug 2026 04:44:56 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "앤트로픽의 가치 상승에 따라 투자부터 AIDC, AX 등 AI 관련 사업을 추진 중인 LG CNS 등의 기업이 주목받고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-24T21:27:54.059Z"
+    },
+    {
+      "id": "960a7d8e8ef7e03e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 서울대 AI 캠퍼스 구축 지원…고성능 네트워크 지원",
+      "link": "https://www.news1.kr/it-science/cc-newmedia/6267173",
+      "publisher": "뉴스1",
+      "pubDate": "Mon, 24 Aug 2026 01:09:45 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2024/5/21/6661121/high.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 서울대학교 AI 캠퍼스 구축을 위해 고성능 네트워크 인프라를 지원한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기업 대상 B2B AI·클라우드 솔루션 및 AIDC 중심의 기존 활동과 달리 대학 산학협력 차원의 AI 캠퍼스 인프라 구축 지원을 다루고 있습니다."
+      },
+      "processedAt": "2026-08-24T21:25:48.528Z"
+    },
+    {
+      "id": "d1fd5a16de620ce0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 서울대 'AI 네이티브 캠퍼스' 구축한다 | 연합뉴스",
+      "link": "https://www.yna.co.kr/amp/view/AKR20260824021400017",
+      "publisher": "연합뉴스",
+      "pubDate": "Sun, 23 Aug 2026 23:37:21 GMT",
+      "keyVisual": "https://img7.yna.co.kr/etc/inner/KR/2026/08/24/AKR20260824021400017_01_i_P4.jpg",
+      "activityType": "고객사례",
+      "eventDate": "2026-08-24",
+      "location": "서울대미술관",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 서울대학교의 '지능형 캠퍼스 구현을 위한 차세대 네트워크 플랫폼 전환' 사업을 수주하여 초고속망과 SDN 기술 기반의 AI 네이티브 캠퍼스 구축에 착수했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AIDC 인프라 및 클라우드·AI 솔루션 중심의 소식과 달리 교육 기관 대상의 대규모 소프트웨어 정의 네트워크(SDN) 인프라 구축 사례를 발표했다는 특이점이 있습니다."
+      },
+      "processedAt": "2026-08-24T21:27:26.174Z"
+    },
+    {
       "id": "cff50ff52c44146f",
       "company": "네이버",
       "category": "IT 서비스",
@@ -110,7 +440,7 @@
       "slogan": null,
       "keyMessage": "네이버가 스마트플레이스 지도 서비스에서 별점 제도를 재개했으나, 마케팅 도구 및 검색 노출 알고리즘과 결합하여 자영업자에게 구조적 부담을 유발한다는 지적을 받고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 AI 교육 및 글로벌 디지털트윈 확장 등 B2B·글로벌 중심 활동과 달리, 국내 소상공인 대상 서비스인 네이버 지도의 별점 제도 재개 정책 관련 비판 이슈를 다루고 있습니다."
       },
       "processedAt": "2026-08-23T21:20:32.709Z"
@@ -154,7 +484,7 @@
       "slogan": null,
       "keyMessage": "네이버가 '모두의 AI' 행사에 불참한 배경과 그 속내를 분석한 언론 보도입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 AI 인재 양성 및 사우디 사업 등 AI 분야 활동을 적극 추진하던 행보와 달리 AI 관련 행사에 불참했다는 점이 눈에 띕니다."
       },
       "processedAt": "2026-08-23T21:20:20.662Z"
@@ -176,7 +506,7 @@
       "slogan": null,
       "keyMessage": "엔비디아의 AI 서버 가격 인상 예고로 인해 네이버 등 국내 플랫폼 기업의 AI 인프라 투자 비용 부담이 늘어나 전략적 변수가 될 것으로 전망된다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "네이버의 자체적인 활동이나 제휴 발표가 아닌 엔비디아 가격 인상이라는 외부 시장 변수와 AI 인프라 비용 영향에 집중한 언론 보도이다."
       },
       "processedAt": "2026-08-23T21:21:04.856Z"
@@ -220,7 +550,7 @@
       "slogan": null,
       "keyMessage": "앤트로픽의 상장 추진 속에서 네이버는 개발 조직 전체에 '클로드 코드'를 도입하고 자체 모델 하이퍼클로바X와 외부 모델을 병행하는 멀티모델 전략을 추진하고 있다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "자체 AI 모델인 하이퍼클로바X를 보유 중임에도 외부 인공지능 기업 앤트로픽의 '클로드 코드'를 개발 조직 전체에 도입하며 적극적인 멀티모델 전략을 펼치고 있다는 점이 특이합니다."
       },
       "processedAt": "2026-08-23T21:20:45.562Z"
@@ -242,7 +572,7 @@
       "slogan": null,
       "keyMessage": "네이버가 글로벌 AI 기업 앤트로픽에 대한 간접 투자와 자사 개발 조직으로의 서비스 도입을 통해 접점을 넓히며 향후 AI 인프라 사업 협력 기회를 모색하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-23T21:21:27.413Z"
@@ -264,7 +594,7 @@
       "slogan": null,
       "keyMessage": "네이버 검색광고에 타사 제품 도용 및 허위 광고가 게재되어 모니터링 미흡 지적이 제기되자, 네이버 측은 외부 신고 및 모니터링 체계를 지속해서 강화하겠다고 밝혔다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-23T21:21:13.996Z"
@@ -660,7 +990,7 @@
       "slogan": null,
       "keyMessage": "카카오의 인적분할 및 지배구조 개편 가능성을 2013년 네이버와 NHN의 인적분할 및 지분 정리 사례에 비추어 분석한 언론 칼럼이다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "네이버의 직접적인 마케팅이나 사업 활동이 아니라 타 기업의 경영 구조를 분석하며 과거 네이버 사례가 언급된 분석 기사라는 점에서 최근 활동들과 차이가 있다."
       },
       "processedAt": "2026-08-23T21:20:53.110Z"
@@ -704,7 +1034,7 @@
       "slogan": null,
       "keyMessage": "네이버클라우드가 건양대학교와 협력하여 에이전틱 AI(Agentic AI) 실무 인재 양성을 위한 집중 교육 과정을 개설하고 채용 연계 후속 프로그램을 지원한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "사우디아라비아 디지털트윈 플랫폼 관련 해외 사업 확장 위주였던 최근 활동과 달리, 국내 대학과의 산학협력을 통한 차세대 Agentic AI 인재 양성에 주력한 점이 특징이다."
       },
       "processedAt": "2026-08-21T21:23:54.243Z"
@@ -770,7 +1100,7 @@
       "slogan": null,
       "keyMessage": "네이버가 2026년 2분기 실적 발표와 AI 관련 신사업 모멘텀에 힘입어 7월 이후 주가 반등 흐름을 이어가고 있다는 분석이다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-21T21:24:18.352Z"
@@ -836,7 +1166,7 @@
       "slogan": null,
       "keyMessage": "네이버 노동조합이 본사와 16개 계열사의 근로 조건을 묶어 협상하는 통합교섭을 사측에 본격적으로 요구했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-21T21:24:00.180Z"
@@ -902,7 +1232,7 @@
       "slogan": null,
       "keyMessage": "안드로이드 스마트폰의 모바일 웹 네이버 카페에서 게시글 작성 시 발생하는 스크롤 및 키보드 입력 오류에 대해 네이버 측은 오류를 인지하고 패치를 수정 배포할 예정이라고 밝혔습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 금융 마케팅, AI 소송, 해외 클라우드 이슈 관련 보도와 달리 자사 핵심 서비스의 기술적 오류 발생 및 조치 계획에 관한 언론보도라는 점이 특이합니다."
       },
       "processedAt": "2026-08-20T21:31:09.128Z"
@@ -946,7 +1276,7 @@
       "slogan": null,
       "keyMessage": "네이버의 디지털트윈 플랫폼이 사우디아라비아 국가 디지털트윈 표준 플랫폼으로 공식 채택되었으며, 이를 발판으로 로봇, AI, 지도 기반 슈퍼앱 등 중동 사업 확장을 가속화한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 일본 연계 중단 이슈나 AI 학습 소송 등 악재가 이어진 것과 달리, 사우디 정부의 국가 표준 채택이라는 대형 해외 기술 수출 성과를 보여준 점이 특징적입니다."
       },
       "processedAt": "2026-08-20T21:32:35.495Z"
@@ -968,7 +1298,7 @@
       "slogan": null,
       "keyMessage": "팀네이버의 디지털트윈 플랫폼이 사우디아라비아의 국가 표준으로 채택된 소식을 비롯하여 AI, 데이터센터 투자, 다양한 제휴 소식 등 최신 보도자료를 발표했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-21T21:24:09.570Z"
@@ -990,7 +1320,7 @@
       "slogan": null,
       "keyMessage": "네이버 노동조합이 8년 동안 이어져 온 계열사별 개별교섭을 끝내고 전 계열사 통합교섭을 공식적으로 요구했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 금융·AI 서비스 마케팅이나 대외 법적·안보 이슈와 달리, 노사 관계 및 전 계열사 교섭 방식 전환 요구를 다룬 보도라는 점에서 특이점이 있습니다."
       },
       "processedAt": "2026-08-20T21:30:37.486Z"
@@ -1100,7 +1430,7 @@
       "slogan": null,
       "keyMessage": "네이버의 상반기 해외 매출이 포시마크의 성장에 힘입어 미국 매출이 41% 증가하며 처음으로 1조 원을 돌파했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 디지털트윈 플랫폼 사우디 수출 및 서비스 이슈 위주의 활동과 달리 재무 실적 및 해외 사업 성과를 강조한 보도입니다."
       },
       "processedAt": "2026-08-21T21:24:33.480Z"
@@ -1166,7 +1496,7 @@
       "slogan": null,
       "keyMessage": "\"사우디 도시계획은 네이버 플랫폼으로\"…사우디 '국가 표준' 됐다 - 머니투데이",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-20T21:32:05.046Z"
@@ -1386,7 +1716,7 @@
       "slogan": null,
       "keyMessage": "네이버의 클라우드 기반 디지털트윈 플랫폼이 사우디아라비아 디지털정부청으로부터 지자체용 국가 표준 플랫폼으로 공식 승인받았다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "국내 핀테크, 소송 및 일본 관련 이슈 위주였던 최근 활동들과 달리 사우디아라비아 정부의 B2G 대형 글로벌 사업 성과를 공식 발표했다는 점이 특이합니다."
       },
       "processedAt": "2026-08-20T21:31:34.065Z"
@@ -1408,7 +1738,7 @@
       "slogan": null,
       "keyMessage": "제공된 기사는 한국신용평가 세미나 논란 및 M&A, 회사채 등 금융 시장 동향에 대한 뉴스 모음으로 네이버의 마케팅 활동과 관련된 내용은 명시되어 있지 않습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "네이버의 고유 마케팅 활동이나 서비스 관련 소식이 아닌 금융 시장 일반 기사 목록이 제출되었다는 점이 특이합니다."
       },
       "processedAt": "2026-08-20T21:33:05.635Z"
@@ -1430,7 +1760,7 @@
       "slogan": null,
       "keyMessage": "네이버페이는 오프라인 및 온라인 결제 데이터와 비금융 데이터를 결합하여 자영업자 대상 분석 리포트를 제공하고, AI 기반의 개인 맞춤형 금융 추천을 강화하는 자산 관리 플랫폼 전략을 추진하고 있다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 소송 및 보안 관련 부정적 이슈나 리스크 소식이 주를 이루었던 것과 달리, 네이버페이의 데이터 및 AI 기반 핀테크 본업 전략을 적극 홍보하는 리더십 인터뷰이다."
       },
       "processedAt": "2026-08-19T21:27:58.669Z"
@@ -1716,7 +2046,7 @@
       "slogan": null,
       "keyMessage": "일본이 보안 우려를 이유로 네이버와의 연계를 중단하고 미국 클라우드 기업 의존을 검토 중이라는 소식을 전하는 언론보도입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-19T21:29:01.380Z"
@@ -1782,7 +2112,7 @@
       "slogan": null,
       "keyMessage": "네이버페이가 던킨과 함께 나흘간 네이버페이 QR 결제 고객을 대상으로 전 품목 50% 할인 혜택을 제공하는 프로모션을 진행한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 네이버 관련 활동이 주로 AI 무단 학습 소송, 뉴스 제휴 논란, 라인 야후 안보 이슈 등 악재성 이슈에 집중되었던 반면, 이번 활동은 네이버페이 실사용 촉진을 위한 B2C 제휴 마케팅이다."
       },
       "processedAt": "2026-08-19T21:27:46.911Z"
@@ -1804,7 +2134,7 @@
       "slogan": null,
       "keyMessage": "네이버가 생성형 AI 모델인 하이퍼클로바 학습에 언론사 뉴스를 무단 활용했다며 방송3사가 제기한 손해배상 소송의 첫 증인 신문이 진행되어 계약 당시 AI 학습 예측 가능 여부를 두고 법정 공방이 벌어졌습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "서비스 출시나 마케팅 활동을 다룬 기존 사례와 달리 AI 모델 학습 데이터의 저작권 침해 관련 방송사들과의 법적 분쟁 및 법정 공방을 다루고 있다는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-08-18T21:23:48.600Z"
@@ -1826,7 +2156,7 @@
       "slogan": null,
       "keyMessage": "일본 정부가 보안 우려를 이유로 네이버클라우드와의 연계를 끊은 이후, 방위 및 안보 관련 기밀 정보를 미국 클라우드 기업에 맡기는 방안을 검토 중이라는 현지 보도가 나왔습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "서비스 고착도 및 창작자 생태계 확장 등 자발적 마케팅 및 플랫폼 전략 중심의 기존 활동들과 달리, 일본 정부의 정책 변화 및 해외 지배구조 이슈를 다룬 외부 언론보도입니다."
       },
       "processedAt": "2026-08-18T21:24:06.437Z"
@@ -1848,7 +2178,7 @@
       "slogan": null,
       "keyMessage": "네이버 뉴스제휴위원회가 콘텐츠 및 검색 제휴를 위한 정성평가에 돌입했으나, 정량평가 통과 매체 정보 유출 및 절차적 투명성 논란으로 제휴 신청사들 사이에서 혼란이 일고 있다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 동영상 서비스 확장이나 AI 마케팅 활동과 달리 포털 뉴스제휴위원회의 심사 절차 및 포털 정책 관련 논란을 다루고 있다."
       },
       "processedAt": "2026-08-18T21:24:33.031Z"
@@ -1870,7 +2200,7 @@
       "slogan": null,
       "keyMessage": "[단독] 네이버페이, 국내 첫 '양자보안 방벽' 쌓았다",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-19T21:28:31.103Z"
@@ -1892,7 +2222,7 @@
       "slogan": null,
       "keyMessage": "주요 통신 및 AI 기업들이 '모두의 AI' 출사표를 던지며 결집하는 가운데 네이버는 해당 움직임에 불참했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "자체 AI 모델 및 풀스택 AI 전략을 적극적으로 추진해온 최근 행보와 달리 통신·AI 기업들의 '모두의 AI' 동맹 및 행사에 불참한 점이 특이합니다."
       },
       "processedAt": "2026-08-18T21:24:14.888Z"
@@ -2090,7 +2420,7 @@
       "slogan": null,
       "keyMessage": "해당 기사 본문이 존재하지 않거나 오류가 발생하여 마케팅 활동에 대한 내용을 확인할 수 없습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:23:50.110Z"
@@ -2112,7 +2442,7 @@
       "slogan": null,
       "keyMessage": "네이버가 두나무를 지분 인수 또는 협력하는 과정에서 발생한 예외적인 상황을 조명한 기사입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 자사 AI 전략 및 숏폼 서비스 고도화 중심의 활동과 달리 두나무와의 M&A 및 지분 관련 이슈를 다루고 있어 특이점이 있습니다."
       },
       "processedAt": "2026-08-18T21:24:23.118Z"
@@ -2178,7 +2508,7 @@
       "slogan": null,
       "keyMessage": "구글이 월간 활성 이용자 수(MAU)에서 네이버를 추월했으나, 일간 활성 이용자 수(DAU)와 체류 시간 등 서비스 고착도 면에서는 네이버가 여전히 우위를 점하고 있다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:25:03.492Z"
@@ -2200,7 +2530,7 @@
       "slogan": null,
       "keyMessage": "유튜브의 신규 창작자 수익화 기준 상향에 대응해, 네이버는 클립 인센티브와 '네이버 메이트' 등 상대적으로 낮은 진입 장벽과 보상 프로그램을 앞세워 창작자 생태계를 확대하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:25:34.926Z"
@@ -2222,7 +2552,7 @@
       "slogan": null,
       "keyMessage": "네이버 클립이 일간 활성 이용자 수 1,200만 명을 돌파하며, 기존 숏폼과 리뷰 중심에서 네이버TV를 대체해 최대 7시간의 롱폼 동영상까지 아우르는 통합 동영상·리뷰 플랫폼으로 서비스를 확장한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 B2B AI 사업 구상, 해외 기업 투자, 노사 이슈 등 대외 전략 및 이슈 위주의 연이은 활동들과 달리, 자사 B2C 동영상 플랫폼 기능 확장 및 크리에이터 생태계 구축에 중점을 둔 활동이다."
       },
       "processedAt": "2026-08-17T21:24:15.000Z"
@@ -2244,7 +2574,7 @@
       "slogan": null,
       "keyMessage": "네이버는 자체 AI 모델부터 AI 데이터센터 구축까지 포함하는 '풀스택 AI' 전략을 통해 AI 기반 광고 매출 증가와 장기적 매출 확대를 도모하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:24:36.424Z"
@@ -2288,7 +2618,7 @@
       "slogan": null,
       "keyMessage": "모바일인덱스 조사 결과 2026년 7월 구글의 월간 활성 이용자 수(MAU)가 4,702만 명을 넘어서며 통계 집계 이래 처음으로 네이버를 제치고 국내 모바일 이용자 수 1위를 기록했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:26:28.598Z"
@@ -2310,7 +2640,7 @@
       "slogan": null,
       "keyMessage": "\"검색창이 사라진다\"… 네이버·카카오, '에이전틱 커머스' 대전[쇼핑AI 上]",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-17T21:24:42.465Z"
@@ -2398,7 +2728,7 @@
       "slogan": null,
       "keyMessage": "국립농산물품질관리원이 네이버 등 주요 온라인 플랫폼의 비료 유통 실태를 점검해 거짓·과대광고 판매업소 163곳을 적발하고 시정조치했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 AI 투자 및 사업 전략과 관련된 활동들과 달리 플랫폼 내 입점업체의 과대광고 유통에 대한 정부기관의 단속 및 제재 관련 소식입니다."
       },
       "processedAt": "2026-08-17T21:24:53.475Z"
