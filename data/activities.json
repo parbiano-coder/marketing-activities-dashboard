@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T21:28:39.832Z",
+  "updatedAt": "2026-08-25T21:27:40.706Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,204 @@
   ],
   "activities": [
     {
+      "id": "4de1b41626524422",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'AI 해커' 잡는 'AI 방패' 만든다…SKT·네이버·LG '3파전' 예상",
+      "link": "https://www.newsis.com/view/NISX20260825_0003762287",
+      "publisher": "뉴시스",
+      "pubDate": "Tue, 25 Aug 2026 21:00:00 GMT",
+      "keyVisual": "https://img1.newsis.com/2025/02/20/NISI20250220_0001774726_web.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 LG AI연구원, LG유플러스, S2W 등과 컨소시엄을 꾸려 과기정통부의 '사이버 보안 특화 AI 파운데이션 모델 개발 사업' 공모에 참여합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 피지컬 AI 및 앤트로픽 관련 협력 활동 중심에서 사이버 보안 특화 AI 파운데이션 모델 개발을 위한 컨소시엄 구성으로 영역을 확장했습니다."
+      },
+      "processedAt": "2026-08-25T21:26:26.081Z"
+    },
+    {
+      "id": "80a096d0777c9952",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "국가 AI 컴퓨팅센터 주주 구성 윤곽…삼성SDS·네이버가 56%",
+      "link": "https://www.sentv.co.kr/article/view/sentv202608250134",
+      "publisher": "서울경제TV",
+      "pubDate": "Tue, 25 Aug 2026 08:41:47 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/08/25/sentv20260825000193.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-25",
+      "location": "전남 해남",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 지분 30.04%를 보유한 최대주주로 참여하는 민관 합작법인 '한국AI컴퓨팅센터'의 지분 구조가 공개되었으며, 전남 해남에 2조 5,000억 원 규모의 국가 AI 컴퓨팅센터를 구축 및 운영할 예정입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 개별 학내 인프라 수주 소식 위주였던 것과 달리, 국가 차원의 대규모 AI 인프라 구축을 위한 민관 합작법인 설립 및 최대주주 지분 참여 소식이라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-25T21:25:29.911Z"
+    },
+    {
+      "id": "49b636a530aff71e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "엔비디아 업은 LG CNS…'피지컬AI'로 대표 LG그룹주 노린다",
+      "link": "https://www.hankyung.com/article/202608250559i",
+      "publisher": "한국경제",
+      "pubDate": "Tue, 25 Aug 2026 06:54:01 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202608/01.45444598.1.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-25",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS는 엔비디아와의 협력, 피지컬 AI 사업 확대, 금융권 차세대 시스템 및 AI 데이터센터 사업 본격화를 통해 실적 개선과 주가 반등을 이어갈 것으로 전망된다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-25T21:25:58.238Z"
+    },
+    {
+      "id": "982c354064ac1033",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS AI 데이터센터·클라우드 확장 '방점', 이준희 물류 중심에서 고수익 IT서비스로 체질 전환",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IQWZqT29QYndRaXdrT3NtZ3dybnlDbm42M1hsRUl5TERmMmVZMnNIYjVZSVNTeHZuTzdUTVN2WWNhVUFvTUQ4S3FIdUZlcGt4Q0lZa3lRMFBLSWJ1eTN3dmc1MGhseXJuWElQbkhUTElFWU0?oc=5",
+      "publisher": "비즈니스포스트",
+      "pubDate": "Tue, 25 Aug 2026 06:27:44 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI 데이터센터와 클라우드 확장을 통해 물류 중심에서 고수익 IT서비스로 사업 체질 전환을 추진하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 서울대 네트워크 수주 위주의 개별 사업 활동들과 달리, 물류에서 고수익 IT서비스 및 클라우드로의 전사적 사업 구조 전환 전략을 다루고 있다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-25T21:24:58.643Z"
+    },
+    {
+      "id": "9012cdf7c305b3c4",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "�����ΰ��, SK AX�� �������¡�AI �ǹ����� Ű�� ä�� �����Ѵ� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260825n22237",
+      "publisher": "네이트",
+      "pubDate": "Tue, 25 Aug 2026 06:11:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/jo/2026/08/25/125dc945-e88c-4dbc-858e-a712e1726c68.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "8월 24일",
+      "location": "국립부경대학교",
+      "format": "업무협약 체결",
+      "slogan": null,
+      "keyMessage": "SK AX가 국립부경대학교와 AI 및 디지털 전환(AX) 분야 첨단 인재 양성과 산학협력 활성화를 위한 업무협약을 체결했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-25T21:27:12.516Z"
+    },
+    {
+      "id": "6bb41c794a3ae00f",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "국립부경대, SK AX와 산학협력…AI 실무인재 키워 채용 연계한다 | 중앙일보",
+      "link": "https://www.joongang.co.kr/article/25456013",
+      "publisher": "중앙일보",
+      "pubDate": "Tue, 25 Aug 2026 06:10:00 GMT",
+      "keyVisual": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/25/125dc945-e88c-4dbc-858e-a712e1726c68.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "8월 24일",
+      "location": "국립부경대학교 대학본부",
+      "format": "업무협약 체결식",
+      "slogan": null,
+      "keyMessage": "SK AX가 국립부경대학교와 AI·AX 분야 전문인재 양성 및 채용 연계를 위한 업무협약을 체결했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-25T21:26:33.481Z"
+    },
+    {
+      "id": "a284ddcf68a2147c",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] '카카오 먹통' 4년 만에 합의…카카오페이 보상금 수령 | 아주경제",
+      "link": "https://www.ajunews.com/view/20260825142957010",
+      "publisher": "아주경제",
+      "pubDate": "Tue, 25 Aug 2026 06:04:08 GMT",
+      "keyVisual": "https://image.ajunews.com/content/image/2026/08/25/20260825143249120408.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 2022년 판교 데이터센터 화재와 관련하여 카카오 측과 피해 보상 협상을 약 4년 만에 최종 타결하고 합의금을 지급했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 AI/AX 관련 업무협약 및 실적 발표 등 긍정적 사업 확장 활동 중심의 보도와 달리, 과거 데이터센터 화재 사고의 피해보상 및 리스크 해결에 관한 언론보도라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-25T21:26:57.343Z"
+    },
+    {
+      "id": "ce1e419bd796c3ec",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Tue, 25 Aug 2026 02:23:45 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "지디넷코리아의 뉴스레터 구독 안내 정보로, LG CNS의 구체적인 마케팅 활동 내용은 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-25T21:26:10.524Z"
+    },
+    {
+      "id": "0724eb1174cbee1a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SI '빅4' AX 붐 타고 수주잔고 '쑥'...삼성SDS, 금융권 AX 수주 확대로 62%↑",
+      "link": "https://www.consumernews.co.kr/news/articleView.html?idxno",
+      "publisher": "소비자가 만드는 신문",
+      "pubDate": "Mon, 24 Aug 2026 21:10:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 금융권 AX(인공지능 전환) 수주 확대를 바탕으로 수주잔고를 62% 크게 늘렸습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 서울대학교 중심의 교육 기관 AI 인프라 수주 소식과 달리, 이번 활동은 금융권 AX 사업 수주 확대와 이에 따른 수주잔고 급증 실적을 다루고 있습니다."
+      },
+      "processedAt": "2026-08-25T21:25:39.928Z"
+    },
+    {
       "id": "bc45f8c1e5fd726a",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -114,6 +312,50 @@
         "llmNote": null
       },
       "processedAt": "2026-08-24T21:25:56.343Z"
+    },
+    {
+      "id": "935fda68b6eefdcd",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 서울대 ‘AI 캠퍼스’ 네트워크 구축",
+      "link": "https://www.seoul.co.kr/news/economy/industry/2026/08/25/20260825032004",
+      "publisher": "서울신문",
+      "pubDate": "Mon, 24 Aug 2026 15:38:40 GMT",
+      "keyVisual": "https://img.seoul.co.kr//img/n24/seoul_share.png",
+      "activityType": "고객사례",
+      "eventDate": "2026-08-24",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 서울대학교의 '지능형 캠퍼스 구현을 위한 차세대 네트워크 플랫폼 전환' 사업을 수주하여 800Gbps급 초고속 네트워크 인프라 및 네트워크 자동화 포털을 구축한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-25T21:25:11.709Z"
+    },
+    {
+      "id": "c7ec89e21de56d66",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "국립부경대-SK AX, AI 교육·채용 연결한다",
+      "link": "https://m.joongdo.co.kr/view.php?key",
+      "publisher": "중도일보",
+      "pubDate": "Mon, 24 Aug 2026 11:56:46 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 국립부경대학교와 협력하여 AI 분야의 교육과 채용을 연계하는 인재 양성 및 산학협력을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-25T21:27:26.574Z"
     },
     {
       "id": "bc13691a100008eb",
@@ -154,7 +396,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 국립부경대학교와 AI 및 디지털 전환(AX) 분야 첨단 인재 양성과 산학협력 활성화를 위한 업무협약을 체결했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존 B2B 사업 협력 및 실적 중심 활동과 달리 대학과의 산학협력을 통한 AI·AX 전문 인재 양성 및 채용 연계에 집중한 점이 특징적입니다."
       },
       "processedAt": "2026-08-24T21:28:25.265Z"
@@ -182,6 +424,28 @@
       "processedAt": "2026-08-24T21:28:17.711Z"
     },
     {
+      "id": "539655b5ab8d1a60",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "국립부경대·SK AX, AI 인재 키운다… 기업 현장형 교육 손잡아",
+      "link": "https://www.asiae.co.kr/article/2026082416054405708",
+      "publisher": "아시아경제",
+      "pubDate": "Mon, 24 Aug 2026 07:05:44 GMT",
+      "keyVisual": "https://cphoto.asiae.co.kr/listimglink/1/2026082416020190744_1787554921.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "24일",
+      "location": "국립부경대 대학본부 접견실",
+      "format": "업무협약 체결식",
+      "slogan": null,
+      "keyMessage": "국립부경대학교와 SK AX가 AI 및 디지털 전환(AX) 분야 첨단 인재 양성과 산학협력 활성화를 위한 업무협약을 체결하고, 현장 실무형 인재 교육 및 채용 연계 프로그램을 공동 운영하기로 했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-25T21:26:49.900Z"
+    },
+    {
       "id": "e7ba11417a6729f1",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -202,6 +466,28 @@
         "llmNote": "최근 클라우드 전환 및 AI(AX) 풀스택 관련 소식이 주를 이루던 것과 달리 대규모 네트워크 인프라 수주 건이라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-08-24T21:27:06.490Z"
+    },
+    {
+      "id": "420c72051b890073",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "국립부경대·SK AX, AI 첨단인재 양성 손잡다",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno",
+      "publisher": "데일리한국",
+      "pubDate": "Mon, 24 Aug 2026 06:30:58 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 국립부경대학교와 협력하여 AI 분야 첨단인재 양성 및 산학협력에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-25T21:27:17.496Z"
     },
     {
       "id": "dbadbe06b2e5c467",
@@ -268,6 +554,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-24T21:26:04.985Z"
+    },
+    {
+      "id": "25a215ea892eb9df",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "�λ��� ��ǥ ������, �����Ź�",
+      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code",
+      "publisher": "국제신문",
+      "pubDate": "Mon, 24 Aug 2026 06:03:00 GMT",
+      "keyVisual": "https://www.kookje.co.kr/kookje/images/logo_facebook_thumb.jpg?28",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문의 텍스트가 인코딩 오류로 깨져 있어 SK AX의 마케팅 활동 관련 유의미한 정보를 확인할 수 없습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-25T21:26:41.381Z"
     },
     {
       "id": "ed16c04e65419154",
@@ -378,6 +686,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-24T21:27:54.059Z"
+    },
+    {
+      "id": "e0e6993f1453f14d",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "�ＺSDS, ����� '������ ��Ʈ��ũ' ���� : ����Ʈ ����",
+      "link": "https://m.news.nate.com/view/20260824n13183?mid",
+      "publisher": "네이트",
+      "pubDate": "Mon, 24 Aug 2026 02:22:00 GMT",
+      "keyVisual": "https://news.nateimg.co.kr/orgImg/hr/2026/08/24/news-p.v1.20260824.c33fb087edd04772b350797f63da616c_P1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 서울대학교의 AI 네이티브 캠퍼스 조성을 위한 차세대 네트워크 플랫폼 전환 사업을 수주했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-25T21:25:48.859Z"
     },
     {
       "id": "960a7d8e8ef7e03e",
@@ -968,7 +1298,7 @@
       "slogan": null,
       "keyMessage": "SK AX 애커튼파트너스가 한국경영자총협회와 업무협약을 체결하고 기업들의 안전·보건·환경 분야 AI 기반 위험관리체계 구축 및 산업안전 강화를 지원합니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "경영진 인사 및 실적 발표 위주였던 최근 활동과 달리 한국경영자총협회와 협력하여 산업안전 및 ESG 분야로 AI 컨설팅 영역을 확장했습니다."
       },
       "processedAt": "2026-08-23T21:20:15.174Z"
