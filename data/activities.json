@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T00:28:25.625Z",
+  "updatedAt": "2026-08-28T05:08:01.627Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,182 @@
   ],
   "activities": [
     {
+      "id": "43b9c38bd2fafb71",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS 투자한 美 덱스메이트 몸값 '껑충'...日 NEC도 베팅",
+      "link": "https://www.techm.kr/news/articleView.html?idxno",
+      "publisher": "테크M",
+      "pubDate": "Fri, 28 Aug 2026 04:11:14 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 투자한 미국 로봇/AI 스타트업 덱스메이트의 기업 가치가 크게 상승하였으며 일본 NEC 등 글로벌 기업의 추가 투자가 이어졌습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 활동이 네이버클라우드와의 국내 AI 데이터센터 구축 및 보안 파트너십에 집중되었던 것과 달리 해외 로보틱스/AI 기업 투자를 통한 글로벌 기술 협력 행보를 보여줍니다."
+      },
+      "processedAt": "2026-08-28T05:06:52.832Z"
+    },
+    {
+      "id": "bf6c7f908214e476",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "Platea Magazine - Inicio",
+      "link": "https://www.plateamagazine.com/?news",
+      "publisher": "Platea Magazine",
+      "pubDate": "Thu, 27 Aug 2026 23:15:45 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 삼성SDS의 마케팅 활동과 무관한 스페인 잡지 웹사이트의 메뉴 및 카테고리 정보입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "삼성SDS의 기존 AI 및 IT 서비스 사업 관련 활동들과 연관성이 전혀 없는 해외 잡지 웹사이트의 메뉴 내용이 수집된 점이 특이합니다."
+      },
+      "processedAt": "2026-08-28T05:05:41.615Z"
+    },
+    {
+      "id": "22aeb8d6b040c5bf",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "산업 현장에 로봇 투입… 피지컬 AI 상용화 속도",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid",
+      "publisher": "국민일보",
+      "pubDate": "Thu, 27 Aug 2026 08:58:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 산업 현장에 로봇을 투입하며 피지컬 AI 상용화에 속도를 내고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 데이터센터 및 냉각 인프라 구축 중심 활동과 달리 로봇 및 피지컬 AI 영역에 집중된 활동이라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-28T05:06:43.030Z"
+    },
+    {
+      "id": "3ce2772ee11d7337",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드-LG CNS, ‘보안 특화 AI’ 개발…33개 산학연 뭉쳤다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sT2ZZYkxIUExfNlRoVWtGNDFTcExLeFd3aGlDb1VDZHBJTlQ4MnBPaDEwbXFKXzRJMk40eV9raHIxWTdDdjh5bDN3VEdsWWpHOHRPRlM3T3FZNVpMeVdYN1RleW1qRkxF?oc=5",
+      "publisher": "테크월드",
+      "pubDate": "Thu, 27 Aug 2026 07:45:00 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드 및 33개 산학연과 협력하여 보안 특화 AI 개발에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-28T05:07:22.273Z"
+    },
+    {
+      "id": "db8dca164aff10d5",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드, LG CNS와 맞손…보안 특화 AI 구축",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno",
+      "publisher": "매일일보",
+      "pubDate": "Thu, 27 Aug 2026 07:37:36 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드와 협력하여 보안 특화 AI를 구축합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-28T05:07:07.794Z"
+    },
+    {
+      "id": "406d4fed129e60b2",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "금융권 인공지능 전환(AX) 시장 개화, 삼성SDS·LGCNS·SKAX 시장 선점 각축전",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6bldPZlQ0dVdJS2xvRDdURGE1eVhOUmNGMkhOdXcwN1hBUC0xckZNU3Nia3loeUVBWjdpMVZuRVBOUnNxWU16OW9oVFNyNmMwWGc1Qkh6QkFWTUVtaVBCNTRGOFRYZHJqeUFkWnpfTzREYmc?oc=5",
+      "publisher": "비즈니스포스트",
+      "pubDate": "Thu, 27 Aug 2026 06:17:17 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "금융권의 인공지능 전환(AX) 시장이 개화하면서 삼성SDS가 LG CNS, SK AX 등 경쟁사들과 함께 시장 선점을 위한 각축전을 벌이고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-28T05:05:50.524Z"
+    },
+    {
+      "id": "6d07d34f65bea136",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드-LG CNS, 사이버 보안 AI 모델 구축 협력",
+      "link": "https://www.inthenews.co.kr/news/article.html?no",
+      "publisher": "인더뉴스",
+      "pubDate": "Thu, 27 Aug 2026 05:37:07 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드와 협력하여 사이버 보안 AI 모델 구축을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-28T05:07:13.147Z"
+    },
+    {
+      "id": "1b5859921644bf83",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드-LG CNS, 정부 '보안 특화 AI' 사업 동반 참여",
+      "link": "https://v.daum.net/v/20260827110733078",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 27 Aug 2026 02:07:33 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/27/inews24/20260827110734434luyv.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-08-27",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드와 공동 컨소시엄을 구성하여 정부의 사이버 보안 분야 '특화 AI 파운데이션 모델 개발' 사업에 참여한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-28T05:06:37.179Z"
+    },
+    {
       "id": "99b33104967e403b",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -182,6 +358,28 @@
       "processedAt": "2026-08-27T00:27:57.005Z"
     },
     {
+      "id": "6863005fcb1067be",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 삼송 데이터센터에 액체냉각 구축…AI 팩토리 구현 나서 | DBR",
+      "link": "https://dbr.donga.com/kfocus/view/article_no/3473",
+      "publisher": "동아비즈니스리뷰 | DBR",
+      "pubDate": "Wed, 26 Aug 2026 08:42:43 GMT",
+      "keyVisual": "https://dbr.donga.com/upload_dir/kfocus/2026/08/20260826.134550245.1_1787791966_6a8f8a5ece6ef.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "삼송 데이터센터",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드와 협력해 삼송 데이터센터에 차세대 직접 칩 냉각(DTC) 인프라를 구축하고 고성능 AI 서비스를 지원하는 AI 팩토리 구현에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-28T05:06:28.007Z"
+    },
+    {
       "id": "bf728c2c08394c1e",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -202,6 +400,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-27T00:26:08.467Z"
+    },
+    {
+      "id": "9bb39359c1e41cde",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX-SAP, 'AI 네이티브 엔터프라이즈' 사업 협력",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hNkRlMWdjZWtxMFJlSHMxTzlpczMyeVd3ZXgyTHprWlFZaTVXSXRrTllhY3otdjBQVHVLRXdVVGlILUpiRmJtSk85QllVQ3RjRC1kVWJ6QTVsQUI4WHlaczVwX2UwUQ?oc=5",
+      "publisher": "디일렉",
+      "pubDate": "Wed, 26 Aug 2026 08:15:23 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 SAP와 'AI 네이티브 엔터프라이즈' 사업 협력을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-28T05:07:48.266Z"
     },
     {
       "id": "8549397b3a0abc1d",
@@ -270,6 +490,50 @@
       "processedAt": "2026-08-27T00:27:40.049Z"
     },
     {
+      "id": "ae2a16c0d8980fce",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 독일 SAP와 ‘기업 AI 전환’ 동맹 강화",
+      "link": "https://www.chosun.com/economy/tech_it/2026/08/26/Y6222WTBINCWPCE3X66XF3RHBY/",
+      "publisher": "조선일보",
+      "pubDate": "Wed, 26 Aug 2026 01:39:14 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/SYNPPN3F3ZEJRCUQ7CWOZ7PSGA.jpg?auth=5d62b438b949307be399bcc32aa40e866a56fbcc7c735e3023319d877661e26a&width=1200&height=630&smart=true",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 독일 SAP와 기업 AI 전환을 위한 동맹을 강화합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-28T05:07:30.977Z"
+    },
+    {
+      "id": "1b33d0406cb66786",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 삼송 데이터센터에 ‘차세대 액체냉각’ 도입...베라 루빈 식힌다",
+      "link": "https://www.chosun.com/economy/tech_it/2026/08/26/XFEXDAQ6ZJGPNNIHMA4DKEEWNA/",
+      "publisher": "조선일보",
+      "pubDate": "Wed, 26 Aug 2026 01:37:36 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/4WI2YN4IC5CWNK3DDQHVTJXNHQ.jpg?auth=4363de4cb2b5846f1a7d4a88f71b2e0e11b04897f96a70ec234df9eaa655b25b&width=1200&height=630&focal=764,198",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "삼송 데이터센터",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 삼송 데이터센터에 차세대 액체냉각 기술을 도입하여 베라 루빈 등 고성능 AI 인프라 냉각을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-28T05:06:59.786Z"
+    },
+    {
       "id": "d5bd556b285e70a5",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -334,6 +598,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-27T00:27:24.645Z"
+    },
+    {
+      "id": "f76679aa9d9f836e",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[AI픽] SK AX·SAP, 'AI 경영 자동화' 동맹…글로벌 공략 | 연합뉴스",
+      "link": "https://www.yna.co.kr/amp/view/AKR20260825157900017",
+      "publisher": "연합뉴스",
+      "pubDate": "Tue, 25 Aug 2026 23:30:01 GMT",
+      "keyVisual": "https://img6.yna.co.kr/etc/inner/KR/2026/08/25/AKR20260825157900017_01_i_P4.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-08-26",
+      "location": "독일 바덴뷔르템베르크주 발도르프 SAP 본사",
+      "format": "오프라인 업무협약 체결식",
+      "slogan": null,
+      "keyMessage": "SK AX가 독일 SAP와 AI 기반 ERP 사업 협력을 위한 업무협약(MOU)을 체결하여 금융·제조·에너지 분야의 AI 경영 자동화 성공 사례를 창출하고 글로벌 시장을 공략한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-28T05:07:42.132Z"
     },
     {
       "id": "4de1b41626524422",
@@ -996,6 +1282,28 @@
       "processedAt": "2026-08-24T21:25:48.528Z"
     },
     {
+      "id": "2f832330c69d1731",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 서울대 AI 네이티브 캠퍼스 구축 지원... '차세대 네트워크 플랫폼 전환' 사업 수주",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno",
+      "publisher": "인공지능신문",
+      "pubDate": "Mon, 24 Aug 2026 01:01:06 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 서울대학교의 '차세대 네트워크 플랫폼 전환' 사업을 수주하여 AI 네이티브 캠퍼스 구축을 지원합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-28T05:06:09.688Z"
+    },
+    {
       "id": "ec6106b378e4b07e",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -1082,6 +1390,28 @@
         "llmNote": "최근 AIDC 인프라 및 클라우드·AI 솔루션 중심의 소식과 달리 교육 기관 대상의 대규모 소프트웨어 정의 네트워크(SDN) 인프라 구축 사례를 발표했다는 특이점이 있습니다."
       },
       "processedAt": "2026-08-24T21:27:26.174Z"
+    },
+    {
+      "id": "27b5a4a18de13ea0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 서울대 'AI 네이티브 캠퍼스' 구축한다 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260824021400017",
+      "publisher": "연합뉴스",
+      "pubDate": "Sun, 23 Aug 2026 23:37:21 GMT",
+      "keyVisual": "https://img7.yna.co.kr/etc/inner/KR/2026/08/24/AKR20260824021400017_01_i_P4.jpg",
+      "activityType": "고객사례",
+      "eventDate": "2026-08-24",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 서울대학교의 차세대 네트워크 플랫폼 전환 사업을 수주하여 SDN 기술 기반의 'AI 네이티브 캠퍼스' 인프라를 구축한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-28T05:06:00.090Z"
     },
     {
       "id": "cff50ff52c44146f",
