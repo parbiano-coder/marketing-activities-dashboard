@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T03:07:32.212Z",
+  "updatedAt": "2026-08-29T23:01:45.565Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,116 @@
   ],
   "activities": [
     {
+      "id": "20e7bcbe13a57d6b",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "GPU ������ � ���꼺��SK AX�� ¤�� AI �����ͼ����� ���� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260830n01745",
+      "publisher": "네이트",
+      "pubDate": "Sat, 29 Aug 2026 22:01:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/bt/2026/08/30/672106_285554_107.png",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": "세미나",
+      "slogan": null,
+      "keyMessage": "SK AX는 AI 데이터센터 세미나에서 단순 GPU 확보를 넘어 인프라 최적화와 자동화 시스템을 통한 운영 생산성 향상이 핵심임을 강조했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 SAP와의 AI ERP 및 엔터프라이즈 협력 중심 활동과 달리 AI 데이터센터 및 GPU 인프라 운영 최적화를 주제로 세미나를 진행했습니다."
+      },
+      "processedAt": "2026-08-29T22:59:43.204Z"
+    },
+    {
+      "id": "07b3f7e7e3cacfc7",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "팀네이버, ECCV 논문 23편 채택…공간지능 연구 성과 발표 - 글로벌이코노믹",
+      "link": "https://www.g-enews.com/article/ICT/2026/08/2026082809002564633d7a510102_1",
+      "publisher": "글로벌이코노믹",
+      "pubDate": "Sat, 29 Aug 2026 22:00:00 GMT",
+      "keyVisual": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260828094103090113d7a51010222114721494.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026년 9월 8일 ~ 12일",
+      "location": "스웨덴",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "팀네이버가 국제 컴퓨터비전 학회 'ECCV 2026'에서 3D 공간 재구성, 월드모델, 자율주행 등 공간지능 관련 연구 논문 23편을 채택시키며 독보적인 AI 연구 성과를 입증했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 제휴 카드 출시나 플랫폼 운영 이슈 등 사업·서비스 중심의 보도들과 달리, 글로벌 학회에서 대규모 AI 연구 논문 성과를 발표한 기술 연구 중심의 활동이라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-29T23:00:12.879Z"
+    },
+    {
+      "id": "f1142674c52739c3",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "애플페이 길 터준 네이버·토스… 카드사 도입 셈법엔 '양날의 검 - 머니투데이",
+      "link": "https://www.mt.co.kr/finance/2026/08/29/2026081815120595162",
+      "publisher": "머니투데이",
+      "pubDate": "Fri, 28 Aug 2026 22:50:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081815120595162_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버페이와 토스의 오프라인 결제 단말기 확장이 카드사의 애플페이 도입 인프라 구축 비용을 줄여주는 한편, 간편결제 다양화로 애플페이만의 메리트를 저하시키는 양날의 검으로 작용하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T22:59:52.357Z"
+    },
+    {
+      "id": "fcc0edbf40dc247e",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "마켓in",
+      "link": "https://marketin.edaily.co.kr/",
+      "publisher": "마켓인",
+      "pubDate": "Fri, 28 Aug 2026 22:30:03 GMT",
+      "keyVisual": "https://marketin.edaily.co.kr/_next/static/media/marketin02_thumb_400x226.c6833b9d.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 증권 신용등급 및 M&A 관련 정보 목록으로 네이버의 마케팅 활동에 대한 내용을 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "네이버의 마케팅 활동 정보가 전혀 포함되어 있지 않습니다."
+      },
+      "processedAt": "2026-08-29T23:00:01.606Z"
+    },
+    {
+      "id": "527a93c26ea7ad1a",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[����� ������] 5�� ���� ���ƿ� ���̹� ������\"���� ������ ����\" vs \"������ ���� �ⷷ\" : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260829n02028",
+      "publisher": "네이트",
+      "pubDate": "Fri, 28 Aug 2026 21:02:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/cz/2026/08/29/cz_1787950925616_533145_0.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 별점 리뷰 제도를 다시 개편 및 운영함에 따라 소비자 정보 제공 측면의 호응과 자영업자의 악성 리뷰 및 별점 테러 우려가 함께 제기되고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T23:00:37.931Z"
+    },
+    {
       "id": "4b8970e6d78a6bdf",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -136,6 +246,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-29T03:04:45.337Z"
+    },
+    {
+      "id": "31e0fc602750b281",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, 美 애니메이션 스튜디오 ’바오밥’ 투자…글로벌 ’슈퍼 IP’ 키운다 By The Guru",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oTkI4elZycnBEUVlLWGR5RF9sOE1DNjNsbGxVUXhOZGJPM1BjSVR4ZjRDNnE5Q2tScmtRblJabmN1ektDQURFS2lpRjJ4R21SVld4dHFGOTkwNVhiRkF0SXkwTmF4cVBpc0c2MVVNdEs?oc=5",
+      "publisher": "Investing.com 한국어",
+      "pubDate": "Fri, 28 Aug 2026 07:17:00 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 글로벌 슈퍼 IP를 키우기 위해 미국 애니메이션 스튜디오 '바오밥'에 투자를 진행했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "국내 서비스 연계 및 AI 이슈 중심이었던 최근 활동과 달리 미국 애니메이션 스튜디오 투자를 통한 글로벌 콘텐츠 IP 육성 행보라는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-08-29T23:00:19.152Z"
     },
     {
       "id": "efa1805a876947f5",
@@ -202,6 +334,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-29T03:07:07.235Z"
+    },
+    {
+      "id": "0b2baf57c23f3f14",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "모두의 AI 사업자에 SKT·카카오·KT 선정…엔비디아 GPU 지원",
+      "link": "https://news.jtbc.co.kr/article/NB12315515",
+      "publisher": "JTBC",
+      "pubDate": "Fri, 28 Aug 2026 00:33:00 GMT",
+      "keyVisual": "https://photo.jtbc.co.kr/news/jam_photo/202608/28/27ee7c6b-18b6-49ca-a8bd-0600c6b57204.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오가 SKT, KT와 함께 '모두의 AI' 사업자로 선정되어 엔비디아 GPU 지원을 받습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T23:01:18.127Z"
     },
     {
       "id": "bf6c7f908214e476",
@@ -314,6 +468,72 @@
       "processedAt": "2026-08-28T05:07:07.794Z"
     },
     {
+      "id": "ea12f1b4082b8a13",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "속수무책 카카오 프렌즈아카데미 점주들...“제2의 골프존 막아야”",
+      "link": "https://www.kyeonggi.com/article/20260827580338",
+      "publisher": "경기일보",
+      "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "keyVisual": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/27/.cache/512/20260827580339.jpg?v=20260830080119",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오VX의 스크린골프 가맹점주들이 캐릭터 상품 공급 중단과 고가 A/S 비용 전가 등 본사 종속 구조에 따른 부당함을 호소하며 갈등이 심화되고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 사업 확장, 통합, AI 전략 등 긍정적인 기업 소식들과 달리 카카오VX 가맹점과의 구조적 갈등 및 불공정 거래 논란을 다룬 리스크 보도라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-08-29T23:01:32.131Z"
+    },
+    {
+      "id": "7142354c1f857b15",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "정부 ‘K-미토스’ 개발, SKT vs 네이버 2파전… 9월 초 결과 발표",
+      "link": "https://it.chosun.com/news/articleView.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Thu, 27 Aug 2026 06:58:37 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "정부의 'K-미토스' 개발 사업 수주를 두고 네이버와 SKT가 경합 중이며 9월 초 결과가 발표될 예정이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 서비스 출시 및 인프라 비용 이슈 등과 달리 정부 프로젝트 수주를 위해 통신사인 SKT와 직접 맞붙는 구도이다."
+      },
+      "processedAt": "2026-08-29T23:00:47.829Z"
+    },
+    {
+      "id": "6a71b9cc08f5de5b",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독]'만년 적자' 네이버 스노우, AI 채팅사업 만지작",
+      "link": "https://news.mtn.co.kr/news-detail/2026082715122339996",
+      "publisher": "MTN 머니투데이방송",
+      "pubDate": "Thu, 27 Aug 2026 06:44:47 GMT",
+      "keyVisual": "https://menu.mtn.co.kr/upload/article/2026/08/27/2026082715122339996_00_871.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버 스노우가 만년 적자 구조를 벗어나고 서비스 외연을 확장하기 위해 3D 캐릭터 및 공간을 결합한 AI 개인화 채팅 사업 진출을 검토하고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 카드 제휴나 인프라 이슈와 달리 자회사 스노우를 통한 B2C AI 캐릭터 채팅이라는 신사업 진출 검토 소식이 다루어졌습니다."
+      },
+      "processedAt": "2026-08-29T23:01:12.030Z"
+    },
+    {
       "id": "406d4fed129e60b2",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -336,6 +556,28 @@
       "processedAt": "2026-08-28T05:05:50.524Z"
     },
     {
+      "id": "1f1f58b84a4c4cde",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Thu, 27 Aug 2026 05:57:54 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "지디넷코리아의 뉴스레터 구독 신청 및 매체 운영 관련 정보입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "LG CNS의 기업 마케팅 또는 사업 활동 관련 내용이 아닌 언론 매체의 뉴스레터 구독 안내 정보입니다."
+      },
+      "processedAt": "2026-08-29T22:59:24.025Z"
+    },
+    {
       "id": "6d07d34f65bea136",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -356,6 +598,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-28T05:07:13.147Z"
+    },
+    {
+      "id": "7f4eb9f82f0c7f35",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 음원 플랫폼 '바이브' 연말에 문 닫는다",
+      "link": "https://www.newsis.com/view/NISX20260827_0003765408",
+      "publisher": "뉴시스",
+      "pubDate": "Thu, 27 Aug 2026 05:25:43 GMT",
+      "keyVisual": "https://img1.newsis.com/2025/05/12/NISI20250512_0001839625_web.jpg",
+      "activityType": "언론보도",
+      "eventDate": "12월 31일",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버가 수익성이 악화된 음원 플랫폼 '바이브' 서비스를 오는 12월 31일 종료하고 AI, 쇼핑 등 핵심 사업에 역량을 집중하기로 결정했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "신규 상품 출시나 투자 관련 활동 위주였던 최근 동향과 달리, 수익성이 낮은 기존 사업(바이브)을 정리하는 구조조정 행보를 보였다는 점이 특이합니다."
+      },
+      "processedAt": "2026-08-29T23:00:59.908Z"
     },
     {
       "id": "154c4c565992643b",
@@ -400,6 +664,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-29T03:05:53.987Z"
+    },
+    {
+      "id": "2f40afe8c219b091",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드·LG CNS, 보안 특화 AI 사업 참여",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zY0VDRVBnazVBRk5vcEQ5bDZMOXluMW80dU5KeTBXMDRHbnhtYjB4VnN6ZmZpYURBNE1NLXFXdEtRM2M5NU15MEFfOVlJUQ?oc=5",
+      "publisher": "전자신문",
+      "pubDate": "Thu, 27 Aug 2026 02:30:45 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드와 협력하여 보안 특화 AI 사업에 참여합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T22:59:10.544Z"
     },
     {
       "id": "ce34977ed611815f",
@@ -466,6 +752,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-28T05:06:37.179Z"
+    },
+    {
+      "id": "51aa8bdd355b6d81",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드·LG CNS 손잡았다…사이버보안 특화 AI 개발",
+      "link": "https://v.daum.net/v/20260827105857503",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 27 Aug 2026 01:58:57 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/27/NEWS1/20260827105859793abhz.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-08-27",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드 및 33개 산·학·연 기관과 컨소시엄을 구성해 국가 사이버 안보 역량 강화를 위한 보안 특화 AI 파운데이션 모델 개발 사업에 참여한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T22:59:31.875Z"
     },
     {
       "id": "99b33104967e403b",
@@ -752,6 +1060,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-27T00:27:47.251Z"
+    },
+    {
+      "id": "6c5e995f8d096ddc",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "15조→9조로 몸값 떨어진 두나무…네이버와 '빅딜'도 흔들리나",
+      "link": "https://www.investchosun.com/site/data/html_dir/2026/08/26/2026082680073.html",
+      "publisher": "인베스트조선",
+      "pubDate": "Wed, 26 Aug 2026 02:31:00 GMT",
+      "keyVisual": "https://img.investchosun.com/site/data/img_dir/2026/08/26/2026082680073_0.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "가상자산 시장 침체로 두나무의 기업가치가 하락함에 따라 네이버파이낸셜과의 주식교환 결합 거래 및 향후 미국 상장 추진에 대한 부담과 불확실성이 커지고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 마케팅 활동이나 단순 제휴와 달리 가상자산 대표 기업과의 대규모 지분 교환 및 해외 상장 관련 밸류에이션 불확실성을 다루고 있다는 점이 특이합니다."
+      },
+      "processedAt": "2026-08-29T23:00:30.753Z"
     },
     {
       "id": "721d29a9ffc65274",
@@ -1958,7 +2288,7 @@
       "slogan": null,
       "keyMessage": "토스 팀의 비개발 직무 담당자들이 반복 업무 효율화와 핵심 가치 창출을 위해 AI를 실무에 어떻게 적용하고 활용하는지 소개합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-22T21:24:06.614Z"
@@ -1980,7 +2310,7 @@
       "slogan": null,
       "keyMessage": "토스의 비개발 직무 담당자들이 AI를 활용해 반복 업무를 자동화하고 본연의 핵심 업무와 고객 신뢰 형성에 집중하는 일하는 방식과 실무 사례를 공유한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-22T21:23:58.407Z"
@@ -2002,7 +2332,7 @@
       "slogan": "금융이 알고 싶을 때, 토스피드",
       "keyMessage": "토스팀 비개발 직무 담당자들이 세일즈, 마케팅 등 업무 전반에서 AI 도구를 활용해 단순 반복 업무를 줄이고 고객 응대 및 핵심 전략 고민에 집중하는 공생 사례를 공유합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-22T21:23:49.562Z"
@@ -2024,7 +2354,7 @@
       "slogan": null,
       "keyMessage": "토스의 비개발 직무 팀원들이 반복 업무 효율화와 본질적인 업무 가치 창출을 위해 업무 현장에서 AI 도구를 실제로 활용하고 공생하는 사례와 노하우를 공유했다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-22T21:23:42.880Z"
@@ -2046,7 +2376,7 @@
       "slogan": "금융이 알고 싶을 때, 토스피드",
       "keyMessage": "토스는 세일즈, 마케팅 등 비개발 직무 구성원들이 업무 효율화를 위해 AI 도구를 활용하는 실제 사례와 공생 방식을 소개한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-22T21:23:34.114Z"
@@ -2068,7 +2398,7 @@
       "slogan": "금융이 알고 싶을 때, 토스피드",
       "keyMessage": "토스 팀의 비개발 직무 담당자들이 업무 현장에서 AI를 활용해 단순·반복 업무를 자동화하고, 절약한 시간으로 고객 신뢰 형성과 기획 등 본질적인 핵심 업무에 집중하는 AI 협업 방식을 소개합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-22T21:23:26.995Z"
@@ -2090,7 +2420,7 @@
       "slogan": "금융이 알고 싶을 때, 토스피드",
       "keyMessage": "토스의 비개발 직무 담당자들이 업무 효율성을 향상하고 본연의 일에 집중하기 위해 AI를 활용하는 구체적인 사례와 협업 노하우를 공유한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-22T21:23:16.808Z"
@@ -2112,7 +2442,7 @@
       "slogan": "금융이 알고 싶을 때, 토스피드",
       "keyMessage": "토스의 비개발 직무 담당자들이 AI를 활용해 반복 업무를 자동화하고, 절약한 시간으로 고객 신뢰 쌓기와 마케팅 전략 수립 등 핵심 업무에 집중하는 AI 공생 방식을 소개한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-22T21:23:08.519Z"
@@ -2134,7 +2464,7 @@
       "slogan": "금융이 알고 싶을 때, 토스피드",
       "keyMessage": "토스 팀의 비개발 직무 담당자들이 실제 세일즈 및 마케팅 업무에서 AI를 활용하여 반복 업무를 줄이고 핵심 가치에 집중하는 공생 방식을 소개한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-22T21:22:56.584Z"
@@ -2156,7 +2486,7 @@
       "slogan": null,
       "keyMessage": "금융이 알고 싶을 때, 토스피드",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-22T21:22:31.496Z"
@@ -2178,7 +2508,7 @@
       "slogan": null,
       "keyMessage": "금융이 알고 싶을 때, 토스피드",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-22T21:21:59.469Z"
@@ -2200,7 +2530,7 @@
       "slogan": null,
       "keyMessage": "금융이 알고 싶을 때, 토스피드",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-22T21:21:27.470Z"
