@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T05:08:01.627Z",
+  "updatedAt": "2026-08-29T03:07:32.212Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,72 @@
   ],
   "activities": [
     {
+      "id": "4b8970e6d78a6bdf",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Fri, 28 Aug 2026 08:04:41 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "지디넷코리아의 뉴스레터 구독 신청 및 매체 운영 관련 내용입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:04:56.679Z"
+    },
+    {
+      "id": "b770297c4e37d622",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "≪주간현대≫ SI 대표회사 삼성SDS, 클라우드·AI 전환 대해부",
+      "link": "http://hyundaenews.com/107461",
+      "publisher": "주간현대",
+      "pubDate": "Fri, 28 Aug 2026 07:27:00 GMT",
+      "keyVisual": "http://www.hyundaenews.com/data/hyundaenews_com/mainimages/202608/2026082832224638.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 올해 상반기 클라우드 매출이 최초로 ITO 매출을 넘어섰으며, 국가 AI 컴퓨팅센터 구축 컨소시엄 대표사 참여 등을 통해 AI 인프라 및 기업용 AI 서비스 기업으로 성공적인 체질 전환을 이루고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:04:45.337Z"
+    },
+    {
+      "id": "efa1805a876947f5",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[인터페이스의 확장 ④] Embodied Agent, 가상 세계를 넘어 AI의 손을 잡다 | 인사이트리포트 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/insights/embodied-agent-physical-ai.html",
+      "publisher": "Samsung SDS America",
+      "pubDate": "Fri, 28 Aug 2026 07:05:11 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/08/26/07_cover_featured_1.png?queryString=20260828035204",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[인터페이스의 확장 ④] Embodied Agent, 가상 세계를 넘어 AI의 손을 잡다 | 인사이트리포트 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:04:37.893Z"
+    },
+    {
       "id": "43b9c38bd2fafb71",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -114,6 +180,28 @@
         "llmNote": "최근 활동이 네이버클라우드와의 국내 AI 데이터센터 구축 및 보안 파트너십에 집중되었던 것과 달리 해외 로보틱스/AI 기업 투자를 통한 글로벌 기술 협력 행보를 보여줍니다."
       },
       "processedAt": "2026-08-28T05:06:52.832Z"
+    },
+    {
+      "id": "92f801db954d887f",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "아시아투데이",
+      "link": "https://www.asiatoday.co.kr/error.php?code=3",
+      "publisher": "아시아투데이",
+      "pubDate": "Fri, 28 Aug 2026 02:22:46 GMT",
+      "keyVisual": "https://img.asiatoday.co.kr/social/kr_asiatoday_og.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 아시아투데이의 발행 정보 및 저작권 관련 안내로, 네이버의 마케팅 활동에 대한 구체적인 내용을 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:07:07.235Z"
     },
     {
       "id": "bf6c7f908214e476",
@@ -158,6 +246,28 @@
         "llmNote": "최근 데이터센터 및 냉각 인프라 구축 중심 활동과 달리 로봇 및 피지컬 AI 영역에 집중된 활동이라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-08-28T05:06:43.030Z"
+    },
+    {
+      "id": "6a848bee58786db6",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드-LG CNS, 자체 기술로 보안 특화 AI 구축",
+      "link": "https://v.daum.net/v/20260827165102353",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 27 Aug 2026 07:51:02 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/27/nocut/20260827165104788wfwp.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-08-27",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드와 공동 컨소시엄을 구성하여 국가 사이버 안보 역량 강화를 위한 보안 특화 AI 파운데이션 모델 개발 사업에 참여합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:05:12.443Z"
     },
     {
       "id": "3ce2772ee11d7337",
@@ -246,6 +356,94 @@
         "llmNote": null
       },
       "processedAt": "2026-08-28T05:07:13.147Z"
+    },
+    {
+      "id": "154c4c565992643b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드-LG CNS, 국가 사이버 보안 AI 모델 개발 나선다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno",
+      "publisher": "ER 이코노믹리뷰",
+      "pubDate": "Thu, 27 Aug 2026 05:00:28 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드와 손잡고 국가 사이버 보안 AI 모델 개발에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:05:37.391Z"
+    },
+    {
+      "id": "11b0914ebcf211e5",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드·LG CNS, 33개 기관과 '보안 AI' 개발전...폐쇄망·실증 앞세워",
+      "link": "https://v.daum.net/v/20260827134400775",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 27 Aug 2026 04:44:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/27/552782-ZYLYaJX/20260827134401470epdp.png",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-08-27",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드 및 33개 기관과 컨소시엄을 구성하여 국내 사이버 보안 환경에 특화된 AI 파운데이션 모델 개발에 나선다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:05:53.987Z"
+    },
+    {
+      "id": "ce34977ed611815f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'보안 AI' 놓고 다시 짠 K-AI 동맹…네이버-LG CNS 손잡았다",
+      "link": "https://www.fnnews.com/news/202608271108503364",
+      "publisher": "파이낸셜뉴스",
+      "pubDate": "Thu, 27 Aug 2026 02:13:25 GMT",
+      "keyVisual": "https://image.fnnews.com/resource/media/image/2026/06/25/202606251753296602_e.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드 및 33개 산·학·연 기관과 컨소시엄을 구성해 정부의 사이버보안 특화 AI 파운데이션 모델 개발 사업에 참여합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:05:20.099Z"
+    },
+    {
+      "id": "29e971a20a6361ea",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[AI픽] 네이버클라우드·LG CNS, 정부 '보안 특화 AI' 도전",
+      "link": "https://v.daum.net/v/20260827111150316",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 27 Aug 2026 02:11:50 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/27/yonhap/20260827111150680spep.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-08-27",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드 등 32개 기관과 컨소시엄을 구성하여 과기정통부 및 NIPA 추진 사이버 보안 특화 AI 파운데이션 모델 개발 사업에 제안서를 제출하고 공동 참여를 추진한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:05:48.653Z"
     },
     {
       "id": "1b5859921644bf83",
@@ -446,6 +644,94 @@
       "processedAt": "2026-08-27T00:27:17.330Z"
     },
     {
+      "id": "fabd3f9a98735248",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Wed, 26 Aug 2026 04:50:05 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "본문 내용이 지디넷코리아의 뉴스레터 구독 안내 정보로만 구성되어 있어 SK AX의 마케팅 활동 관련 핵심 메시지를 확인할 수 없습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:06:58.217Z"
+    },
+    {
+      "id": "38f0ec9d5f7cfe7f",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, ‘네이버 현대카드 에디션3’ 출시",
+      "link": "https://biz.chosun.com/it-science/ict/2026/08/26/R62G7IX4TVD47FPYIGFOFJSIWA/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Wed, 26 Aug 2026 04:34:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/HN2Y57KJ6BFDPDRTJMG2QB7TA4.png?auth=0d55fb5677f39156484607d6a573fc2d5828e34575ca314f77090aac0c14a604&width=1200&height=630&smart=true",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 현대카드와 협력하여 '네이버 현대카드 에디션3'을 출시했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 인프라 구축 및 개발 조직 관련 활동이 주를 이루었던 것과 달리 금융사와 협력한 제휴 상품 출시 활동입니다."
+      },
+      "processedAt": "2026-08-29T03:07:17.773Z"
+    },
+    {
+      "id": "68b355af4b179573",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, SAP와 AI 동맹 강화…기업 운영 전반에 에이전틱 AI 접목",
+      "link": "https://www.munhwa.com/article/11612240",
+      "publisher": "문화일보",
+      "pubDate": "Wed, 26 Aug 2026 03:53:51 GMT",
+      "keyVisual": "https://wimg.munhwa.com/news/cms/2026/08/26/news-p.v1.20260826.aef1e45f215e4d9ca0b29e5ad19951e4_R.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "독일 바덴뷔르템베르크주 발도르프 SAP 본사",
+      "format": "양해각서(MOU) 체결",
+      "slogan": null,
+      "keyMessage": "SK AX가 독일 SAP와 기업 운영 전반에 에이전틱 AI를 접목하기 위한 업무협약(MOU)을 체결하고 자사 ERP 스위트의 글로벌 공급 및 협력을 강화합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:06:31.105Z"
+    },
+    {
+      "id": "1ed9d08564aae69f",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, SAP와 ‘AI 네이티브 엔터프라이즈’ 동맹 강화…기업운영 AX혁신 가속",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno",
+      "publisher": "인공지능신문",
+      "pubDate": "Wed, 26 Aug 2026 03:30:03 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 SAP와 'AI 네이티브 엔터프라이즈' 동맹을 강화하여 기업운영 AX 혁신을 가속화합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:06:01.754Z"
+    },
+    {
       "id": "cbc6b2bf78c76aed",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -466,6 +752,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-27T00:27:47.251Z"
+    },
+    {
+      "id": "721d29a9ffc65274",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, SAP와 ‘AI 네이티브 엔터프라이즈’ 협력 강화",
+      "link": "https://www.itdaily.kr/news/articleView.html?idxno",
+      "publisher": "아이티데일리",
+      "pubDate": "Wed, 26 Aug 2026 01:55:48 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 SAP와 'AI 네이티브 엔터프라이즈' 분야에서 협력을 강화합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:06:39.675Z"
     },
     {
       "id": "3de9c1cb17139a9a",
@@ -578,6 +886,28 @@
       "processedAt": "2026-08-27T00:27:06.948Z"
     },
     {
+      "id": "dbad79231b38424e",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, SAP와 손잡고 기업 업무 'AI 에이전트'로 전환",
+      "link": "https://www.newspim.com/news/view/20260826000207",
+      "publisher": "뉴스핌",
+      "pubDate": "Wed, 26 Aug 2026 00:34:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/08/26/2608260921509840_392_tc.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "26일",
+      "location": "독일 발도르프 SAP 본사",
+      "format": "MOU 체결식",
+      "slogan": null,
+      "keyMessage": "SK AX가 글로벌 기업용 소프트웨어 기업 SAP와 업무협약(MOU)을 체결하고 기업 업무 전반을 AI 에이전트 중심으로 전환하는 사업을 확대한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:06:16.678Z"
+    },
+    {
       "id": "650454ab8e232d18",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -598,6 +928,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-27T00:27:24.645Z"
+    },
+    {
+      "id": "1ae6d467abbd4d18",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "독일로 날아간 SK AX&hellip;SAP와 'AI 네이티브 엔터프라이즈' 협력 강화",
+      "link": "https://www.ddaily.co.kr/page/view/2026082608532675693",
+      "publisher": "디지털데일리",
+      "pubDate": "Tue, 25 Aug 2026 23:56:05 GMT",
+      "keyVisual": "/photos/2026/08/26/2026082608502271770_l.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "26일",
+      "location": "독일 바덴뷔르템베르크주 발도르프 소재 SAP 본사",
+      "format": "업무협약(MOU) 체결",
+      "slogan": null,
+      "keyMessage": "SK AX가 글로벌 기업 SAP와 업무협약(MOU)을 체결하고, 에이전틱 AI 기반의 'AI 네이티브 엔터프라이즈' 구현을 위해 금융·제조·에너지 산업 분야 협력을 강화한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-29T03:06:49.291Z"
     },
     {
       "id": "f76679aa9d9f836e",
@@ -1958,7 +2310,7 @@
       "slogan": null,
       "keyMessage": "SK AX 애커튼파트너스가 한국경영자총협회와 업무협약을 체결하고 기업들의 안전·보건·환경 분야 AI 기반 위험관리체계 구축 및 산업안전 강화를 지원합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "경영진 인사 및 실적 발표 위주였던 최근 활동과 달리 한국경영자총협회와 협력하여 산업안전 및 ESG 분야로 AI 컨설팅 영역을 확장했습니다."
       },
       "processedAt": "2026-08-23T21:20:15.174Z"
