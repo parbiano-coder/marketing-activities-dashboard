@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T23:01:45.565Z",
+  "updatedAt": "2026-08-30T23:11:50.843Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,182 @@
   ],
   "activities": [
     {
+      "id": "8ff1242b56d5bb87",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"카톡, 메신저 넘어 AI 행정창구로\"…일본 학계가 주목",
+      "link": "https://v.daum.net/v/20260831063439238",
+      "publisher": "v.daum.net",
+      "pubDate": "Sun, 30 Aug 2026 21:34:39 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/31/yonhap/20260831063439385uogx.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-30",
+      "location": "일본 도쿄 호세이대학교",
+      "format": "학회 연구 발표",
+      "slogan": null,
+      "keyMessage": "카카오톡이 AI 국민비서와 체납 안내 등 공공 행정 서비스를 지원하는 디지털·AI 인프라로 확장한 성과와 공공 가치가 일본 경영사학회 연구 논문으로 조명받았습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 국내 AI 사업 및 계열사 통합 등의 이슈와 달리, 해외 학술대회 연구 논문 발표를 통해 자사 서비스의 공공 가치와 행정 혁신 성과를 입증받은 점이 특징적입니다."
+      },
+      "processedAt": "2026-08-30T23:11:38.782Z"
+    },
+    {
+      "id": "3faf43e7a52165c4",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "초등학생부터 취준생까지 단계별 ‘AI 교육’ 제공",
+      "link": "https://www.donga.com/news/Economy/article/all/20260829/134565289/2",
+      "publisher": "동아일보",
+      "pubDate": "Sun, 30 Aug 2026 19:30:00 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/29/134565288.3.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 초등학생부터 대학생, 취업준비생까지 성장 단계별 AI 교육 프로그램을 운영하며 국내 AI 인재 저변을 확대하고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 기술 상용화, 투자, 사이버 안보 협력 등 B2B 사업 중심 활동과 달리 초등학생부터 취업준비생까지 아우르는 인재 양성 교육 프로그램 체계에 집중한 점이 다릅니다."
+      },
+      "processedAt": "2026-08-30T23:08:43.774Z"
+    },
+    {
+      "id": "fc7ccf396fc9b1af",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "다시 힘준 블로그, 네이버 효자 됐다…AI 브리핑 인용 2배 ‘껑충’",
+      "link": "https://www.sedaily.com/article/20084959",
+      "publisher": "서울경제",
+      "pubDate": "Sun, 30 Aug 2026 08:52:06 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/08/30/news-p.v1.20260827.c7917cb78f684ea583c585d4aa1141a3_R.png",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-30",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버가 창작자 지원 프로그램 '네이버 메이트'를 시행한 이후 고품질 창작자 콘텐츠의 AI 브리핑 인용 횟수가 두 달 새 114% 증가하며 AI 검색과 사용자 생성 콘텐츠(UGC) 생태계를 동시에 강화하는 효과를 얻고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-30T23:10:15.099Z"
+    },
+    {
+      "id": "51efdbbe3c01ea60",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[�ܵ�] ������ �߰� �ΰ� �õ������̹� �����ϳ� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260830n12708",
+      "publisher": "네이트",
+      "pubDate": "Sun, 30 Aug 2026 08:45:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/se/2026/08/30/news-p.v1.20260830.c2431f5f06d64a0abd3a62bf64543545_P1.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "기사 본문의 텍스트 인코딩 오류로 인해 네이버의 마케팅 활동 내용을 확인할 수 없습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-30T23:11:17.783Z"
+    },
+    {
+      "id": "2c3dbb8f6ebf2ebc",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[프로필]'네이버 AI전문가' 하정우 前 AI수석, AI전략위 부위원장 발탁",
+      "link": "https://www.news1.kr/it-science/internet-platform/6273753",
+      "publisher": "뉴스1",
+      "pubDate": "Sun, 30 Aug 2026 03:13:42 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2026/8/30/8078613/high.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버의 AI 전문가인 하정우 전 AI수석이 AI전략위원회 부위원장으로 발탁되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-30T23:10:21.872Z"
+    },
+    {
+      "id": "52a3d012fad9323a",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AIDC 사업 따로 키운다…SKT·네이버 ‘별도 법인’ 승부수",
+      "link": "https://www.etoday.co.kr/news/view/2619510",
+      "publisher": "이투데이",
+      "pubDate": "Sun, 30 Aug 2026 01:28:00 GMT",
+      "keyVisual": "https://img.etoday.co.kr/pto_db/2026/08/20260830123307_2380386_1200_586.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-08-30",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 엔비디아, 브룩필드 등 외부 기업과의 연합을 통해 'AI 팩토리' 사업을 전담할 100% 자회사를 설립하고 AI 데이터센터 및 AI 풀스택 구축에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 학회 연구 성과 발표나 서비스 개편 중심의 활동과 달리, 글로벌 대형 투자사 및 반도체 기업과 손잡고 AIDC 전담 자회사를 출범하는 대규모 조직 및 사업 구조 재편이라는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-08-30T23:10:29.859Z"
+    },
+    {
+      "id": "0be055b3ef6e7658",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, ECCV 2026서 논문 23편 채택…3D 공간지능 기술력 입증",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SMUl2NndUd2J6V0pvUVpGU3dHT2kyN2xSSnppQmdkYkRSMmw1RXp3c3BCTHlpbmZqVk8yMXdYd1l1Zks2VlNjWjBmay15M1hHUzJGRlVJSlFwTVAyelBoOQ?oc=5",
+      "publisher": "메트로신문",
+      "pubDate": "Sun, 30 Aug 2026 00:41:07 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 ECCV 2026에서 논문 23편을 채택시키며 3D 공간지능 기술력을 입증했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-30T23:10:53.361Z"
+    },
+    {
+      "id": "bce59385a9d34dff",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "GPU 수보다 운영 생산성…SK AX가 짚은 AI 데이터센터의 조건",
+      "link": "https://www.bloter.net/news/articleViewAmp.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Sat, 29 Aug 2026 22:03:49 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX는 AI 데이터센터 구축 시 단순한 GPU 확보 수보다 인프라 최적화와 자동화를 통한 운영 생산성 향상이 핵심 요소임을 짚었습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-30T23:09:58.449Z"
+    },
+    {
       "id": "20e7bcbe13a57d6b",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -138,6 +314,28 @@
       "processedAt": "2026-08-29T23:00:12.879Z"
     },
     {
+      "id": "07be2f840d6fe65c",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "이데일리",
+      "link": "https://www.edaily.co.kr/?aspxerrorpath=/News/Read",
+      "publisher": "edaily.co.kr",
+      "pubDate": "Fri, 28 Aug 2026 23:30:05 GMT",
+      "keyVisual": "https://www.edaily.co.kr/profile_edaily_512.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "취업 불안감을 타깃으로 AI 활용 관련 자격증이 우후죽순 생겨나고 있으나 실제 실효성에 대한 의문이 제기되고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "네이버의 직접적인 기업 활동이나 마케팅 내용이 아닌 일반 AI 자격증 시장 실태를 다룬 언론보도입니다."
+      },
+      "processedAt": "2026-08-30T23:11:30.392Z"
+    },
+    {
       "id": "f1142674c52739c3",
       "company": "네이버",
       "category": "IT 서비스",
@@ -180,6 +378,28 @@
         "llmNote": "네이버의 마케팅 활동 정보가 전혀 포함되어 있지 않습니다."
       },
       "processedAt": "2026-08-29T23:00:01.606Z"
+    },
+    {
+      "id": "038392d4b54eebae",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "보도자료 l NAVER Corp.",
+      "link": "https://www.navercorp.com/media/pressReleases",
+      "publisher": "NAVERCorp.",
+      "pubDate": "Fri, 28 Aug 2026 21:40:59 GMT",
+      "keyVisual": "/img/og/OG_TAG_6_Media.png",
+      "activityType": "언론보도",
+      "eventDate": "2026.08.28",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "팀네이버가 세계 최정상 학회에서 비전 AI 분야 연구 논문이 대거 채택되며 글로벌 기술력을 입증했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-30T23:11:14.006Z"
     },
     {
       "id": "527a93c26ea7ad1a",
@@ -622,6 +842,28 @@
       "processedAt": "2026-08-29T23:00:59.908Z"
     },
     {
+      "id": "8a1a7a30b1c727c7",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드-LG CNS, 풀스택 자체 기술로 보안 특화 AI 구축 나선다",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno",
+      "publisher": "인공지능신문",
+      "pubDate": "Thu, 27 Aug 2026 05:19:40 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드와 협력하여 풀스택 자체 기술을 바탕으로 보안 특화 AI 구축에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-30T23:09:19.182Z"
+    },
+    {
       "id": "154c4c565992643b",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -664,6 +906,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-29T03:05:53.987Z"
+    },
+    {
+      "id": "9d74ec460de69a2e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드-LG CNS “풀스택 기술로 국가 사이버 보안 모델 개발”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14U0wyTmstTHIzLXAxU0RyWW1tUlhmMVdyeXFrRE41VS04RXBid3RBczdrZXFQaWpUYzlBNm9Fa196OTNSOVZqUHlWZFFaUDNWbzNLSklkVDh0Q214Zmt0Uno2akROdjEwc0E?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Thu, 27 Aug 2026 04:27:20 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버클라우드와 LG CNS가 풀스택 기술을 바탕으로 국가 사이버 보안 모델 개발에 협력합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-30T23:08:49.253Z"
     },
     {
       "id": "2f40afe8c219b091",
@@ -1194,6 +1458,28 @@
       "processedAt": "2026-08-27T00:27:33.752Z"
     },
     {
+      "id": "3e354702b5ef14ee",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 삼송 데이터센터에 액체냉각 도입…AI 팩토리 선점",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qN2VjbWpmbnlOaHlCQlJhVE1JUmlNcmRRY3hJMkFKVmVETHNXOUdSQ1JwMjRqVjJZeHNfVldvS0Q3UWhJOFR1ZER5TllZN3BCZWtvNzlEaGJSTmROOG5vam53LVZIbkF2cXlDYVgtci0?oc=5",
+      "publisher": "연합인포맥스",
+      "pubDate": "Wed, 26 Aug 2026 01:00:16 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "삼송 데이터센터",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI 팩토리 시장 선점을 위해 삼송 데이터센터에 액체냉각 기술을 도입했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-30T23:09:34.978Z"
+    },
+    {
       "id": "b9f35010fe5b6f0d",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -1302,6 +1588,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-28T05:07:42.132Z"
+    },
+    {
+      "id": "188ca66b2c48b8bf",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[AI픽] SK AX·SAP, 'AI 경영 자동화' 동맹…글로벌 공략 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260825157900017",
+      "publisher": "연합뉴스",
+      "pubDate": "Tue, 25 Aug 2026 23:30:01 GMT",
+      "keyVisual": "https://img6.yna.co.kr/etc/inner/KR/2026/08/25/AKR20260825157900017_01_i_P4.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-08-26",
+      "location": "독일 발도르프 SAP 본사",
+      "format": "MOU 체결식 및 보도자료 배포",
+      "slogan": null,
+      "keyMessage": "SK AX가 독일 SAP와 AI 기반 ERP 사업 협력을 위한 양해각서(MOU)를 체결하고 금융, 제조, 에너지 분야 등에서 AI 에이전트 중심의 기업 업무 프로세스 재설계 및 글로벌 시장 확산을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-08-30T23:10:06.631Z"
     },
     {
       "id": "4de1b41626524422",
@@ -7748,6 +8056,28 @@
         "llmNote": "최근 엔비디아와의 피지컬 AI 및 로봇 데이터 협력 등 기술·사업 중심의 활동과 달리 재무적 주주환원(중간배당) 관련 소식이라는 점에서 특이점이 있습니다."
       },
       "processedAt": "2026-08-19T21:26:29.193Z"
+    },
+    {
+      "id": "bf6bd40ee47837b5",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 727억원 규모 중간배당…AI 투자·주주환원 병행",
+      "link": "https://v.daum.net/v/ZEuIA0pXjP",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/06/ZDNetKorea/20260806084648084qzuy.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-08-06",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 주당 750원, 약 727억 원 규모의 중간배당 결정을 발표하며 AI·클라우드 중심의 미래 투자와 주주환원 정책을 병행하고 있음을 밝혔다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 AI 기술 개발 및 로봇 분야 투자 관련 소식들과 달리, 약 727억 원 규모의 중간배당 발표 등 주주환원 및 재무 정책 중심의 보도라는 점에서 차이가 있다."
+      },
+      "processedAt": "2026-08-30T23:09:28.014Z"
     },
     {
       "id": "16a5ecf0cdfbd4c7",
