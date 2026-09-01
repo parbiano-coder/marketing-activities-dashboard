@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T23:11:50.843Z",
+  "updatedAt": "2026-09-01T00:25:52.316Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,314 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "cbd7c113ffbc7feb",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "����AI����Ʈ���� ���ڸ������ＺSDS, ��� AX �������� ���� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260901n06572?mid",
+      "publisher": "네이트",
+      "pubDate": "Tue, 01 Sep 2026 00:11:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ni/2026/09/01/2609010846167700.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "9월 8일",
+      "location": "서울 파르나스호텔",
+      "format": "오프라인 컨퍼런스",
+      "slogan": "삼성SDS AI 풀스택으로 완성하는 기업의 AX 혁신과 미래",
+      "keyMessage": "삼성SDS가 9월 8일 서울 파르나스호텔에서 AX 컨퍼런스 'REAL Summit'을 개최하고, AI 풀스택 플랫폼을 활용한 기업의 AX 혁신 전략과 고객 사례를 공유한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T00:24:11.792Z"
+    },
+    {
+      "id": "1c4c67bf2751e43f",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 8일 &lsquo;리얼 서밋 2026&rsquo; 개최&hellip;오픈AI&middot;앤트로픽 총출동",
+      "link": "https://www.mydaily.co.kr/page/view/2026090108550196098",
+      "publisher": "mydaily.co.kr",
+      "pubDate": "Mon, 31 Aug 2026 23:55:01 GMT",
+      "keyVisual": "https://mydaily.co.kr/photos/2026/09/01/2026090108543325860_l.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "8일",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "오프라인 컨퍼런스",
+      "slogan": "삼성SDS AI 풀스택으로 완성하는 성공적인 AX 혁신의 미래",
+      "keyMessage": "삼성SDS가 서울 코엑스에서 '리얼 서밋 2026'을 개최하고, AI 풀스택 역량을 바탕으로 한 기업의 AX 혁신 전략과 오픈AI·앤트로픽 등 글로벌 파트너사와의 협력 사례를 공유한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "오픈AI와 앤트로픽 등 글로벌 선도 AI 기업의 한국 대표들이 기조연설자로 직접 참여하여 협력 방안을 발표한다는 점이 특이할 만합니다."
+      },
+      "processedAt": "2026-09-01T00:23:16.798Z"
+    },
+    {
+      "id": "a3629808ed42feb6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "기업 AX 전략 공개한다…삼성SDS, ‘리얼 서밋 2026’ 개최",
+      "link": "https://biz.heraldcorp.com/article/10858084",
+      "publisher": "헤럴드경제",
+      "pubDate": "Mon, 31 Aug 2026 23:39:23 GMT",
+      "keyVisual": "https://wimg.heraldcorp.com/news/cms/2026/09/01/news-p.v1.20260901.c274625c06da42a2951f8e2db64ad004_T1.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "이달 8일",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "오프라인 컨퍼런스",
+      "slogan": "삼성SDS AI 풀스택으로 완성하는 성공적인 AX 혁신의 미래",
+      "keyMessage": "삼성SDS가 오는 8일 서울 코엑스에서 엔터프라이즈 AX 콘퍼런스 '리얼 서밋 2026'을 개최하고, 오픈AI·앤트로픽 등 글로벌 파트너들과 함께 AI 풀스택 역량 기반의 기업 AX 전략과 비즈니스 혁신 사례를 대거 공개한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "오픈AI와 앤트로픽의 한국 총괄 대표들이 기조연설자로 직접 참여하고 주요 글로벌 AI 기업들이 총출동하는 등 파트너십의 규모와 협력 수준이 크게 확대되었습니다."
+      },
+      "processedAt": "2026-09-01T00:22:31.430Z"
+    },
+    {
+      "id": "aa44637e6b0cf8ae",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Mon, 31 Aug 2026 23:23:14 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문은 지디넷코리아의 하단 안내 및 뉴스레터 구독 신청 문구로 네이버의 마케팅 활동 정보를 확인할 수 없습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T00:25:37.432Z"
+    },
+    {
+      "id": "078248d71b96118e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "미국에 뜬 LG CNS 현신균 CEO…글로벌 AX 인재 찾기 ‘총력전’",
+      "link": "https://v.daum.net/v/20260901081352532",
+      "publisher": "v.daum.net",
+      "pubDate": "Mon, 31 Aug 2026 23:13:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/01/ned/20260901081352916hnjy.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "8월 27일, 29일",
+      "location": "미국 샌프란시스코, 미국 동부 등",
+      "format": "오프라인 채용 설명회",
+      "slogan": null,
+      "keyMessage": "현신균 LG CNS CEO가 미국 주요 대학 석·박사 인재를 대상으로 직접 'LG 커넥트 앤 싱크' 행사를 주최하며 글로벌 AX 및 RX 인재 확보에 나섰습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "국내 인재 교육 및 스타트업 투자/협력 위주였던 기존 활동과 달리, CEO가 직접 미국 현지를 찾아 석·박사급 글로벌 우수 인재 리크루팅 행사를 전면에 나서 주관한 점이 특징적입니다."
+      },
+      "processedAt": "2026-09-01T00:24:29.793Z"
+    },
+    {
+      "id": "f2540e5ae739f790",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, '리얼 서밋 2026' 9월 8일 개최",
+      "link": "https://www.hankyung.com/article/202609015192P",
+      "publisher": "한국경제",
+      "pubDate": "Mon, 31 Aug 2026 23:01:53 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202609/78291ec36d68881b5d6f6bdc14788367.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026년 9월 8일",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "오프라인 콘퍼런스",
+      "slogan": "삼성SDS AI 풀스택으로 완성하는 성공적인 AX 혁신의 미래",
+      "keyMessage": "삼성SDS가 오는 9월 8일 서울 코엑스에서 '삼성SDS AI 풀스택으로 완성하는 성공적인 AX 혁신의 미래'를 주제로 엔터프라이즈 AX 콘퍼런스 '리얼 서밋 2026'을 개최하고 실질적인 비즈니스 성과 창출을 위한 AX 전략 및 사례를 공유한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T00:23:07.243Z"
+    },
+    {
+      "id": "9da566fd7b9ae196",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, \"온라인쇼핑, 검색 상단보다 AI 추천이 중요해”",
+      "link": "https://www.viva100.com/article/20260831500973",
+      "publisher": "브릿지경제",
+      "pubDate": "Mon, 31 Aug 2026 21:05:00 GMT",
+      "keyVisual": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/31/.cache/512/20260831500892.jpg?v=20260901092516",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "지난 27일",
+      "location": "서울 코엑스",
+      "format": "오프라인 세미나 발표",
+      "slogan": null,
+      "keyMessage": "네이버는 세미나 발표를 통해 AI가 쇼핑 탐색과 판단을 대신함에 따라 온라인 커머스 경쟁이 단순 검색 상단 노출에서 AI 추천 선택지에 포함되는 방향으로 변화하고 있음을 공유했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T00:25:28.007Z"
+    },
+    {
+      "id": "e0b70fb74d57dbe6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[클릭 e종목]\"삼성SDS, 인프라 증설 상향 가능성…목표가↑\"",
+      "link": "https://www.asiae.co.kr/article/2026083115462747011",
+      "publisher": "아시아경제",
+      "pubDate": "Mon, 31 Aug 2026 09:12:00 GMT",
+      "keyVisual": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png",
+      "activityType": "언론보도",
+      "eventDate": "31일",
+      "location": null,
+      "format": "언론보도",
+      "slogan": null,
+      "keyMessage": "한화투자증권은 삼성SDS의 AI 인프라 추가 증설 가능성과 하반기 실적 개선 전망을 바탕으로 목표주가를 30만원으로 상향 조정했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T00:23:02.109Z"
+    },
+    {
+      "id": "0f5464187f7eca5e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "다가올아이앤씨, 삼성SDS·아리스타와 서울대 차세대 지능형 캠퍼스 구축 참여",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83ODVLTzZNREdCb0NVSnltUkttazlRRWk4eWVYeDZyZmtqM2hkVTVtS0JJdkhuNlpsWlgwc1JrclRZNWhsOUpMeDdpUWgwV3hvNXY1NjhYb0JjRndtZ3VqWTBIS0U0Y1Nw?oc=5",
+      "publisher": "2news.co.kr",
+      "pubDate": "Mon, 31 Aug 2026 07:32:44 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 다가올아이앤씨, 아리스타와 함께 서울대학교의 차세대 지능형 캠퍼스 구축 사업에 참여합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T00:24:17.885Z"
+    },
+    {
+      "id": "60c40e6fdbf38fb4",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 기업 협력 넓히며 AX 전선 확대…산업·업무별 동맹 구축",
+      "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno",
+      "publisher": "위키리크스한국",
+      "pubDate": "Mon, 31 Aug 2026 02:36:13 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 다양한 기업과의 협력을 확대하며 산업 및 업무별 동맹을 구축하고 AX 전선을 넓혀가고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T00:25:15.364Z"
+    },
+    {
+      "id": "bb21dd18b188211b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Mon, 31 Aug 2026 01:46:19 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T00:24:38.822Z"
+    },
+    {
+      "id": "39ca8c43b1e0ccd6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "한화증권 ",
+      "link": "https://stock.mk.co.kr/news/view/1150498",
+      "publisher": "매일경제 마켓",
+      "pubDate": "Sun, 30 Aug 2026 23:45:33 GMT",
+      "keyVisual": "https://stock.mk.co.kr/photos/20260831/AKR20260831024000008_01_i_P4.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론 보도",
+      "slogan": null,
+      "keyMessage": "한화투자증권은 삼성SDS가 GPUaaS 가동률 상승, KKR과의 협력을 통한 자금 확보, DBO 사업 모델 병행에 힘입어 중장기 실적 성장이 확대될 것으로 전망하고 목표주가를 상향했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "글로벌 투자기업 KKR과의 협력을 통해 1조 2천억 원의 신규 자금을 확보하고 DBO(설계·구축·운영) 모델을 병행하는 자금 및 사업 구조가 부각된 점이 특이합니다."
+      },
+      "processedAt": "2026-09-01T00:22:46.119Z"
+    },
+    {
+      "id": "0b50b283f1779c59",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"삼성SDS, AI 데이터센터 수요 이미 확보…목표가↑\"-한화",
+      "link": "https://www.hankyung.com/article/2026083125876",
+      "publisher": "한국경제",
+      "pubDate": "Sun, 30 Aug 2026 23:14:42 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202608/AA.45155950.1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론보도",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 명확한 AI 데이터센터 수요를 바탕으로 2031년까지 인프라를 800MW 이상으로 확대하며 DBO 방식 및 자금 확보를 통해 성장을 도모할 것이라는 증권사 분석이 나왔습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T00:22:52.085Z"
+    },
+    {
+      "id": "f26d5837a25bdfec",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "더트래커",
+      "link": "https://thetracker.co.kr/?m=notfound",
+      "publisher": "더트래커",
+      "pubDate": "Sun, 30 Aug 2026 23:03:27 GMT",
+      "keyVisual": "https://cdn.coenworks.com/Files/Image/Account/478/thetracker_ogimage.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문에는 LG CNS의 마케팅 활동 관련 내용이 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T00:24:48.402Z"
+    },
     {
       "id": "8ff1242b56d5bb87",
       "company": "카카오",
@@ -600,6 +908,28 @@
       "processedAt": "2026-08-28T05:05:41.615Z"
     },
     {
+      "id": "3046d7c1f6e01666",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드-LG CNS, 보안 특화 AI 모델 개발",
+      "link": "https://www.newspim.com/news/view/20260827001160",
+      "publisher": "뉴스핌",
+      "pubDate": "Thu, 27 Aug 2026 09:09:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2023/11/23/2311231252142790_t1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "27일",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드 및 33개 산학연 기관과 컨소시엄을 구성하여 과학기술정보통신부 주도의 사이버 보안 특화 AI 파운데이션 모델 개발 사업에 참여한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T00:25:09.781Z"
+    },
+    {
       "id": "22aeb8d6b040c5bf",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -994,6 +1324,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-29T03:05:48.653Z"
+    },
+    {
+      "id": "026043704ddcc386",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[AI픽] 네이버클라우드·LG CNS, 정부 '보안 특화 AI' 도전 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260827076600017",
+      "publisher": "연합뉴스",
+      "pubDate": "Thu, 27 Aug 2026 02:10:02 GMT",
+      "keyVisual": "https://img5.yna.co.kr/etc/inner/KR/2026/08/27/AKR20260827076600017_01_i_P4.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026년 08월 27일",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드 등 32개 기관과 공동 컨소시엄을 구성하여 정부의 사이버 보안 특화 AI 파운데이션 모델 개발 사업에 참여한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T00:24:59.658Z"
     },
     {
       "id": "1b5859921644bf83",
@@ -1892,7 +2244,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 국립부경대학교와 협력하여 AI 분야의 교육과 채용을 연계하는 인재 양성 및 산학협력을 추진합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-25T21:27:26.574Z"
@@ -1936,7 +2288,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 국립부경대학교와 AI 및 디지털 전환(AX) 분야 첨단 인재 양성과 산학협력 활성화를 위한 업무협약을 체결했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존 B2B 사업 협력 및 실적 중심 활동과 달리 대학과의 산학협력을 통한 AI·AX 전문 인재 양성 및 채용 연계에 집중한 점이 특징적입니다."
       },
       "processedAt": "2026-08-24T21:28:25.265Z"
@@ -1980,7 +2332,7 @@
       "slogan": null,
       "keyMessage": "국립부경대학교와 SK AX가 AI 및 디지털 전환(AX) 분야 첨단 인재 양성과 산학협력 활성화를 위한 업무협약을 체결하고, 현장 실무형 인재 교육 및 채용 연계 프로그램을 공동 운영하기로 했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-25T21:26:49.900Z"
@@ -2024,7 +2376,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 국립부경대학교와 협력하여 AI 분야 첨단인재 양성 및 산학협력에 나섭니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-25T21:27:17.496Z"
@@ -2112,7 +2464,7 @@
       "slogan": null,
       "keyMessage": "제공된 본문의 텍스트가 인코딩 오류로 깨져 있어 SK AX의 마케팅 활동 관련 유의미한 정보를 확인할 수 없습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-25T21:26:41.381Z"
