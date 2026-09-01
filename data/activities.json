@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T00:25:52.316Z",
+  "updatedAt": "2026-09-01T23:02:33.043Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,314 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "1770df832c64b54a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[디깅노트]삼성SDS·LG CNS·한컴 AI 뒤의 실질적 근간 'SW'",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Tue, 01 Sep 2026 22:30:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS 등 주요 IT 기업의 AI 서비스 구현에 있어 실질적인 근간이 되는 소프트웨어(SW) 역량의 중요성을 조명한 기사입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T22:59:56.498Z"
+    },
+    {
+      "id": "1770df832c64b54a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[디깅노트]삼성SDS·LG CNS·한컴 AI 뒤의 실질적 근간 'SW'",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Tue, 01 Sep 2026 22:30:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론 보도",
+      "slogan": null,
+      "keyMessage": "삼성SDS, LG CNS, 한컴 등 주요 IT 기업들의 AI 서비스 구현에 있어 실질적 근간이 되는 소프트웨어(SW)의 중요성을 조명한 기사입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T23:01:34.416Z"
+    },
+    {
+      "id": "1afccb56ababb791",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI 도입을 넘어 실질 성과로… 삼성SDS 리얼 서밋 2026 연다 - 뉴스N연합",
+      "link": "https://newsyonhap.com/news/122553",
+      "publisher": "newsyonhap.com",
+      "pubDate": "Tue, 01 Sep 2026 21:18:57 GMT",
+      "keyVisual": "https://www.ehom.kr/news/2026/09/02/e2bdb79095cbd25e0b8f9c2796ed6138002429_thumb.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "9월 8일",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "오프라인 컨퍼런스",
+      "slogan": "삼성SDS AI 풀스택으로 완성하는 성공적인 AX 혁신의 미래",
+      "keyMessage": "삼성SDS가 오는 9월 8일 서울 코엑스에서 엔터프라이즈 AX 콘퍼런스 '리얼 서밋 2026'을 개최하고 AI 풀스택 역량을 바탕으로 한 실질적인 비즈니스 AX 혁신 전략과 성공 사례를 공유한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T23:00:13.264Z"
+    },
+    {
+      "id": "80c1e13fbe901386",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[클라우드 월드] 삼성SDS '리얼 서밋' 개최·웹케시 '공공 재정 AX 사례' 발표·롯데이노 '브랜드 AI' 구축·가비아 '해커톤' 지원·메가존 '투자 유치'·일레븐랩스 'AI 컨택센터' 구축·딥엑스 '피지컬 AI 배포 환경' 구축",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno",
+      "publisher": "뉴스웍스",
+      "pubDate": "Tue, 01 Sep 2026 09:52:33 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 기업의 AX 혁신 사례와 전략을 공유하는 '리얼 서밋' 행사를 개최한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T23:00:27.292Z"
+    },
+    {
+      "id": "f9ce273f82e94b3d",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "�߰ſ��� GPU, ���� �����١�LG CNS�����̹��� �پ�� �����ͼ��� ��ü �ð� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260901n33767",
+      "publisher": "news.nate.com",
+      "pubDate": "Tue, 01 Sep 2026 08:49:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/cz/2026/09/01/cz_1788254945539_769858_0.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 급증하는 AI 데이터센터의 GPU 발열 문제를 해결하기 위해 네이버클라우드 등과 함께 데이터센터에 액체냉각 솔루션을 도입하며 열 관리 기술 적용을 추진하고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 인재 확보 및 AI 교육 중심 활동과 달리 AI 데이터센터 인프라 및 액체냉각 기술 도입에 집중한 보도 내용이다."
+      },
+      "processedAt": "2026-09-01T23:01:44.954Z"
+    },
+    {
+      "id": "2e3e4ab4bc99d110",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 코엑스서 '리얼 서밋 2026' 오는 8일 개최…\"AI 도입 넘어 성과로\"",
+      "link": "https://www.efnews.co.kr/news/articleView.html?idxno",
+      "publisher": "파이낸셜신문",
+      "pubDate": "Tue, 01 Sep 2026 06:23:09 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "오는 8일",
+      "location": "코엑스",
+      "format": null,
+      "slogan": "AI 도입 넘어 성과로",
+      "keyMessage": "삼성SDS가 오는 8일 코엑스에서 '리얼 서밋 2026'을 개최하고 AI 도입을 넘어 실질적인 성과로 연결하기 위한 전략을 제시한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T23:00:19.740Z"
+    },
+    {
+      "id": "86b72440ca3daf10",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, '리얼 서밋 2026' 8일 개막… AI 풀스택 기반 AX 전략 공개",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno",
+      "publisher": "매일일보",
+      "pubDate": "Tue, 01 Sep 2026 06:10:15 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "8일",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '리얼 서밋 2026'을 개막하고 AI 풀스택 기반의 AX 전략을 공개한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T23:01:29.494Z"
+    },
+    {
+      "id": "76e7caa7bf77fd08",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, ‘리얼 서밋 2026’ 개최",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/01/N5YL4TOSSREM5FQOHBYIH4UWAY/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Tue, 01 Sep 2026 05:03:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/Z2HP3DPEURBAZDD4IDOBMQLEEA.jpg?auth=b45f2046b0596841db0f869eabb4064fdcb15c918e02b1bb1ea3266bbcc4f964&width=1200&height=630&smart=true",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 엔터프라이즈 컨퍼런스인 '리얼 서밋 2026'을 개최한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T22:59:41.723Z"
+    },
+    {
+      "id": "2c3fdb54f2032e07",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, ‘리얼 서밋 2026’서 엔터프라이즈 AX 전략 공개",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2STZieGRsLWVaZTRDQUc4ZmlScjFyVWs3eWgwb19iS3ZFaDlxdnRXbmlXYXlEZnpYOVRLdGtBMGhCZkdiVndiZUNISUx0TU14ckQzajVfUWFtQldTNEZsdHpRM2VqT0dR0gFsQVVfeXFMTXVhTmExbnNQU0JlNy1YN2Rzd1dsaHpGSW9rR0pxV2IzQWhTRkJDQnp5Y2ZQUk1xV2l3RmZjZVhDbTZsWjBjc3lQWng0YTkxWGxQc0FQa2o3UGI4Wm5wRVAxRFRnVktjRGVqSzda?oc=5",
+      "publisher": "정보통신신문",
+      "pubDate": "Tue, 01 Sep 2026 04:13:03 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '리얼 서밋 2026'에서 기업의 성공적인 AX 혁신을 위한 엔터프라이즈 AX 전략을 공개한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T23:01:04.453Z"
+    },
+    {
+      "id": "7d100763e1ee8a21",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "�̱� �� ���ű�, �۷ι� AX���� ã�� �ѷ� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260901n14743",
+      "publisher": "news.nate.com",
+      "pubDate": "Tue, 01 Sep 2026 02:24:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/hr/2026/09/01/news-p.v1.20260901.f0111d2755754bd5a0d356b874f93d28_P1.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": "오프라인 행사",
+      "slogan": null,
+      "keyMessage": "현신균 LG CNS CEO가 미국 주요 대학의 석·박사 인재들을 초청해 'LG 커넥트 앤 싱크' 행사를 개최하고 글로벌 AX 인재 확보에 나섰습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T23:02:11.577Z"
+    },
+    {
+      "id": "9d9b4f8996945a23",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[이정헌에게 듣다] 공공SW 손질…삼성SDS·LG CNS 빗장 풀리나",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Tue, 01 Sep 2026 01:25:02 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론 보도",
+      "slogan": null,
+      "keyMessage": "공공SW 사업 규제 완화 논의에 따라 삼성SDS와 LG CNS 등 대기업의 공공SW 시장 진입 제한 해제 여부가 주목받고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 인재 확보 및 AI 교육 중심의 활동과 달리 공공SW 규제 완화 이슈를 다룬 언론 보도입니다."
+      },
+      "processedAt": "2026-09-01T23:02:01.347Z"
+    },
+    {
+      "id": "bc16d813ca5a4cb6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[�����忡�� ���] ����SW �������ＺSDS��LG CNS ���� Ǯ���� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260901n10815",
+      "publisher": "네이트",
+      "pubDate": "Tue, 01 Sep 2026 01:25:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/bt/2026/09/01/672224_285684_2234.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "공공SW 사업의 대기업 참여 제한 규제 완화 논의 및 관련 법안 개정 동향에 대한 삼성SDS 등 주요 IT서비스 기업 관련 언론보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "AI 풀스택 및 AX 혁신 관련 대형 컨퍼런스(REAL Summit) 개최 중심의 최근 활동들과 달리, 공공SW 대기업 참여제한 규제 완화 이슈를 다룬 정책 관련 언론보도라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-01T22:59:50.582Z"
+    },
+    {
+      "id": "6820b4057c72e97a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 8일 코엑스서 '리얼 서밋 2026'…AX 성공전략 공개 | 연합뉴스",
+      "link": "https://www.yna.co.kr/amp/view/AKR20260901051300017",
+      "publisher": "연합뉴스",
+      "pubDate": "Tue, 01 Sep 2026 00:47:53 GMT",
+      "keyVisual": "https://img1.yna.co.kr/etc/inner/KR/2026/09/01/AKR20260901051300017_01_i_P4.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026년 9월 8일",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "오프라인 컨퍼런스",
+      "slogan": "삼성SDS AI 풀스택으로 완성하는 성공적인 AX 혁신의 미래",
+      "keyMessage": "삼성SDS가 오는 9월 8일 서울 코엑스에서 '리얼 서밋 2026'을 개최하고 AI 풀스택 역량을 바탕으로 한 기업의 성공적인 AX 혁신 전략과 실행 방안을 공유한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T23:00:05.936Z"
+    },
+    {
+      "id": "186659b75a61b0bc",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "&quot;AI 도입 넘어 성과로&quot;&hellip;삼성SDS, '리얼서밋 2026' 8일 개최",
+      "link": "https://www.ddaily.co.kr/page/view/2026090109173093276",
+      "publisher": "디지털데일리",
+      "pubDate": "Tue, 01 Sep 2026 00:18:00 GMT",
+      "keyVisual": "/photos/2026/09/01/2026090109154688560_l.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "9월 8일",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "오프라인 콘퍼런스",
+      "slogan": "삼성SDS AI 풀스택으로 완성하는 성공적인 AX 혁신 미래",
+      "keyMessage": "삼성SDS가 '리얼 서밋 2026'을 개최하여 AI 풀스택 역량을 바탕으로 기업의 성공적인 AX 혁신 전략과 비즈니스 성과 사례를 공유한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T23:01:19.431Z"
+    },
     {
       "id": "cbd7c113ffbc7feb",
       "company": "삼성SDS",
@@ -202,6 +510,28 @@
         "llmNote": "국내 인재 교육 및 스타트업 투자/협력 위주였던 기존 활동과 달리, CEO가 직접 미국 현지를 찾아 석·박사급 글로벌 우수 인재 리크루팅 행사를 전면에 나서 주관한 점이 특징적입니다."
       },
       "processedAt": "2026-09-01T00:24:29.793Z"
+    },
+    {
+      "id": "e84c6270ec9c43ab",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "미국에 뜬 LG CNS 현신균 CEO…글로벌 AX 인재 찾기 ‘총력전’",
+      "link": "https://biz.heraldcorp.com/article/10858032",
+      "publisher": "biz.heraldcorp.com",
+      "pubDate": "Mon, 31 Aug 2026 23:12:28 GMT",
+      "keyVisual": "https://wimg.heraldcorp.com/news/cms/2026/09/01/news-p.v1.20260901.f0111d2755754bd5a0d356b874f93d28_T1.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "27일, 29일(현지 시간)",
+      "location": "미국 샌프란시스코, 미국 동부 등",
+      "format": "오프라인 행사",
+      "slogan": null,
+      "keyMessage": "LG CNS 현신균 CEO가 미국 현지에서 석·박사 인재를 대상으로 'LG 커넥트 앤 싱크' 행사를 직접 주관하며 글로벌 AX·RX 인재 확보 총력전에 나섰습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-01T23:01:54.314Z"
     },
     {
       "id": "f2540e5ae739f790",
@@ -2068,7 +2398,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 국립부경대학교와 AI 및 디지털 전환(AX) 분야 첨단 인재 양성과 산학협력 활성화를 위한 업무협약을 체결했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-25T21:27:12.516Z"
@@ -2090,7 +2420,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 국립부경대학교와 AI·AX 분야 전문인재 양성 및 채용 연계를 위한 업무협약을 체결했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-25T21:26:33.481Z"
@@ -2112,7 +2442,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 2022년 판교 데이터센터 화재와 관련하여 카카오 측과 피해 보상 협상을 약 4년 만에 최종 타결하고 합의금을 지급했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 AI/AX 관련 업무협약 및 실적 발표 등 긍정적 사업 확장 활동 중심의 보도와 달리, 과거 데이터센터 화재 사고의 피해보상 및 리스크 해결에 관한 언론보도라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-08-25T21:26:57.343Z"
