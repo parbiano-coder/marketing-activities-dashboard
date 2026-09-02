@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T23:02:33.043Z",
+  "updatedAt": "2026-09-02T23:00:58.643Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,138 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "8d73deb5130c07d3",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[IT돋보기] 자율주행, 로봇⋯사업 목적 재정비한 네이버랩스",
+      "link": "https://v.daum.net/v/20260903070407258",
+      "publisher": "v.daum.net",
+      "pubDate": "Wed, 02 Sep 2026 22:04:07 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/03/inews24/20260903070409609dzti.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-03",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버의 R&D 자회사 네이버랩스가 피지컬 AI 전략 실행과 사업 성과 창출을 위해 정관 내 사업 목적에 자율주행, 로봇 관련 분야를 추가하여 정비했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 AI 커머스 및 콘텐츠 생태계 관련 내용 중심이었던 최근 활동과 달리, 로봇 및 자율주행 등 피지컬 AI 분야의 정관 개정 및 사업 목적 재정비를 다루었다는 점에서 차이가 있다."
+      },
+      "processedAt": "2026-09-02T23:00:44.102Z"
+    },
+    {
+      "id": "17f9e1bd9ce366dc",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI·AX 키우는 삼성SDS·LG CNS…인력 '재편' vs '유지'로 엇갈려",
+      "link": "https://www.srtimes.kr/news/articleView.html?idxno",
+      "publisher": "SR타임스",
+      "pubDate": "Wed, 02 Sep 2026 08:20:33 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI 및 AX 사업을 강화하는 과정에서 경쟁사와 차별화된 인력 운용 방식을 취하고 있음을 조명한 언론보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 '리얼 서밋' 콘퍼런스 개최 등 대외 행사 및 AX 전략 발표 위주였던 활동과 달리, AI·AX 사업 강화를 위한 인력 운용 전략에 초점을 맞추고 있습니다."
+      },
+      "processedAt": "2026-09-02T22:57:59.924Z"
+    },
+    {
+      "id": "17f9e1bd9ce366dc",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI·AX 키우는 삼성SDS·LG CNS…인력 '재편' vs '유지'로 엇갈려",
+      "link": "https://www.srtimes.kr/news/articleView.html?idxno",
+      "publisher": "SR타임스",
+      "pubDate": "Wed, 02 Sep 2026 08:20:33 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS와 LG CNS가 AI 및 AX 사업을 확장하는 과정에서 인력 전략을 각각 재편과 유지라는 서로 다른 방식으로 전개하고 있음을 보도한 기사이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-02T22:59:37.449Z"
+    },
+    {
+      "id": "2cb04a52ddf2c48e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "현신균 LG CNS 사장, 글로벌 인재 발굴 직접 나섰다…미래 기술 주도권 선점",
+      "link": "https://v.daum.net/v/20260902165850708",
+      "publisher": "v.daum.net",
+      "pubDate": "Wed, 02 Sep 2026 07:58:50 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/02/ZDNetKorea/20260902165852450hzsx.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026년 8월 27일",
+      "location": "미국 샌프란시스코",
+      "format": "오프라인 행사",
+      "slogan": null,
+      "keyMessage": "현신균 LG CNS 사장이 미국 샌프란시스코에서 현지 석·박사급 연구 인재들과 만나 LG CNS의 사업 비전과 기술 로드맵을 공유하며 글로벌 AI 및 로보틱스 융합형 인재 확보에 나섰다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-02T22:59:31.948Z"
+    },
+    {
+      "id": "d3d967ab10f48c17",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "2026 국내 기업용 클라우드 서비스 현황 보고서 - AI 시대, CSP 선택의 기준이 달라지다 | 인사이트리포트 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/insights/enterprise-cloud-survey-2026.html",
+      "publisher": "Samsung SDS America",
+      "pubDate": "Wed, 02 Sep 2026 01:25:33 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/09/01/thumb_0902.png?queryString=20260902035100",
+      "activityType": "기타",
+      "eventDate": "2026-09-02",
+      "location": null,
+      "format": "인사이트 리포트 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국내 기업 및 공공기관 재직자 1,200명을 대상으로 조사한 '2026 국내 기업용 클라우드 서비스 현황 보고서'를 발표하고, AI 시대를 맞아 CSP 선택 기준이 기존의 가격·보안에서 AI/ML 지원 기능 등 AI 워크로드 지원 역량으로 변화하고 있음을 제시했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 활동들이 주로 '리얼 서밋 2026' 행사 개최 및 AX 전략 관련 언론보도에 집중되었던 것과 달리, 이번 활동은 클라우드 시장 현황 조사를 바탕으로 한 자체 분석 인사이트 리포트를 발간한 점이 다릅니다."
+      },
+      "processedAt": "2026-09-02T22:57:52.592Z"
+    },
+    {
+      "id": "0acbba26f83004f8",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, ‘리얼 서밋 2026’ 개최…AI 풀스택 기반 AX 전략 제시",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUMVE1RzYtazZvZFAyXzdvYTdHX283ZDZiRndDTFNYbjB0R09kMFB5RDZlV1k0aFB1ejBMYzdmZ2d3eGNNdldPTzNYR0tGWnZKMGRoTVUtUGlER0pJUUVMUzFNNkRSSV96?oc=5",
+      "publisher": "테크월드",
+      "pubDate": "Tue, 01 Sep 2026 23:40:00 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '리얼 서밋 2026'을 개최하고 AI 풀스택 기반의 AX 전략을 제시했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-02T22:58:29.100Z"
+    },
     {
       "id": "1770df832c64b54a",
       "company": "삼성SDS",
@@ -314,6 +446,50 @@
       "processedAt": "2026-09-01T23:02:11.577Z"
     },
     {
+      "id": "1c4193c157d79b31",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS ‘리얼 서밋 2026’ 개최 - 헤럴드경제",
+      "link": "https://mbiz.heraldcorp.com/article/10858594",
+      "publisher": "헤럴드경제",
+      "pubDate": "Tue, 01 Sep 2026 02:21:23 GMT",
+      "keyVisual": "https://wimg.heraldcorp.com/news/cms/2026/09/01/news-p.v1.20260901.9f9ea2a6c8e4486a9eef5df61ecb6490_T1.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "8일",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "오프라인 콘퍼런스",
+      "slogan": "삼성SDS AI 풀스택으로 완성하는 성공적인 AX 혁신의 미래",
+      "keyMessage": "삼성SDS가 '리얼 서밋 2026'을 개최하여 AI 풀스택 역량을 바탕으로 기업의 AI 도입을 비즈니스 성과로 연결하기 위한 AX 전략과 사례를 공개한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-02T22:59:01.095Z"
+    },
+    {
+      "id": "e249deaa6fc0af3c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 오는 8일 '리얼 서밋 2026' 개최…AX 전략·실행 방안 제시",
+      "link": "https://www.etnews.com/20260901000173",
+      "publisher": "전자신문",
+      "pubDate": "Tue, 01 Sep 2026 02:18:43 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/01/news-p.v1.20260901.b11300b77015423fa82f33212a233a63_P1.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "9월 8일",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "오프라인 콘퍼런스",
+      "slogan": "삼성SDS AI 풀스택으로 완성하는 성공적인 AX 혁신의 미래",
+      "keyMessage": "삼성SDS가 오는 9월 8일 '리얼 서밋 2026'을 개최하여 AI 풀스택 역량을 기반으로 한 성공적인 AX 혁신 전략과 실질적인 실행 방안을 공유한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-02T22:59:14.914Z"
+    },
+    {
       "id": "9d9b4f8996945a23",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -356,6 +532,28 @@
         "llmNote": "AI 풀스택 및 AX 혁신 관련 대형 컨퍼런스(REAL Summit) 개최 중심의 최근 활동들과 달리, 공공SW 대기업 참여제한 규제 완화 이슈를 다룬 정책 관련 언론보도라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-09-01T22:59:50.582Z"
+    },
+    {
+      "id": "d29c9473d98929b3",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, '리얼 서밋' 9월 8일 개최…패브릭스로 AI 에이전트 직접 만든다 | 아주경제",
+      "link": "https://www.ajunews.com/view/20260901095707315",
+      "publisher": "아주경제",
+      "pubDate": "Tue, 01 Sep 2026 01:00:48 GMT",
+      "keyVisual": "https://image.ajunews.com/content/image/2026/09/01/20260901095739886940.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "9월 8일",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "오프라인 콘퍼런스",
+      "slogan": "삼성SDS AI 풀스택으로 완성하는 성공적인 AX 혁신의 미래",
+      "keyMessage": "삼성SDS가 AI 풀스택 역량을 바탕으로 실질적인 AX 혁신 전략과 실제 고객 사례를 공유하는 '리얼 서밋 2026' 콘퍼런스를 개최한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-02T22:58:51.957Z"
     },
     {
       "id": "6820b4057c72e97a",
@@ -422,6 +620,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-01T00:24:11.792Z"
+    },
+    {
+      "id": "cb5eb73543826d98",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, '리얼 서밋 2026' 개최…패브릭스 체험 기회 제공 - 머니투데이",
+      "link": "https://www.mt.co.kr/amp/tech/2026/09/01/2026090108563717101",
+      "publisher": "머니투데이",
+      "pubDate": "Tue, 01 Sep 2026 00:05:19 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026090108563717101_1.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026년 9월 8일",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "오프라인 콘퍼런스",
+      "slogan": "삼성SDS AI 풀스택으로 완성하는 성공적인 AX 혁신의 미래",
+      "keyMessage": "삼성SDS가 '리얼 서밋 2026'을 개최하고 AI 풀스택 역량을 바탕으로 기업의 AX 혁신 전략과 실질적인 비즈니스 성과 연결 방안을 공유한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-02T22:58:13.321Z"
     },
     {
       "id": "1c4c67bf2751e43f",
@@ -638,7 +858,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 다양한 기업과의 협력을 확대하며 산업 및 업무별 동맹을 구축하고 AX 전선을 넓혀가고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-01T00:25:15.364Z"
@@ -902,7 +1122,7 @@
       "slogan": null,
       "keyMessage": "SK AX는 AI 데이터센터 구축 시 단순한 GPU 확보 수보다 인프라 최적화와 자동화를 통한 운영 생산성 향상이 핵심 요소임을 짚었습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-30T23:09:58.449Z"
@@ -924,7 +1144,7 @@
       "slogan": null,
       "keyMessage": "SK AX는 AI 데이터센터 세미나에서 단순 GPU 확보를 넘어 인프라 최적화와 자동화 시스템을 통한 운영 생산성 향상이 핵심임을 강조했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 SAP와의 AI ERP 및 엔터프라이즈 협력 중심 활동과 달리 AI 데이터센터 및 GPU 인프라 운영 최적화를 주제로 세미나를 진행했습니다."
       },
       "processedAt": "2026-08-29T22:59:43.204Z"
@@ -950,6 +1170,28 @@
         "llmNote": "최근 제휴 카드 출시나 플랫폼 운영 이슈 등 사업·서비스 중심의 보도들과 달리, 글로벌 학회에서 대규모 AI 연구 논문 성과를 발표한 기술 연구 중심의 활동이라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-08-29T23:00:12.879Z"
+    },
+    {
+      "id": "3bf270d610ea5505",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "GPU 수보다 운영 생산성…SK AX가 짚은 AI 데이터센터의 조건",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Sat, 29 Aug 2026 22:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX는 AI 데이터센터 구축에 있어 단순 GPU 확보 수보다 인프라 최적화와 자동화를 통한 운영 생산성 향상이 핵심 조건임을 강조했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-02T23:00:02.053Z"
     },
     {
       "id": "07be2f840d6fe65c",
@@ -1738,7 +1980,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 SAP와 'AI 엔터프라이즈' 분야에서의 협력을 강화합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 국립부경대학교와의 산학협력 중심 활동들과 달리 글로벌 거대 IT 기업인 SAP와 AI 엔터프라이즈 파트너십을 강화했습니다."
       },
       "processedAt": "2026-08-27T00:28:05.565Z"
@@ -1782,7 +2024,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 독일 SAP와 AI 기반 기업자원관리 사업 협력을 추진합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 진행된 국내 대학과의 산학협력 중심 활동과 달리, 글로벌 기업인 SAP와 직접적인 ERP 사업 협력을 추진한다는 특이점이 있습니다."
       },
       "processedAt": "2026-08-27T00:28:11.091Z"
@@ -1870,7 +2112,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 SAP와 'AI 네이티브 엔터프라이즈' 사업 협력을 추진합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-28T05:07:48.266Z"
@@ -1898,6 +2140,28 @@
       "processedAt": "2026-08-27T00:27:17.330Z"
     },
     {
+      "id": "ef96ea965e57c787",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“차세대 GPU 열 잡아라”…LG CNS, 네이버클라우드와 액체냉각 구축 - 매일경제",
+      "link": "https://www.mk.co.kr/news/it/12136758",
+      "publisher": "매일경제",
+      "pubDate": "Wed, 26 Aug 2026 05:53:56 GMT",
+      "keyVisual": "https://pimg.mk.co.kr/news/cms/202608/26/news-p.v1.20260826.acb36a55b1344659933585535dc2823c_R.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-08-26",
+      "location": "삼송 데이터센터",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드와 협력해 삼송 데이터센터에 엔비디아 차세대 GPU 도입 대비 직접 칩 냉각(DTC) 방식의 액체냉각 인프라를 구축하고 실증을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-02T22:59:48.404Z"
+    },
+    {
       "id": "fabd3f9a98735248",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -1914,7 +2178,7 @@
       "slogan": null,
       "keyMessage": "본문 내용이 지디넷코리아의 뉴스레터 구독 안내 정보로만 구성되어 있어 SK AX의 마케팅 활동 관련 핵심 메시지를 확인할 수 없습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-29T03:06:58.217Z"
@@ -1958,7 +2222,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 독일 SAP와 기업 운영 전반에 에이전틱 AI를 접목하기 위한 업무협약(MOU)을 체결하고 자사 ERP 스위트의 글로벌 공급 및 협력을 강화합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-29T03:06:31.105Z"
@@ -1980,7 +2244,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 SAP와 'AI 네이티브 엔터프라이즈' 동맹을 강화하여 기업운영 AX 혁신을 가속화합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-29T03:06:01.754Z"
@@ -2046,7 +2310,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 SAP와 'AI 네이티브 엔터프라이즈' 분야에서 협력을 강화합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-29T03:06:39.675Z"
@@ -2090,7 +2354,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 독일 SAP와 기업 AI 전환을 위한 동맹을 강화합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-28T05:07:30.977Z"
@@ -2140,6 +2404,28 @@
       "processedAt": "2026-08-27T00:27:33.752Z"
     },
     {
+      "id": "08a096d158214e9d",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 삼송 데이터센터에 ‘액체냉각’ 도입⋯ “AI 팩토리 인프라 시장 선점”",
+      "link": "https://www.viva100.com/article/20260826500135",
+      "publisher": "브릿지경제",
+      "pubDate": "Wed, 26 Aug 2026 01:01:00 GMT",
+      "keyVisual": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/08/26/.cache/512/20260826500128.jpg?v=20260903075949",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "삼송 데이터센터",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드와 협력하여 삼송 데이터센터에 차세대 '액체냉각' 인프라를 도입하고 AI 팩토리 인프라 시장 선점에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-02T22:59:55.243Z"
+    },
+    {
       "id": "3e354702b5ef14ee",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -2184,6 +2470,28 @@
       "processedAt": "2026-08-27T00:27:06.948Z"
     },
     {
+      "id": "c2e31ebea71bdf90",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, SAP 손잡고 기업 업무에 AI 에이전트 적용...글로벌 시장 공략",
+      "link": "https://news.mtn.co.kr/news-detail/2026082609243730979",
+      "publisher": "MTN 머니투데이방송",
+      "pubDate": "Wed, 26 Aug 2026 00:42:08 GMT",
+      "keyVisual": "https://menu.mtn.co.kr/upload/article/2026/08/26/2026082609243730979_00_231.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "26일",
+      "location": "독일 발도르프 SAP 본사",
+      "format": "MOU 체결",
+      "slogan": null,
+      "keyMessage": "SK AX가 글로벌 기업용 소프트웨어 기업 SAP와 양해각서(MOU)를 체결하고, AI 에이전트를 통한 ERP 및 기업 업무 자동화 혁신과 글로벌 시장 진출을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-02T23:00:34.738Z"
+    },
+    {
       "id": "dbad79231b38424e",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -2200,7 +2508,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 글로벌 기업용 소프트웨어 기업 SAP와 업무협약(MOU)을 체결하고 기업 업무 전반을 AI 에이전트 중심으로 전환하는 사업을 확대한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-29T03:06:16.678Z"
@@ -2244,7 +2552,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 글로벌 기업 SAP와 업무협약(MOU)을 체결하고, 에이전틱 AI 기반의 'AI 네이티브 엔터프라이즈' 구현을 위해 금융·제조·에너지 산업 분야 협력을 강화한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-29T03:06:49.291Z"
@@ -2266,7 +2574,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 독일 SAP와 AI 기반 ERP 사업 협력을 위한 업무협약(MOU)을 체결하여 금융·제조·에너지 분야의 AI 경영 자동화 성공 사례를 창출하고 글로벌 시장을 공략한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-28T05:07:42.132Z"
@@ -2288,10 +2596,32 @@
       "slogan": null,
       "keyMessage": "SK AX가 독일 SAP와 AI 기반 ERP 사업 협력을 위한 양해각서(MOU)를 체결하고 금융, 제조, 에너지 분야 등에서 AI 에이전트 중심의 기업 업무 프로세스 재설계 및 글로벌 시장 확산을 추진합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-08-30T23:10:06.631Z"
+    },
+    {
+      "id": "f368824652c24c80",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, SAP과 손잡고 기업AX 시장 공략…김완종 사장 “AI 성공 사례, 세계 시장으로 확산”",
+      "link": "https://biz.heraldcorp.com/article/10852099",
+      "publisher": "헤럴드경제",
+      "pubDate": "Tue, 25 Aug 2026 23:30:01 GMT",
+      "keyVisual": "https://wimg.heraldcorp.com/news/cms/2026/08/26/news-p.v1.20260826.e61ab5a015c34cb08329bd7291bfe269_T1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "26일",
+      "location": "독일 바덴뷔르템베르크주 발도르프 SAP 본사",
+      "format": "양해각서(MOU) 체결",
+      "slogan": null,
+      "keyMessage": "SK AX가 글로벌 기업 SAP와 비즈니스 AI 협력을 위한 양해각서(MOU)를 체결하고, SAP의 기술력과 SK AX의 산업별 운영 역량을 결합해 글로벌 기업용 AX 시장 공략에 나선다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-02T23:00:26.576Z"
     },
     {
       "id": "4de1b41626524422",
