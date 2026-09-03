@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T23:00:58.643Z",
+  "updatedAt": "2026-09-03T23:02:29.280Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,270 @@
   ],
   "activities": [
     {
+      "id": "88c26811328c9e66",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 삼송 데이터센터에 ‘차세대 액체냉각’ 도입… AI 팩토리 인프라 시장 선점",
+      "link": "http://www.kmkj.kr/news/articleView.html?idxno",
+      "publisher": "국민기자뉴스",
+      "pubDate": "Thu, 03 Sep 2026 15:05:00 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 삼송 데이터센터에 차세대 액체냉각 솔루션을 도입하며 AI 팩토리 인프라 시장 선점에 나섰습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-03T23:01:48.208Z"
+    },
+    {
+      "id": "a8064caebfbce67f",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 미국에서 'RX ART 2026' 열어 로봇의 실제 현장 도입 가능성 검증",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaT1doNzFTSmR4TkswS1ZIRzNpS09FYkxISVh2eWRXbWxTSnQ4LVZFeXBva2FicUZqYXBsNzRWaklmZjlKUzRYWDFKWFhRSGdLbjR2ZmlGZzVVNHZrMUs5MVVaemhONHdFcVE?oc=5",
+      "publisher": "디지털경제뉴스",
+      "pubDate": "Thu, 03 Sep 2026 12:21:48 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": "미국",
+      "format": "오프라인 행사",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국에서 'RX ART 2026'을 개최하고 로봇의 실제 현장 도입 가능성을 검증했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "국내 중심의 AI/AX 및 클라우드 컨퍼런스·보고서 발표 위주의 기존 활동과 달리 미국 현지에서 로봇(RX) 현장 적용을 검증하는 해외 행사를 개최한 점이 특이합니다."
+      },
+      "processedAt": "2026-09-03T23:01:13.804Z"
+    },
+    {
+      "id": "6966eb3796e8ce9e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 美 'RX ART 2026' 개최 \"RX 시너지 본격화\"",
+      "link": "https://www.todaymild.com/news/articleView.html?idxno",
+      "publisher": "마일드경제",
+      "pubDate": "Thu, 03 Sep 2026 10:38:00 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": "미국",
+      "format": null,
+      "slogan": "RX 시너지 본격화",
+      "keyMessage": "삼성SDS가 미국에서 'RX ART 2026'을 개최하며 RX 시너지를 본격화합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "국내 중심의 AI 및 AX 관련 행사 발표와 달리 미국에서 RX 시너지 본격화를 다룬 행사를 개최했다는 점이 특징적입니다."
+      },
+      "processedAt": "2026-09-03T23:01:32.112Z"
+    },
+    {
+      "id": "ba8c67aff765a140",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 관계사 로봇전환 가속화…美서 기술검증",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno",
+      "publisher": "주간한국",
+      "pubDate": "Thu, 03 Sep 2026 09:30:51 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "미국",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 관계사의 로봇전환을 가속화하기 위해 미국에서 기술검증을 진행한다는 내용이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 클라우드 및 AI/AX 사업 중심 활동과 달리 로봇전환 및 해외 기술검증 활동을 추진한다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-03T23:01:06.759Z"
+    },
+    {
+      "id": "136ba085f5b22b44",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS 현신균 '피지컬 AI SW' 주도… 사업화 속도낸다",
+      "link": "https://www.fnnews.com/news/202609031809141556",
+      "publisher": "fnnews.com",
+      "pubDate": "Thu, 03 Sep 2026 09:10:01 GMT",
+      "keyVisual": "https://image.fnnews.com/resource/media/image/2026/09/03/202609031809579497_e.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 자체 로봇 전환(RX) 플랫폼 '피지컬웍스'를 기반으로 로봇과 AI를 산업 현장에 연결·상용화하는 피지컬 AI 사업 가속화에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-03T23:01:42.508Z"
+    },
+    {
+      "id": "6708a5c39e986516",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "대표보다 연봉 높은 임원들…삼성SDS '글로벌 인재'가 보수 상위권 차지",
+      "link": "https://www.fntimes.com/html/view.php?ud",
+      "publisher": "한국금융신문",
+      "pubDate": "Thu, 03 Sep 2026 07:50:50 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS에서 대표이사보다 연봉이 높은 글로벌 인재 임원들이 보수 상위권을 차지하고 있음을 조명한 언론보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "AI 및 AX 전략 중심의 최근 마케팅 활동들과 달리 인재 보수 체계 및 HR 관련 내용을 조명한 보도라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-03T22:59:52.227Z"
+    },
+    {
+      "id": "7fe1f8205cdf1cb4",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 미국 'RX ART' 개최…“‘산업 현장 로봇’ 활용 사례 공개”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80ektzSmFJTl9LdGJnbVFTeXY2emxGYklXeGQzOVFlamQyMjhwRl84Y1BVMVIxWmoyVXBrRmhFTzRqRTBBOUVIc1lMTVI2dGt4WWNyNmYwd0ZQSzNCOENMVVc3djRvZVRCcHc?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Thu, 03 Sep 2026 04:46:49 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": "미국",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국에서 'RX ART'를 개최하고 산업 현장 로봇 활용 사례를 공개했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 국내 중심의 AI 및 클라우드(AX) 관련 활동과 달리 미국에서 산업 현장 로봇 활용을 주제로 행사를 개최했다는 특이점이 있습니다."
+      },
+      "processedAt": "2026-09-03T23:00:07.350Z"
+    },
+    {
+      "id": "efba80be54537a19",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 삼성 제조현장서 피지컬 AI 검증…RX 적용 확대 By 알파경제 alphabiz",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaWlxOTFwMGNFa0ZrQVoyaVFsNWVOR0hTcjVrSkZoeVZSWi1JczNQU2lIQ2M2UnJhYUVYaHprRUtVYlVBc2g0LXRHYjBaNUxFbk1ScWR4cFZVUXNHOU5Tb2dPWG9WbFlOcV91b2gwcm8?oc=5",
+      "publisher": "Investing.com 한국어",
+      "pubDate": "Thu, 03 Sep 2026 03:07:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 삼성 제조 현장에서 피지컬 AI를 검증하고 RX(로봇 전환) 적용을 확대합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 클라우드 및 소프트웨어 중심 AX 활동과 달리 제조 현장에서의 피지컬 AI 및 RX 적용 확대를 다루고 있습니다."
+      },
+      "processedAt": "2026-09-03T23:00:23.511Z"
+    },
+    {
+      "id": "32ecf13d7f85e36d",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 美서 ‘RX ART 2026’ 개최…관계사 로봇 전환 협력",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/03/QVK3QB3TZBFFHI6CGY6DZ3DY6Q/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Thu, 03 Sep 2026 02:23:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/WK66QFQZQFCOXDSL7VI4LJOO6Q.jpeg?auth=262418fb2f062c74e3f3edf2356be09fde5807a0e5f64b831d9864bdf0162782&width=1200&height=630&smart=true",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": "미국",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국에서 'RX ART 2026'을 개최하고 관계사의 로봇 전환(RX)을 위한 협력을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 AI 및 클라우드 중심의 국내 마케팅 활동들과 달리, 미국에서 로봇 전환(RX)을 주제로 행사를 개최하며 로봇 사업 협력으로 영역을 확장했다는 점이 특이합니다."
+      },
+      "processedAt": "2026-09-03T23:01:21.274Z"
+    },
+    {
+      "id": "88c7fbb6548cfe4a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 美서 ‘RX ART 2026’ 개최…피지컬 AI 로봇 현장 적용 본격화",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno",
+      "publisher": "aitimes.kr",
+      "pubDate": "Thu, 03 Sep 2026 01:57:45 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": "미국",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국에서 'RX ART 2026'을 개최하고 피지컬 AI 로봇의 현장 적용을 본격화합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 국내 중심의 소프트웨어·클라우드 기반 AX 컨퍼런스와 달리, 미국 현지에서 피지컬 AI 로봇 현장 적용을 주제로 행사를 개최했다는 점이 특이합니다."
+      },
+      "processedAt": "2026-09-03T23:00:14.626Z"
+    },
+    {
+      "id": "d4ee84e2393c1e85",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 美서 'RX ART 2026' 개최…RX 본격 추진",
+      "link": "https://www.etnews.com/20260903000033",
+      "publisher": "전자신문",
+      "pubDate": "Thu, 03 Sep 2026 00:24:07 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/03/news-p.v1.20260903.7115b0c072444fd1a9c56bec604ac631_P1.jpeg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "8월 31일~9월 1일",
+      "location": "미국 캘리포니아주 마운틴뷰",
+      "format": "오프라인 행사",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국 마운틴뷰에서 'RX ART 2026'을 개최하고, 글로벌 피지컬 AI 기업 및 삼성 관계사들과 협력해 로봇 전환(RX)을 본격 추진한다고 밝혔다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 소프트웨어 및 클라우드 중심 AI/AX 활동과 달리 글로벌 피지컬 AI 기업들과 손잡고 로봇 전환(RX) 및 제조·산업 현장 실증을 다룬 점이 특징적입니다."
+      },
+      "processedAt": "2026-09-03T22:59:44.093Z"
+    },
+    {
+      "id": "ab216cdb4beb9b78",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 삼송 데이터센터서 1조원 계약…구축 넘어 운영수익 확대",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno",
+      "publisher": "ngetnews.com",
+      "pubDate": "Thu, 03 Sep 2026 00:19:44 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "삼송 데이터센터",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 삼송 데이터센터 관련 1조 원 규모의 계약을 체결하며 단순 구축을 넘어 데이터센터 운영 수익 확대에 나선다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 AI 기술 적용 및 인재 확보 중심의 활동과 달리 1조 원 규모의 대형 사업 수주와 함께 데이터센터 운영 수익 모델 확대를 명시적으로 내세운 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-09-03T23:02:13.506Z"
+    },
+    {
       "id": "8d73deb5130c07d3",
       "company": "네이버",
       "category": "IT 서비스",
@@ -180,6 +444,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-02T22:59:31.948Z"
+    },
+    {
+      "id": "cbde389bc2fd90a5",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Wed, 02 Sep 2026 07:57:21 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문은 ZDNet Korea의 언론사 사이트 정보 및 뉴스레터 구독 안내 문구로 LG CNS의 마케팅 활동 정보를 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-03T23:01:56.146Z"
     },
     {
       "id": "d3d967ab10f48c17",
@@ -314,6 +600,28 @@
       "processedAt": "2026-09-01T23:00:27.292Z"
     },
     {
+      "id": "f4c6e17cd4f7c261",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "뜨거워진 GPU, 물로 식힌다… LG CNS·네이버도 뛰어든 데이터센터 액체 냉각",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/01/G5BYWQVPWREY7FV6ZOPD4ENJKQ/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Tue, 01 Sep 2026 09:28:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/3OD7SML5CJAB5OK4JEEME7Y6D4.jpg?auth=5ca56095d38074ad78e345a26d807750c0a448fc548dee02be6e8238fde4dc7d&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 데이터센터의 GPU 발열 문제 해결을 위해 네이버 등과 손잡고 액체 냉각 솔루션 도입에 나서고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-03T23:02:04.544Z"
+    },
+    {
       "id": "f9ce273f82e94b3d",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -422,6 +730,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-01T23:01:04.453Z"
+    },
+    {
+      "id": "73e6f84fe5321137",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS,  리얼 서밋 2026  9월 8일 개최 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/sds-260901.html",
+      "publisher": "Samsung SDS America",
+      "pubDate": "Tue, 01 Sep 2026 02:27:44 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/news/__icsFiles/afieldfile/2026/09/01/real_3.jpg?queryString=20260901092449",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026-09-08",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "오프라인 콘퍼런스",
+      "slogan": "삼성SDS AI 풀스택으로 완성하는 성공적인 AX 혁신의 미래",
+      "keyMessage": "삼성SDS가 오는 9월 8일 '리얼 서밋 2026'을 개최하고, AI 풀스택 기반의 엔터프라이즈 AX 전략과 다양한 산업별 실행 방안 및 사례를 공유한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-03T22:59:59.406Z"
     },
     {
       "id": "7d100763e1ee8a21",
