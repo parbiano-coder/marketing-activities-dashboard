@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T22:41:16.371Z",
+  "updatedAt": "2026-09-06T22:43:37.475Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,314 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "d12c01f45961e283",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "ī�� �ۡ��˻� ����� ���塦���̹�, ������ �ڻ� ���� ������ : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260907n04220",
+      "publisher": "네이트",
+      "pubDate": "Sun, 06 Sep 2026 22:31:06 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/iu/2026/09/07/698331_646100_1937.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "기사 본문의 텍스트 인코딩 오류로 인해 네이버의 마케팅 활동 내용을 정확히 확인할 수 없습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-06T22:43:06.926Z"
+    },
+    {
+      "id": "abac4d8710c116f7",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[에이전틱 AI 맵 2026] LG CNS, AI 에이전트 설계부터 운영까지… 6개 모듈로 전사 AX 연결",
+      "link": "https://it.chosun.com/news/articleView.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Sun, 06 Sep 2026 22:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI 에이전트 설계부터 운영까지 커버하는 6개 모듈을 통해 기업의 전사적 AI 전환(AX)을 구현합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 데이터센터 인프라 구축 및 피지컬 AI(로봇) 중심 활동에 더해, 소프트웨어 차원의 에이전틱 AI 모듈 솔루션을 제시하고 있습니다."
+      },
+      "processedAt": "2026-09-06T22:40:58.846Z"
+    },
+    {
+      "id": "aa87c7cb0c5f308e",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "두 회사로 갈라지는 카카오, 쪼개기 잔혹사 끊을까",
+      "link": "https://weekly.khan.co.kr/article/202609070600031",
+      "publisher": "weekly.khan.co.kr",
+      "pubDate": "Sun, 06 Sep 2026 21:00:00 GMT",
+      "keyVisual": "https://img.khan.co.kr/weekly/2026/09/07/news-p.v1.20260903.4a79a6ab76ff47c8975821e38a94fc5d_P1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오가 카카오톡·AI 중심의 '카카오AI'와 버티컬 사업 및 투자를 전담하는 '카카오X'로 인적분할을 추진하며 창사 이래 최대 규모의 지배구조 개편에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 유료 멤버십 출시나 공공 AI 사업 참여 등 서비스/사업 중심 활동과 달리, 창사 이래 최대 규모의 인적분할을 통한 대대적인 지배구조 개편을 추진하고 있다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-06T22:43:25.626Z"
+    },
+    {
+      "id": "d1dc64592b49e368",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[기고]'가짜 네이버'는 어떻게 30대 회사원을 속였을까",
+      "link": "https://v.daum.net/v/20260907050301259",
+      "publisher": "v.daum.net",
+      "pubDate": "Sun, 06 Sep 2026 20:03:01 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/07/nocut/20260907050303664tfuv.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "정부기관과 네이버 로그인 화면을 정교하게 모방하여 계정 정보를 탈취하는 피싱 범죄의 심리 조작 수법을 분석하고 이용자의 주의를 당부했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 사업 제휴나 AI 팩토리 구축 등 주요 사업 활동과 달리 자사 사칭 피싱 범죄 피해 예방 및 심리 분석을 다룬 언론 기고 형태라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-06T22:42:27.593Z"
+    },
+    {
+      "id": "50e294546d3318f4",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독]카카오멤버십 월 4900원…네이버와 구독 경쟁 예고 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/09/07/2026090613531198320",
+      "publisher": "머니투데이",
+      "pubDate": "Sun, 06 Sep 2026 19:06:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=837,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026090613531198320_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[단독]카카오멤버십 월 4900원…네이버와 구독 경쟁 예고 - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-06T22:42:30.870Z"
+    },
+    {
+      "id": "0c8b915d0d2c16f5",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오멤버십 4900원 '네이버와 격돌' - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IN0ZTUjdXVUJ1elo4RTJudlkxN0lCd01wY1QzTmMtaC1yUmZKbHl3WkNIRWQtcFZObXRkREJxN05HSnNJOEpHYUtIYlpJV1ctNlRGTzJHX1ZhRVU0alZlVm9ENXl5eU3SAWxBVV95cUxNSUVTaHVWRU81ak9oLTBGb1VLZ21FQk9Za2VXMGpSYklvSmJMSjRrRVpLWEtJWmwzRjVfNGw2UkN3Wmh4ODdnMHV4QTZlTGxBWDh2cHZZVzlfa3g4WTVtTzM2TkFZVV83WEprMVU?oc=5",
+      "publisher": "머니투데이",
+      "pubDate": "Sun, 06 Sep 2026 18:43:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오가 월 4,900원의 구독형 멤버십을 출시함에 따라 네이버플러스 멤버십과의 고객 확보 및 시장 경쟁이 본격화될 전망입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-06T22:42:40.248Z"
+    },
+    {
+      "id": "453db5af1c803104",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[뉴스AS] 구글 앱 이용자, 두달 연속 네이버 앞섰다는데…진짜?",
+      "link": "https://www.hani.co.kr/arti/economy/it/1276448.html",
+      "publisher": "한겨레",
+      "pubDate": "Sun, 06 Sep 2026 10:02:00 GMT",
+      "keyVisual": "https://flexible.img.hani.co.kr/flexible/normal/663/475/imgdb/original/2026/0906/20260906501046.webp",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "구글 앱의 월간 활성 이용자 수(MAU)가 네이버를 앞섰다는 분석이 나왔으나 집계 방식 차이와 체류 시간 등을 고려할 때 네이버가 여전히 검색 시장 이용 우위를 유지하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-06T22:42:13.336Z"
+    },
+    {
+      "id": "dba5eac7de383226",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "쉬운 ‘로봇 운영툴’ 네이버, 연내 도입",
+      "link": "https://www.sedaily.com/article/20087689",
+      "publisher": "서울경제",
+      "pubDate": "Sun, 06 Sep 2026 08:57:20 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/09/06/news-p.v1.20260904.065074723b3f45a68debbac435260e73_R.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "2026-09-06",
+      "location": "1784",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버가 코딩 없이도 로봇의 동선과 역할을 직관적으로 설계할 수 있는 로봇 서비스 설계 플랫폼 '아크브레인 플로우'의 특허를 출원하고 연내 제2사옥 1784에 도입한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 팩토리, 이커머스, 멤버십 중심 활동과 달리 B2B 자율주행 로봇 관제 및 스마트빌딩 기술 상용화 관련 활동이라는 점이 다릅니다."
+      },
+      "processedAt": "2026-09-06T22:42:54.039Z"
+    },
+    {
+      "id": "4c0b876550ee6600",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 이해진, 브룩필드 회장 회동…GW급 AI 팩토리 협력 논의",
+      "link": "https://news.mtn.co.kr/news-detail/2026090417384553609",
+      "publisher": "MTN 머니투데이방송",
+      "pubDate": "Sun, 06 Sep 2026 07:12:12 GMT",
+      "keyVisual": "https://menu.mtn.co.kr/upload/article/2026/09/04/2026090417384553609_00_437.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "지난 3일",
+      "location": "네이버 1784 사옥",
+      "format": "경영진 회동",
+      "slogan": null,
+      "keyMessage": "네이버 이해진 의장이 브룩필드 자산운용 회장과 회동하여 1GW급 AI 팩토리 구축을 위한 1단계 90억 달러 투자 및 사업 협력 방안을 논의했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-06T22:43:00.792Z"
+    },
+    {
+      "id": "9f72b03fd03c63e8",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[힘내라 K산업]⑤ \"스스로 판단하고 대안 찾는다\"…삼성SDS가 그리는 '에이전틱 AI' 물류 혁명",
+      "link": "https://www.asiatime.co.kr/article/20260906500101",
+      "publisher": "아시아타임즈",
+      "pubDate": "Sun, 06 Sep 2026 06:25:00 GMT",
+      "keyVisual": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/06/.cache/512/20260906500098.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "4월 2일",
+      "location": "판교 물류캠퍼스",
+      "format": "오프라인 컨퍼런스",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '첼로스퀘어 콘퍼런스 2026'을 개최하여 에이전틱 AI 기반의 차세대 물류 운영체계와 공급망 리스크 대응 전략을 발표했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-06T22:40:18.579Z"
+    },
+    {
+      "id": "1c8f19e51b1b19cf",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[힘내라 K산업]④‘AI 전력난’ 해법 찾은 삼성SDS, 지속가능 IT 이끈다",
+      "link": "https://www.asiatime.co.kr/article/20260906500070",
+      "publisher": "아시아타임즈",
+      "pubDate": "Sun, 06 Sep 2026 05:48:00 GMT",
+      "keyVisual": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/06/.cache/512/20260906500082.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 데이터센터 액침냉각 기술 및 고효율 인프라 전환과 AI 경영시스템(ISO/IEC 42001) 인증을 통해 AI 전력난 해소와 친환경 IT 생태계 표준을 제시하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 로봇 사업 발표 및 RX ART 2026 행사 중심의 활동과 달리 데이터센터의 에너지 효율화와 ESG·AI 거버넌스 성과를 집중적으로 조명하고 있습니다."
+      },
+      "processedAt": "2026-09-06T22:40:40.965Z"
+    },
+    {
+      "id": "a5e0bf7930dc7b26",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT서비스 3사, AX로 자생력 키운다…내부거래 비중 줄어",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno",
+      "publisher": "매일일보",
+      "pubDate": "Sun, 06 Sep 2026 04:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IT서비스 3사가 AI 전환(AX)을 통해 자생력을 키우며 계열사 내부거래 비중을 줄여가고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-06T22:41:06.521Z"
+    },
+    {
+      "id": "1fa066ede7606d56",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[DD 주간브리핑] 오픈AI 1주년에 삼성SDS '리얼 서밋'까지&hellip;서울 달구는 'AI 풀스택' 대전",
+      "link": "https://www.ddaily.co.kr/page/view/2026090415354410352",
+      "publisher": "디지털데일리",
+      "pubDate": "Sun, 06 Sep 2026 01:00:00 GMT",
+      "keyVisual": "/photos/2026/03/20/2026032017302114965_l.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "8일",
+      "location": null,
+      "format": "기술 서밋",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '리얼 서밋 2026'을 개최하며 이준희 대표와 함께 글로벌 대표 AI 기업인 오픈AI 및 앤트로픽의 한국대표가 나란히 기조연설 무대에 오른다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "경쟁 관계인 글로벌 대표 AI 기업 오픈AI와 앤트로픽의 한국 대표가 함께 삼성SDS 행사 기조연설에 참여하는 점이 이례적입니다."
+      },
+      "processedAt": "2026-09-06T22:40:31.458Z"
+    },
+    {
+      "id": "aad0e39f6a4f9621",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[힘내라 K산업]③삼성SDS 첼로스퀘어, 글로벌 공급망 컨트롤타워로 진화",
+      "link": "https://www.asiatime.co.kr/article/20260906500004",
+      "publisher": "아시아타임즈",
+      "pubDate": "Sun, 06 Sep 2026 00:22:00 GMT",
+      "keyVisual": "https://csossihettpx2597658.cdn.gov-ntruss.com/data2/content/image/2026/09/06/.cache/512/20260906500003.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "4월",
+      "location": "삼성SDS 판교 물류캠퍼스",
+      "format": "오프라인 컨퍼런스",
+      "slogan": null,
+      "keyMessage": "삼성SDS는 디지털 물류 플랫폼 첼로스퀘어에 에이전틱 AI를 도입하여 글로벌 공급망 리스크에 능동적으로 대응하고 지능형 물류 컨트롤 타워로 진화시키고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-06T22:40:50.404Z"
+    },
     {
       "id": "ef3f5e85b4043da2",
       "company": "네이버",
@@ -488,6 +796,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-05T22:39:52.825Z"
+    },
+    {
+      "id": "d194f5ec96146a88",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독]네이버, 11월 멤버십 전용 '새벽배송' 가동…쿠팡과 배송 경쟁 불붙는다",
+      "link": "https://www.etnews.com/20260904000138",
+      "publisher": "전자신문",
+      "pubDate": "Fri, 04 Sep 2026 02:15:25 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/03/news-p.v1.20260903.89ccf879feb747ed9e7a3fddd20044b4_P2.png",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "11월 말",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 오는 11월 말부터 'N배송 새벽배송'을 네이버플러스 멤버십 회원 전용 혜택으로 전환하여 이커머스 배송 경쟁력과 고객 록인 효과를 강화합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-06T22:43:16.825Z"
     },
     {
       "id": "de53a8636c9d7747",
@@ -3194,6 +3524,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-05T22:39:05.475Z"
+    },
+    {
+      "id": "df9afaefc460683f",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 독일 소프트웨어 기업 SAP와 협력…‘AI 네이티브 기업’ 전환 이끈다",
+      "link": "https://www.donga.com/news/Economy/article/all/20260826/134550797/1",
+      "publisher": "동아일보",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/26/134550928.1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "26일",
+      "location": "독일 발도르프 SAP 본사",
+      "format": "MOU 체결식",
+      "slogan": null,
+      "keyMessage": "SK AX가 독일 SAP와 MOU를 체결하고 AI 기반 ERP 사업 협력을 강화하여 기업 운영 전반의 AI 네이티브 전환을 추진한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-06T22:42:05.588Z"
     },
     {
       "id": "8549397b3a0abc1d",
