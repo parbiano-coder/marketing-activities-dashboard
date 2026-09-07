@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T22:43:37.475Z",
+  "updatedAt": "2026-09-07T23:20:10.964Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,292 @@
   ],
   "activities": [
     {
+      "id": "8e0f0b7a1c59fac1",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "브룩필드, 네이버 AI 팩토리 '전략적 파트너십' 공식화 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260907136600017",
+      "publisher": "연합뉴스",
+      "pubDate": "Mon, 07 Sep 2026 21:13:00 GMT",
+      "keyVisual": "https://img0.yna.co.kr/etc/inner/KR/2026/09/07/AKR20260907136600017_01_i_P4.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-09-08",
+      "location": "경기 성남시 네이버 1784",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "글로벌 자산운용사 브룩필드가 네이버 및 엔비디아와 추진하는 한국 소버린 AI 팩토리 구축 사업을 회사의 전략적 파트너십 성과로 공식 명시하고 대규모 투자를 진행한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 서비스 플랫폼 경쟁이나 보안 이슈 중심 활동들과 달리, 엔비디아 및 글로벌 자산운용사와 협력하는 100억 달러 규모의 초대형 AI 인프라 파트너십이라는 점에서 눈에 띄는 차이가 있습니다."
+      },
+      "processedAt": "2026-09-07T23:19:48.224Z"
+    },
+    {
+      "id": "daa1c8d1d0872337",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[0908주요일정] 삼성SDS, 엔터프라이즈 AX 콘퍼런스 '리얼 서밋 2026' 개최 예정 등",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DVWNJbWVwVVJrb0huRmNaUk40NzBkN1hNQ2tLM2RSRVpOTG1SZU5GWldoOC1wX0RPWUFqS2QzUC1odnVrUUYwR1hUSENlQTJRLVRnTEM0VUNsN2N6MGhIU2oyZzhWeS13bEIwMDlYc1ZDb0IzZWc?oc=5",
+      "publisher": "인포스탁데일리",
+      "pubDate": "Mon, 07 Sep 2026 21:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": "콘퍼런스",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 엔터프라이즈 AX 콘퍼런스 '리얼 서밋 2026'을 개최할 예정입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-07T23:16:26.150Z"
+    },
+    {
+      "id": "54c36196f661e46b",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS ‘리얼 서밋 2026’ 9월 8일 개최",
+      "link": "http://www.kmkj.kr/news/articleView.html?idxno",
+      "publisher": "국민기자뉴스",
+      "pubDate": "Mon, 07 Sep 2026 17:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "9월 8일",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 오는 9월 8일 '리얼 서밋 2026'을 개최합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-07T23:16:35.048Z"
+    },
+    {
+      "id": "cfc12784cbb89528",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 아마존 AI 광고 솔루션으로 북미 이커머스 시장 공략",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2MGo3OC1wd1BtUmFUVjZETXR1WkxlSXpEZFVMeGdGOVRMMVRpTWxybXhWNlpaWWJJZE5yXzRVOTBwWGpZdUkwenJVb1dQWk1fUkV6bUJlVFVUaTdnRHdTV0R6U1dqRVhvdXc?oc=5",
+      "publisher": "서울파이낸스",
+      "pubDate": "Mon, 07 Sep 2026 09:40:37 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 아마존 AI 광고 솔루션으로 북미 이커머스 시장 공략",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-07T23:18:40.323Z"
+    },
+    {
+      "id": "f8cabe341eaa49c0",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "DDP 홀린 LG CNS 로봇쇼…'AX 팝업' 흥행공식 다시 썼다",
+      "link": "https://v.daum.net/v/20260907161208278",
+      "publisher": "v.daum.net",
+      "pubDate": "Mon, 07 Sep 2026 07:12:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/07/mk/20260907161209908uers.jpg",
+      "activityType": "전시",
+      "eventDate": "7월 1일~20일",
+      "location": "서울 동대문디자인플라자(DDP)",
+      "format": "오프라인 브랜드 전시",
+      "slogan": "기술이 사람을 만날 때: 연결은 마음을 향한다",
+      "keyMessage": "LG CNS가 DDP에서 일반 시민을 대상으로 브랜드 전시를 열고, 로봇과 캐릭터 등의 미디어 콘텐츠를 활용해 기술이 일상과 연결되는 대중 친화적인 브랜드 경험(BX)을 제공했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 B2B 중심 기술 전환(AX) 및 AI·데이터센터 인프라 솔루션 관련 활동과 달리, 일반 시민을 대상으로 대규모 팝업 전시를 개최하여 브랜드 경험(BX)을 소통한 점이 이례적이다."
+      },
+      "processedAt": "2026-09-07T23:17:53.209Z"
+    },
+    {
+      "id": "d00fe6354a33c26f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, AI로 광고 전략·예산 자동 조정…북미 이커머스 공략",
+      "link": "https://www.news2day.co.kr/article/20260907500138",
+      "publisher": "뉴스투데이",
+      "pubDate": "Mon, 07 Sep 2026 06:39:00 GMT",
+      "keyVisual": "https://cdn.news2day.co.kr/data2/content/image/2026/09/07/.cache/512/20260907500137.jpg",
+      "activityType": "전시",
+      "eventDate": "2026년 8월 25일 ~ 2026년 8월 27일",
+      "location": "미국 라스베이거스",
+      "format": "오프라인 전시회 참가",
+      "slogan": null,
+      "keyMessage": "LG CNS가 미국 라스베이거스에서 열린 유통 전시회 'ASD Market Week'에서 아마존 광고 운영을 자동화하는 AI 솔루션 'LG 옵타펙스'를 선보이며 북미 이커머스 시장 공략을 강화했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 데이터센터 인프라 및 로봇·전사적 AX 중심의 최근 활동과 달리, 북미 이커머스 마케터 및 글로벌 셀러를 겨냥한 디지털 광고 최적화 솔루션 사업을 전면에 내세운 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-09-07T23:18:47.834Z"
+    },
+    {
+      "id": "947536c7d5f16ec7",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"AI가 광고 전략 짜고 예산 조정\"…LG CNS, '옵타펙스'로 북미 이커머스 정조준",
+      "link": "https://www.newsis.com/view/NISX20260907_0003779410",
+      "publisher": "뉴시스",
+      "pubDate": "Mon, 07 Sep 2026 06:34:21 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/09/07/NISI20260907_0002232366_web.jpg",
+      "activityType": "전시",
+      "eventDate": "지난달 25~27일",
+      "location": "미국 라스베이거스",
+      "format": "오프라인 전시회 참가 및 시연",
+      "slogan": null,
+      "keyMessage": "LG CNS가 미국 라스베이거스에서 열린 소비재 유통 전시회 'ASD 마켓 위크'에서 AI 기반 광고 최적화 솔루션 'LG 옵타펙스'를 시연하며 북미 이커머스 시장 공략에 속도를 내고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 기업 AI 전환(AX)이나 데이터센터 및 로봇 플랫폼 등 B2B 인프라 중심 활동과 달리, 북미 이커머스 셀러 대상의 디지털 광고 최적화 SaaS 솔루션 마케팅을 전면에 내세운 점이 다릅니다."
+      },
+      "processedAt": "2026-09-07T23:18:21.319Z"
+    },
+    {
+      "id": "4c24b92c9f179bee",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "한미약품, 삼성SDS·메가존클라우드와 ‘Hanmi Q-Agent’ 구축…QA에 AI 전면 도입",
+      "link": "https://www.thepowernews.co.kr/view.php?ud",
+      "publisher": "thepowernews.co.kr",
+      "pubDate": "Mon, 07 Sep 2026 06:24:38 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 메가존클라우드와 함께 한미약품의 QA 공정에 AI를 전면 도입하는 'Hanmi Q-Agent'를 구축했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "자체 콘퍼런스 및 물류 플랫폼 중심의 최근 활동과 달리 제약 바이오 기업의 QA 분야에 AI 시스템을 구축한 고객 사례입니다."
+      },
+      "processedAt": "2026-09-07T23:17:00.105Z"
+    },
+    {
+      "id": "f1781dfd0706b8d9",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성, 2026년 하반기 공채 실시 - Samsung Newsroom Korea",
+      "link": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1-2026%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%EA%B3%B5%EC%B1%84-%EC%8B%A4%EC%8B%9C",
+      "publisher": "Samsung Global Newsroom",
+      "pubDate": "Mon, 07 Sep 2026 05:00:00 GMT",
+      "keyVisual": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2026/09/07100647/KV_932x524_0907.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성이 청년 일자리 창출과 미래 성장동력 확보를 위해 삼성SDS를 포함한 19개 관계사에서 2026년 하반기 신입사원 공채를 진행합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 삼성SDS의 마케팅 활동이 AI, 물류 플랫폼, 로봇 등 B2B 기술 발표에 집중되었던 것과 달리 그룹 차원의 채용 관련 언론보도라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-07T23:16:44.564Z"
+    },
+    {
+      "id": "c40395c64de7c093",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 글로벌 이커머스 AX 파트너로 도약...북미서 AI 광고 최적화 사업 확대",
+      "link": "https://v.daum.net/v/20260907130236255",
+      "publisher": "v.daum.net",
+      "pubDate": "Mon, 07 Sep 2026 04:02:36 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/07/ZDNetKorea/20260907130238513ynfy.jpg",
+      "activityType": "전시",
+      "eventDate": "2026-08-25 ~ 2026-08-27",
+      "location": "미국 라스베이거스",
+      "format": "오프라인 전시회 참가",
+      "slogan": null,
+      "keyMessage": "LG CNS가 북미 대표 소비재 전시회 'ASD 마켓 위크'에 참가하여 AI 기반 디지털 광고 최적화 솔루션 'LG 옵타펙스'를 선보이고 글로벌 아마존 셀러 대상 AX 사업 확대를 추진했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "국내 데이터센터 인프라 및 로봇 전환(RX) 중심의 최근 활동과 달리 북미 이커머스 시장을 겨냥한 글로벌 AI 광고 최적화 서비스의 해외 전시 참가라는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-09-07T23:19:16.271Z"
+    },
+    {
+      "id": "8000533e0152ea26",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Mon, 07 Sep 2026 04:01:01 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문은 지디넷코리아 웹사이트의 구독 안내 및 카피라이트 정보로 LG CNS의 마케팅 활동 내용이 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-07T23:18:00.751Z"
+    },
+    {
+      "id": "dbe65792342215cf",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, 22일까지 추석 쇼핑 프로모션⋯가격대·상황별 선물 제안도",
+      "link": "https://v.daum.net/v/20260907100207046",
+      "publisher": "v.daum.net",
+      "pubDate": "Mon, 07 Sep 2026 01:02:07 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/07/inews24/20260907100209311qqjm.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026년 9월 7일 ~ 2026년 9월 22일",
+      "location": null,
+      "format": "온라인 쇼핑 프로모션",
+      "slogan": null,
+      "keyMessage": "네이버는 추석 명절을 맞아 네이버플러스 스토어에서 1만 여 개 대표 브랜드가 참여하는 '추석+세일' 쇼핑 프로모션을 9월 22일까지 진행한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-07T23:19:56.324Z"
+    },
+    {
+      "id": "3ce74af188b117f4",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[����ƮPICK] '������ AI' ���� ������ LG CNS���κ� �÷��� ��� �ӵ� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260907n05558",
+      "publisher": "네이트",
+      "pubDate": "Sun, 06 Sep 2026 23:31:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/cc/2026/09/07/84261_114214_5856.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 로봇 전환(RX) 솔루션 및 통합 플랫폼 브랜드 '피지컬웍스'를 공개하고 B2B 피지컬 AI 사업 확장에 속도를 내고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-07T23:18:11.006Z"
+    },
+    {
       "id": "d12c01f45961e283",
       "company": "네이버",
       "category": "IT 서비스",
@@ -114,6 +400,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-06T22:43:06.926Z"
+    },
+    {
+      "id": "a40e00fbbeb4056a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[에이전틱 AI 맵 2026] LG CNS, AI 에이전트 설계부터 운영까지… 6개 모듈로 전사 AX 연결",
+      "link": "https://it.chosun.com/news/articleViewAmp.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Sun, 06 Sep 2026 22:12:29 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI 에이전트의 설계부터 운영까지 지원하는 6개 모듈을 통해 기업의 전사적 AI 전환(AX)을 구현합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-07T23:19:21.857Z"
     },
     {
       "id": "abac4d8710c116f7",
@@ -532,6 +840,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-04T22:46:20.987Z"
+    },
+    {
+      "id": "eacaeeda6c5f3b45",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, 11월부터 네이버플러스 멤버십 회원에만 ‘새벽배송’ 제공 – 바이라인네트워크",
+      "link": "https://byline.network/2026/09/04_2918283/",
+      "publisher": "바이라인네트워크",
+      "pubDate": "Fri, 04 Sep 2026 10:26:55 GMT",
+      "keyVisual": "https://cdn.byline.network/wp-content/uploads/2026/04/naver-1784.jpeg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 오는 11월부터 기존 일반 회원에게도 제공하던 새벽배송 서비스를 네이버플러스 멤버십 회원 전용 혜택으로 전환하여 유료 회원 충성도를 높이고 생태계 선순환 구조를 강화한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-07T23:19:38.007Z"
     },
     {
       "id": "e35190d3d7cfe669",
@@ -994,6 +1324,28 @@
         "llmNote": "AI 및 AX 전략 중심의 최근 마케팅 활동들과 달리 인재 보수 체계 및 HR 관련 내용을 조명한 보도라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-09-03T22:59:52.227Z"
+    },
+    {
+      "id": "c52552bd24dff37f",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 미국서 'RX ART 2026' 개최… RX 시너지 본격화",
+      "link": "https://www.irobotnews.com/news/articleView.html?idxno",
+      "publisher": "로봇신문",
+      "pubDate": "Thu, 03 Sep 2026 07:07:22 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": "미국",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국에서 'RX ART 2026'을 개최하여 RX 시너지를 본격화합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 국내 중심의 물류·클라우드 행사와 달리 미국 현지에서 RX(로봇 전환) 전문 행사를 개최하며 로봇 사업의 글로벌 행보를 본격화했습니다."
+      },
+      "processedAt": "2026-09-07T23:17:23.382Z"
     },
     {
       "id": "1fd8d3f0a249c46c",
