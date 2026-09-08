@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T23:20:10.964Z",
+  "updatedAt": "2026-09-08T23:13:29.665Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,314 @@
   ],
   "activities": [
     {
+      "id": "425816bff1f14322",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, AI 도입 넘어 기업 AX 혁신 주도",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KNGJCbUtzbkM3bWtka0dmeUxFWEJiSkdWWW9mQjBlS3hORHd1TU03REZvV3pPVVNXTmtneGxFSW44RTgtckhQRVFCS0JLTnMycGVYYllBYzAwNTJ2UFgtbVY2OEdPbkZ0Um16NWRnOWo?oc=5",
+      "publisher": "코리아리포트",
+      "pubDate": "Tue, 08 Sep 2026 22:01:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 단순히 AI 도입을 넘어 기업의 AX 혁신을 주도하고 있음을 강조했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-08T23:11:46.572Z"
+    },
+    {
+      "id": "685ade85687ff035",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버제트 오늘 부분 파업…판교서 집회·행진한다 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260908155500017",
+      "publisher": "yna.co.kr",
+      "pubDate": "Tue, 08 Sep 2026 20:55:00 GMT",
+      "keyVisual": "https://img4.yna.co.kr/photo/yna/YH/2026/08/20/PYH2026082011400001701_P4.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-09",
+      "location": "경기 성남시 네이버 1784",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버제트 노조가 임금 동결에 반발하여 9월 9일 부분파업과 집회를 진행하고 네이버 본사의 직접적인 통합교섭 참여를 요구했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 파트너십, 프로모션, 서비스 경쟁 등 대외 마케팅 및 사업 활동과 달리 노사 갈등 및 계열사 노조 파업 이슈를 다루고 있다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-08T23:12:48.138Z"
+    },
+    {
+      "id": "b9b8b3208b1f787e",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼전·네이버, 프랑스 미스트랄 AI와 맞손…李대통령 \"양국 정부차원 협력 기대\" - 머니투데이",
+      "link": "https://www.mt.co.kr/politics/2026/09/09/2026090904410947747",
+      "publisher": "머니투데이",
+      "pubDate": "Tue, 08 Sep 2026 19:58:30 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026090904410947747_1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-09-08",
+      "location": "프랑스 파리 마리니 영빈관",
+      "format": "비즈니스 라운드테이블",
+      "slogan": null,
+      "keyMessage": "네이버가 프랑스 인공지능 기업 미스트랄 AI와 소버린 AI 시장 공략을 위한 파트너십을 맺고 글로벌 시장 공동 진출을 추진하기로 결정했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 국내외 빅테크 중심 협력을 넘어 유럽 대표 AI 기업인 미스트랄 AI와 손잡고 글로벌 소버린 AI 시장 공동 진출을 추진한다는 점이 특이합니다."
+      },
+      "processedAt": "2026-09-08T23:13:03.747Z"
+    },
+    {
+      "id": "fde1f010dc30dbeb",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[현장] 삼성SDS 이준희 대표 “AI는 업무를 바꾸지만, AX는 비즈니스를 바꾼다”",
+      "link": "https://elec4.co.kr/contents/article_detail?article_idx",
+      "publisher": "elec4",
+      "pubDate": "Tue, 08 Sep 2026 19:21:49 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS 이준희 대표는 AI가 단순한 업무 방식을 넘어 비즈니스 자체를 혁신하는 AX로 진화해야 한다고 강조했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-08T23:12:03.200Z"
+    },
+    {
+      "id": "385a617780128207",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“AI 로봇 신기해요”… 삼성SDS ‘리얼 서밋’ 행사",
+      "link": "https://www.donga.com/news/amp/all/20260908/134629924/2",
+      "publisher": "동아일보",
+      "pubDate": "Tue, 08 Sep 2026 15:30:00 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/08/134629012.4.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026-09-08",
+      "location": "서울 강남구 코엑스",
+      "format": "오프라인 행사",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 서울 코엑스에서 '리얼 서밋 2026' 행사를 개최하고 AI 전환(AX) 전략과 AI 로봇 시연을 선보였다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-08T23:12:29.962Z"
+    },
+    {
+      "id": "a3927f04adaf76c0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI가 일하고 로봇이 움직인다…새 판 짠 삼성SDS",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yRmRtVk9TbGkzcFNqQ1YxVlowZnZpc2dvb0E0WjVWVk9vUGxTVHBKLUZWa3N3RG0wZWJyazlESE14dm1pNVVCeERJYXZqWEhlUTEtQnF3?oc=5",
+      "publisher": "중앙일보",
+      "pubDate": "Tue, 08 Sep 2026 15:02:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI와 로봇 기술을 결합하여 새로운 사업 체계와 성장 동력을 재편하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 AI 컨퍼런스 및 클라우드 솔루션 중심의 마케팅 활동과 달리 로봇과의 융합을 통한 대대적인 사업 체계 재편을 다루고 있다는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-09-08T23:11:41.486Z"
+    },
+    {
+      "id": "d16d36b7b3ea69d4",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[리포트] 삼성SDS, '다차원 AI 풀스택' 전략 공개···AX·로봇 사업 본격화",
+      "link": "https://www.paxetv.com/news/articleView.html?idxno",
+      "publisher": "팍스경제TV",
+      "pubDate": "Tue, 08 Sep 2026 14:58:52 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '다차원 AI 풀스택' 전략을 공개하며 AX 및 로봇 사업 본격 추진에 나섰습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 생성형 AI 및 물류 솔루션 중심 활동과 달리 로봇 사업 본격화를 핵심 전략으로 명시한 점이 이례적입니다."
+      },
+      "processedAt": "2026-09-08T23:11:24.471Z"
+    },
+    {
+      "id": "99121d79eaec6e54",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, AI 풀스텍 전략에 로봇까지…산업 현장 혁신 나선다",
+      "link": "https://www.klnews.co.kr/news/articleView.html?idxno",
+      "publisher": "물류신문",
+      "pubDate": "Tue, 08 Sep 2026 12:49:51 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, AI 풀스텍 전략에 로봇까지…산업 현장 혁신 나선다",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-08T23:11:18.516Z"
+    },
+    {
+      "id": "e693d68f77322781",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 내년 로봇 통합제어 플랫폼 띄운다",
+      "link": "https://www.hankyung.com/article/2026090820141",
+      "publisher": "한국경제",
+      "pubDate": "Tue, 08 Sep 2026 09:50:28 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202609/AA.45607712.1.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "9월 8일",
+      "location": "서울 삼성동 코엑스",
+      "format": "오프라인 컨퍼런스",
+      "slogan": "AI는 업무를 바꾸지만, AX는 비즈니스를 바꾼다",
+      "keyMessage": "삼성SDS는 '리얼 서밋 2026'에서 기업의 AI 전환(AX)을 위한 '다차원적 AI 풀스택' 전략과 함께 로봇 전환(RX) 사업 진출을 공식 선언했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 엔터프라이즈 AI 및 물류 서비스 중심의 마케팅 활동에서 더 나아가 피지컬 AI 기반의 로봇 전환(RX) 사업 진출을 새롭게 공식화했다."
+      },
+      "processedAt": "2026-09-08T23:12:23.962Z"
+    },
+    {
+      "id": "1e5f8db3eeb23f98",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"의료 AI에 진심\" 네이버, 내달 헬스케어 전담 조직 띄운다",
+      "link": "https://www.newsis.com/view/NISX20260908_0003781509",
+      "publisher": "뉴시스",
+      "pubDate": "Tue, 08 Sep 2026 09:25:36 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/04/30/NISI20260430_0002124432_web.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 디지털 헬스케어 및 의료 AI 사업을 본격적으로 키우기 위해 자회사 세나클의 전문성과 자사의 AI·플랫폼 역량을 결합한 헬스케어 전담 조직을 내달 신설한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 쇼핑 프로모션, 보안 안내, 글로벌 소버린 AI 협력 등과 달리 의료 AI 및 디지털 헬스케어를 미래 핵심 성장 동력으로 삼고 본사 내 전담 조직을 신설하는 구체적 개편 행보를 보였습니다."
+      },
+      "processedAt": "2026-09-08T23:12:54.633Z"
+    },
+    {
+      "id": "eae400622ebd324b",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[IT돋보기] \"스터디하기 좋은 역 근방 카페 찾아줘\"⋯네이버지도에도 AI",
+      "link": "https://v.daum.net/v/20260908170045667",
+      "publisher": "v.daum.net",
+      "pubDate": "Tue, 08 Sep 2026 08:00:45 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/08/inews24/20260908170046624zoov.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "2026-09-08",
+      "location": null,
+      "format": "온라인 서비스 업데이트",
+      "slogan": null,
+      "keyMessage": "네이버가 네이버지도에 대화형 AI 기능인 'AI 플레이스 에이전트'를 도입하여 이용자가 문장 형태로 장소를 추천받을 수 있도록 검색 및 서비스 경쟁력을 강화했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-08T23:13:12.727Z"
+    },
+    {
+      "id": "81637e54f09dc120",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 리얼 서밋 | 연합뉴스",
+      "link": "https://www.yna.co.kr/amp/view/PYH20260908187500013",
+      "publisher": "yna.co.kr",
+      "pubDate": "Tue, 08 Sep 2026 06:51:50 GMT",
+      "keyVisual": "https://img0.yna.co.kr/photo/yna/YH/2026/09/08/PYH2026090818750001300_P4.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026년 9월 8일",
+      "location": "서울 강남구 코엑스",
+      "format": "오프라인 행사",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 서울 강남구 코엑스에서 '리얼 서밋 2026'을 개최하고, 국방부 전시 부스를 통해 온디바이스 AI 전술폰 기반 이기종 드론 공용 GCS 등 최신 AI 기술 전시를 선보였습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-08T23:12:16.349Z"
+    },
+    {
+      "id": "cb6cd32be334c57b",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, '로봇 오케스트레이션'으로 생산라인 1000곳 RX 추진",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fUVF3ZVlUYlNpLXFZYUwtWm1PbmgwSWpZbThWUnZ4YzN6SzltR3I1dEFHUGNsVkZSM0N5RnNyUWNUT3c1WUdDUEhfUl95Vnd2NEdtVHNwMlpRRlNXNEcwTTFPbHlDdnNFVHc?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Tue, 08 Sep 2026 06:49:04 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '로봇 오케스트레이션' 기술을 바탕으로 1,000개 생산라인의 로봇 전환(RX)을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 개최한 AI 및 물류 콘퍼런스 활동과 달리 생산라인의 로봇 전환(RX) 및 로봇 오케스트레이션 추진에 집중하고 있습니다."
+      },
+      "processedAt": "2026-09-08T23:11:56.410Z"
+    },
+    {
+      "id": "75fe86fa113d9888",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, AX·로봇까지…오픈AI·앤트로픽 손잡는다",
+      "link": "https://www.etnews.com/20260908000113",
+      "publisher": "전자신문",
+      "pubDate": "Tue, 08 Sep 2026 01:21:19 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/01/08/news-p.v1.20260108.4bf8258249f84c9b99670d40ffd5e345_P1.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026년 9월 8일",
+      "location": "서울 코엑스",
+      "format": "온·오프라인 콘퍼런스",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '리얼 서밋 2026'을 열고 글로벌 프론티어 AI 기업과의 협업, 로봇 전환(RX) 사업 진출, 신규 협업 솔루션 상용화 등을 담은 '다차원 AI 풀스택' 실행 전략을 발표했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 컨퍼런스나 사업 발표와 달리 로봇 기반 제조 혁신인 '로봇 전환(RX)' 사업 진출을 처음 공식 선언하고 글로벌 AI 리더들과의 다각도 파트너십을 공개한 점이 주목할 만합니다."
+      },
+      "processedAt": "2026-09-08T23:10:47.025Z"
+    },
+    {
       "id": "8e0f0b7a1c59fac1",
       "company": "네이버",
       "category": "IT 서비스",
@@ -158,6 +466,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-07T23:16:35.048Z"
+    },
+    {
+      "id": "8cb3fe3772d36433",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "김진휘 네이버클라우드 전무 “보안특화 AI 독파모, 보안 산업과 연동해 해외까지”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qWHpwMFUwZ21RU3A1ZWlKWmVWb0pQQTZzaFVrd2JDWjJKMHQwU0VBNFd6aDJ3MEtaeWpGb3pFX1FUU29KSWgzalNyVXA3c01DVHVqTndtcTlUbVRUUGhMSVJNQVFoRFlsQllJ?oc=5",
+      "publisher": "보안뉴스",
+      "pubDate": "Mon, 07 Sep 2026 09:46:44 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버클라우드가 보안 특화 AI인 '독파모'를 국내 보안 산업과 연동하여 글로벌 시장으로 확장하겠다는 비전을 밝혔다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-08T23:13:17.690Z"
     },
     {
       "id": "cfc12784cbb89528",
@@ -3898,6 +4228,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-06T22:42:05.588Z"
+    },
+    {
+      "id": "24e745f381941876",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX-SAP, ‘AI 네이티브 엔터프라이즈’ 협력 강화…기업운영 전반 AI 전환 추진",
+      "link": "https://www.donga.com/news/Economy/article/all/20260825/134541981/1",
+      "publisher": "동아일보",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/25/134541942.2.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "26일",
+      "location": "독일 바덴뷔르템베르크주 발도르프 SAP 본사",
+      "format": "양해각서 체결",
+      "slogan": null,
+      "keyMessage": "SK AX가 독일 SAP와 양해각서(MOU)를 체결하고, 전사적 자원관리(ERP)를 포함한 기업 운영 전반의 AI 전환 및 AI 네이티브 엔터프라이즈 구축을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-08T23:12:38.904Z"
     },
     {
       "id": "8549397b3a0abc1d",
