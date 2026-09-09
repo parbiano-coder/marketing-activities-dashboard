@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T23:13:29.665Z",
+  "updatedAt": "2026-09-09T22:57:39.534Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,314 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "891184628e0889a8",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 차움과 ‘AI 건강검진센터’ 구축",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid",
+      "publisher": "국민일보",
+      "pubDate": "Wed, 09 Sep 2026 15:31:00 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 차움과 협력하여 'AI 건강검진센터'를 구축합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 해외 이커머스 AI 광고 솔루션 중심 마케팅과 달리, 국내 의료·헬스케어 분야에서 AI 센터 구축 협력을 진행한 점이 특이합니다."
+      },
+      "processedAt": "2026-09-09T22:57:06.817Z"
+    },
+    {
+      "id": "e9157e74829ddfd4",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS·한미양행·OMO, 춘천에 곤충산업단지 조성",
+      "link": "https://biz.heraldcorp.com/article/10868316",
+      "publisher": "헤럴드경제",
+      "pubDate": "Wed, 09 Sep 2026 14:41:18 GMT",
+      "keyVisual": "https://wimg.heraldcorp.com/news/cms/2026/09/09/news-p.v1.20260909.9b984ccd43014c1fad34da1f1fbcd033_T1.jpeg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "강원특별자치도 춘천시 동산면 조양길 160 일원",
+      "format": "업무협약 체결",
+      "slogan": null,
+      "keyMessage": "LG CNS가 강원특별자치도, 춘천시 등과 업무협약을 체결하고 춘천 곤충산업 거점단지의 AI 기반 사육·가공 자동화 및 스마트팩토리 구축에 협력합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 북미 AI 광고 솔루션 및 브랜드 전시 중심 활동과 달리, 국내 지자체 및 바이오 기업과 협력하여 곤충산업 및 스마트팩토리 영역으로 진출한 점이 특이합니다."
+      },
+      "processedAt": "2026-09-09T22:56:45.923Z"
+    },
+    {
+      "id": "877772dffad1c9da",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "동원그룹, 삼성SDS 브리티웍스를 선택한 이유 “현장의 언어장벽 돌파”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0blBEeGVScG9QZ2JRREdXODZTc2tTanhEVkxHQm80ZVZpUjNWOGhXdVZlR0VFSHlPRzV3SGRfcjI5QklNVDVlV0xqY1V1akkwVEVOSzVsMWlMcjQtUkwtLW1WTHI5ZGZ3QV9N?oc=5",
+      "publisher": "더에이아이",
+      "pubDate": "Wed, 09 Sep 2026 13:39:37 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "동원그룹이 현장의 언어장벽 해소를 위해 삼성SDS의 브리티웍스를 도입했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 거대 담론 중심의 AX 전략 및 AI 로봇 구상 발표 위주의 행보와 달리 구체적인 기업 고객의 솔루션 도입 사례를 다루고 있습니다."
+      },
+      "processedAt": "2026-09-09T22:54:56.707Z"
+    },
+    {
+      "id": "58fb4c34c88ce7d0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“LM 경쟁 넘어서는 진짜 AI 카드…삼성SDS가 공개한 ‘Client Zero’의 비밀”",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mNDJSUUZiVHM4UXRkT2VmLXdKVGZHdUJmNlkyb0R4ZUhfZ1d3X3djQ0lIOFdCU0gzakZvTk15aG15MnhKVTFHaU9fNG5FRmI1czJXMk1vZDlyZ1E5blYxc0NvNzBXQzFUZnpHZG51OA?oc=5",
+      "publisher": "뉴스퀘스트",
+      "pubDate": "Wed, 09 Sep 2026 08:32:12 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 단순 언어모델(LM) 경쟁을 넘어 자사에 AI를 먼저 적용해 검증하는 'Client Zero' 전략을 바탕으로 차별화된 AI 경쟁력을 공개했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 포괄적인 AX 혁신 및 AI 로봇 사업 전략 발표와 달리 자사에 선제 적용하는 'Client Zero' 개념을 차별화된 핵심 카드로 제시한 점이 특이합니다."
+      },
+      "processedAt": "2026-09-09T22:56:07.967Z"
+    },
+    {
+      "id": "dae4ff82c6eef405",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 차움 건강검진센터에 AI 에이전트 도입…검진 전 과정 지원",
+      "link": "https://www.donga.com/news/Economy/article/all/20260909/134637101/1",
+      "publisher": "동아일보",
+      "pubDate": "Wed, 09 Sep 2026 08:11:40 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/09/134636956.2.png",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "서울 강남구 차움 건강검진센터",
+      "format": "착수보고회",
+      "slogan": null,
+      "keyMessage": "LG CNS가 차움, 차헬스케어와 손잡고 차움 건강검진센터의 검진 업무 전반에 특화된 AI 에이전트를 도입하는 PoC를 추진한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 이커머스 AI 광고 솔루션(LG 옵타펙스) 중심의 북미 마케팅 활동과 달리, 국내 의료·헬스케어 분야로 AI 에이전트 적용을 확대하는 파트너십 활동이라는 점에서 차이가 있다."
+      },
+      "processedAt": "2026-09-09T22:56:36.677Z"
+    },
+    {
+      "id": "d7e30316f9a3d31b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 차움 건강검진센터에 AI 입힌다…검진 전 과정 지원, 고객 건강관리 집중 운영 지원",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno",
+      "publisher": "인공지능신문",
+      "pubDate": "Wed, 09 Sep 2026 08:04:41 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 차움 건강검진센터에 AI 기술을 도입해 검진 전 과정을 지원하고 고객 건강관리와 센터 운영을 지원합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 북미 이커머스 AI 광고 솔루션 관련 활동 중심이었던 것과 달리 국내 헬스케어 및 의료 영역으로 AI 적용을 확장한 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-09-09T22:56:51.978Z"
+    },
+    {
+      "id": "db906d7ca1d68620",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "검진 이력 분석부터 사후관리까지...LG CNS, 특화 AI 에이전트로 의료 AX 구현",
+      "link": "https://www.hellot.net/news/article.html?no",
+      "publisher": "헬로티",
+      "pubDate": "Wed, 09 Sep 2026 07:56:35 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 검진 이력 분석부터 사후관리까지 지원하는 특화 AI 에이전트를 선보이며 의료 분야의 AI 전환(AX)을 구현합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 북미 이커머스 AI 광고 솔루션 중심의 마케팅 활동과 달리 의료 분야로 특화 AI 에이전트 활용 영역을 확장한 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-09-09T22:56:59.879Z"
+    },
+    {
+      "id": "42d16e753ba54858",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[N2 포커스] 'AI 비서' 다음은 공장 로봇…삼성SDS, AX 영토 넓힌다",
+      "link": "https://www.news2day.co.kr/article/20260908500232",
+      "publisher": "뉴스투데이",
+      "pubDate": "Wed, 09 Sep 2026 06:45:00 GMT",
+      "keyVisual": "https://cdn.news2day.co.kr/data2/content/image/2026/09/08/.cache/512/20260908500225.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[N2 포커스] 'AI 비서' 다음은 공장 로봇…삼성SDS, AX 영토 넓힌다",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-09T22:56:11.617Z"
+    },
+    {
+      "id": "b1c0b06290403c74",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 차움 건강검진센터에 AI 에이전트 도입...\"의료 AI 전환 속도\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iRWRfeEVDRER4NGNzNl9ITGV5UDN4bkIxU0E1YmRuV3ZOUGhpOFVfcHlMaXpyajV1cm1ULUdBR0JqTmZrbjdBOW83TmRfNlJ3ZE45N3JHbTNkZVhsUURoVXNxQ19RN01ieEE?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Wed, 09 Sep 2026 05:52:56 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 차움 건강검진센터에 AI 에이전트를 도입하며 의료 분야의 AI 전환에 속도를 내고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 북미 이커머스 AI 광고 솔루션 마케팅 활동과 달리 의료 AI 전환 분야의 도입 사례를 발표했다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-09T22:57:14.687Z"
+    },
+    {
+      "id": "8728d73046f8f917",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, AX·RX·물류로 투자축 확대…로봇 사업 미국까지 겨냥",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nTnUxNm5FRkh3YVltaTBSdjNQQU85S1pLanBzX094ZmFjcXB0XzRVR3dIYzRuYWlBX1JSTkNYT2NhemVVZXVsbG0yalk3R19JWUwyaDFJcFpqek91UzRMZDFWd1dXbEVG?oc=5",
+      "publisher": "테크월드",
+      "pubDate": "Wed, 09 Sep 2026 05:10:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AX, RX, 물류 영역으로 투자 축을 확대하고 로봇 사업의 글로벌 목표로 미국 시장을 겨냥하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 국내 중심의 AX 및 로봇 사업 추진에서 더 나아가 RX·물류 투자 확대 및 로봇 사업의 미국 시장 진출 목표를 새롭게 명시했습니다."
+      },
+      "processedAt": "2026-09-09T22:55:25.529Z"
+    },
+    {
+      "id": "4b232fa832f9fb46",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT서비스 상장기업 2026년 9월 브랜드평판...삼성SDS, 현대오토에버, 카카오페이 順",
+      "link": "https://www.energy-news.co.kr/news/articleView.html?idxno",
+      "publisher": "에너지신문",
+      "pubDate": "Wed, 09 Sep 2026 03:12:44 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": "2026년 9월",
+      "location": null,
+      "format": "언론보도",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2026년 9월 IT서비스 상장기업 브랜드평판 조사에서 1위를 기록했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 기술 및 행사 중심의 마케팅 활동과 달리 브랜드평판 순위 발표에 관한 언론보도입니다."
+      },
+      "processedAt": "2026-09-09T22:54:47.186Z"
+    },
+    {
+      "id": "9d88019ec7100ce1",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[기업 이모저모] 삼성SDS가 제안한 우리은행 김 과장의 하루 |",
+      "link": "https://news.einfomax.co.kr/news/articleViewAmp.html?idxno",
+      "publisher": "연합인포맥스",
+      "pubDate": "Wed, 09 Sep 2026 01:53:13 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 우리은행 김 과장의 하루라는 업무 시나리오를 통해 금융권에 적용 가능한 IT 서비스 제안 사례를 선보였습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "거시적인 AX 및 AI·로봇 기술 전략 발표 중심이었던 최근 활동들과 달리 특정 고객사(우리은행)의 페르소나를 활용한 구체적인 유즈케이스 제안 형태라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-09T22:55:03.473Z"
+    },
+    {
+      "id": "79b39832daf1daab",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "차움, LG CNS·차헬스케어와 ‘AI 건강검진센터’ 구축 나선다",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lck4xdnk4UHVvcWswLVdnYWdUdUpFNHozR0YyNDhzdDVJUTFLM0lxMjVzQklXckZCYUt3ai1YX0phUGw0TmZ3eElKenVlb21ZdnhjQ0t2LTVXbWtZQVUxbC1XS2VpRF8yLVE?oc=5",
+      "publisher": "의학신문",
+      "pubDate": "Wed, 09 Sep 2026 01:44:48 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 차움, 차헬스케어와 협력하여 'AI 건강검진센터' 구축에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 이커머스 AI 광고 솔루션 및 브랜드 전시 위주 활동과 달리, 헬스케어 분야에서 AI 건강검진센터 구축 파트너십을 추진한다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-09T22:57:23.313Z"
+    },
+    {
+      "id": "741a51371e27fd68",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS AX센터 정천수 박사, \"AI가 코드를 짜는 시대, 엔지니어는 무엇을 해야 하나\"",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno",
+      "publisher": "인공지능신문",
+      "pubDate": "Wed, 09 Sep 2026 00:21:14 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론 보도",
+      "slogan": null,
+      "keyMessage": "삼성SDS AX센터 정천수 박사가 AI가 자동으로 코드를 작성하는 시대에 개발자 및 엔지니어가 준비해야 할 역할 변화와 대응 방향을 제시했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "주로 기업 차원의 AX 전략 발표 및 행사 개최에 집중되던 최근 활동과 달리, AI 시대 엔지니어의 역할 변화와 같은 기술적·인적 화두를 다룬 언론보도입니다."
+      },
+      "processedAt": "2026-09-09T22:55:31.805Z"
+    },
     {
       "id": "425816bff1f14322",
       "company": "삼성SDS",
@@ -270,6 +578,28 @@
       "processedAt": "2026-09-08T23:11:18.516Z"
     },
     {
+      "id": "1043feed71e1554b",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS “로봇통합운영 플랫폼 내년 출시”",
+      "link": "https://www.khan.co.kr/article/202609082036015",
+      "publisher": "경향신문",
+      "pubDate": "Tue, 08 Sep 2026 11:36:00 GMT",
+      "keyVisual": "https://img.khan.co.kr/news/2026/09/08/l_2026090901000272900025471.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "8일",
+      "location": "서울 강남구 코엑스",
+      "format": "오프라인 컨퍼런스",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '리얼 서밋 2026'에서 내년 로봇 통합운영 플랫폼 출시 계획을 발표하고, 오픈AI·앤트로픽 등 글로벌 기업과의 협력을 통해 기업의 AI 및 로봇 전환(AX·RX) 사업을 확대하겠다고 밝혔다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-09T22:55:13.251Z"
+    },
+    {
       "id": "e693d68f77322781",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -378,6 +708,28 @@
         "llmNote": "최근 개최한 AI 및 물류 콘퍼런스 활동과 달리 생산라인의 로봇 전환(RX) 및 로봇 오케스트레이션 추진에 집중하고 있습니다."
       },
       "processedAt": "2026-09-08T23:11:56.410Z"
+    },
+    {
+      "id": "1e18ab12b57f4ce4",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[AI픽] 삼성SDS, AX 넘어 RX까지…글로벌 빅테크 총집결(종합) | 연합뉴스",
+      "link": "https://www.yna.co.kr/amp/view/AKR20260908018651017",
+      "publisher": "연합뉴스",
+      "pubDate": "Tue, 08 Sep 2026 05:06:24 GMT",
+      "keyVisual": "https://img4.yna.co.kr/photo/yna/YH/2026/09/08/PYH2026090808670001300_P4.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026-09-08",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "온·오프라인 컨퍼런스",
+      "slogan": null,
+      "keyMessage": "삼성SDS는 '리얼 서밋 2026'을 개최하여 글로벌 빅테크와의 협력 강화, 로봇 전환(RX) 사업 본격화, 그리고 '다차원 AI 풀스택' 전략을 공개하며 기업의 실질적 비즈니스 성과를 창출하는 AI 전환(AX)을 주도하겠다고 선언했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-09T22:56:25.662Z"
     },
     {
       "id": "75fe86fa113d9888",
