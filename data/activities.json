@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T22:57:39.534Z",
+  "updatedAt": "2026-09-10T23:05:51.357Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,424 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "c49e25d61db4a01a",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "경기도, 네이버 해피빈과 온라인 기획전 ‘반려동물 펫스타’ 선보여",
+      "link": "https://www.munhwa.com/article/11616206",
+      "publisher": "문화일보",
+      "pubDate": "Thu, 10 Sep 2026 22:36:21 GMT",
+      "keyVisual": "https://wimg.munhwa.com/news/cms/2026/09/11/news-p.v1.20260911.74f9036b11f046a5a241e51ebd6c4bd3_R.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "경기도, 네이버 해피빈과 온라인 기획전 ‘반려동물 펫스타’ 선보여",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T23:01:56.399Z"
+    },
+    {
+      "id": "f3d1e6972d8ea6a9",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] LG CNS·파스칼 '양자+AI' 하이브리드 혈맹…차세대 AI 데이터 센터 개발 사활",
+      "link": "https://www.theguru.co.kr/news/article.html?no",
+      "publisher": "theguru.co.kr",
+      "pubDate": "Thu, 10 Sep 2026 22:24:18 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[단독] LG CNS·파스칼 '양자+AI' 하이브리드 혈맹…차세대 AI 데이터 센터 개발 사활",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T23:01:00.208Z"
+    },
+    {
+      "id": "559f71812fd79e63",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Thu, 10 Sep 2026 21:01:01 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "지디넷코리아의 뉴스레터 구독 신청 안내 및 매체 관련 정보로 네이버의 마케팅 활동 내용은 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "네이버의 주요 사업 및 AI 전략 발표 위주였던 최근 활동들과 달리 단순 언론사 하단 안내 텍스트가 입력되어 있습니다."
+      },
+      "processedAt": "2026-09-10T23:05:26.876Z"
+    },
+    {
+      "id": "764e145e076822d1",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[만나보니] 네이버 \"GPU 4천장 승부수…국가 보안 AI 방패 만든다\" | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260910096500017",
+      "publisher": "연합뉴스",
+      "pubDate": "Thu, 10 Sep 2026 21:00:11 GMT",
+      "keyVisual": "https://img7.yna.co.kr/etc/inner/KR/2026/09/10/AKR20260910096500017_04_i_P4.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[만나보니] 네이버 \"GPU 4천장 승부수…국가 보안 AI 방패 만든다\" | 연합뉴스",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T23:03:16.563Z"
+    },
+    {
+      "id": "696b4564dc92fdf6",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버-LG, 18일 보안 특화 AI 개발 착수…“세계 1위 도전”",
+      "link": "https://www.etnews.com/20260910000303",
+      "publisher": "전자신문",
+      "pubDate": "Thu, 10 Sep 2026 21:00:00 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/10/news-p.v1.20260910.6c2e2a10462d453fbefe208262b1bcdb_P1.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버-LG, 18일 보안 특화 AI 개발 착수…“세계 1위 도전”",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T23:04:00.188Z"
+    },
+    {
+      "id": "3cd4d733e7af6699",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[동서남북] 네이버 ‘마녀’ 한성숙 총리에게",
+      "link": "https://www.chosun.com/opinion/dongseonambuk/2026/09/10/MHXADEWJC5GF5IUMYPN7L6XWUM/",
+      "publisher": "조선일보",
+      "pubDate": "Thu, 10 Sep 2026 14:50:00 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/KELTXR743RLUDFM7BROQYOV4FY.jpg?auth=0aa2493f5a8c135aef0ca82e85f1e1d304265156f296c3b9f1278da49f715dd3&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버 한성숙 관련 주제를 다룬 언론 칼럼 보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 발표된 활동들이 주로 AI 및 헬스케어 등 기술·사업 제휴나 노조 이슈인 반면, 본 건은 인물에 대한 언론 칼럼이라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-10T23:02:25.162Z"
+    },
+    {
+      "id": "e17e9fb484d6dd86",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Thu, 10 Sep 2026 09:37:44 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문은 지디넷코리아의 뉴스레터 구독 안내 내용으로 네이버의 마케팅 활동 관련 정보가 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T23:05:36.643Z"
+    },
+    {
+      "id": "5ce8d3a3aeeb5551",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[리얼 서밋]② GS칼텍스·동원그룹·베슬AI, 삼성SDS와 만든 ‘시너지 표본’",
+      "link": "http://www.economytalk.kr/news/articleView.html?idxno",
+      "publisher": "이코노미톡뉴스",
+      "pubDate": "Thu, 10 Sep 2026 07:30:07 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[리얼 서밋]② GS칼텍스·동원그룹·베슬AI, 삼성SDS와 만든 ‘시너지 표본’",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T22:57:27.703Z"
+    },
+    {
+      "id": "173849bf7ae88421",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'AX부터 RX까지' 삼성SDS, 그룹 혁신 주도",
+      "link": "https://www.sidae.com/article/2026091013460668092",
+      "publisher": "동행미디어 시대",
+      "pubDate": "Thu, 10 Sep 2026 07:05:38 GMT",
+      "keyVisual": "https://menu.sidae.com/moneyweek/thumb/2026/09/10/00/2026091013460668092_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 인공지능 전환(AX)에 이어 로봇 전환(RX)으로 사업 영역을 확장하며, 로봇 오케스트레이션 플랫폼 출시와 전략적 투자를 통해 그룹 혁신 주도 및 대외 시장 공략에 나선다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T22:56:56.777Z"
+    },
+    {
+      "id": "2ba14ad7d11ba74a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"제조공정에 첨단 AI로봇 도입\"…삼성SDS·LG CNS, 북미 RX 시장 돌격",
+      "link": "https://www.metroseoul.co.kr/article/20260910500480",
+      "publisher": "메트로신문",
+      "pubDate": "Thu, 10 Sep 2026 06:21:11 GMT",
+      "keyVisual": "//cdn.emetro.co.kr/data2/content/image/2026/09/10/.cache/512/20260910500481.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "\"제조공정에 첨단 AI로봇 도입\"…삼성SDS·LG CNS, 북미 RX 시장 돌격",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T22:59:53.729Z"
+    },
+    {
+      "id": "e045fee1256eca2d",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "토마토시스템, 삼성SDS '리얼 서밋 2026' 참가",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XUnR1VDN5YkxQbDdXb044ck1WTllsODVWN3o5Q0NscmZWMVFUZ2txWW9DZkRLSFk3MGNSMVVhWE14R19iU1lXMGFvMTVDcl9mb2wtLUM4SUlwYU85U2swS2xacjZTQQ?oc=5",
+      "publisher": "디일렉",
+      "pubDate": "Thu, 10 Sep 2026 05:43:02 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "토마토시스템이 삼성SDS가 개최하는 '리얼 서밋 2026' 행사에 참가한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T22:56:02.799Z"
+    },
+    {
+      "id": "2ae7dd57b9c195fb",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "최태원 회장, 울산 AI 현장 점검…SK 'AX 전환' 속도",
+      "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno",
+      "publisher": "1코노미뉴스",
+      "pubDate": "Thu, 10 Sep 2026 05:05:24 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "울산",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "최태원 회장이 울산 AI 현장을 직접 방문해 점검하며 SK의 AX(인공지능 전환) 추진에 속도를 내고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 데이터센터 세미나나 기업 간 협력 발표 중심의 활동과 달리 최태원 회장이 직접 현장을 찾아 점검한 활동이라는 특이점이 있습니다."
+      },
+      "processedAt": "2026-09-10T23:01:07.375Z"
+    },
+    {
+      "id": "8732ee41107356bd",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS·LG CNS, 하반기 신입 공채 동시 돌입",
+      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno",
+      "publisher": "시사저널e",
+      "pubDate": "Thu, 10 Sep 2026 04:59:20 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS·LG CNS, 하반기 신입 공채 동시 돌입",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T22:56:34.311Z"
+    },
+    {
+      "id": "a9e349e4bbbe38d2",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK 'AX 올인'...최태원 회장, 울산 'AIDC·SK이노' 현장점검",
+      "link": "https://www.techm.kr/news/articleView.html?idxno",
+      "publisher": "테크M",
+      "pubDate": "Thu, 10 Sep 2026 04:29:45 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "울산",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "최태원 SK 회장이 울산 AIDC와 SK이노베이션 현장을 방문해 점검하며 그룹 차원의 AX(AI 전환) 전략 추진 의지를 보였습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 세미나나 협력 중심의 활동과 달리 최태원 그룹 회장이 직접 현장 점검에 나선 리더십 차원의 행보라는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-09-10T23:01:15.758Z"
+    },
+    {
+      "id": "a83efa50dba864fe",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, AI·로보틱스 등 9개 직무 세 자릿수 신입 사원 채용",
+      "link": "https://www.chosun.com/economy/tech_it/2026/09/10/WSKNWBWWUJHXFLZSCR3U4Q6JWA/",
+      "publisher": "조선일보",
+      "pubDate": "Thu, 10 Sep 2026 04:21:19 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/LSKIKQ33KFF5NA2OEFFKEL2U3A.jpg?auth=7123ddfa8a540a2c79e22d6243d8b0a6ee6b0beae86752ba96c03f72691a54f1&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI, 로보틱스 등 9개 직무에서 세 자릿수 규모의 신입 사원 채용을 진행합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 사업 활동이 의료 AI 및 스마트팩토리 구축 협력에 집중되었던 것과 달리, 이번 활동은 AI·로보틱스 분야 대규모 신입 사원 채용 소식이라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-10T22:59:21.535Z"
+    },
+    {
+      "id": "d7bb448f156c66df",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[만나보니] \"디지털 국방력 키워야\"…LG CNS, '보안 AI 1강' 도전 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260909169600017",
+      "publisher": "연합뉴스",
+      "pubDate": "Thu, 10 Sep 2026 03:00:17 GMT",
+      "keyVisual": "https://img6.yna.co.kr/etc/inner/KR/2026/09/09/AKR20260909169600017_01_i_P4.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[만나보니] \"디지털 국방력 키워야\"…LG CNS, '보안 AI 1강' 도전 | 연합뉴스",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T22:58:07.450Z"
+    },
+    {
+      "id": "9d54f406e5fbd0a6",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[인터뷰] LG CNS &quot;보안 특화 AI, 글로벌 모델 100% 성능 목표&quot;",
+      "link": "http://www.inews24.com/view/2003915",
+      "publisher": "아이뉴스24",
+      "pubDate": "Thu, 10 Sep 2026 03:00:01 GMT",
+      "keyVisual": "https://image.inews24.com/v1/458cfafad668d6.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[인터뷰] LG CNS &quot;보안 특화 AI, 글로벌 모델 100% 성능 목표&quot;",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T22:59:02.154Z"
+    },
+    {
+      "id": "61c440a49b00ee96",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "글로벌 모델 성능 정조준&hellip;LG CNS, 토종 '보안 특화 AI' 띄운다",
+      "link": "https://www.ddaily.co.kr/page/view/2026091008391986632",
+      "publisher": "디지털데일리",
+      "pubDate": "Thu, 10 Sep 2026 03:00:00 GMT",
+      "keyVisual": "/photos/2026/09/10/2026091008072146129_l.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드 컨소시엄의 핵심 멤버로 참여하여 글로벌 빅테크 수준의 성능을 목표로 '사이버보안 특화 AI 파운데이션 모델' 개발 사업을 추진한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 헬스케어 및 스마트팩토리 중심의 AI 에이전트 도입 활동과 달리, 국가 사이버보안 특화 파운데이션 모델 개발 컨소시엄에 참여한 점이 특이하다."
+      },
+      "processedAt": "2026-09-10T22:58:31.354Z"
+    },
+    {
+      "id": "7ebb535f981eb92b",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "ROUGHNECKS UNVEIL NEW LOOK FOR 2017-18 SEASON - Calgary Roughnecks",
+      "link": "https://www.calgaryroughnecks.com/roughnecks-unveil-new-look-for-2017-18-season/?ID",
+      "publisher": "calgaryroughnecks.com",
+      "pubDate": "Wed, 09 Sep 2026 21:46:43 GMT",
+      "keyVisual": "https://www.calgaryroughnecks.com/wp-content/uploads/2017/12/Social_RN_NewJersey_1200x600.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "캘거리 러프넥스가 2017-18 시즌을 맞아 새로운 디자인의 홈 및 어웨이 유니폼을 공개했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 SK AX의 AI 및 데이터센터 중심의 B2B IT 마케팅 활동과 달리 스포츠 팀 유니폼 공개 소식을 다루고 있어 연관성이 없습니다."
+      },
+      "processedAt": "2026-09-10T23:01:23.506Z"
+    },
     {
       "id": "891184628e0889a8",
       "company": "LG CNS",
@@ -378,6 +796,72 @@
         "llmNote": "최근 이커머스 AI 광고 솔루션 및 브랜드 전시 위주 활동과 달리, 헬스케어 분야에서 AI 건강검진센터 구축 파트너십을 추진한다는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-09-09T22:57:23.313Z"
+    },
+    {
+      "id": "8ee00484e682b90a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[AI픽] LG CNS, 차움 건강검진센터에 AI 에이전트 적용",
+      "link": "https://www.fnnews.com/news/202609091000484883",
+      "publisher": "파이낸셜뉴스",
+      "pubDate": "Wed, 09 Sep 2026 01:01:15 GMT",
+      "keyVisual": "https://image.fnnews.com/resource/media/image/2026/09/09/202609091001116726_e.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "서울 강남구 차움 건강검진센터",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 차움, 차헬스케어와 협력하여 차움 건강검진센터에 검진 이력 분석과 사후관리를 지원하는 AI 에이전트를 적용하고 개념검증(PoC)을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T23:00:28.811Z"
+    },
+    {
+      "id": "cd9cf636f64faba9",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Wed, 09 Sep 2026 01:01:02 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문에는 LG CNS의 마케팅 활동에 대한 유효한 정보가 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T23:00:02.852Z"
+    },
+    {
+      "id": "d56b855282a8710f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 차움 건강검진센터에 AI 적용… 의료 AX 사업 본격화",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/09/DJGF3LGOWNHFTBYCRS2ENN2NW4/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Wed, 09 Sep 2026 01:00:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/H4M3KMIR3NAIXNODO5OHWQ7FUU.png?auth=c66f824427e7c3759401dd0d68080a282b8d6db8238aae4fa1fdd25102b1cb36&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 차움 건강검진센터에 AI 기술을 적용하며 의료 분야 AI 전환(AX) 사업을 본격화합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T23:00:20.911Z"
     },
     {
       "id": "741a51371e27fd68",
@@ -666,6 +1150,28 @@
       "processedAt": "2026-09-08T23:13:12.727Z"
     },
     {
+      "id": "ae0903c37fd021aa",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "빅테크 손잡은 삼성SDS, 'AI 전환' 넘어 '로봇 전환'까지 영역확장",
+      "link": "https://v.daum.net/v/20260908165403350",
+      "publisher": "v.daum.net",
+      "pubDate": "Tue, 08 Sep 2026 07:54:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/08/nocut/20260908165404912qvnc.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026-09-08",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "오프라인 컨퍼런스",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '리얼 서밋 2026'에서 글로벌 AI 기업들과의 협력을 바탕으로 한 '다차원 AI 풀스택' 전략을 공개하고, 내년부터 제조 현장에 로봇을 도입하는 로봇 전환(RX) 사업을 본격 추진한다고 밝혔다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T22:55:43.230Z"
+    },
+    {
       "id": "81637e54f09dc120",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -730,6 +1236,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-09T22:56:25.662Z"
+    },
+    {
+      "id": "97bccf7729e5c311",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, AI 기업 손잡고 로봇까지…AX 혁신 영역 확장",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR202609081056030Q1",
+      "publisher": "yonhapnewstv.co.kr",
+      "pubDate": "Tue, 08 Sep 2026 01:56:00 GMT",
+      "keyVisual": "https://media.yonhapnewstv.co.kr/article/AKR/20260908/AKR202609081056030Q1_01_i.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026-01-08",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "오프라인 컨퍼런스",
+      "slogan": "AI는 업무를 바꾸지만, AX(AI 전환)는 비즈니스를 바꾼다",
+      "keyMessage": "삼성SDS는 오픈AI, 엔트로픽 등 글로벌 AI 기업과의 협력과 로봇 전환(RX) 사업 진출을 통해 AI 전환(AX) 혁신 영역을 확장하겠다고 선언했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-10T22:57:34.871Z"
     },
     {
       "id": "75fe86fa113d9888",
