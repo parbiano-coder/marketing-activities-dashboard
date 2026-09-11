@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T23:05:51.357Z",
+  "updatedAt": "2026-09-11T23:00:36.297Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,248 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "454d9548fb635c31",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG·엔비디아 합작 ‘AI 팩토리’ 시동… LG CNS, 3814억 베라루빈 확보",
+      "link": "https://www.sedaily.com/article/20090008",
+      "publisher": "서울경제",
+      "pubDate": "Fri, 11 Sep 2026 09:19:52 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/09/11/news-p.v1.20260901.e7e9d81717b24952962a6d395fa5e4b7_Z1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-09-11",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 엔비디아와의 AI 팩토리 구축 사업 추진을 위해 3,814억 원 규모의 차세대 GPU '베라루빈' 및 인프라 설비를 구매하기로 결의했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 솔루션 및 특정 기술 분야 활동에 비해 전체 자산의 7.2%에 달하는 3,814억 원 규모의 이례적인 대형 인프라 직접 투자를 단행했습니다."
+      },
+      "processedAt": "2026-09-11T22:58:28.082Z"
+    },
+    {
+      "id": "4d18731f44caced9",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 엔비디아 '베라 루빈' 확보에 3814억원 투입",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Fri, 11 Sep 2026 09:09:10 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 엔비디아의 차세대 AI 플랫폼 '베라 루빈' 확보를 위해 3814억 원 규모의 투자를 진행합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 보안 AI, AI 로보틱스 솔루션 개발 및 채용 중심 활동과 비교했을 때 엔비디아의 차세대 인프라 자원 확보를 위해 3000억 원이 넘는 대규모 직접 투자를 집행했다는 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-09-11T22:58:46.697Z"
+    },
+    {
+      "id": "c38d1ed72b195a52",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 엔비디아 베라 루빈 확보에 3814억 투입...AI 팩토리 구축",
+      "link": "https://www.techm.kr/news/articleView.html?idxno",
+      "publisher": "테크M",
+      "pubDate": "Fri, 11 Sep 2026 08:47:15 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI 팩토리 구축을 위해 3814억 원을 투입하여 엔비디아 베라 루빈 확보에 나섰습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 로봇, 보안 AI 등 솔루션 및 제휴 중심 활동과 달리 대규모 자금을 직접 투입한 인프라 확보 및 AI 팩토리 구축 소식이라는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-09-11T22:59:50.820Z"
+    },
+    {
+      "id": "5f611f6906853b84",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] 토스 \"네이버가 부당하게 토스만 포스 연동 배제‥공정위에 신고\"",
+      "link": "https://imnews.imbc.com/news/2026/econo/article/6851245_36932.html",
+      "publisher": "MBC 뉴스",
+      "pubDate": "Fri, 11 Sep 2026 08:42:07 GMT",
+      "keyVisual": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/09/11/joo260911_13.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-11",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "토스 측이 네이버의 '플레이스플러스' 포스 연동 서비스에서 부당하게 배제당했다며 공정거래위원회에 신고를 예고하자 네이버는 토스의 리워드형 광고 방식 문제를 이유로 맞대응했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 활동들이 파트너십 제휴 및 AI 보안 기술 발표 중심이었던 것과 달리, 경쟁사와의 갈등 및 공정위 신고와 관련된 법적·규제 리스크 이슈를 다루고 있습니다."
+      },
+      "processedAt": "2026-09-11T23:00:08.743Z"
+    },
+    {
+      "id": "0ca7452fc9a5be3a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'베라 루빈' 도입하는 LG CNS…3814억원 투자",
+      "link": "https://v.daum.net/v/20260911173601182",
+      "publisher": "v.daum.net",
+      "pubDate": "Fri, 11 Sep 2026 08:36:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/11/sbscnbc/20260911173905609paye.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-11",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI 팩토리 구축과 엔비디아의 차세대 AI 가속기 '베라 루빈' 등 GPU 장비 확보를 위해 3,814억 원 규모의 유형자산 취득 결정을 발표했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 보안 AI, AI로봇 등 서비스 및 채용 위주의 발표와 달리 3,800억 원이 넘는 대규모 유형자산 투자를 통한 AI 데이터 센터 및 인프라 구축 소식을 다루고 있다는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-09-11T22:58:38.878Z"
+    },
+    {
+      "id": "3ea214c4bb52e97d",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "현신균 LG CNS 대표, 제약·바이오 '정조준'...\"AX 경쟁력 높일 것\"",
+      "link": "https://www.fntimes.com/html/view.php?ud",
+      "publisher": "한국금융신문",
+      "pubDate": "Fri, 11 Sep 2026 07:22:51 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "현신균 LG CNS 대표가 제약·바이오 분야를 대상으로 AX(AI 전환) 경쟁력을 강화하겠다는 전략을 밝혔습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 제조, 국방, 보안 분야 중심 활동과 달리 제약·바이오 산업을 새로운 AX 타깃 영역으로 제시한 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-09-11T22:59:34.209Z"
+    },
+    {
+      "id": "113e3c6d01d7e590",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS·LG CNS, 피지컬 AI 사업 가속…'AX 넘어 RX'",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno",
+      "publisher": "데일리한국",
+      "pubDate": "Fri, 11 Sep 2026 06:53:32 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 인공지능 전환(AX)을 넘어 로봇 전환(RX) 등 피지컬 AI 사업 추진을 가속화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-11T22:57:53.405Z"
+    },
+    {
+      "id": "113e3c6d01d7e590",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS·LG CNS, 피지컬 AI 사업 가속…'AX 넘어 RX'",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno",
+      "publisher": "데일리한국",
+      "pubDate": "Fri, 11 Sep 2026 06:53:32 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": "AX 넘어 RX",
+      "keyMessage": "LG CNS가 AX(AI 전환)를 넘어 RX(로봇 전환)로 피지컬 AI 사업 추진을 가속화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-11T22:59:06.647Z"
+    },
+    {
+      "id": "9ed911150981b59a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI 추론 서비스의 새로운 관문, Inference Gateway | 인사이트리포트 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/insights/inference-gateway-llm-serving.html",
+      "publisher": "Samsung SDS America",
+      "pubDate": "Fri, 11 Sep 2026 06:16:32 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/09/10/thumb_0911.png?queryString=20260911030239",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "AI 추론 서비스의 새로운 관문, Inference Gateway | 인사이트리포트 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-11T22:57:26.642Z"
+    },
+    {
+      "id": "c319b97cf6831790",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“쓰리스타 출근하셨습니다” 한국판 팔란티어 노리는 네이버 | 중앙일보",
+      "link": "https://www.joongang.co.kr/article/25460807",
+      "publisher": "중앙일보",
+      "pubDate": "Fri, 11 Sep 2026 05:20:38 GMT",
+      "keyVisual": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/11/10e1499b-71d3-4294-985b-b6403bff58fc.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 전 국방부 차관 영입과 국방AI 전환 TF 신설 등을 통해 방산 및 국방 AI 사업 진출을 본격 추진하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 일반 IT 서비스 및 보안 AI 중심 활동과 달리 군 고위직 인사 영입 및 국방 AI 전담 TF 신설 등 방산 분야 진출을 본격화한 점에서 이례적입니다."
+      },
+      "processedAt": "2026-09-11T23:00:21.379Z"
+    },
+    {
+      "id": "2f206cd769531c6c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] LG CNS·파스칼 ’양자+AI’ 하이브리드 혈맹…차세대 AI 데이터 센터 개발 사활 By The Guru",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44aTkyUXYzYVRCNHM5M0prTEUydXVuMHA1RWQ5Z0hJRGlFQm9vcU1keEVnSVJrM0dHS1I2NjRrN0pYcnZ2TnUzTThvZUxqSEZKMXoyVWhWVDRvNmdLTlRHWUFPU2lqNHRJeW1mYXlaQkg?oc=5",
+      "publisher": "Investing.com 한국어",
+      "pubDate": "Thu, 10 Sep 2026 23:37:00 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 파스칼과 협력하여 양자 기술과 AI를 결합한 차세대 AI 데이터 센터 개발을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 일반 AI 로봇 및 보안 특화 AI 중심 활동과 달리 양자 컴퓨팅 전문 기업과의 하이브리드 기술 제휴를 추진한 점이 특이합니다."
+      },
+      "processedAt": "2026-09-11T22:58:55.580Z"
+    },
     {
       "id": "c49e25d61db4a01a",
       "company": "네이버",
@@ -336,6 +578,28 @@
       "processedAt": "2026-09-10T22:56:02.799Z"
     },
     {
+      "id": "91b6701eafeaa145",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS·LG CNS, 하반기 신입 공채 동시 돌입",
+      "link": "https://www.sisajournal-e.com/news/articleViewAmp.html?idxno",
+      "publisher": "시사저널e",
+      "pubDate": "Thu, 10 Sep 2026 05:09:56 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS·LG CNS, 하반기 신입 공채 동시 돌입",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-11T22:58:16.706Z"
+    },
+    {
       "id": "2ae7dd57b9c195fb",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -424,6 +688,28 @@
       "processedAt": "2026-09-10T22:59:21.535Z"
     },
     {
+      "id": "31e3209b2fc6b035",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Thu, 10 Sep 2026 03:21:20 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "지디넷코리아 뉴스레터 구독 신청에 관한 기본 웹페이지 안내 정보입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 기술, AI, 보안 및 채용 발표 소식과 달리 본문은 LG CNS의 마케팅 활동과 무관한 지디넷코리아 웹사이트 안내 문구입니다."
+      },
+      "processedAt": "2026-09-11T22:59:16.205Z"
+    },
+    {
       "id": "d7bb448f156c66df",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -488,6 +774,28 @@
         "llmNote": "최근 헬스케어 및 스마트팩토리 중심의 AI 에이전트 도입 활동과 달리, 국가 사이버보안 특화 파운데이션 모델 개발 컨소시엄에 참여한 점이 특이하다."
       },
       "processedAt": "2026-09-10T22:58:31.354Z"
+    },
+    {
+      "id": "14ab3fc966457179",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[IT큐레이션] 네이버와 토스의 '측면'충돌",
+      "link": "https://www.econovill.com/news/articleView.html?idxno",
+      "publisher": "ER 이코노믹리뷰",
+      "pubDate": "Wed, 09 Sep 2026 22:40:39 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[IT큐레이션] 네이버와 토스의 '측면'충돌",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-11T22:59:53.466Z"
     },
     {
       "id": "7ebb535f981eb92b",
@@ -622,6 +930,28 @@
       "processedAt": "2026-09-09T22:56:36.677Z"
     },
     {
+      "id": "7b822d5e9820c5d3",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"�Ƿ� AX ����ȭ\"������, LG CNS�����ｺ�ɾ�� AI �ǰ��������� ���� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260909n31261",
+      "publisher": "네이트",
+      "pubDate": "Wed, 09 Sep 2026 08:06:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/aj/2026/09/09/20260909170415482044.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 헬스케어 기업과 협력하여 의료 분야에 특화된 AI 에이전트 PoC를 추진하고 의료 AX(AI 전환) 사업 확장에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 제조, 국방, 양자 AI 위주의 활동과 달리 의료·헬스케어 영역으로 AI 전환(AX) 적용 분야를 확장한 점이 특징입니다."
+      },
+      "processedAt": "2026-09-11T22:59:24.412Z"
+    },
+    {
       "id": "d7e30316f9a3d31b",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -664,6 +994,28 @@
         "llmNote": "최근 북미 이커머스 AI 광고 솔루션 중심의 마케팅 활동과 달리 의료 분야로 특화 AI 에이전트 활용 영역을 확장한 점이 눈에 띕니다."
       },
       "processedAt": "2026-09-09T22:56:59.879Z"
+    },
+    {
+      "id": "08d58f2bbec03a71",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"AX 다음은 RX\"…대기업SI, 격전 예고",
+      "link": "https://news.bizwatch.co.kr/article/mobile/2026/09/09/0026",
+      "publisher": "비즈워치",
+      "pubDate": "Wed, 09 Sep 2026 07:49:02 GMT",
+      "keyVisual": "https://cdn.bizwatch.co.kr/news/photo/2026/06/01/442174109aecd8e5cf87f2f2061a0de0.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS는 지난 5월 출시한 로봇 학습·운영 플랫폼 '피지컬웍스'를 통해 다양한 산업 현장 및 스마트시티에서 로봇 전환(RX) 사업을 본격화하고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-11T22:59:43.315Z"
     },
     {
       "id": "42d16e753ba54858",
@@ -1236,6 +1588,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-09T22:56:25.662Z"
+    },
+    {
+      "id": "5ccfdca6491470a2",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, '다차원(Multi-Dimensional) AI 풀스택' 전략 발표 | 연합뉴스",
+      "link": "https://www.yna.co.kr/amp/view/PYH20260908086900013",
+      "publisher": "연합뉴스",
+      "pubDate": "Tue, 08 Sep 2026 02:17:25 GMT",
+      "keyVisual": "https://img4.yna.co.kr/photo/yna/YH/2026/09/08/PYH2026090808690001300_P4.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026-09-08",
+      "location": "서울 강남구 코엑스",
+      "format": "오프라인 컨퍼런스",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '리얼 서밋 2026' 기조연설을 통해 '다차원(Multi-Dimensional) AI 풀스택' 전략을 발표했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-11T22:57:41.874Z"
     },
     {
       "id": "97bccf7729e5c311",
@@ -2226,6 +2600,28 @@
         "llmNote": "기술 및 서비스 지원 중심의 기존 마케팅 활동과 달리, 경쟁 플랫폼의 마케팅 방식에 대해 수사를 의뢰하는 법적 대응을 진행한 점이 특이합니다."
       },
       "processedAt": "2026-09-04T22:48:24.788Z"
+    },
+    {
+      "id": "cf8dc8b88c777d98",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS AI 인프라 800MW 확장 계획에 전력·탄소 비용 눈덩이, 이준희 수익성 방어 부담",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XRmtDRGFUUjVPT091M2pIaTNNVmxhY1EybVZ1Z09UVnNBVmFxYkJyVlhjUlc1c3N5eXhvQ1hYYnV3S0JjWllfcjcwT3hhQjZFTkRKYzFsb3lFQm9mRXBVRWphUllJa0FfWWU1aG5ENkxheDg?oc=5",
+      "publisher": "비즈니스포스트",
+      "pubDate": "Fri, 04 Sep 2026 06:36:46 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 AI 인프라 800MW 확장 계획으로 전력 및 탄소 비용 부담이 커지면서 수익성 방어에 대한 우려가 제기되고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 마케팅 활동이 행사 개최, 파트너십, 사업 영역 확장(RX) 위주였던 것과 달리 인프라 확장에 따른 수익성 및 비용 리스크 이슈를 다루고 있습니다."
+      },
+      "processedAt": "2026-09-11T22:57:34.921Z"
     },
     {
       "id": "22e808d1d47e095e",
