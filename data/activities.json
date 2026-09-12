@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T23:00:36.297Z",
+  "updatedAt": "2026-09-12T22:52:22.697Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,160 @@
   ],
   "activities": [
     {
+      "id": "6344a84d23407cee",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "&ldquo;돈 안되는 사업 대거 손절&rdquo;&hellip;네이버&middot;카카오, &lsquo;슬림화&middot;AI&rsquo;로 판 바꾼다",
+      "link": "https://m.ceoscoredaily.com/page/view/2026091016425749094",
+      "publisher": "CEO스코어데일리",
+      "pubDate": "Sat, 12 Sep 2026 22:00:00 GMT",
+      "keyVisual": "/photos/2026/09/10/2026091016392614315_l.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-13",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버가 바이브, 네이버TV 등 비수익·중복 서비스를 정리하고 인공지능(AI)과 B2B 중심의 포트폴리오 재편을 통해 본업 경쟁력을 강화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "신규 사업 진출 및 제휴 중심이었던 최근 활동들과 달리, 비핵심 레거시 서비스를 대거 정리하며 AI 중심으로 사업 구조를 슬림화하는 전략적 전환을 보여줍니다."
+      },
+      "processedAt": "2026-09-12T22:51:45.635Z"
+    },
+    {
+      "id": "5dc3020dedba42c2",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[무엇이든리뷰] 부동산 업데이트 된 네이버 AI탭...“실시간으로 최신 매물 찾는다”",
+      "link": "https://www.etnews.com/20260911000246",
+      "publisher": "전자신문",
+      "pubDate": "Sat, 12 Sep 2026 03:00:00 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/11/news-p.v1.20260911.e676fcc63e8f436982b62670426ab01e_P2.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 대화형 AI 서비스 'AI탭'의 부동산 매물 탐색 기능을 고도화하여, 축적된 부동산 데이터와 공공데이터를 활용한 자연어 기반 실시간 매물 및 시세 추천 서비스를 제공한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-12T22:51:24.315Z"
+    },
+    {
+      "id": "6a3f8981755f4237",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"주말에 가볼 만한 곳 추천해줘\"⋯네이버지도·카카오맵에서도 AI",
+      "link": "https://v.daum.net/v/20260912100127554",
+      "publisher": "v.daum.net",
+      "pubDate": "Sat, 12 Sep 2026 01:01:27 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/12/inews24/20260912100129999cwho.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "2026-09-12",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 네이버지도에 대화형 AI 기능인 'AI 플레이스 에이전트'를 탑재하여 사용자 맞춤형 장소 추천 서비스를 제공하고 플랫폼 경쟁력을 강화했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-12T22:51:13.604Z"
+    },
+    {
+      "id": "6a3f8981755f4237",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"주말에 가볼 만한 곳 추천해줘\"⋯네이버지도·카카오맵에서도 AI",
+      "link": "https://v.daum.net/v/20260912100127554",
+      "publisher": "v.daum.net",
+      "pubDate": "Sat, 12 Sep 2026 01:01:27 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/12/inews24/20260912100129999cwho.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-12",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "카카오가 카카오맵에 대화형 AI 기능인 '카나나'를 탑재하여 이용자 문장 검색에 맞춤형 장소를 추천하는 등 로컬 데이터 자산의 가치를 극대화하고 서비스 경쟁력을 강화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-12T22:51:54.816Z"
+    },
+    {
+      "id": "f7af6bc7a9f4d790",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“에어컨 재고 절반 줄인 비결, 수학적 최적화에 답 있죠”",
+      "link": "https://www.sedaily.com/article/20089998",
+      "publisher": "서울경제",
+      "pubDate": "Fri, 11 Sep 2026 22:00:00 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/09/11/news-p.v1.20260911.8371cd4b8b8f43ea86cdf44a2f21585e_Z1.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-12",
+      "location": "서울 강서구 LG CNS 본사",
+      "format": "언론 인터뷰",
+      "slogan": null,
+      "keyMessage": "LG CNS는 수학적 최적화 컨설팅을 통해 기업의 복잡한 경영 의사결정 문제를 해결하고 에어컨 재고를 절반으로 절감하는 성과를 거두었으며, 산학협력을 통해 차세대 기술 개발을 추진하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 대규모 AI 인프라 투자인 엔비디아 가속기 확보 및 AX 전략 중심의 발표와 달리, 수학적 최적화 컨설팅의 구체적 성과를 다룬 인터뷰 보도입니다."
+      },
+      "processedAt": "2026-09-12T22:49:59.846Z"
+    },
+    {
+      "id": "b0f90579cdb20fa6",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI가 손님 부르고 직매입으로 돈 번다… 카카오의 커머스 확장법",
+      "link": "https://it.chosun.com/news/articleView.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Fri, 11 Sep 2026 20:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오가 AI 기술과 직매입 방식을 활용하여 커머스 사업 영역을 확장하고 수익 모델을 강화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 강조되던 유료 구독 멤버십이나 지배구조 개편 이슈와 달리, AI 및 직매입 구조를 통한 커머스 사업 확장 전략을 조명하고 있습니다."
+      },
+      "processedAt": "2026-09-12T22:52:01.813Z"
+    },
+    {
+      "id": "1a01a792fdd10219",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 D2SF, 하반기 캠퍼스 기술창업 공모전⋯11월 8일까지 모집",
+      "link": "http://www.inews24.com/view/2004837",
+      "publisher": "아이뉴스24",
+      "pubDate": "Fri, 11 Sep 2026 10:41:37 GMT",
+      "keyVisual": "https://image.inews24.com/v1/535324c4507887.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "11월 8일",
+      "location": null,
+      "format": "공모전 모집",
+      "slogan": null,
+      "keyMessage": "네이버 D2SF가 유망한 대학(원)생 기술 창업팀을 발굴하고 성장을 지원하는 하반기 캠퍼스 기술창업 공모전 참가팀을 11월 8일까지 모집한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-12T22:51:29.885Z"
+    },
+    {
       "id": "454d9548fb635c31",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -114,6 +268,28 @@
         "llmNote": "기존 솔루션 및 특정 기술 분야 활동에 비해 전체 자산의 7.2%에 달하는 3,814억 원 규모의 이례적인 대형 인프라 직접 투자를 단행했습니다."
       },
       "processedAt": "2026-09-11T22:58:28.082Z"
+    },
+    {
+      "id": "49efe5dfa7f77171",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, ������ '���� ���' Ȯ���� 3814��� ���� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260911n28256",
+      "publisher": "네이트",
+      "pubDate": "Fri, 11 Sep 2026 09:10:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/bt/2026/09/11/673453_287002_516.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 LG그룹의 AI 팩토리 구축과 생성형 AI 활성화를 위해 3,814억 원 규모의 엔비디아 차세대 GPU '베라 루빈' 및 인프라 설비를 확보하기로 결정했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-12T22:50:09.681Z"
     },
     {
       "id": "4d18731f44caced9",
@@ -292,6 +468,28 @@
       "processedAt": "2026-09-11T22:57:26.642Z"
     },
     {
+      "id": "d81144ad5147b996",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "현대카드, '네이버' 맞손 이어 잡는다…PLCC 우위 점친 배경",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Fri, 11 Sep 2026 06:07:31 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 현대카드와의 PLCC(상업자 표시 신용카드) 파트너십을 지속적으로 이어나가며 협력을 강화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-12T22:51:36.908Z"
+    },
+    {
       "id": "c319b97cf6831790",
       "company": "네이버",
       "category": "IT 서비스",
@@ -312,6 +510,28 @@
         "llmNote": "기존의 일반 IT 서비스 및 보안 AI 중심 활동과 달리 군 고위직 인사 영입 및 국방 AI 전담 TF 신설 등 방산 분야 진출을 본격화한 점에서 이례적입니다."
       },
       "processedAt": "2026-09-11T23:00:21.379Z"
+    },
+    {
+      "id": "965e4a3efeb975a7",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오, ‘카카오툴즈’에 새로운 파트너 서비스 연동... 에이전틱 AI 생태계 확산 지속",
+      "link": "https://www.kakaocorp.com/page/detail/12136",
+      "publisher": "카카오",
+      "pubDate": "Fri, 11 Sep 2026 04:26:05 GMT",
+      "keyVisual": "https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/news/8dfd953101a000001.png?type=thumb&opt=C800x400",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오가 '카카오툴즈'에 새로운 파트너 서비스를 연동하며 에이전틱 AI 생태계 확산을 지속하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-12T22:52:08.347Z"
     },
     {
       "id": "2f206cd769531c6c",
@@ -534,6 +754,28 @@
       "processedAt": "2026-09-10T22:56:56.777Z"
     },
     {
+      "id": "7bb9a9e8dadd237c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "신입 채용 가뭄 속 LG CNS 공채 떴다...9개 직무 세 자릿수 선발",
+      "link": "https://v.daum.net/v/20260910160317766",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 10 Sep 2026 07:03:17 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/10/mk/20260910160318783ijai.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-10",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI, 로보틱스 등 9개 직무에서 세 자릿수 규모의 하반기 신입사원 채용을 실시하여 미래 핵심 사업을 이끌 인재 확보에 나섰다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 엔비디아 GPU 인프라 투자 및 사업 전략 발표 중심의 활동과 달리 인재 채용 관련 소식을 전달하고 있습니다."
+      },
+      "processedAt": "2026-09-12T22:50:29.246Z"
+    },
+    {
       "id": "2ba14ad7d11ba74a",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -708,6 +950,28 @@
         "llmNote": "최근 기술, AI, 보안 및 채용 발표 소식과 달리 본문은 LG CNS의 마케팅 활동과 무관한 지디넷코리아 웹사이트 안내 문구입니다."
       },
       "processedAt": "2026-09-11T22:59:16.205Z"
+    },
+    {
+      "id": "58563b7780f3256b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[만나보니] \"디지털 국방력 키워야\"…LG CNS, '보안 AI 1강' 도전",
+      "link": "https://v.daum.net/v/20260910120300269",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 10 Sep 2026 03:02:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/10/yonhap/20260910120300161kmph.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-10",
+      "location": "서울 강서구 마곡동 LG CNS 본사",
+      "format": "언론 인터뷰",
+      "slogan": null,
+      "keyMessage": "LG CNS가 네이버클라우드 컨소시엄에 참여하여 20년 이상 축적된 보안 노하우와 LG 계열사의 역량을 바탕으로 독자적인 보안 특화 AI 파운데이션 모델을 개발하고 글로벌 보안 AI 시장에 도전합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 대규모 GPU 투자 및 AI 팩토리 인프라 구축 중심의 활동들과 달리, 국책 과제를 통한 보안 특화 AI 파운데이션 모델 개발 및 국방 수준의 사이버 보안 AI 영역 진출을 다루고 있습니다."
+      },
+      "processedAt": "2026-09-12T22:51:05.512Z"
     },
     {
       "id": "d7bb448f156c66df",
@@ -1062,6 +1326,28 @@
       "processedAt": "2026-09-09T22:57:14.687Z"
     },
     {
+      "id": "ac4d92970cbaa152",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "Multi-AI로 충분한가? – Company Brain으로 연결하는 Enterprise AI | 인사이트리포트 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/insights/enterprise-ai-connecting-based-on-company-brain.html",
+      "publisher": "Samsung SDS America",
+      "pubDate": "Wed, 09 Sep 2026 05:46:59 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/09/09/thumb_0909_1.png?queryString=20260909023149",
+      "activityType": "기타",
+      "eventDate": "2026-09-09",
+      "location": null,
+      "format": "인사이트 리포트",
+      "slogan": null,
+      "keyMessage": "Multi-AI 시대에는 각 AI 간 판단 기준 차이로 발생하는 'Context Silo'가 새로운 병목이 되며, 이를 해결하기 위해 기업의 지식과 업무 맥락을 유기적으로 연결하는 조직 기억 인프라인 'Company Brain' 구축이 필수적입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-12T22:49:44.988Z"
+    },
+    {
       "id": "8728d73046f8f917",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -1128,6 +1414,28 @@
       "processedAt": "2026-09-09T22:55:03.473Z"
     },
     {
+      "id": "955653ce3798931c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[기업 이모저모] 삼성SDS가 제안한 우리은행 김 과장의 하루",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno",
+      "publisher": "연합인포맥스",
+      "pubDate": "Wed, 09 Sep 2026 01:47:03 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 우리은행 김 과장의 하루를 시나리오로 구성하여 금융 업무 혁신 및 솔루션 활용 방안을 제안했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-12T22:49:53.051Z"
+    },
+    {
       "id": "79b39832daf1daab",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -1192,6 +1500,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-10T23:00:02.852Z"
+    },
+    {
+      "id": "89255699bbd50a0f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[Tech & Now] LG CNS, ���� �������Ϳ� AI ���롦LG����, �̾Ḷ�� ����ȯ�� ���� ���� : ����Ʈ ����",
+      "link": "https://news.nate.com/view/20260909n10358",
+      "publisher": "네이트",
+      "pubDate": "Wed, 09 Sep 2026 01:01:00 GMT",
+      "keyVisual": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/en/2026/09/09/1723522_756096_328.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "싱가포르",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 싱가포르 제약·의료 기관을 대상으로 AI 에이전트 적용 실증사업(PoC)을 추진하며 의료 및 제약 분야의 AX(AI 전환) 사업을 본격적으로 확대합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-12T22:50:19.994Z"
     },
     {
       "id": "d56b855282a8710f",
