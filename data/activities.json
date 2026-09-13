@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T22:52:22.697Z",
+  "updatedAt": "2026-09-13T22:53:27.902Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,204 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "ee230a1afe6985ce",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[9.14 개장 전 주요공시] LG CNS, AI 팩토리에 3814억 GPU 투자 외",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aYTBISjdxY3ROeGc1TWlVQmV4Y2pOaVk4cFZGTVBLYzl5eVV4NVh4SlRfMHg5OGNHM0tZNVZHU0d1MUFPQk5yZUJMaklnaWRUdjZTeVNHVmFyNlo1Wll4Yml3YzdDQTQ?oc=5",
+      "publisher": "자본시장뉴스",
+      "pubDate": "Sun, 13 Sep 2026 22:41:38 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": "9.14",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI 팩토리 구축을 위해 3,814억 원 규모의 GPU 투자를 단행한다는 주요 공시를 발표했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-13T22:51:19.689Z"
+    },
+    {
+      "id": "1c15ce7905b5bead",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "NC, 거침없는 글로벌 공략… 삼성SDS와 서버 장벽 넘는다",
+      "link": "http://www.economytalk.kr/news/articleView.html?idxno",
+      "publisher": "이코노미톡뉴스",
+      "pubDate": "Sun, 13 Sep 2026 22:09:08 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 엔씨소프트(NC)의 글로벌 시장 진출을 지원하기 위해 서버 인프업 및 관련 기술 협력을 진행합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 및 로봇 전환(AX·RX) 사업 중심의 정보 공개와 달리 게임 기업인 엔씨소프트와의 글로벌 서버 인프라 협력이 강조된 점이 특징입니다."
+      },
+      "processedAt": "2026-09-13T22:51:12.971Z"
+    },
+    {
+      "id": "516ea049468d7c26",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버제트 파업 부른 임금협상…네이버 본사 책임론 쟁점",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno",
+      "publisher": "폴리뉴스 Polinews",
+      "pubDate": "Sun, 13 Sep 2026 11:36:32 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버제트의 임금협상 난항으로 인해 파업이 발생하며 네이버 본사의 책임론이 핵심 쟁점으로 부각되고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 기술 서비스 출시나 사업 제휴 등의 활동과 달리 자회사 노사 갈등 및 임금협상 이슈라는 내부 경영 관련 악재를 다루고 있습니다."
+      },
+      "processedAt": "2026-09-13T22:53:15.760Z"
+    },
+    {
+      "id": "0bbdef91256fee43",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] 일본 현지인 제작 생활밀착 정보, 네이버 AI브리핑서 본다",
+      "link": "https://www.hani.co.kr/arti/economy/it/1277502.html",
+      "publisher": "한겨레",
+      "pubDate": "Sun, 13 Sep 2026 10:19:00 GMT",
+      "keyVisual": "https://flexible.img.hani.co.kr/flexible/normal/707/354/imgdb/original/2026/0913/20260913500655.webp",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 일본 콘텐츠 플랫폼 '노트(note)'의 이용자 제작 콘텐츠를 자사 생성형 AI 검색 서비스 'AI 브리핑'에 연동하여 현지 생생한 정보를 제공하고 검색 경쟁력을 강화합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 국내 서비스 중심의 AI 기능 탑재 및 B2B 포트폴리오 재편과 달리, 해외 플랫폼의 이용자 제작 콘텐츠(UGC)를 네이버 AI 검색의 인용 출처로 처음 활용했다는 점이 특이합니다."
+      },
+      "processedAt": "2026-09-13T22:52:49.691Z"
+    },
+    {
+      "id": "16aec9fb00a03a5d",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "&quot;여신 이어 수신까지&quot;&hellip;OK저축은행 '수신 시스템' 구축 사업, 우협대상자에 LG CNS",
+      "link": "https://www.ddaily.co.kr/page/view/2026091115332080474",
+      "publisher": "디지털데일리",
+      "pubDate": "Sun, 13 Sep 2026 08:00:00 GMT",
+      "keyVisual": "/photos/2026/08/27/2026082712420060094_l.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 OK저축은행의 독자 수신 시스템 구축 사업 우선협상대상자로 선정되어, 2020년 여신 차세대 시스템 구축에 이어 수신 계정계 구축까지 전담하게 되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 활동이 주로 AI 팩토리 구축 및 엔비디아 GPU 설비 투자 등에 집중되었던 것과 달리, 금융 IT 서비스(수신 시스템 구축) 수주 관련 소식이라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-13T22:51:38.707Z"
+    },
+    {
+      "id": "598b5f382b54afb4",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "▒이데일리-세상을 올바르게,세상을 따뜻하게▒",
+      "link": "https://tv.edaily.co.kr/Common/Error404/?aspxerrorpath=/News/NewsRead",
+      "publisher": "이데일리TV",
+      "pubDate": "Sun, 13 Sep 2026 06:39:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 기사 본문은 페이지 오류 안내 메시지로 마케팅 활동 정보를 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-13T22:52:30.295Z"
+    },
+    {
+      "id": "391fa6262a5a3bde",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[M-커버스토리] 검색창 넘어 ‘AI 비서’로…네이버·카카오, 새 관문 전쟁",
+      "link": "https://www.metroseoul.co.kr/article/20260913500237",
+      "publisher": "메트로신문",
+      "pubDate": "Sun, 13 Sep 2026 04:01:46 GMT",
+      "keyVisual": "//cdn.emetro.co.kr/data2/content/image/2026/09/13/.cache/512/20260913500238.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 대화형 검색 서비스 'AI탭'을 바탕으로 탐색부터 쇼핑, 지도, 예약 등 실제 행동과 소비로 연결되는 AI 에이전트 생태계 확장에 속도를 내고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-13T22:53:07.530Z"
+    },
+    {
+      "id": "a954cd98dee15708",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인니 2억8000만 명 조세행정 바꿨다…‘K-디지털정부’ 저력 입증",
+      "link": "https://www.dongponews.net/news/articleView.html?idxno",
+      "publisher": "재외동포신문",
+      "pubDate": "Sun, 13 Sep 2026 03:40:41 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아의 조세행정 시스템을 성공적으로 구축하여 2억 8000만 명 대상의 조세행정을 혁신하고 K-디지털정부의 우수성을 입증했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 연이어 발표된 AI 팩토리 인프라 투자 소식과 달리 해외 정부를 대상으로 한 대규모 디지털 전환 프로젝트 성과를 다루었다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-13T22:51:29.681Z"
+    },
+    {
+      "id": "cbdebc3ac15c3c5b",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Sun, 13 Sep 2026 00:18:01 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "지디넷코리아의 뉴스레터 구독 신청 관련 내용입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-13T22:53:00.177Z"
+    },
     {
       "id": "6344a84d23407cee",
       "company": "네이버",
@@ -246,6 +444,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-12T22:51:29.885Z"
+    },
+    {
+      "id": "31257ce797cc04fa",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "토스, 네이버 공정위 신고 나선다… “포스 연동서 토스만 배제”",
+      "link": "https://www.chosun.com/economy/tech_it/2026/09/11/VCJEQC342JDMBBONSQORRC4VKQ/",
+      "publisher": "조선일보",
+      "pubDate": "Fri, 11 Sep 2026 09:47:00 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/6K7KFGK3RJH3JEUZCQ3Y5ANXQA.JPG?auth=4af070e4e7e00df106b9101a84ef03d1175780628b14ee7aa10616ebb482171a&width=505&height=265&focal=319,102",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "토스가 네이버의 포스 연동 서비스에서 자사만 부당하게 배제되었다며 공정거래위원회 신고를 예고했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-13T22:52:40.208Z"
     },
     {
       "id": "454d9548fb635c31",
@@ -512,6 +732,28 @@
       "processedAt": "2026-09-11T23:00:21.379Z"
     },
     {
+      "id": "a0e93be8e5669ea3",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS ”AX·DX·RX 역량 갖춘 인재 지속 확보할 것“",
+      "link": "https://www.hellot.net/news/article.html?no",
+      "publisher": "헬로티",
+      "pubDate": "Fri, 11 Sep 2026 04:37:43 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AX·DX·RX 역량을 갖춘 인재를 지속적으로 확보할 계획이라고 밝혔습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 엔비디아 GPU 확보 등 대규모 AI 인프라 투자 중심의 활동과 달리 AX·DX·RX 분야의 인재 확보 및 역량 강화 전략을 강조하고 있습니다."
+      },
+      "processedAt": "2026-09-13T22:51:52.347Z"
+    },
+    {
       "id": "965e4a3efeb975a7",
       "company": "카카오",
       "category": "IT 서비스",
@@ -532,6 +774,50 @@
         "llmNote": null
       },
       "processedAt": "2026-09-12T22:52:08.347Z"
+    },
+    {
+      "id": "1c438d448476421b",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "Get to Know: Riley Loewen - Calgary Roughnecks",
+      "link": "https://www.calgaryroughnecks.com/get-to-know-riley-loewen/?ID",
+      "publisher": "Calgary Roughnecks",
+      "pubDate": "Fri, 11 Sep 2026 04:24:04 GMT",
+      "keyVisual": "https://www.calgaryroughnecks.com/wp-content/uploads/2026/03/20260215_89_LOEWEN_CGY_vs_GA_ROU56897AB-scaled-e1773782449418.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "캘거리 러프넥스 소속 라일리 로엔(Riley Loewen) 선수의 이력, 커리어 및 개인 인터뷰 내용이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "SK AX의 인공지능 전환(AX) 및 IT 서비스 사업 관련 활동이 아닌 스포츠 선수 개인 인터뷰 기사라는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-09-13T22:52:24.158Z"
+    },
+    {
+      "id": "8c5a058f878834bb",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[분석]SK AX, 6년 연속 최대 매출向 잰걸음...승부수 3종 '눈길'",
+      "link": "https://www.entropytimes.co.kr/news/article.html?no",
+      "publisher": "엔트로피타임즈",
+      "pubDate": "Fri, 11 Sep 2026 00:59:10 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "SK AX가 6년 연속 최대 매출 달성을 위해 3가지 승부수를 내세우며 성장을 가속화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-13T22:52:15.267Z"
     },
     {
       "id": "2f206cd769531c6c",
@@ -1038,6 +1324,50 @@
         "llmNote": "최근 헬스케어 및 스마트팩토리 중심의 AI 에이전트 도입 활동과 달리, 국가 사이버보안 특화 파운데이션 모델 개발 컨소시엄에 참여한 점이 특이하다."
       },
       "processedAt": "2026-09-10T22:58:31.354Z"
+    },
+    {
+      "id": "f62c805f698d4a0e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“보안만큼은 세계 최고로”…LG CNS, 국산 AI로 글로벌 1위 도전",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nVGxpaU56dmxiQ200Y1ZQdFZ0RFpIM2hwLUpUWS1peXloLVNMVnRzSEJEZ2ZLdHpBb1Jib200dWVDX2VzMFh3UkhZdDBQQQ?oc=5",
+      "publisher": "전자신문",
+      "pubDate": "Thu, 10 Sep 2026 03:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 국산 AI 기술을 기반으로 세계 최고 수준의 보안 역량을 갖추어 글로벌 1위에 도전합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 대규모 엔비디아 GPU 인프라 투자 관련 활동 중심에서 국산 AI 및 AI 보안을 강조한 글로벌 진출 메시지로 확장된 점이 특이합니다."
+      },
+      "processedAt": "2026-09-13T22:52:07.734Z"
+    },
+    {
+      "id": "e7807c9ee6238bb9",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, AI·로보틱스 등 세 자릿수 대규모 인재 채용 나서",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KSmRDUjV3QzJuNkJ1akZWSTVnTnpPMERJWi1JZ2hST3dJQVJFOHRiQ0tLUmdzNG1VS0pHUGhES3hMMnFSUFNxZGxfb0h5WFk5dFhLb1lpOG9oT1hOQW5yR0NGTnRnUmRHaGc?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Thu, 10 Sep 2026 02:55:55 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI 및 로보틱스 등의 분야에서 세 자릿수 규모의 대규모 인재 채용에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 엔비디아 GPU 확보 등 인프라 투자 발표 중심이었던 활동과 달리 AI 및 로보틱스 분야의 대규모 인재 채용을 다루고 있다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-13T22:51:43.793Z"
     },
     {
       "id": "14ab3fc966457179",
