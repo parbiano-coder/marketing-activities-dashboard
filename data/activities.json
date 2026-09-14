@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T22:53:27.902Z",
+  "updatedAt": "2026-09-14T23:43:41.789Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,336 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "ec66363aa20fcf33",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, ‘클로드 파트너 네트워크’ 셀렉트 티어 파트너에 선정돼",
+      "link": "http://www.bikorea.net/news/articleView.html?idxno",
+      "publisher": "bikorea.net",
+      "pubDate": "Mon, 14 Sep 2026 23:24:15 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, ‘클로드 파트너 네트워크’ 셀렉트 티어 파트너에 선정돼",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-14T23:42:34.820Z"
+    },
+    {
+      "id": "6bdcc1a24282ab17",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"국내 최초 앤트로픽 품어\"…삼성SDS, 원스톱AI 도입 체계 강화 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/09/15/2026091416051980136",
+      "publisher": "머니투데이",
+      "pubDate": "Mon, 14 Sep 2026 23:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091416051980136_1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-09-15",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국내 기업 최초로 앤트로픽의 '클로드 파트너 네트워크' 셀렉트 티어 자격을 획득하고 원스톱 AI 도입 체계를 강화했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-14T23:40:48.495Z"
+    },
+    {
+      "id": "c7c6b83dea5590ca",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[게시판] LG CNS, 인도네시아 국세청 AX 성과로 감사패 수상 등 단신",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5USTU4QUQ5RWU5Q0dWWlRLdHphZjZMc2dSUkdwRjZ2OXV2cmhCRkVyZl9oSHN2M28yVkhuYkVKMHRkbjRyakt2bTlCcE9aTXlpTllGeVd3Qm9YN1NnNEFpSjUtNG9MdXc0T2c?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Mon, 14 Sep 2026 19:38:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 국세청의 AX(AI 전환) 성과를 인정받아 감사패를 수상했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-14T23:43:00.578Z"
+    },
+    {
+      "id": "35a54a2a48db8313",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인니 국세청 감사패&hellip;&lsquo;코어택스&rsquo; 구축 공로",
+      "link": "https://edata.ekn.kr/article/view/ekn202609140011",
+      "publisher": "기후에너지데이터뱅크",
+      "pubDate": "Mon, 14 Sep 2026 08:10:03 GMT",
+      "keyVisual": "https://edata.ekn.kr/data/ekn/image/2026/09/14/ekn20260914000017.jpg",
+      "activityType": "언론보도",
+      "eventDate": "11일(현지시간)",
+      "location": "인도네시아 자카르타 국세청",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 차세대 조세행정시스템 '코어택스' 구축 및 운영 안정화 공로로 인도네시아 국세청으로부터 감사패를 받았습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-14T23:42:47.200Z"
+    },
+    {
+      "id": "e259bca85febb40c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인니 국세청 감사패…‘코어택스’ 구축 공로",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wMDgxam1wTW5jTVlFWXJNZmJtemdLTGdDRlVBU3Z3ZG1ZX1RaZjZ6ajlUU0JZQ2stVW12LVQzOWRFQjNCWnI0VmlfUjA5ZTZrMkJIajJCNFJyLXc?oc=5",
+      "publisher": "에너지경제신문",
+      "pubDate": "Mon, 14 Sep 2026 08:08:38 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 국세청의 코어택스 시스템 구축 공로를 인정받아 감사패를 받았습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-14T23:43:08.245Z"
+    },
+    {
+      "id": "e6d04ab2be375026",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 뉴스위크 선정 ‘가장 신뢰받는 기업’ SW·통신 부문 1위",
+      "link": "https://it.chosun.com/news/articleView.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Mon, 14 Sep 2026 07:43:35 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국 시사주간지 뉴스위크가 선정한 '가장 신뢰받는 기업' 소프트웨어·통신 부문 1위에 선정되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 기술 사업 추진 및 서비스 출시 관련 소식과 달리 글로벌 매체의 대외 신뢰도 평가 1위 수상 소식이라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-14T23:41:02.601Z"
+    },
+    {
+      "id": "15806a8596791e90",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 美 뉴스위크 선정 '가장 신뢰 SW 기업' 1위",
+      "link": "https://www.etnews.com/20260914000394",
+      "publisher": "전자신문",
+      "pubDate": "Mon, 14 Sep 2026 07:13:47 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/14/news-p.v1.20260914.5459927dd6b94b7cbfd3534a217b2672_P1.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국 시사주간지 뉴스위크가 선정한 '세계 최고 신뢰 소프트웨어 기업' 1위에 오르며 글로벌 시장에서의 높은 신뢰도와 경쟁력을 입증했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-14T23:40:55.482Z"
+    },
+    {
+      "id": "ad7b649179aad5e2",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인니 국세청 감사패…‘코어택스’ 구축 공로",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13WWx5SGozM0ZsSmJudjhtV3dKVmRnZUlzRXJURnJKOVdnUW8zc3lKMzI5SEYtT0ZlcXZrS1RmTm81ZXp5Ykw4MWFjUXY0MU1CZU1DcHR1ZGZzSFhTR0pGSzZBWVDSAWhBVV95cUxPbzhQWjZfRGgzOHJYSXc1VFZjMWZ6by1VRnFtbWEzcmxyV3RvcUwxa0NOUjNoRXpES0ZoUV95MjdVT21OYzVIWkJTYk9vM3VLeG8zd2x1QVd1TE9SbG10bER5dzlWb3c1WA?oc=5",
+      "publisher": "매일일보",
+      "pubDate": "Mon, 14 Sep 2026 06:05:10 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 국세청의 차세대 조세행정 시스템(코어택스) 구축 공로를 인정받아 감사패를 받았습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-14T23:43:23.478Z"
+    },
+    {
+      "id": "614cd880ac57ab2e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인도네시아 국세청 감사패 수상 - 글로벌이코노믹",
+      "link": "https://www.g-enews.com/article/ICT/2026/09/2026091409583951713d7a510102_1",
+      "publisher": "글로벌이코노믹",
+      "pubDate": "Mon, 14 Sep 2026 05:10:49 GMT",
+      "keyVisual": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260914100516042273d7a51010210625224986.jpg",
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": "인도네시아 자카르타",
+      "format": "감사패 수여식",
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 차세대 조세행정시스템 '코어택스'의 성공적인 구축과 운영·안정화 지원 성과를 인정받아 인도네시아 국세청으로부터 감사패를 수상했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-14T23:43:19.845Z"
+    },
+    {
+      "id": "bf935c6ffcb17779",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 美 시사주간지 선정 '세계 최고 신뢰 SW 기업'",
+      "link": "https://www.news1.kr/it-science/internet-platform/6289647",
+      "publisher": "news1.kr",
+      "pubDate": "Mon, 14 Sep 2026 04:50:48 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2020/7/2/4269884/high.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국 시사주간지로부터 '세계 최고 신뢰 SW 기업'으로 선정되었다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 인공지능 전환(AX) 및 로봇 전환(RX) 솔루션 발표 중심의 활동과 달리 글로벌 매체의 신뢰 기업 선정 소식을 다루고 있습니다."
+      },
+      "processedAt": "2026-09-14T23:41:28.186Z"
+    },
+    {
+      "id": "739a9b8d62ddcb63",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 美 뉴스위크 '세계 최고 신뢰 소프트웨어 기업' 1위",
+      "link": "https://www.ddaily.co.kr/page/view/2026091409225050823",
+      "publisher": "디지털데일리",
+      "pubDate": "Mon, 14 Sep 2026 01:56:47 GMT",
+      "keyVisual": "/photos/2025/11/25/2025112510052788011_l.jpg",
+      "activityType": "언론보도",
+      "eventDate": "10일(현지시간)",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국 뉴스위크가 발표한 '세계에서 가장 신뢰할 수 있는 기업' 평가에서 소프트웨어 및 통신 부문 글로벌 1위를 차지했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-14T23:42:22.352Z"
+    },
+    {
+      "id": "0296acd961cb3bb5",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 美 뉴스위크 '세계 최고 신뢰 소프트웨어 기업' 1위…4년 연속 선정",
+      "link": "https://www.etoday.co.kr/news/view/2625085",
+      "publisher": "이투데이",
+      "pubDate": "Mon, 14 Sep 2026 01:18:00 GMT",
+      "keyVisual": "https://img.etoday.co.kr/pto_db/2026/09/20260914101704_2387560_1200_639.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-10",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국 뉴스위크의 '세계에서 가장 신뢰할 수 있는 기업 2026' 평가에서 소프트웨어 및 통신 부문 글로벌 1위에 오르며 4년 연속 선정되었다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-14T23:41:34.884Z"
+    },
+    {
+      "id": "9b64afd60102908c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, IBM 눌렀다…美 뉴스위크 '세계에서 가장 신뢰받는 SW·통신 기업' 1위",
+      "link": "https://www.newsis.com/view/NISX20260914_0003787954",
+      "publisher": "뉴시스",
+      "pubDate": "Mon, 14 Sep 2026 00:55:34 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/09/14/NISI20260914_0002238133_web.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국 시사주간지 뉴스위크가 발표한 '세계에서 가장 신뢰할 수 있는 기업 2026' 소프트웨어 및 통신 부문에서 1위에 올랐다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AX·RX 기술 솔루션 및 고객 시너지 행사 중심의 활동들과 달리, 글로벌 기업 신뢰도 순위 1위 선정 결과를 알리는 언론보도이다."
+      },
+      "processedAt": "2026-09-14T23:42:10.088Z"
+    },
+    {
+      "id": "ff520ca45a83bfe0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 뉴스위크 '세계 신뢰기업' SW&middot;통신 부문 1위",
+      "link": "http://www.inews24.com/view/2005093",
+      "publisher": "inews24.com",
+      "pubDate": "Mon, 14 Sep 2026 00:08:11 GMT",
+      "keyVisual": "https://image.inews24.com/v1/340a00de480d19.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국 뉴스위크가 선정한 '세계에서 가장 신뢰할 수 있는 기업' 소프트웨어·통신 부문 1위에 올랐다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AX·RX 및 피지컬 AI 관련 기술·사업 발표 중심의 활동과 달리 글로벌 기관의 기업 신뢰도 평가 1위 선정 소식을 전한 보도이다."
+      },
+      "processedAt": "2026-09-14T23:42:31.688Z"
+    },
+    {
+      "id": "d9542a4b501b0292",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "KB證 “LG CNS, 베라 루빈 투자로 AI 팩토리 전환 기대”",
+      "link": "https://www.etoday.co.kr/news/view/2624945",
+      "publisher": "이투데이",
+      "pubDate": "Sun, 13 Sep 2026 23:07:00 GMT",
+      "keyVisual": "https://img.etoday.co.kr/pto_db/2026/08/20260828080021_2379713_600_400.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-14",
+      "location": null,
+      "format": "언론 보도",
+      "slogan": null,
+      "keyMessage": "LG CNS가 엔비디아 베라 루빈 GPU 등 3,814억 원 규모의 설비 투자를 통해 표준화된 AI 팩토리 구축·운영 역량을 확보하고, 기존 일회성 사업 구조에서 반복 매출 중심의 서비스 모델로 전환될 것으로 전망된다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-14T23:42:53.912Z"
+    },
     {
       "id": "ee230a1afe6985ce",
       "company": "LG CNS",
@@ -312,6 +642,28 @@
         "llmNote": "신규 사업 진출 및 제휴 중심이었던 최근 활동들과 달리, 비핵심 레거시 서비스를 대거 정리하며 AI 중심으로 사업 구조를 슬림화하는 전략적 전환을 보여줍니다."
       },
       "processedAt": "2026-09-12T22:51:45.635Z"
+    },
+    {
+      "id": "8ff75750ef3e0fff",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 로봇 파트너사 어딘가 봤더니… 손·데이터 전문",
+      "link": "https://www.sedaily.com/article/20090118",
+      "publisher": "sedaily.com",
+      "pubDate": "Sat, 12 Sep 2026 04:00:00 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/09/12/rcv.YNA.20260908.PYH2026090818740001300_Z1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-09-12",
+      "location": null,
+      "format": "언론보도",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국내외 로봇 하드웨어, 인텔리전스, 데이터 전문 기업 10곳과 '팀 REX' 파트너십을 구축하고 제조 공정별 최적의 로봇 조합 설계 및 로봇 전환(RX) 사업을 본격 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-14T23:41:14.357Z"
     },
     {
       "id": "5dc3020dedba42c2",
