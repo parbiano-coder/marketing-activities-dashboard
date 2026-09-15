@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T23:43:41.789Z",
+  "updatedAt": "2026-09-15T23:26:38.150Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,182 @@
   ],
   "activities": [
     {
+      "id": "09b5be0597360137",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[클릭 e종목]\"LG씨엔에스, GPU 인프라 확보…AIDC 사업 본격화\"",
+      "link": "https://www.asiae.co.kr/article/2026091516505940607",
+      "publisher": "asiae.co.kr",
+      "pubDate": "Tue, 15 Sep 2026 09:09:00 GMT",
+      "keyVisual": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 대규모 GPU 및 인프라 설비 취득을 공시하며 기존 데이터센터 DBO 사업을 넘어 GPUaaS(서비스형 GPU) 및 AI 데이터센터 사업 진출을 본격화했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 인도네시아 차세대 조세행정시스템 구축 및 감사패 수상 관련 활동과 달리 대규모 GPU 인프라 투자 및 GPUaaS 사업 진출 소식을 다루고 있습니다."
+      },
+      "processedAt": "2026-09-15T23:25:06.286Z"
+    },
+    {
+      "id": "91bd8d7725bc898e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": " 삼성-구미시, AI 데이터센터 건설과 지역 상생 관련 간담회 개최 - 전국 | 기사 - 더팩트",
+      "link": "https://news.tf.co.kr/read/national/2366136.htm",
+      "publisher": "더팩트",
+      "pubDate": "Tue, 15 Sep 2026 06:06:05 GMT",
+      "keyVisual": "https://img.tf.co.kr/article/home/2026/09/15/202652071789451591.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026-09-15",
+      "location": "구미시청 국제통상협력실",
+      "format": "오프라인 간담회",
+      "slogan": "지역과 함께 짓는 AI 데이터센터",
+      "keyMessage": "삼성SDS가 구미시 및 삼성물산과 함께 60MW 규모의 구미 AI 데이터센터 건설 착공에 따른 지역 건설업체 참여 확대와 지역 상생 발전 방안을 논의하는 간담회를 개최했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 AI 파트너십 및 대외 수상 소식 중심의 마케팅 활동과 달리 지자체 및 시공사와 협력하는 AI 데이터센터 인프라 구축 및 지역 상생 관련 현장 간담회 활동이다."
+      },
+      "processedAt": "2026-09-15T23:24:37.074Z"
+    },
+    {
+      "id": "7e2bf2ca3dca834e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 구미 AI 데이터센터 착공…19조 투자 실행, 지역 건설업체 수주도 넓힌다",
+      "link": "https://v.daum.net/v/20260915145503119",
+      "publisher": "v.daum.net",
+      "pubDate": "Tue, 15 Sep 2026 05:55:03 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/15/551754-epk0OhG/20260915145504389kvfk.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-15",
+      "location": "구미시청 국제통상협력실",
+      "format": "오프라인 간담회",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 경북 구미에 60MW 규모의 AI 데이터센터 착공을 앞두고 구미시 및 삼성물산과 함께 지역 건설업체 참여 확대 등 지역 상생 방안을 논의했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 글로벌 인증 및 생성형 AI 파트너십 위주의 활동과 달리, 국내 대규모 AI 데이터센터 인프라 구축 및 지자체 연계 지역 상생 활동이라는 점이 차별화된다."
+      },
+      "processedAt": "2026-09-15T23:23:48.382Z"
+    },
+    {
+      "id": "6d2c77bc00359eb3",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'19조원 투자 시작되나' 삼성SDS, 구미 AI 데이터센터 착공",
+      "link": "https://v.daum.net/v/20260915143307958",
+      "publisher": "v.daum.net",
+      "pubDate": "Tue, 15 Sep 2026 05:33:07 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/15/nocut/20260915143309100udnp.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-15",
+      "location": "경상북도 구미시",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 구미국가1산업단지에 총 4,273억 원 규모의 AI 데이터센터 착공 신고를 완료하고 본격적인 구축에 나섰다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "소프트웨어 파트너십 및 기업 신뢰도 수상 중심이었던 최근 활동과 달리 대규모 AI 데이터센터 건립이라는 물리적 인프라 투자 소식을 다루고 있다."
+      },
+      "processedAt": "2026-09-15T23:24:14.115Z"
+    },
+    {
+      "id": "5a5257d7d9a4d4da",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Tue, 15 Sep 2026 01:32:10 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문에 삼성SDS의 마케팅 활동 정보가 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "삼성SDS의 주요 활동 소식이 아닌 언론사 하단 푸터 및 구독 신청 문구가 포함되어 있습니다."
+      },
+      "processedAt": "2026-09-15T23:24:46.945Z"
+    },
+    {
+      "id": "b32838a856089fbd",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국내 최초 앤스로픽 공인 파트너 … ‘클로드’ 도입 전 과정 지원",
+      "link": "https://www.chosun.com/economy/tech_it/2026/09/15/KW4AKP7RO5BJFJGNDRXIIARERI/",
+      "publisher": "chosun.com",
+      "pubDate": "Tue, 15 Sep 2026 00:58:48 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/MYZTGMZQHBSWINTCGU2WENDCME.jpg?auth=37f9dac3238603e9d6100b6a538dcf78de8ce374293e63d5dd4663a343051908&width=1200&height=630&smart=true",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국내 최초로 앤스로픽의 공인 파트너 자격을 획득하여 '클로드' 도입 전 과정을 지원합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-15T23:23:39.607Z"
+    },
+    {
+      "id": "90a41094cccd9a09",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국내 첫 앤트로픽 셀렉트 티어 획득",
+      "link": "https://www.sedaily.com/article/20090952",
+      "publisher": "서울경제",
+      "pubDate": "Tue, 15 Sep 2026 00:32:06 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/09/15/news-p.v1.20260915.1f0955f85e5540d09445b4807c92cb50_Z1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-09-15",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국내 기업 최초로 앤트로픽의 '클로드 파트너 네트워크' 셀렉트 티어 자격을 획득하며 원스톱 AI 도입 체계를 강화했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-15T23:24:53.229Z"
+    },
+    {
+      "id": "1e0ba99e8f56202e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 앤스로픽 공인 파트너 국내 최초 획득…클로드 도입 돕는다",
+      "link": "https://www.asiae.co.kr/article/2026091509061340940",
+      "publisher": "asiae.co.kr",
+      "pubDate": "Tue, 15 Sep 2026 00:06:13 GMT",
+      "keyVisual": "https://cphoto.asiae.co.kr/listimglink/1/2026091508262028117_1789428381.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국내 기업 최초로 앤스로픽의 '클로드 파트너 네트워크' 셀렉트 티어 자격을 획득하여 기업 고객의 클로드 도입 컨설팅부터 구축 및 기술 지원까지 전 과정을 지원한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-15T23:24:25.910Z"
+    },
+    {
       "id": "ec66363aa20fcf33",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -160,6 +336,28 @@
       "processedAt": "2026-09-14T23:43:00.578Z"
     },
     {
+      "id": "7d30db855aecb2a0",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인니 국세청서 감사패 받아",
+      "link": "https://www.seoul.co.kr/news/economy/industry/2026/09/15/20260915030004",
+      "publisher": "서울신문",
+      "pubDate": "Mon, 14 Sep 2026 12:34:50 GMT",
+      "keyVisual": "https://img.seoul.co.kr//img/n24/seoul_share.png",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-11",
+      "location": "인도네시아 국세청",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 차세대 조세행정시스템 '코어택스' 구축 및 운영 안정화 공로로 현지 국세청으로부터 감사패를 받았습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-15T23:26:07.508Z"
+    },
+    {
       "id": "35a54a2a48db8313",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -180,6 +378,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-14T23:42:47.200Z"
+    },
+    {
+      "id": "cab0ec7487462fbd",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인도네시아 국세청 감사패 수상⋯ ‘코어택스’ 구축·안정화 기여",
+      "link": "https://www.viva100.com/article/20260914501388",
+      "publisher": "브릿지경제",
+      "pubDate": "Mon, 14 Sep 2026 08:10:00 GMT",
+      "keyVisual": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/14/.cache/512/20260914501371.jpg?v=20260916082608",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 차세대 조세행정시스템 '코어택스' 구축 및 안정화에 기여한 공로로 인도네시아 국세청으로부터 감사패를 받았으며, 향후 AI 기술을 접목한 시스템 고도화 사업도 논의 중입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-15T23:26:14.262Z"
     },
     {
       "id": "e259bca85febb40c",
@@ -248,6 +468,50 @@
       "processedAt": "2026-09-14T23:40:55.482Z"
     },
     {
+      "id": "0c810ee5404c6f85",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인도네시아 국세청 감사패 수상…차세대 조세행정시스템 구축·안정화 공로 인정",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kbi1meHNPel9FZjZVN2QweDc5d1kyRzJkLXdNV2trZ3Q3QXk4MFIxZGZ2QVFuWmlIUVl4OWJUNFl4TzRkQWhpczI4MmktYkkwMVhtR0RIenlrV1NjQ0NObFVpeVFFcWRIWkZvVE9zZktPM2c?oc=5",
+      "publisher": "오늘경제",
+      "pubDate": "Mon, 14 Sep 2026 07:12:01 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 차세대 조세행정시스템 구축 및 운영 안정화 공로를 인정받아 인도네시아 국세청으로부터 감사패를 수상했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-15T23:25:30.554Z"
+    },
+    {
+      "id": "d0331dac946668a9",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인니 조세 시스템 구축 공로 감사패 수상…“세수 25% 늘어”",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/14/PV3TRFY5A5EKBAUJJ7Q2K4P46Q/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Mon, 14 Sep 2026 06:32:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/DJ6SG6ALN5DNFDE2FW57BKWG74.jpg?auth=d1cdca46841425584b58ec163440d91c941704e3750c1d1651ede459a4c339d2&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 조세 시스템 구축 공로를 인정받아 감사패를 수상했으며, 세수 25% 증가 성과를 이끌어냈습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-15T23:25:15.138Z"
+    },
+    {
       "id": "ad7b649179aad5e2",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -268,6 +532,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-14T23:43:23.478Z"
+    },
+    {
+      "id": "47a52adb8296b2c5",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"실질적 변화 있어야 AX\"…삼성SDS, 성과 중심 전환 속도",
+      "link": "https://www.newspim.com/news/view/20260908000761",
+      "publisher": "뉴스핌",
+      "pubDate": "Mon, 14 Sep 2026 05:42:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/09/08/2609081304257410_t1.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026-09-08",
+      "location": "코엑스 컨벤션센터",
+      "format": "오프라인 컨퍼런스",
+      "slogan": "실질적 변화 있어야 AX",
+      "keyMessage": "삼성SDS가 '리얼 서밋 2026'에서 실질적인 업무 변화와 성과에 중점을 둔 AX 전략을 발표하고, 현장 밀착형 엔지니어(FDE) 확대와 기업용 AI 서비스 출시를 통해 실행 체계를 구체화한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 인증 및 수상 위주의 보도와 달리, 자체 대형 컨퍼런스를 통해 FDE 인력 200명 확대 등 구체적인 AX 실행 체계와 신규 서비스 로드맵을 대대적으로 공개했다."
+      },
+      "processedAt": "2026-09-15T23:23:59.753Z"
     },
     {
       "id": "614cd880ac57ab2e",
@@ -356,6 +642,50 @@
         "llmNote": null
       },
       "processedAt": "2026-09-14T23:41:34.884Z"
+    },
+    {
+      "id": "6b47e869f10bf2e6",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인니 국세청 감사패 받아…차세대 조세행정시스템 구축",
+      "link": "https://www.asiae.co.kr/article/2026091409260846877",
+      "publisher": "asiae.co.kr",
+      "pubDate": "Mon, 14 Sep 2026 01:00:00 GMT",
+      "keyVisual": "https://cphoto.asiae.co.kr/listimglink/1/2026091409174126629_1789345062.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 국세청의 차세대 조세행정시스템 '코어택스' 구축과 운영 안정화에 기여한 공로를 인정받아 감사패를 수상했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-15T23:25:22.113Z"
+    },
+    {
+      "id": "4191f6ad455e1c6a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인니 국세청 감사패 수상…'코어택스' 구축 공로",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno",
+      "publisher": "데일리한국",
+      "pubDate": "Mon, 14 Sep 2026 01:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 차세대 조세행정시스템인 '코어택스' 구축 공로를 인정받아 인도네시아 국세청으로부터 감사패를 수상했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-15T23:26:21.153Z"
     },
     {
       "id": "9b64afd60102908c",
