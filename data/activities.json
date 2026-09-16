@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T23:26:38.150Z",
+  "updatedAt": "2026-09-16T23:34:28.938Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,204 @@
   ],
   "activities": [
     {
+      "id": "1cea992f1730dbae",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, AI 도입 넘어 기업 AX 혁신 이끈다… 리얼 서밋 2026서 ‘다차원 AI 풀스택’ 전략 제시",
+      "link": "http://www.kmkj.kr/news/articleView.html?idxno",
+      "publisher": "국민기자뉴스",
+      "pubDate": "Wed, 16 Sep 2026 22:05:00 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '리얼 서밋 2026'에서 '다차원 AI 풀스택' 전략을 제시하며 기업의 AX 혁신을 이끌겠다는 비전을 발표했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-16T23:32:55.352Z"
+    },
+    {
+      "id": "c78aa5018ccc3123",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 곳간의 7.6조, 이제 로봇으로 흘러간다",
+      "link": "https://contents.premium.naver.com/thebell/stock/contents/260916161547749wv",
+      "publisher": "네이버 프리미엄콘텐츠",
+      "pubDate": "Wed, 16 Sep 2026 21:50:00 GMT",
+      "keyVisual": "https://scs-phinf.pstatic.net/MjAyNjA5MTZfNTYg/MDAxNzg5NTM2MTQzMTYx.mp5nxx0pfd_BG-W0emH-AMWmrvTneA59ys2Cinngs2Mg.nqZNPgSBWn3r5Jx6YXLbpu7TSfCeM6q8CBGqlM64eNkg.JPEG/%EC%82%BC%EC%84%B1SDS_23.jpg?type=w800",
+      "activityType": "언론보도",
+      "eventDate": "2026.09.17",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 7조 6,000억 원 규모의 현금성 자산을 바탕으로 AI 인프라, AX, 피지컬 AI(로보틱스)에 이르는 AI 풀스택 기업으로의 본격적인 사업 전환과 투자를 추진한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 AI 데이터센터 구축 및 소프트웨어 파트너십 위주의 활동에서 나아가 로보틱스(피지컬 AI) 분야에 대한 대규모 투자 및 AI 풀스택 기업으로의 본격적인 사업 전환 전략을 다루고 있다는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-09-16T23:32:07.410Z"
+    },
+    {
+      "id": "603e33cd2e9d7962",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인도네시아 국세청 감사패 수상… 차세대 조세행정시스템 구축·안정화 공로 인정",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96Vm1DWTNGWkNPU0tqbnFjM3YyWjRpdThrVjVQUlBCb2hPblREMDBEWnN3SVM5aFoyWk4yRjAyT0drREdzYmNodTlRMjNNeWI5elFMSk4zcTd0VlZueUJ0SnVjZDZ0YlR0WlNLUkJtRVFuUQ?oc=5",
+      "publisher": "웹이코노미",
+      "pubDate": "Wed, 16 Sep 2026 14:43:14 GMT",
+      "keyVisual": null,
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 차세대 조세행정시스템 구축 및 안정화 공로를 인정받아 인도네시아 국세청으로부터 감사패를 수상했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-16T23:34:05.893Z"
+    },
+    {
+      "id": "805ddc65212a3ad0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 60MW 규모 데이터센터 본격 착공...구미시, 상생 발전 간담회 개최",
+      "link": "https://www.kbsm.net/news/view.php?idx",
+      "publisher": "kbsm.net",
+      "pubDate": "Wed, 16 Sep 2026 11:22:06 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": "구미시",
+      "format": "간담회",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 60MW 규모 데이터센터 착공을 맞아 구미시와 지역 상생 발전을 위한 간담회를 개최했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-16T23:32:38.111Z"
+    },
+    {
+      "id": "1c7f46ce4d6a13e6",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 1분기 영업익 942억…'AI·클라우드' 도약, 전년비 19.4% 증가",
+      "link": "https://www.itdaily.kr/news/articleView.html?idxno",
+      "publisher": "아이티데일리",
+      "pubDate": "Wed, 16 Sep 2026 10:06:32 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI와 클라우드 사업의 성장에 힘입어 1분기 영업이익 942억 원을 기록하며 전년 동기 대비 19.4% 증가했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-16T23:33:11.905Z"
+    },
+    {
+      "id": "91b958cf72935477",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, AI·로봇·물류 10조 투자 시동…KKR과 M&A 물색",
+      "link": "https://www.investchosun.com/site/data/html_dir/2026/09/16/2026091680151.html",
+      "publisher": "인베스트조선",
+      "pubDate": "Wed, 16 Sep 2026 07:01:00 GMT",
+      "keyVisual": "https://img.investchosun.com/site/data/img_dir/2026/09/16/2026091680150_0.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI, 로봇, 글로벌 물류 등 신성장 분야에 2031년까지 10조 원을 투자하는 계획을 본격화하며 글로벌 사모펀드 KKR과 협력해 M&A 대상을 적극 물색하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 데이터센터 구축 및 기술 파트너십 체결 중심 활동에서 나아가 글로벌 사모펀드 KKR과 협력해 10조 원 규모의 대형 M&A 및 글로벌 투자를 본격 추진한다는 점이 이례적입니다."
+      },
+      "processedAt": "2026-09-16T23:32:33.177Z"
+    },
+    {
+      "id": "c56a0041cd102607",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[포토] 한동훈 LG CNS 보안 총괄 마이스터,  'AI 시대에 현업에서 바라보는 위협과 대응방안'",
+      "link": "https://www.etnews.com/20260916000288",
+      "publisher": "전자신문",
+      "pubDate": "Wed, 16 Sep 2026 05:52:36 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/16/news-p.v1.20260916.3e0dcf788b30404b9f16563ef9a89f49_P1.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "16일",
+      "location": "서울 용산구 서울드래곤시티 호텔",
+      "format": "오프라인 컨퍼런스 기조강연",
+      "slogan": null,
+      "keyMessage": "LG CNS 한동훈 보안 총괄 마이스터가 'IT 메가비전 X IITP 테크&퓨처 인사이트 콘서트 2026'에서 'AI 시대에 현업에서 바라보는 위협과 대응방안'을 주제로 기조강연을 진행했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-16T23:33:31.844Z"
+    },
+    {
+      "id": "060b13e886a6ba3f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "한국정경신문 | 지식과 문화가 있는 종합 일간지",
+      "link": "https://kpenews.com/?m=notfound",
+      "publisher": "한국정경신문",
+      "pubDate": "Wed, 16 Sep 2026 03:15:20 GMT",
+      "keyVisual": "https://cdn.coenworks.com/Files/Image/Account/4/kpenews_ogimage.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "야놀자가 추천·검색부터 예약 및 호텔 운영까지 여행 전 과정에 특화된 AI 에이전트를 적용하며 전사적 AI 전환에 박차를 가하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 LG CNS의 데이터센터 및 인도네시아 국세청 성과 관련 활동과 달리 대상 기업이 야놀자의 AI 전환 및 사업 관련 내용으로 다루어지고 있습니다."
+      },
+      "processedAt": "2026-09-16T23:33:48.492Z"
+    },
+    {
+      "id": "6d80563b3776e9a3",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "美 시카고에 뜬 LG CNS…북미 최대 제조 박람회서 '팩토바'로 시선 집중",
+      "link": "https://theguru.co.kr/news/article.html?no",
+      "publisher": "더구루",
+      "pubDate": "Wed, 16 Sep 2026 02:03:17 GMT",
+      "keyVisual": null,
+      "activityType": "전시",
+      "eventDate": null,
+      "location": "미국 시카고",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 미국 시카고에서 열린 북미 최대 제조 박람회에 참가해 스마트팩토리 솔루션 '팩토바'를 선보였습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 인도네시아 조세행정시스템 공로 수상 및 GPU 인프라 투자 발표와 달리, 북미 시장을 겨냥한 제조 스마트팩토리 솔루션 전시에 참여했다는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-09-16T23:33:19.405Z"
+    },
+    {
       "id": "09b5be0597360137",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -114,6 +312,28 @@
         "llmNote": "최근 인도네시아 차세대 조세행정시스템 구축 및 감사패 수상 관련 활동과 달리 대규모 GPU 인프라 투자 및 GPUaaS 사업 진출 소식을 다루고 있습니다."
       },
       "processedAt": "2026-09-15T23:25:06.286Z"
+    },
+    {
+      "id": "9d5726ab87905d67",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성, 구미 19조 투자 본격 시동…8만㎡ AI 데이터센터 추석 후 착공",
+      "link": "https://www.imaeil.com/page/view/2026091514315902010",
+      "publisher": "매일신문",
+      "pubDate": "Tue, 15 Sep 2026 06:43:10 GMT",
+      "keyVisual": "https://www.imaeil.com/photos/2026/09/15/2026091514451332409_l.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "구미시청 국제통상협력실",
+      "format": "간담회",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 구미시 및 삼성물산과 함께 60MW 규모의 구미 AI 데이터센터 착공을 앞두고 지역 상생 발전 간담회를 개최하여 공사 현황과 협력 방안을 논의했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-16T23:32:14.566Z"
     },
     {
       "id": "91bd8d7725bc898e",
@@ -290,6 +510,50 @@
         "llmNote": null
       },
       "processedAt": "2026-09-14T23:42:34.820Z"
+    },
+    {
+      "id": "d56dbfc4190e2bdd",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS,앤트로픽 'CPN' 셀렉트 티어 파트너 획득…국내 최초",
+      "link": "https://www.etnews.com/20260915000005",
+      "publisher": "전자신문",
+      "pubDate": "Mon, 14 Sep 2026 23:18:53 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/15/news-p.v1.20260915.2cf9b8b531c84e6da6790f2a34a92873_P1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS,앤트로픽 'CPN' 셀렉트 티어 파트너 획득…국내 최초",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-16T23:31:53.987Z"
+    },
+    {
+      "id": "bd8c0666bf291585",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[AI픽] 삼성SDS, 국내 최초 앤트로픽 파트너…'클로드' 원스톱 공급",
+      "link": "https://v.daum.net/v/20260915080142150?f",
+      "publisher": "v.daum.net",
+      "pubDate": "Mon, 14 Sep 2026 23:01:42 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/15/yonhap/20260915080142768gpzv.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-09-15",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국내 최초로 글로벌 AI 기업 앤트로픽의 공인 파트너 자격을 획득하여 '클로드'의 컨설팅부터 공급, 구축, 운영, 기술 지원까지 제공하는 원스톱 AI 도입 체계를 구축했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 구미 AI 데이터센터 착공 관련 인프라 구축 활동이 주를 이루었던 것과 달리 글로벌 AI 기업과의 협력을 통한 AI 서비스 및 파트너십 확대에 집중하고 있습니다."
+      },
+      "processedAt": "2026-09-16T23:33:03.419Z"
     },
     {
       "id": "6bdcc1a24282ab17",
@@ -512,6 +776,28 @@
       "processedAt": "2026-09-15T23:25:15.138Z"
     },
     {
+      "id": "e88e0466212364a4",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인니 조세 시스템 구축 공로 감사패 수상…“세수 25% 늘어”",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/14/PV3TRFY5A5EKBAUJJ7Q2K4P46Q/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Mon, 14 Sep 2026 06:32:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/DJ6SG6ALN5DNFDE2FW57BKWG74.jpg?auth=d1cdca46841425584b58ec163440d91c941704e3750c1d1651ede459a4c339d2&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 조세 시스템 구축 및 운영 공로로 감사패를 수상했으며 현지 세수가 25% 증가하는 성과를 달성했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-16T23:34:12.969Z"
+    },
+    {
       "id": "ad7b649179aad5e2",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -644,6 +930,28 @@
       "processedAt": "2026-09-14T23:41:34.884Z"
     },
     {
+      "id": "eb96460a4ef67fbf",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"세수 25% 늘었다\"…LG CNS가 구축한 인니 조세시스템 주목 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260914017400017",
+      "publisher": "연합뉴스",
+      "pubDate": "Mon, 14 Sep 2026 01:00:05 GMT",
+      "keyVisual": "https://img6.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914017400017_01_i_P4.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-14",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 차세대 조세행정시스템 '코어택스'를 성공적으로 구축·안정화하여 조세 수입 증가에 기여한 공로로 현지 국세청 감사패를 받았으며, 향후 AI 기술을 접목한 후속 고도화 사업도 논의 중이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-16T23:33:39.400Z"
+    },
+    {
       "id": "6b47e869f10bf2e6",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -730,6 +1038,28 @@
         "llmNote": "최근 AX·RX 및 피지컬 AI 관련 기술·사업 발표 중심의 활동과 달리 글로벌 기관의 기업 신뢰도 평가 1위 선정 소식을 전한 보도이다."
       },
       "processedAt": "2026-09-14T23:42:31.688Z"
+    },
+    {
+      "id": "6235a6b46f48ca49",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "이데일리",
+      "link": "https://www.edaily.co.kr/?aspxerrorpath=/News/Read",
+      "publisher": "edaily.co.kr",
+      "pubDate": "Mon, 14 Sep 2026 00:04:39 GMT",
+      "keyVisual": "https://www.edaily.co.kr/profile_edaily_512.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문은 비만 및 당뇨 치료제 주가 동향에 대한 내용으로, 삼성SDS의 마케팅 활동 정보가 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-16T23:32:23.135Z"
     },
     {
       "id": "d9542a4b501b0292",
@@ -2996,6 +3326,28 @@
         "llmNote": "기존 컨퍼런스나 사업 발표와 달리 로봇 기반 제조 혁신인 '로봇 전환(RX)' 사업 진출을 처음 공식 선언하고 글로벌 AI 리더들과의 다각도 파트너십을 공개한 점이 주목할 만합니다."
       },
       "processedAt": "2026-09-08T23:10:47.025Z"
+    },
+    {
+      "id": "4ff713720edd57a1",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, '다차원 AI 풀스택' 공개…AI 보안·피지컬 AI로 영역 확장",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54R21PcHcwaTNHSV9SQktGWUVpa1JCNV9WanlxNVVsZ29lMjZqQlN4b2RlSUZ4b3dhNDRnY3NNa0JoTkozS0VWUFp6dXhYeUhYYXl1NVNCY3lpRDZMcllYTDhxMXJyV2h4NkE?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Tue, 08 Sep 2026 00:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '다차원 AI 풀스택'을 공개하며 AI 보안과 피지컬 AI로 사업 영역을 확장합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 AI 데이터센터 구축 및 파트너십 중심 활동에서 피지컬 AI 및 AI 보안 영역으로의 확장 행보가 돋보입니다."
+      },
+      "processedAt": "2026-09-16T23:32:46.368Z"
     },
     {
       "id": "8e0f0b7a1c59fac1",
