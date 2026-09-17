@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T23:34:28.938Z",
+  "updatedAt": "2026-09-17T23:25:00.846Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,182 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "8052d134531b6aa0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS·SK AX·삼성SDS, AI 넘어 로봇으로… RX 경쟁 본격화",
+      "link": "https://it.chosun.com/news/articleView.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Thu, 17 Sep 2026 21:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI를 넘어 로봇 기술을 도입하며 주요 IT 서비스 기업들과 RX(로봇 전환) 시장 선점을 위한 경쟁을 본격화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-17T23:21:55.043Z"
+    },
+    {
+      "id": "8052d134531b6aa0",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS·SK AX·삼성SDS, AI 넘어 로봇으로… RX 경쟁 본격화",
+      "link": "https://it.chosun.com/news/articleView.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Thu, 17 Sep 2026 21:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 삼성SDS, SK C&C 등 주요 IT서비스 기업들과 함께 AI를 넘어 로봇 전환(RX) 분야로 사업 경쟁을 본격화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 AI·클라우드 및 스마트팩토리 중심의 활동에서 로봇 기술을 결합한 로봇 전환(RX) 영역으로 사업 중심 축을 확장하고 있습니다."
+      },
+      "processedAt": "2026-09-17T23:23:04.633Z"
+    },
+    {
+      "id": "8052d134531b6aa0",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS·SK AX·삼성SDS, AI 넘어 로봇으로… RX 경쟁 본격화",
+      "link": "https://it.chosun.com/news/articleView.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Thu, 17 Sep 2026 21:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 주요 IT서비스 기업들과 함께 AI를 넘어 로봇 전환(RX) 분야로 사업 영역을 확장하며 경쟁을 본격화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 전환(AX) 중심 활동에서 더 나아가 로봇 전환(RX) 분야로 사업 영역을 본격적으로 확장하고 있습니다."
+      },
+      "processedAt": "2026-09-17T23:23:37.387Z"
+    },
+    {
+      "id": "46bc1d793e67c7ea",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[부고] 이대진씨(SK AX 매니저) 모친상",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VX3Zaa2FweXl2bjVuakZpQ25yYWpKRk9DRDlGQTBzZk95U3g2dnZuT21ucUFhYVpqQ3YtbF8yMl9WVVZnMXp5WEk1MVJfWm0xN3F3V2xaa2RMYXpaemtlWDRnSjNuRl80WlHSAW5BVV95cUxNUG9FdDZmNjVwdi1VOVV3VDI2aWVIMHFuODEtS2M2Z0JJbXpkaFM1dllmSzBjcnBmR2JqZE9sOFJsYjV0ZzJEWjk4MEVkN1NiWlFILV9kZGRMcmFNX1ZaeUh5UExMNFpKQTd1RXZHUQ?oc=5",
+      "publisher": "퍼블릭타임스",
+      "pubDate": "Thu, 17 Sep 2026 11:31:12 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX 이대진 매니저의 모친상 소식을 전하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 경영 실적 및 AI 전환 중심의 기사들과 달리 임직원의 개인적인 부고 소식입니다."
+      },
+      "processedAt": "2026-09-17T23:23:45.600Z"
+    },
+    {
+      "id": "9c1a3afd4ca53362",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[부고] 이대진 SK AX 매니저 모친상",
+      "link": "https://www.ksw-news.com/news/articleView.html?idxno",
+      "publisher": "NANOOM ENERGY",
+      "pubDate": "Thu, 17 Sep 2026 10:53:19 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX 이대진 매니저의 모친상 소식을 알리는 부고입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 경영 및 AI 전환 관련 활동 소식과 달리 임직원 개인의 부고 소식을 다루고 있습니다."
+      },
+      "processedAt": "2026-09-17T23:24:04.382Z"
+    },
+    {
+      "id": "b3b9abad688ea6f8",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "≪주간현대≫ LG CNS, 인도네시아 국세청 ‘코어택스’ 성공 구축 및 운영 공로로 감사패 수상",
+      "link": "http://hyundaenews.com/107587",
+      "publisher": "주간현대",
+      "pubDate": "Thu, 17 Sep 2026 07:45:00 GMT",
+      "keyVisual": "http://www.hyundaenews.com/data/hyundaenews_com/mainimages/202609/2026091747113780.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-11",
+      "location": "인도네시아 자카르타 국세청",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 국세청의 차세대 조세행정시스템 '코어택스'를 성공적으로 구축하고 안정적으로 운영 지원한 공로를 인정받아 감사패를 수상했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-17T23:23:29.379Z"
+    },
+    {
+      "id": "3411055247735edc",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Thu, 17 Sep 2026 07:41:44 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "본문 내용이 지디넷코리아 뉴스레터 구독 안내로 이루어져 있으며 LG CNS의 마케팅 활동 정보를 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기업의 마케팅 활동 내용이 아닌 언론사의 뉴스레터 구독 안내 본문만 포함되어 있는 점이 특이합니다."
+      },
+      "processedAt": "2026-09-17T23:23:13.798Z"
+    },
+    {
+      "id": "ff67241534fc191c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 3814억원 투자에 담긴 AI 인프라 사업 전략",
+      "link": "https://www.bloter.net/news/articleViewAmp.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Thu, 17 Sep 2026 05:41:13 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 3814억원 투자에 담긴 AI 인프라 사업 전략",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-17T23:23:19.653Z"
+    },
     {
       "id": "1cea992f1730dbae",
       "company": "삼성SDS",
@@ -292,6 +468,28 @@
       "processedAt": "2026-09-16T23:33:19.405Z"
     },
     {
+      "id": "be9171975845581f",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국내 첫 앤트로픽 파트너",
+      "link": "https://www.khan.co.kr/article/202609152036025",
+      "publisher": "경향신문",
+      "pubDate": "Tue, 15 Sep 2026 11:36:00 GMT",
+      "keyVisual": "https://img.khan.co.kr/news/2026/09/15/l_2026091601000506200049101.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "15일",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국내 최초로 미국 AI 기업 앤트로픽의 공인 파트너 자격을 획득하여 클로드 AI 도입 컨설팅부터 구축, 운영, 기술 지원까지 아우르는 원스톱 AI 도입 체계를 갖추게 되었다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-17T23:21:46.159Z"
+    },
+    {
       "id": "09b5be0597360137",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -312,6 +510,28 @@
         "llmNote": "최근 인도네시아 차세대 조세행정시스템 구축 및 감사패 수상 관련 활동과 달리 대규모 GPU 인프라 투자 및 GPUaaS 사업 진출 소식을 다루고 있습니다."
       },
       "processedAt": "2026-09-15T23:25:06.286Z"
+    },
+    {
+      "id": "656de44879cb6202",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국내 첫 '앤트로픽' 공인 파트너 - 매일경제",
+      "link": "https://www.mk.co.kr/news/it/12153338",
+      "publisher": "매일경제",
+      "pubDate": "Tue, 15 Sep 2026 08:10:24 GMT",
+      "keyVisual": "https://pimg.mk.co.kr/news/cms/202609/16/20260916_01110116000004_L00.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, 국내 첫 '앤트로픽' 공인 파트너 - 매일경제",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-17T23:22:14.283Z"
     },
     {
       "id": "9d5726ab87905d67",
@@ -402,6 +622,28 @@
       "processedAt": "2026-09-15T23:24:14.115Z"
     },
     {
+      "id": "ad5aa6216e896cba",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 앤트로픽 국내 첫 ‘셀렉트’ 파트너 자격 획득",
+      "link": "https://it.chosun.com/news/articleView.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Tue, 15 Sep 2026 02:02:03 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 글로벌 AI 기업 앤트로픽(Anthropic)의 국내 첫 '셀렉트' 파트너 자격을 획득했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "자체 AI 풀스택 투자 및 데이터센터 구축 위주의 최근 활동과 달리, 글로벌 대표 AI 기업인 앤트로픽과 국내 최초 파트너십 자격을 획득하며 외부 협력 생태계를 적극 확대하고 있습니다."
+      },
+      "processedAt": "2026-09-17T23:22:23.759Z"
+    },
+    {
       "id": "5a5257d7d9a4d4da",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -468,6 +710,28 @@
       "processedAt": "2026-09-15T23:24:53.229Z"
     },
     {
+      "id": "e906c92e484840c6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 앤트로픽 ‘클로드 파트너 네트워크’ 국내 첫 셀렉트 티어 획득",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/15/N4UTWNESFRDWVLBG4UKCMJWACQ/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Tue, 15 Sep 2026 00:25:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/GD32KHH4TRG7HKIALQWV27Y3GY.jpg?auth=9073e8633e67ffd6883a7c5527a4c9deb03dfaa2bf1207974e8e7ba179cb21f6&width=1200&height=630&smart=true",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 앤트로픽의 '클로드 파트너 네트워크'에서 국내 최초로 셀렉트 티어를 획득했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 독자적인 AI 풀스택 구축 및 인프라 투자 중심 활동과 달리 글로벌 주요 AI 기업인 앤트로픽과의 직접적인 파트너십 성과를 확보했다는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-09-17T23:22:32.211Z"
+    },
+    {
       "id": "1e0ba99e8f56202e",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -488,6 +752,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-15T23:24:25.910Z"
+    },
+    {
+      "id": "75e284e12ddb3b9d",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국내 최초 앤트로픽 클로드 파트너 선정",
+      "link": "https://www.newspim.com/news/view/20260915000108",
+      "publisher": "newspim.com",
+      "pubDate": "Mon, 14 Sep 2026 23:37:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/09/15/2609150833598350_t1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "15일",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국내 기업 최초로 앤트로픽의 '클로드 파트너 네트워크' 셀렉트 티어 파트너 자격을 획득하며 클로드 도입 컨설팅부터 구축, 운영, 기술 지원까지 아우르는 원스톱 AI 도입 체계를 갖추게 되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 데이터센터 착공 및 AI 풀스택 투자 중심의 행보와 달리, 앤트로픽과의 파트너십을 통해 생성형 AI 모델 도입 및 AX 서비스 제공 체계를 구축한 점이 특징입니다."
+      },
+      "processedAt": "2026-09-17T23:22:09.854Z"
     },
     {
       "id": "ec66363aa20fcf33",
@@ -576,6 +862,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-14T23:40:48.495Z"
+    },
+    {
+      "id": "fc5e1577e2152cf3",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 실무 역량별 생성형 AI 자격 운영… 외부 확산 추진",
+      "link": "http://www.economytalk.kr/news/articleView.html?idxno",
+      "publisher": "이코노미톡뉴스",
+      "pubDate": "Mon, 14 Sep 2026 23:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 실무 역량별 생성형 AI 자격 제도를 운영하고 이를 외부로 확산 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 경영 성과 발표나 현장 점검 위주의 활동과 달리, 자체적인 AI 역량 자격 제도를 운영하고 외부 확산까지 추진한다는 점에서 차별점이 있습니다."
+      },
+      "processedAt": "2026-09-17T23:24:20.796Z"
     },
     {
       "id": "c7c6b83dea5590ca",
@@ -886,6 +1194,28 @@
       "processedAt": "2026-09-14T23:41:28.186Z"
     },
     {
+      "id": "edb9b95f1bee71f7",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Mon, 14 Sep 2026 04:47:13 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-17T23:24:09.252Z"
+    },
+    {
       "id": "739a9b8d62ddcb63",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -908,6 +1238,28 @@
       "processedAt": "2026-09-14T23:42:22.352Z"
     },
     {
+      "id": "fb7dc8bf80ea2628",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“AI 교육·인증 인정받았다”… SK AX, 고용부 장관상 수상",
+      "link": "https://www.sedaily.com/article/20090486",
+      "publisher": "서울경제",
+      "pubDate": "Mon, 14 Sep 2026 01:19:35 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/09/14/news-p.v1.20260914.b4a8ad2bc23b49309d9aa072353bf727_Z1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "“AI 교육·인증 인정받았다”… SK AX, 고용부 장관상 수상",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-17T23:24:25.512Z"
+    },
+    {
       "id": "0296acd961cb3bb5",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -928,6 +1280,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-14T23:41:34.884Z"
+    },
+    {
+      "id": "db750cb044bc6519",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 고용부 장관상 받았다…\"국가로부터 인정받은 AI교육\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EM2QwWUZDTkhBeVJrLXNLSmFWOTJ4M1llOFdONEtxT3Ric1h0US1icmpPcWFBYzBUaGpwQ292Q0pBTzdoWUVLLUFURHNpZFN5Y0tJZThsc3VIbkRfZzFiT19sYjYtY3plWFNqa3VhVWVXWEpINkVVTdIBeEFVX3lxTE5EM2QwWUZDTkhBeVJrLXNLSmFWOTJ4M1llOFdONEtxT3Ric1h0US1icmpPcWFBYzBUaGpwQ292Q0pBTzdoWUVLLUFURHNpZFN5Y0tJZThsc3VIbkRfZzFiT19sYjYtY3plWFNqa3VhVWVXWEpINkVVTQ?oc=5",
+      "publisher": "newsis.com",
+      "pubDate": "Mon, 14 Sep 2026 01:05:22 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 인공지능(AI) 교육 역량을 인정받아 고용노동부 장관상을 수상했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 매출 달성 발표나 현장 점검 관련 소식과 달리 AI 인재 교육 성과로 정부 포상을 받았다는 점이 특이합니다."
+      },
+      "processedAt": "2026-09-17T23:24:45.540Z"
     },
     {
       "id": "eb96460a4ef67fbf",
@@ -1016,6 +1390,50 @@
         "llmNote": "최근 AX·RX 기술 솔루션 및 고객 시너지 행사 중심의 활동들과 달리, 글로벌 기업 신뢰도 순위 1위 선정 결과를 알리는 언론보도이다."
       },
       "processedAt": "2026-09-14T23:42:10.088Z"
+    },
+    {
+      "id": "56bf49d8680b0c20",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 국내 첫 'AI 역량 인증' 정부 인정…고용부 장관상 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260914031000017",
+      "publisher": "연합뉴스",
+      "pubDate": "Mon, 14 Sep 2026 00:44:17 GMT",
+      "keyVisual": "https://img2.yna.co.kr/etc/inner/KR/2026/09/14/AKR20260914031000017_01_i_P4.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-11",
+      "location": "서울 코엑스마곡",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "SK AX가 자체 생성형 AI 교육·인증 프로그램의 우수한 성과를 인정받아 국내 최초로 AI 역량 인증 분야에서 고용노동부 장관상을 수상했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 경영 전략 발표 및 현장 점검 소식과 달리 사내 AI 교육·인증 프로그램의 정부 공식 인정 및 수상 성과를 다룬 점이 특징입니다."
+      },
+      "processedAt": "2026-09-17T23:23:58.322Z"
+    },
+    {
+      "id": "28510d83e6cf97cf",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 자체 AI 교육·인증 성과로 고용부 장관상 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/09/14/2026091409095528642",
+      "publisher": "머니투데이",
+      "pubDate": "Mon, 14 Sep 2026 00:10:48 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091409095528642_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": "11일",
+      "location": "코엑스마곡",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "SK AX가 자체 개발한 생성형 AI 교육·인증 프로그램으로 고용노동부 장관상을 수상하며 AI 역량 인증 분야에서 국내 최초로 정부 인정을 받았다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 매출 달성이나 최고경영진의 현장 방문 소식과 달리, 사내 AI 교육 및 인증 프로그램의 정부 수상 성과를 다루고 있다."
+      },
+      "processedAt": "2026-09-17T23:24:39.946Z"
     },
     {
       "id": "ff520ca45a83bfe0",
