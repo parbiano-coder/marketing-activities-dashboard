@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T23:25:00.846Z",
+  "updatedAt": "2026-09-18T23:04:16.329Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,226 @@
   ],
   "activities": [
     {
+      "id": "c074b42db51637b6",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[빅테크 거버넌스③]전공 심화 카카오, 복수전공 네이버…김범수·이해진의 엇갈린 성장 전략",
+      "link": "https://news.mtn.co.kr/news-detail/2026091816505359853",
+      "publisher": "MTN 머니투데이방송",
+      "pubDate": "Fri, 18 Sep 2026 21:02:01 GMT",
+      "keyVisual": "https://menu.mtn.co.kr/upload/article/2026/09/18/2026091816505359853_00_592.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오와 네이버의 거버넌스 재편 및 성장 전략을 비교하며 네이버 이해진 의장과 두나무 송치형 회장의 협력 등 기업 경영 및 성장 방향성을 분석한 보도이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 서비스 업데이트나 서비스 연동 소식과 달리 기업의 거버넌스 재편 및 두나무와의 파트너십/성장 전략을 다룬 분석 기사라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-18T23:03:38.605Z"
+    },
+    {
+      "id": "c88c4d842f81d6de",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국내 최초 앤트로픽 ‘클로드 파트너 네트워크’ 셀렉트 티어 파트너 되다",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yYTh5aFV6RHFlNUplckw4TFJsU19FV2hnbTAxZy1WM0U0Vk9Qa1FaUWE1R1c2S3V0T1RvckNiRjJVdmkxU0FxcjZWdUtEQVc1U3RNY1FKY19ERFFPb1NId3h4b3QwMTB2elZPSC13?oc=5",
+      "publisher": "koreasprint.com",
+      "pubDate": "Fri, 18 Sep 2026 16:16:00 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국내 최초로 앤트로픽의 '클로드 파트너 네트워크' 셀렉트 티어 파트너로 선정되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "자체 AI 투자 및 전략 발표 위주의 기존 활동과 달리, 글로벌 생성형 AI 기업 앤트로픽과의 국내 최초 공식 파트너십을 통해 생태계 협력을 구체화했다는 점이 특이합니다."
+      },
+      "processedAt": "2026-09-18T23:00:41.857Z"
+    },
+    {
+      "id": "d4b42e160ef49114",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "BNK금융그룹 '생성형 AI 플랫폼 구축사업', 삼성SDS가 잡았다",
+      "link": "https://www.ddaily.co.kr/page/view/2026091813205831448",
+      "publisher": "디지털데일리",
+      "pubDate": "Fri, 18 Sep 2026 08:58:27 GMT",
+      "keyVisual": "/photos/2026/04/09/2026040915151056771_l.jpg",
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 BNK금융그룹 10개 계열사가 공동으로 사용하는 생성형 AI 플랫폼 구축사업의 우선협상대상자로 선정되며 금융권 AI 전환 사업 실적을 확대했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-18T23:00:22.409Z"
+    },
+    {
+      "id": "942a80e94c380884",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] 삼성, 軍 차세대 지휘통제사업 진출한다",
+      "link": "https://www.sedaily.com/article/20092774",
+      "publisher": "서울경제",
+      "pubDate": "Fri, 18 Sep 2026 08:37:44 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/09/18/news-p.v1.20260916.0c18bc6b967c409fa9dfa179c80cdd99_Z1.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-18",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국방과학연구소의 위탁 연구를 통해 차세대 지휘통제체계(KCCS 2.0) 구축 방안을 제시하고 삼성전자와의 협업을 바탕으로 국방 사업 공략에 나섰다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 활동이 주로 AI, 로봇(RX), 데이터센터 투자에 집중되었던 것과 달리, 국방 분야 차세대 지휘통제사업 진출 및 계열사 협력 모델을 제시했다는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-09-18T23:01:06.909Z"
+    },
+    {
+      "id": "c4de08aa585ecbbc",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“3810억 승부수 던진 LG CNS, 단순 DBO 넘어 ‘GPUaaS’ 시장 전면 진출”",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51U2stckVVc0tTRHdmZ2daWlpoMXhEamNiSERyVmFXa091bDZWOWlzTi1nYk5IclJOM0taVUxfQjJ6LWI3a0dNMVpiamFfbHhQZFd4SmRoVExDYUdOQ0kyMGhtTWNVb0lpSGZmNFdSWQ?oc=5",
+      "publisher": "뉴스퀘스트",
+      "pubDate": "Fri, 18 Sep 2026 05:52:41 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 단순 DBO 영역을 넘어 3,810억 원을 투자하며 GPUaaS 시장에 전면 진출합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-18T23:01:38.641Z"
+    },
+    {
+      "id": "ec5098805293de62",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[Multi AI 시대의 소버린 AI 전략] ① 우리 회사의 AI는 누구 것인가?- 모델이 늘어날수록 커지는 AI 주권의 문제 | 인사이트리포트 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/insights/sovereign-ai-full-stack-part1.html",
+      "publisher": "Samsung SDS America",
+      "pubDate": "Fri, 18 Sep 2026 05:18:26 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/09/17/thumb_0918.png?queryString=20260918020446",
+      "activityType": "기타",
+      "eventDate": "2026-09-18",
+      "location": null,
+      "format": "인사이트 리포트 발행",
+      "slogan": null,
+      "keyMessage": "단순히 국산 모델이나 국내 데이터센터를 사용하는 것만으로는 기업의 AI 주권을 확보할 수 없으며, 인프라부터 플랫폼, 솔루션을 관통하는 AI Full Stack 통제 및 전환 체계를 마련해야 한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-18T23:00:13.410Z"
+    },
+    {
+      "id": "57961cfa979ca239",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS·NHN 38% 뛸때, 홀로 떨어진 네이버…AIDC 사업자株 희비 가른 것은? - 매일경제",
+      "link": "https://www.mk.co.kr/news/stock/12156419",
+      "publisher": "매일경제",
+      "pubDate": "Fri, 18 Sep 2026 04:26:42 GMT",
+      "keyVisual": "https://pimg.mk.co.kr/news/cms/202609/18/news-p.v1.20260918.56a0604b2f414db2b4a1a7c5a2dba128_R.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 계열사의 AI 연산 수요와 기존 기업 클라우드 고객을 바탕으로 고금리 환경에서도 안정적인 AI 데이터센터 수익성 및 자금 회수 능력을 확보하고 있다는 증권가 평가가 보도되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-18T23:00:34.642Z"
+    },
+    {
+      "id": "6561b029ca9dc2c8",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 그룹 'AI 투자' 실행 본격화…3800억 '베팅'",
+      "link": "https://www.topdaily.kr/articles/112018",
+      "publisher": "톱데일리",
+      "pubDate": "Fri, 18 Sep 2026 02:11:00 GMT",
+      "keyVisual": "https://assets.repress.co.kr/photos/e9d0524a9a5d5fe3aa17b6579333fbb3/thumb.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 그룹 'AI 투자' 실행 본격화…3800억 '베팅'",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-18T23:01:22.151Z"
+    },
+    {
+      "id": "a5f96e8fe7fed383",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, AI 데이터센터 수요 가시성 부각...목표가↑-미래",
+      "link": "https://www.infostockdaily.co.kr/news/articleView.html?idxno",
+      "publisher": "인포스탁데일리",
+      "pubDate": "Fri, 18 Sep 2026 01:06:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 AI 데이터센터 수요 가시성이 부각되면서 증권가에서 목표주가를 상향했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-18T23:00:55.711Z"
+    },
+    {
+      "id": "b5282050f036ec77",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "쿠팡·네이버에서 샀는데‥중국산 '가짜'였다",
+      "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6852682_37012.html",
+      "publisher": "MBC 뉴스",
+      "pubDate": "Thu, 17 Sep 2026 22:37:10 GMT",
+      "keyVisual": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/09/18/today_20260918_073558_2_29_Large.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론보도",
+      "slogan": null,
+      "keyMessage": "식약처가 네이버와 쿠팡 등의 오픈마켓을 통해 국내에 유통된 중국산 가짜 화장품 및 건강기능식품을 적발하고 관련자를 검찰에 넘겼습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "자사의 마케팅·비즈니스 활동이 아닌 플랫폼 내 가품 유통 이슈를 다룬 부정적 보도 내용이라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-18T23:03:54.929Z"
+    },
+    {
       "id": "8052d134531b6aa0",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -160,6 +380,28 @@
       "processedAt": "2026-09-17T23:23:37.387Z"
     },
     {
+      "id": "8a91d4b2d2783aab",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "쿠팡·네이버에서 샀는데 중국산 가짜…유통책 검거",
+      "link": "https://v.daum.net/v/3fpav8B3CH",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 17 Sep 2026 12:57:51 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/17/kbs/20260917215752862mxix.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-17",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버와 쿠팡 오픈마켓을 통해 45억 원 상당의 중국산 위조 화장품 및 건강기능식품을 유통한 유통책이 적발되어 검찰에 송치되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 활동들과 달리 네이버의 마케팅 활동이나 서비스 업데이트가 아닌 오픈마켓 내 위조품 유통 적발 사건이라는 부정적 언론보도라는 점이 특이합니다."
+      },
+      "processedAt": "2026-09-18T23:04:02.195Z"
+    },
+    {
       "id": "46bc1d793e67c7ea",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -202,6 +444,28 @@
         "llmNote": "기존의 경영 및 AI 전환 관련 활동 소식과 달리 임직원 개인의 부고 소식을 다루고 있습니다."
       },
       "processedAt": "2026-09-17T23:24:04.382Z"
+    },
+    {
+      "id": "6cd10de9e785d240",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 3814억원 투자에 담긴 AI 인프라 사업 전략",
+      "link": "https://v.daum.net/v/pVlxCKpXb6",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 17 Sep 2026 07:52:14 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S800x400/?fname=https://t1.daumcdn.net/news/202609/17/bloter/20260917165214771fozl.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 3814억원 투자에 담긴 AI 인프라 사업 전략",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-18T23:01:43.344Z"
     },
     {
       "id": "b3b9abad688ea6f8",
@@ -468,6 +732,28 @@
       "processedAt": "2026-09-16T23:33:19.405Z"
     },
     {
+      "id": "2e5ce45f00b0a160",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "美 시카고에 뜬 LG CNS…북미 최대 제조 박람회서 '팩토바'로 시선 집중",
+      "link": "https://www.theguru.co.kr/news/article.html?no",
+      "publisher": "더구루",
+      "pubDate": "Wed, 16 Sep 2026 02:03:17 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "美 시카고에 뜬 LG CNS…북미 최대 제조 박람회서 '팩토바'로 시선 집중",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-18T23:01:30.056Z"
+    },
+    {
       "id": "be9171975845581f",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -666,6 +952,28 @@
       "processedAt": "2026-09-15T23:24:46.945Z"
     },
     {
+      "id": "c15f8ef3e208d934",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK, 존재감 커지는 ‘자체사업(SK AX)’과 ‘비상장 SK에코플랜트’",
+      "link": "https://www.newsfc.co.kr/news/articleView.html?idxno",
+      "publisher": "금융소비자뉴스",
+      "pubDate": "Tue, 15 Sep 2026 01:18:47 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK그룹 내에서 자체 사업인 SK AX와 비상장 자회사 SK에코플랜트의 존재감과 비중이 커지고 있다는 내용의 언론 보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-18T23:03:23.330Z"
+    },
+    {
       "id": "b32838a856089fbd",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -840,6 +1148,28 @@
         "llmNote": "최근 구미 AI 데이터센터 착공 관련 인프라 구축 활동이 주를 이루었던 것과 달리 글로벌 AI 기업과의 협력을 통한 AI 서비스 및 파트너십 확대에 집중하고 있습니다."
       },
       "processedAt": "2026-09-16T23:33:03.419Z"
+    },
+    {
+      "id": "979ab5babb3ba70d",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[AI픽] 삼성SDS, 국내 최초 앤트로픽 파트너…'클로드' 원스톱 공급",
+      "link": "https://v.daum.net/v/uuxSATsAtA?f",
+      "publisher": "v.daum.net",
+      "pubDate": "Mon, 14 Sep 2026 23:01:42 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/15/yonhap/20260915080142768gpzv.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-09-15",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 국내 최초로 글로벌 AI 기업 앤트로픽의 공인 파트너 자격을 획득해 AI 서비스 '클로드'의 컨설팅부터 공급, 구축, 운영까지 원스톱으로 제공하는 체계를 마련했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-18T23:01:16.924Z"
     },
     {
       "id": "6bdcc1a24282ab17",
@@ -1216,6 +1546,28 @@
       "processedAt": "2026-09-17T23:24:09.252Z"
     },
     {
+      "id": "ce65341ac1bda9f9",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, AI 인재 육성으로 체질 개선…고용노동부 장관상 품었다",
+      "link": "https://www.donga.com/news/amp/all/20260914/134663260/1",
+      "publisher": "동아일보",
+      "pubDate": "Mon, 14 Sep 2026 02:50:30 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/14/134663257.2.jpg",
+      "activityType": "언론보도",
+      "eventDate": "11일",
+      "location": "서울 코엑스마곡",
+      "format": "시상식",
+      "slogan": null,
+      "keyMessage": "SK AX가 독자 구축한 생성형 AI 교육·인증제로 고용노동부 장관상을 수상하며 국내 최초로 생성형 AI 활용능력 기업자격을 정부로부터 공식 인정받았습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-18T23:03:08.497Z"
+    },
+    {
       "id": "739a9b8d62ddcb63",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -1282,6 +1634,28 @@
       "processedAt": "2026-09-14T23:41:34.884Z"
     },
     {
+      "id": "68199c01f88e9b01",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, AI 인재 양성으로 업무혁신…고용노동부 장관상 수상",
+      "link": "https://www.chosun.com/economy/tech_it/2026/09/14/R7TQMVPLHJESHL6DDFXMKOIZBE/",
+      "publisher": "조선일보",
+      "pubDate": "Mon, 14 Sep 2026 01:06:57 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/SVLJKCUEP5F55FJIKY7DSSHQWM.jpg?auth=a816a70ef9abf654084a824ffc7f17ec3ec630627bf96b253839ddbd82e9954c&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 AI 인재 양성을 통한 업무혁신 성과를 인정받아 고용노동부 장관상을 수상했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-18T23:02:04.190Z"
+    },
+    {
       "id": "db750cb044bc6519",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -1302,6 +1676,28 @@
         "llmNote": "기존의 매출 달성 발표나 현장 점검 관련 소식과 달리 AI 인재 교육 성과로 정부 포상을 받았다는 점이 특이합니다."
       },
       "processedAt": "2026-09-17T23:24:45.540Z"
+    },
+    {
+      "id": "d4ecb10a725ea1f5",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 자체 AI 교육·인증 프로그램으로 고용부 장관상",
+      "link": "https://v.daum.net/v/20260914100009285?f",
+      "publisher": "v.daum.net",
+      "pubDate": "Mon, 14 Sep 2026 01:00:09 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/14/dt/20260914100011027xszs.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-11",
+      "location": "서울 코엑스마곡",
+      "format": "오프라인 시상식",
+      "slogan": null,
+      "keyMessage": "SK AX가 자체 개발한 생성형 AI 교육·인증 프로그램으로 고용노동부 장관상을 수상하며 생성형 AI 활용 분야에서 기업자격 정부 인정을 받은 첫 사례가 되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-18T23:03:17.714Z"
     },
     {
       "id": "eb96460a4ef67fbf",
@@ -1368,6 +1764,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-15T23:26:21.153Z"
+    },
+    {
+      "id": "228e829f0916285a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인도네시아 조세시스템에 AI 접목 논의 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/09/14/2026091407515489019",
+      "publisher": "머니투데이",
+      "pubDate": "Mon, 14 Sep 2026 01:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091407515489019_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 인도네시아 조세시스템에 AI 접목 논의 - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-18T23:01:52.435Z"
     },
     {
       "id": "9b64afd60102908c",
