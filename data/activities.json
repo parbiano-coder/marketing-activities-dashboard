@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T23:04:16.329Z",
+  "updatedAt": "2026-09-19T22:41:56.342Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,138 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "defa73aba9b05c4c",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "취준생 몰리던 '네카오'…공채 멈추고 취업문 좁아지나",
+      "link": "https://v.daum.net/v/20260920061639842",
+      "publisher": "v.daum.net",
+      "pubDate": "Sat, 19 Sep 2026 21:16:39 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/20/yonhap/20260920061639468jxxe.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026. 9. 20.",
+      "location": null,
+      "format": "언론보도",
+      "slogan": null,
+      "keyMessage": "카카오가 인적분할 등 대규모 조직 개편과 AI 중심 사업 전환에 따라 올해 대규모 신입 공개채용 대신 수시 채용과 기존 인력 재배치 중심의 채용 전략을 이어갈 전망입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 사업 연동, 서비스 출시, 지배구조 개편 소식과 달리 신입 공채 중단 및 수시 채용 전환 등 인력 수급 및 채용 전략 변화를 다루고 있다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-19T22:41:25.935Z"
+    },
+    {
+      "id": "b9c351aebeca4a17",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독]영상 보다 지갑 열었다…네이버 클립, 쇼핑 전환 매출 5.8배 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/09/20/2026091717141898264",
+      "publisher": "머니투데이",
+      "pubDate": "Sat, 19 Sep 2026 21:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=703,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026091717141898264_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버의 동영상 서비스 '클립'의 쇼핑 전환 매출이 전년 대비 5.8배 증가하는 등 성과를 내며 커머스·장소 예약 서비스 연계 및 콘텐츠 범위 확장을 가속화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 이슈들이 리스크 관리 및 지배구조에 집중되었던 것과 달리, 본 활동은 자사 숏폼 서비스(클립)의 커머스 전환 성과 지표와 플랫폼 확장 전략을 구체적으로 제시하고 있습니다."
+      },
+      "processedAt": "2026-09-19T22:39:43.608Z"
+    },
+    {
+      "id": "360e90c697254276",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“모여서 각자 제품 개발”…카카오벤처스, 창업자 몰입 공간 '템프서울' 개관",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMzJmV0ZWVUhrak1pWHp5dnpEdjM4ck1DT002TU5iX2xHQXgydGRza0ZFdlRXdjNJenZVWmcwX2VJV2Q1Mk9iVFlSSzRXUQ?oc=5",
+      "publisher": "전자신문",
+      "pubDate": "Sat, 19 Sep 2026 10:47:31 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오벤처스가 창업자의 몰입과 제품 개발을 지원하기 위한 공간 '템프서울'을 개관했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 기술 탑재 및 구독 서비스 등 카카오 본사 중심 활동과 달리, 벤처캐피털 자회사를 통한 오프라인 창업자 지원 공간 개관 소식입니다."
+      },
+      "processedAt": "2026-09-19T22:41:42.240Z"
+    },
+    {
+      "id": "78b476f18f49646c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 9개 직무 세 자릿수 신입사원 채용… AI·로보틱스 등 미래 핵심 사업 이끌 인재 확보",
+      "link": "http://www.kmkj.kr/news/articleView.html?idxno",
+      "publisher": "국민기자뉴스",
+      "pubDate": "Sat, 19 Sep 2026 09:05:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI와 로보틱스 등 미래 핵심 사업을 이끌 인재를 확보하기 위해 9개 직무에서 세 자릿수 규모의 신입사원 채용을 진행합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI·GPUaaS 투자 및 해외 사업 성과 발표 중심의 활동과 달리, 핵심 사업 이행을 위한 대규모 신입 인재 채용 소식을 발표했다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-19T22:39:10.009Z"
+    },
+    {
+      "id": "e7182eb88a02d910",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] 김승원 ‘자전거 라이딩’, 양수진 ‘네이버 카페’서 2011년 ‘찰칵’",
+      "link": "https://v.daum.net/v/VEhdpu5T0r",
+      "publisher": "v.daum.net",
+      "pubDate": "Sat, 19 Sep 2026 07:15:09 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/19/sisapress/20260919161515831qvln.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026. 9. 19.",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "김승원 전 법무부 장관 후보자와 의혹 인물인 양수진 씨의 과거 자전거 라이딩 사진이 양 씨가 운영하던 네이버 카페에서 확인되었다는 내용의 보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "네이버의 마케팅이나 사업 전략 활동이 아니라 정치·사회적 사건 기사 중 단순 서비스 플랫폼(네이버 카페) 이름만 거론된 보도라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-19T22:39:55.351Z"
+    },
+    {
+      "id": "b1a84d6e111ef6de",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"물건 찾고 식당 예약까지\"…네이버 AI가 대신 해준다",
+      "link": "https://www.newspim.com/news/view/20260918000876",
+      "publisher": "뉴스핌",
+      "pubDate": "Fri, 18 Sep 2026 23:00:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/09/18/2609181520170990_352_tc.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 쇼핑과 지도에 이어 부동산, 건강 분야로 대화형 AI 에이전트를 확대 적용하여 탐색부터 실제 구매 및 예약까지 이어지는 '실행하는 AI' 생태계를 구축하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 거버넌스 논란, 노사 갈등, 오픈마켓 위조품 유통 등 부정적·경영 관련 이슈가 많았던 것과 달리, 네이버 본업의 핵심 서비스에 대화형 AI 에이전트를 직접 적용하여 거래액과 클릭률 상승 등 실질적 성과를 내는 서비스 고도화 소식입니다."
+      },
+      "processedAt": "2026-09-19T22:40:05.895Z"
+    },
     {
       "id": "c074b42db51637b6",
       "company": "네이버",
@@ -226,6 +358,28 @@
       "processedAt": "2026-09-18T23:00:13.410Z"
     },
     {
+      "id": "9fb712832d332b57",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Fri, 18 Sep 2026 04:45:50 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "지디넷코리아의 매체 소개 및 뉴스레터 구독 신청 관련 안내 정보이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-19T22:40:42.007Z"
+    },
+    {
       "id": "57961cfa979ca239",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -312,6 +466,28 @@
         "llmNote": "자사의 마케팅·비즈니스 활동이 아닌 플랫폼 내 가품 유통 이슈를 다룬 부정적 보도 내용이라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-09-18T23:03:54.929Z"
+    },
+    {
+      "id": "742869034827a4ad",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS·SK AX·삼성SDS, AI 넘어 로봇으로… RX 경쟁 본격화",
+      "link": "https://it.chosun.com/news/articleViewAmp.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Thu, 17 Sep 2026 21:09:54 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 LG CNS, 삼성SDS 등 주요 IT서비스 기업들과 함께 AI를 넘어 로봇 전환(RX) 분야로 사업을 확장하며 경쟁을 본격화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-19T22:39:16.369Z"
     },
     {
       "id": "8052d134531b6aa0",
@@ -402,6 +578,28 @@
       "processedAt": "2026-09-18T23:04:02.195Z"
     },
     {
+      "id": "96522a260442119e",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "쿠팡·네이버에서 샀는데 중국산 가짜…유통책 검거",
+      "link": "https://v.daum.net/v/20260917215751251",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 17 Sep 2026 12:57:51 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/17/kbs/20260917215752862mxix.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026. 9. 17.",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버와 쿠팡의 오픈마켓을 통해 약 45억 원 상당의 중국산 위조 화장품 및 건강기능식품을 유통한 유통책이 정부 합동 단속반에 적발되어 검찰에 송치되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-19T22:40:33.876Z"
+    },
+    {
       "id": "46bc1d793e67c7ea",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -444,6 +642,28 @@
         "llmNote": "기존의 경영 및 AI 전환 관련 활동 소식과 달리 임직원 개인의 부고 소식을 다루고 있습니다."
       },
       "processedAt": "2026-09-17T23:24:04.382Z"
+    },
+    {
+      "id": "20027741fb0fb797",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"카카오 '모두의 AI' 3년 뒤 챗GPT 넘어설 것\"",
+      "link": "https://www.hankyung.com/article/2026091719941",
+      "publisher": "한국경제",
+      "pubDate": "Thu, 17 Sep 2026 08:42:02 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202609/AA.45731254.1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "인터뷰",
+      "slogan": null,
+      "keyMessage": "카카오가 LG유플러스와 컨소시엄을 구성해 정부의 '모두의 AI' 사업자로 선정되었으며, 규제 영역에 특화된 완결형 AI 에이전트 플랫폼을 통해 3년 내 챗GPT의 MAU를 넘어서겠다는 목표를 발표했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 B2C 서비스 확장 및 지배구조 개편 중심 활동과 달리, 정부 주도 사업 선정 및 경쟁 통신사인 LG유플러스와의 컨소시엄을 통해 공공·금융 등 규제 영역 시장 공략을 시도하는 점이 특이합니다."
+      },
+      "processedAt": "2026-09-19T22:41:08.933Z"
     },
     {
       "id": "6cd10de9e785d240",
@@ -512,6 +732,28 @@
       "processedAt": "2026-09-17T23:23:13.798Z"
     },
     {
+      "id": "0e7e8508366c9641",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, 배민 인수설 4개월 만에 종지부…\"경영환경 변화에 철회\"",
+      "link": "https://v.daum.net/v/UQcU6IkLcg",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 17 Sep 2026 07:34:06 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/17/552788-vZw4wcp/20260917163407948dwwg.png",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-17",
+      "location": null,
+      "format": "공시",
+      "slogan": null,
+      "keyMessage": "네이버가 배달의민족 지분 인수 검토를 진행했으나 경영환경 변화 등의 이유로 최종적으로 인수를 철회한다고 해명 공시했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "서비스 확장이나 AI 관련 최근 활동들과 달리 추진 중이던 대형 M&A(배달의민족 인수)를 공식 철회한 사건이다."
+      },
+      "processedAt": "2026-09-19T22:40:51.978Z"
+    },
+    {
       "id": "ff67241534fc191c",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -532,6 +774,50 @@
         "llmNote": null
       },
       "processedAt": "2026-09-17T23:23:19.653Z"
+    },
+    {
+      "id": "e757ac8c518406be",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI 서비스 품질 평가, 무엇을 어떻게 볼 것인가 | 인사이트리포트 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/insights/ai-service-quality-evaluation.html",
+      "publisher": "Samsung SDS America",
+      "pubDate": "Thu, 17 Sep 2026 04:42:52 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/09/17/thumb_0917.png?queryString=20260917013301",
+      "activityType": "기타",
+      "eventDate": "2026-09-17",
+      "location": null,
+      "format": "인사이트 리포트",
+      "slogan": null,
+      "keyMessage": "AI 서비스 도입 시 단순 모델 성능 평가를 넘어 가치·원칙, 서비스 품질, 기술 측정의 3계층 프레임워크를 바탕으로 종합적인 품질 평가와 리스크 관리를 수행해야 한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-19T22:39:03.053Z"
+    },
+    {
+      "id": "4d1b9dfbc4f593c6",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "쿠팡·네이버서 샀는데 가짜…중국산 짝퉁, 45억어치 팔렸다",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15VHJZNE95LWFsMHo3U2FYa3BLMV9sZkdndjQtQTBPaHpxYS1fdjJfdURVSUdfNTBaMzg4ZmVXZHdwUzlhTVhQRGMzQU5FS3ZqT0dCSmZR?oc=5",
+      "publisher": "joongang.co.kr",
+      "pubDate": "Thu, 17 Sep 2026 02:06:30 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "쿠팡과 네이버 등의 오픈마켓을 통해 45억 원 규모의 중국산 위조 상품이 유통·판매되었다는 언론 보도이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-19T22:40:22.138Z"
     },
     {
       "id": "1cea992f1730dbae",
@@ -576,6 +862,28 @@
         "llmNote": "기존 AI 데이터센터 구축 및 소프트웨어 파트너십 위주의 활동에서 나아가 로보틱스(피지컬 AI) 분야에 대한 대규모 투자 및 AI 풀스택 기업으로의 본격적인 사업 전환 전략을 다루고 있다는 점에서 특이점이 있습니다."
       },
       "processedAt": "2026-09-16T23:32:07.410Z"
+    },
+    {
+      "id": "dfe987afe689362d",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "‘젠슨 황 삼소회동 고깃집 단말기’ 놓고 네이버·토스는 왜 싸웠나",
+      "link": "https://www.khan.co.kr/article/202609170600061",
+      "publisher": "경향신문",
+      "pubDate": "Wed, 16 Sep 2026 21:00:00 GMT",
+      "keyVisual": "https://img.khan.co.kr/news/2026/09/17/rcv.YNA.20250902.PYH2025090208570001300_P1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "‘젠슨 황 삼소회동 고깃집 단말기’ 놓고 네이버·토스는 왜 싸웠나",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-19T22:40:59.798Z"
     },
     {
       "id": "603e33cd2e9d7962",
@@ -642,6 +950,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-16T23:33:11.905Z"
+    },
+    {
+      "id": "1a75cfe8f17fd37a",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Wed, 16 Sep 2026 09:01:04 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-19T22:41:16.360Z"
     },
     {
       "id": "91b958cf72935477",
@@ -1502,6 +1832,28 @@
       "processedAt": "2026-09-14T23:43:19.845Z"
     },
     {
+      "id": "de3d68c11d843814",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, AI 인재 양성 성과로 고용노동부 장관상 수상",
+      "link": "https://www.itdaily.kr/news/articleView.html?idxno",
+      "publisher": "아이티데일리",
+      "pubDate": "Mon, 14 Sep 2026 05:07:37 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 AI 인재 양성 성과를 인정받아 고용노동부 장관상을 수상했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-19T22:39:33.201Z"
+    },
+    {
       "id": "bf935c6ffcb17779",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -1852,6 +2204,28 @@
         "llmNote": "기존의 매출 달성이나 최고경영진의 현장 방문 소식과 달리, 사내 AI 교육 및 인증 프로그램의 정부 수상 성과를 다루고 있다."
       },
       "processedAt": "2026-09-17T23:24:39.946Z"
+    },
+    {
+      "id": "95330b69a1b37c52",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 자체 AI 교육·인증 성과로 고용부 장관상 - 머니투데이",
+      "link": "https://www.mt.co.kr/amp/tech/2026/09/14/2026091409095528642",
+      "publisher": "머니투데이",
+      "pubDate": "Mon, 14 Sep 2026 00:10:48 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091409095528642_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "코엑스마곡",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 자체 개발한 생성형 AI 교육·인증 프로그램의 우수성을 인정받아 고용노동부 장관상을 수상했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-19T22:39:24.966Z"
     },
     {
       "id": "ff520ca45a83bfe0",
