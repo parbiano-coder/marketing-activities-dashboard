@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T22:41:56.342Z",
+  "updatedAt": "2026-09-20T23:02:52.136Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,402 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "ed7ac341448493ae",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "바둑 AI부터 코지피티·카나나까지… AI 사업 연전연패 빠진 카카오",
+      "link": "https://v.daum.net/v/20260921060207747",
+      "publisher": "v.daum.net",
+      "pubDate": "Sun, 20 Sep 2026 21:02:07 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/21/chosun/20260921060207973jcjf.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026. 9. 21.",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오가 생성형 AI 챗봇 서비스 '카나나'의 베타 서비스를 종료하며, 독자적 전략 부재로 인한 연속된 AI 사업 난항에 대해 언론의 비판을 받았다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 카카오맵에 '카나나'를 탑재하는 등 서비스를 적용하던 동향과 달리, 카나나 모바일 앱 베타 서비스 종료 및 과거 AI 사업들의 연속 실패를 다룬 보도이다."
+      },
+      "processedAt": "2026-09-20T23:02:38.663Z"
+    },
+    {
+      "id": "88211eba1051a06a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[비즈톡톡] AI 시대에 대규모 공채한다… IT서비스 기업들이 인재 확보 나선 이유는",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/21/74BXXQP64NH6TOIAORGWQFDSKA/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Sun, 20 Sep 2026 21:00:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/26VL6X4REVJGPB2JQ5P3BB4ZJM.jpg?auth=81c63b7b38b999b67dac6baed76244ab9a19dbdd8fbeaa7dcfd3a05207406cee&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "AI 시대를 맞아 IT서비스 기업들이 인재 확보를 위한 대규모 공개 채용에 나서고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 플랫폼 구축 및 사업 제휴 관련 소식과 달리 인재 채용 관련 동향을 다루고 있습니다."
+      },
+      "processedAt": "2026-09-20T22:57:37.580Z"
+    },
+    {
+      "id": "88211eba1051a06a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[비즈톡톡] AI 시대에 대규모 공채한다… IT서비스 기업들이 인재 확보 나선 이유는",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/21/74BXXQP64NH6TOIAORGWQFDSKA/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Sun, 20 Sep 2026 21:00:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/26VL6X4REVJGPB2JQ5P3BB4ZJM.jpg?auth=81c63b7b38b999b67dac6baed76244ab9a19dbdd8fbeaa7dcfd3a05207406cee&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "AI 시대를 맞아 IT서비스 기업들이 미래 사업 경쟁력을 강화하기 위해 대규모 인재 확보에 나서고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-20T22:58:53.373Z"
+    },
+    {
+      "id": "974a233fd5a95b2a",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독]'클립' 보다가 바로 클릭…쇼핑 전환 매출 6배↑ - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/09/21/2026092010551124455",
+      "publisher": "머니투데이",
+      "pubDate": "Sun, 20 Sep 2026 19:05:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=703,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026092010551124455_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버의 동영상 서비스 '클립'의 쇼핑 전환 매출이 전년 동월 대비 5.8배 증가했으며, 쇼핑·검색·예약 서비스 연동 및 콘텐츠 범위 확장을 가속화하고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-20T23:00:31.004Z"
+    },
+    {
+      "id": "5142bb0b1c0fd73e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'조선소 블록 배치' 알고리즘 대결…LG CNS 최적화대회 일본팀 우승",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lbjNYTzlubjAxeENwYUVvVDFWQ2FLbTJlR21pNlRjaHhSYi1zTVF2czlzRlZWQnNtbUY0OGNScUMwOHdydUZXU1Uxd2VCMVhiaWRTUmhoVFJUOHhadmdZMVFld1lucGQzVmJYTzBheHk?oc=5",
+      "publisher": "신아일보",
+      "pubDate": "Sun, 20 Sep 2026 14:39:46 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 개최한 최적화대회에서 조선소 블록 배치 알고리즘 대결을 통해 일본팀이 우승했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 대규모 AI 인프라 투자 및 채용 중심의 활동들과 달리 최적화 알고리즘 대회를 개최하고 글로벌 팀이 참가해 우승한 점이 특이합니다."
+      },
+      "processedAt": "2026-09-20T22:58:39.319Z"
+    },
+    {
+      "id": "0a54c71d8d481e43",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 오픈AI ‘데이브레이크’ 합류 논의",
+      "link": "https://www.sedaily.com/article/20093117",
+      "publisher": "서울경제",
+      "pubDate": "Sun, 20 Sep 2026 09:02:01 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/09/20/news-p.v1.20260918.24cbf877968e45529464678ffbbf3d45_Z1.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 오픈AI ‘데이브레이크’ 합류 논의",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-20T22:58:31.571Z"
+    },
+    {
+      "id": "9aa128f090c1a21d",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버웹툰의 자신감…日 광고 ‘직판 체제’ 전환",
+      "link": "https://www.sedaily.com/article/20093109",
+      "publisher": "서울경제",
+      "pubDate": "Sun, 20 Sep 2026 08:59:24 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/09/20/news-p.v1.20260920.43bbe0eac8d34dc683729c96fd352367_Z1.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-20",
+      "location": "일본 도쿄",
+      "format": "B2B 부스 운영 및 비즈니스 미팅",
+      "slogan": null,
+      "keyMessage": "네이버웹툰이 일본 광고 사업을 외부 대행 위탁에서 직접 판매 체제로 전환하고, 도쿄게임쇼(TGS) 2026 참가를 기점으로 글로벌 게임 광고주 발굴 및 B2B 영업 강화에 나섰습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "국내 AI 및 커머스 서비스 연계 중심의 기존 활동과 달리, 일본 현지 광고 사업의 직판 체제 전환과 해외 게임 전시회를 활용한 글로벌 B2B 수익원 다변화를 본격 추진한다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-20T23:01:26.961Z"
+    },
+    {
+      "id": "9fc6edcbe7e58f34",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS '최적의 답 찾기' 수학 대회, 3년 만에 55개국 958개팀 몰려…대상은 일본팀",
+      "link": "https://www.coxnews.co.kr/news/articleView.html?idxno",
+      "publisher": "콕스뉴스",
+      "pubDate": "Sun, 20 Sep 2026 07:53:51 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 주최한 '최적의 답 찾기' 수학 대회에 3년 만에 55개국 958개 팀이 참가하였으며 대상은 일본팀이 차지했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 인프라 투자 및 RX 사업 진출 중심의 소식들과 달리 글로벌 수학 대회를 주최하여 기술 브랜드 인지도를 제고한 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-09-20T22:59:56.968Z"
+    },
+    {
+      "id": "2ed46716aad86e35",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 수학 경진대회 '최적화 그랜드 챌린지' 성료",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4cW1ZMUszZTZHdnN6UkVaMnlaRHd3Y2hHcUJHSjdCUFhHSUxXWFVPV3JBS0NCZWZBbE00MFd1TjU4WFRjLUZ4ZUVGcFJvTEJwVkRSUl9BQWNJcWhXNnF3TA?oc=5",
+      "publisher": "메트로신문",
+      "pubDate": "Sun, 20 Sep 2026 06:49:01 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 수학 경진대회 '최적화 그랜드 챌린지' 성료",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-20T22:59:17.986Z"
+    },
+    {
+      "id": "aca98c1dbe3890c8",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "수학 두뇌 대결서 日개발자가 958팀 꺾고 우승…“문제 쪼개 풀었다”",
+      "link": "https://www.donga.com/news/amp/all/20260920/134702870/1",
+      "publisher": "동아일보",
+      "pubDate": "Sun, 20 Sep 2026 06:18:29 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/20/134705701.1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "수학 두뇌 대결서 日개발자가 958팀 꺾고 우승…“문제 쪼개 풀었다”",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-20T22:59:03.658Z"
+    },
+    {
+      "id": "441a8da3e2d9806e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, ‘최적화 그랜드 챌린지 2026’ 성료…조선 난제 해법 겨뤄",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zRllYUVgtck5oeDRQS2dLSVhtLTZtek5SM0RMRDBUcmVhSEx0c1MycS14bWdIWHM4OTRwNzlHejEtcUtfNWU2SEliT21VenNPa0lPNG1zVUFBVlpHR0RmZ3ZoZnN2Mmd6?oc=5",
+      "publisher": "테크월드",
+      "pubDate": "Sun, 20 Sep 2026 03:50:00 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 조선 분야의 난제 해법을 겨루는 '최적화 그랜드 챌린지 2026' 행사를 성황리에 마무리했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 대규모 AI 인프라 투자 및 로보틱스 중심의 사업 발표와 달리, 조선 산업 최적화 문제를 다루는 경진대회 성격의 행사를 개최한 점이 특이합니다."
+      },
+      "processedAt": "2026-09-20T22:59:35.800Z"
+    },
+    {
+      "id": "28c8176c38528659",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS '수학적최적화' 대회 2.8배 성장…55개국 958개팀 몰렸다 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/09/20/2026092011053946629",
+      "publisher": "머니투데이",
+      "pubDate": "Sun, 20 Sep 2026 02:20:23 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026092011053946629_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS '수학적최적화' 대회 2.8배 성장…55개국 958개팀 몰렸다 - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-20T22:58:23.249Z"
+    },
+    {
+      "id": "395b0849a40a6cdc",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS '수학적최적화' 대회 2.8배 성장…55개국 958개팀 몰렸다 - 머니투데이",
+      "link": "https://www.mt.co.kr/amp/tech/2026/09/20/2026092011053946629",
+      "publisher": "머니투데이",
+      "pubDate": "Sun, 20 Sep 2026 02:20:23 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026092011053946629_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS '수학적최적화' 대회 2.8배 성장…55개국 958개팀 몰렸다 - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-20T22:59:26.355Z"
+    },
+    {
+      "id": "fb761c96285057cc",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'국방'에 쏠리는 IT업계의 관심&hellip;네이버&middot;NHN,  &lsquo;전장 클라우드&rsquo; 공략 본격화",
+      "link": "https://www.ddaily.co.kr/page/view/2026092010334020002",
+      "publisher": "디지털데일리",
+      "pubDate": "Sun, 20 Sep 2026 01:41:03 GMT",
+      "keyVisual": "/photos/2026/09/20/2026092010315989989_l.png",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": "서울 신라호텔",
+      "format": "세미나",
+      "slogan": null,
+      "keyMessage": "네이버클라우드가 '국방 AI 전략 세미나'에서 중앙·임무거점·현장을 연결하는 국방 특화 클라우드 구상을 공개하며 국방 AI 전환(AX) 시장 공략을 본격화했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 커머스 및 B2C AI 에이전트 중심 서비스 활동과 달리 국방 및 B2G 특화 클라우드 인프라 시장 공략을 다루고 있다는 점에서 전략적 방향의 차이가 있다."
+      },
+      "processedAt": "2026-09-20T23:02:24.613Z"
+    },
+    {
+      "id": "a0c2518d4381f8e4",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS ‘최적화 그랜드 챌린지’ 마무리…55개국 958개팀 참가",
+      "link": "https://www.sentv.co.kr/article/view/sentv202609200002",
+      "publisher": "서울경제TV",
+      "pubDate": "Sun, 20 Sep 2026 01:00:04 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/09/20/sentv20260920000004.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": "경진대회 및 시상식",
+      "slogan": null,
+      "keyMessage": "LG CNS가 수학적최적화 분야 인재 발굴과 기술 확산을 위해 개최한 글로벌 경진대회 '최적화 그랜드 챌린지 2026'을 마무리하고 시상식을 개최했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 GPUaaS 투자 및 AI·로봇 전환 중심의 대규모 사업 전략 행보와 달리, 수학적최적화 분야의 글로벌 인재 발굴 및 학술·기술 생태계 조성을 위한 경진대회를 개최한 점이 특이합니다."
+      },
+      "processedAt": "2026-09-20T22:59:50.845Z"
+    },
+    {
+      "id": "a2df5f972f23f3a8",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "수사 의뢰·공정위 제소…네이버·토스 갈등 왜? | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/MYH20260920001500038",
+      "publisher": "연합뉴스",
+      "pubDate": "Sun, 20 Sep 2026 00:25:58 GMT",
+      "keyVisual": "https://img0.yna.co.kr/mpic/YH/2026/09/20/MYH20260920001500038_P1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "수사 의뢰·공정위 제소…네이버·토스 갈등 왜? | 연합뉴스",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-20T23:00:39.168Z"
+    },
+    {
+      "id": "fb3b62767aa28460",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 한컴과 공개SW 도입 활성화 추진",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MVzNiaDg0ckFsMFdNcEV1dnYtekMzWTJUenZScEljdUpDU05UZElSRjMyRENmRlQtUWxfLXlZdzFFSUp1QW1sWkw5Z1ByRlZGVTA5YTc1YWxtRkQ1aElPb0R2ZEZselI0?oc=5",
+      "publisher": "보안뉴스",
+      "pubDate": "Sat, 19 Sep 2026 23:45:03 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 한컴과 협력하여 공개 소프트웨어(SW) 도입 활성화를 추진한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 플랫폼 구축 및 국방 AI 분야에 집중하던 행보와 달리 한컴과의 공개SW 도입 활성화를 위한 협력을 추진했다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-20T22:57:48.577Z"
+    },
+    {
+      "id": "71473508aff44b22",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "추석 선물도 이제 AI에게 묻는다…네이버·현대百·카카오 ‘추천 경쟁’",
+      "link": "https://www.segye.com/newsView/20260920501337",
+      "publisher": "세계일보",
+      "pubDate": "Sat, 19 Sep 2026 22:00:00 GMT",
+      "keyVisual": "https://www.segye.com/content/image/2026/09/20/20260920501338.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 추석을 맞아 네이버플러스 스토어 앱의 'AI 쇼핑 에이전트' 선물 특화 기능을 강화하여 구매 데이터, 후기, 배송 정보 등을 종합 반영한 맞춤형 추천 서비스를 제공합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-20T23:01:14.013Z"
+    },
     {
       "id": "defa73aba9b05c4c",
       "company": "카카오",
@@ -314,6 +710,28 @@
       "processedAt": "2026-09-18T23:01:06.909Z"
     },
     {
+      "id": "0681a626139bc900",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버는 언제 올라요? “리레이팅의 키, ‘수요 가시성’ 확보해야” [종목Pick]",
+      "link": "https://biz.heraldcorp.com/article/10878767",
+      "publisher": "헤럴드경제",
+      "pubDate": "Fri, 18 Sep 2026 07:41:34 GMT",
+      "keyVisual": "https://wimg.heraldcorp.com/news/cms/2026/09/18/rcv.YNA.20260605.PYH2026060515320001300_P1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버는 언제 올라요? “리레이팅의 키, ‘수요 가시성’ 확보해야” [종목Pick]",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-20T23:02:00.296Z"
+    },
+    {
       "id": "c4de08aa585ecbbc",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -334,6 +752,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-18T23:01:38.641Z"
+    },
+    {
+      "id": "df56e36a9714fcbf",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 웨일, 사이드바에 'AI 챗' 탑재…'AI 브라우저'로 확장",
+      "link": "https://www.etnews.com/20260918000230",
+      "publisher": "전자신문",
+      "pubDate": "Fri, 18 Sep 2026 05:52:00 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/07/10/news-p.v1.20260710.11dd503a39b8421dab5c8934f35d9b54_P1.png",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": "서비스 업데이트",
+      "slogan": null,
+      "keyMessage": "네이버가 웨일 브라우저 사이드바에 'AI 챗' 기능을 탑재하여 웹페이지 요약, 번역 및 자사 서비스 연동을 지원하는 등 AI 에이전트 접점을 브라우저로 확대했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-20T23:00:54.502Z"
     },
     {
       "id": "ec5098805293de62",
@@ -446,6 +886,28 @@
       "processedAt": "2026-09-18T23:00:55.711Z"
     },
     {
+      "id": "5c3b2ebcd894cb43",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "미래에셋證, “삼성SDS, AI 데이터센터 경쟁력 독보적⋯목표가 30만원↑”",
+      "link": "https://www.etoday.co.kr/news/view/2627077",
+      "publisher": "이투데이",
+      "pubDate": "Fri, 18 Sep 2026 00:06:00 GMT",
+      "keyVisual": "https://img.etoday.co.kr/pto_db/2026/09/20260918085445_2390086_942_407.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "미래에셋證, “삼성SDS, AI 데이터센터 경쟁력 독보적⋯목표가 30만원↑”",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-20T22:58:11.854Z"
+    },
+    {
       "id": "b5282050f036ec77",
       "company": "네이버",
       "category": "IT 서비스",
@@ -484,7 +946,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 LG CNS, 삼성SDS 등 주요 IT서비스 기업들과 함께 AI를 넘어 로봇 전환(RX) 분야로 사업을 확장하며 경쟁을 본격화하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-19T22:39:16.369Z"
@@ -550,7 +1012,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 주요 IT서비스 기업들과 함께 AI를 넘어 로봇 전환(RX) 분야로 사업 영역을 확장하며 경쟁을 본격화하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 AI 전환(AX) 중심 활동에서 더 나아가 로봇 전환(RX) 분야로 사업 영역을 본격적으로 확장하고 있습니다."
       },
       "processedAt": "2026-09-17T23:23:37.387Z"
@@ -616,7 +1078,7 @@
       "slogan": null,
       "keyMessage": "SK AX 이대진 매니저의 모친상 소식을 전하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 경영 실적 및 AI 전환 중심의 기사들과 달리 임직원의 개인적인 부고 소식입니다."
       },
       "processedAt": "2026-09-17T23:23:45.600Z"
@@ -638,7 +1100,7 @@
       "slogan": null,
       "keyMessage": "SK AX 이대진 매니저의 모친상 소식을 알리는 부고입니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 경영 및 AI 전환 관련 활동 소식과 달리 임직원 개인의 부고 소식을 다루고 있습니다."
       },
       "processedAt": "2026-09-17T23:24:04.382Z"
@@ -1298,7 +1760,7 @@
       "slogan": null,
       "keyMessage": "SK그룹 내에서 자체 사업인 SK AX와 비상장 자회사 SK에코플랜트의 존재감과 비중이 커지고 있다는 내용의 언론 보도입니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-18T23:03:23.330Z"
@@ -1540,7 +2002,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 실무 역량별 생성형 AI 자격 제도를 운영하고 이를 외부로 확산 추진합니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 경영 성과 발표나 현장 점검 위주의 활동과 달리, 자체적인 AI 역량 자격 제도를 운영하고 외부 확산까지 추진한다는 점에서 차별점이 있습니다."
       },
       "processedAt": "2026-09-17T23:24:20.796Z"
@@ -1848,7 +2310,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 AI 인재 양성 성과를 인정받아 고용노동부 장관상을 수상했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-19T22:39:33.201Z"
@@ -1892,7 +2354,7 @@
       "slogan": null,
       "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-17T23:24:09.252Z"
@@ -1914,7 +2376,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 독자 구축한 생성형 AI 교육·인증제로 고용노동부 장관상을 수상하며 국내 최초로 생성형 AI 활용능력 기업자격을 정부로부터 공식 인정받았습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-18T23:03:08.497Z"
@@ -1942,6 +2404,28 @@
       "processedAt": "2026-09-14T23:42:22.352Z"
     },
     {
+      "id": "bff4eec7c13f60c6",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, AI 교육으로 업무혁신…고용노동부 장관상 수상",
+      "link": "https://www.etoday.co.kr/news/view/2625103",
+      "publisher": "이투데이",
+      "pubDate": "Mon, 14 Sep 2026 01:27:00 GMT",
+      "keyVisual": "https://img.etoday.co.kr/pto_db/2026/09/20260914102551_2387578_1200_702.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-11",
+      "location": "서울 코엑스마곡",
+      "format": "오프라인 시상식",
+      "slogan": null,
+      "keyMessage": "SK AX가 자체 개발한 생성형 AI 교육 및 인증 프로그램의 전문성과 실효성을 인정받아 고용노동부 장관상을 수상했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "로봇 전환(RX) 사업 확장이나 경조사 소식 중심이었던 최근 활동과 달리 사내 AI 역량 교육 및 정부 공식 인증 수상 관련 활동이라는 점이 특이점입니다."
+      },
+      "processedAt": "2026-09-20T23:00:21.076Z"
+    },
+    {
       "id": "fb7dc8bf80ea2628",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -1958,7 +2442,7 @@
       "slogan": null,
       "keyMessage": "“AI 교육·인증 인정받았다”… SK AX, 고용부 장관상 수상",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-17T23:24:25.512Z"
@@ -2002,7 +2486,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 AI 인재 양성을 통한 업무혁신 성과를 인정받아 고용노동부 장관상을 수상했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-18T23:02:04.190Z"
@@ -2024,7 +2508,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 인공지능(AI) 교육 역량을 인정받아 고용노동부 장관상을 수상했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 매출 달성 발표나 현장 점검 관련 소식과 달리 AI 인재 교육 성과로 정부 포상을 받았다는 점이 특이합니다."
       },
       "processedAt": "2026-09-17T23:24:45.540Z"
@@ -2046,10 +2530,32 @@
       "slogan": null,
       "keyMessage": "SK AX가 자체 개발한 생성형 AI 교육·인증 프로그램으로 고용노동부 장관상을 수상하며 생성형 AI 활용 분야에서 기업자격 정부 인정을 받은 첫 사례가 되었습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-18T23:03:17.714Z"
+    },
+    {
+      "id": "a1e0e6d0e2dda118",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 자체 AI 교육·인증 프로그램으로 고용부 장관상",
+      "link": "https://v.daum.net/v/20260914100009285",
+      "publisher": "v.daum.net",
+      "pubDate": "Mon, 14 Sep 2026 01:00:09 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/14/dt/20260914100011027xszs.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX, 자체 AI 교육·인증 프로그램으로 고용부 장관상",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-20T23:00:02.739Z"
     },
     {
       "id": "eb96460a4ef67fbf",
@@ -2178,7 +2684,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 자체 생성형 AI 교육·인증 프로그램의 우수한 성과를 인정받아 국내 최초로 AI 역량 인증 분야에서 고용노동부 장관상을 수상했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존 경영 전략 발표 및 현장 점검 소식과 달리 사내 AI 교육·인증 프로그램의 정부 공식 인정 및 수상 성과를 다룬 점이 특징입니다."
       },
       "processedAt": "2026-09-17T23:23:58.322Z"
@@ -2200,7 +2706,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 자체 개발한 생성형 AI 교육·인증 프로그램으로 고용노동부 장관상을 수상하며 AI 역량 인증 분야에서 국내 최초로 정부 인정을 받았다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 매출 달성이나 최고경영진의 현장 방문 소식과 달리, 사내 AI 교육 및 인증 프로그램의 정부 수상 성과를 다루고 있다."
       },
       "processedAt": "2026-09-17T23:24:39.946Z"
@@ -2222,7 +2728,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 자체 개발한 생성형 AI 교육·인증 프로그램의 우수성을 인정받아 고용노동부 장관상을 수상했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-19T22:39:24.966Z"
@@ -4404,6 +4910,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-10T22:55:43.230Z"
+    },
+    {
+      "id": "3c235c8e91d17fd8",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, AI 도입 넘어 기업 AX 혁신 이끈다   리얼 서밋 2026 서  다차원 AI 풀스택  전략 제시 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/sds20260908.html",
+      "publisher": "Samsung SDS America",
+      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/news/__icsFiles/afieldfile/2026/09/08/3_3.jpg?queryString=20260909103823",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "8일",
+      "location": "서울 코엑스 컨벤션센터",
+      "format": "온·오프라인 하이브리드 콘퍼런스",
+      "slogan": "AI는 업무를 바꾸지만, AX는 비즈니스를 바꾼다",
+      "keyMessage": "삼성SDS는 '리얼 서밋 2026' 콘퍼런스를 개최하여 다차원 AI 풀스택 전략을 바탕으로 기업의 AX 성과 창출방안을 제시하고 피지컬 AI 영역인 RX(로봇 전환) 사업 진출을 선언했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 소프트웨어 및 클라우드 AI 서비스 영역을 넘어 제조 현장의 물리적 로봇을 제어하는 RX(Robotics Transformation) 및 피지컬 AI 사업 진출을 처음 공식화했다는 점에서 차별화된다."
+      },
+      "processedAt": "2026-09-20T22:57:59.691Z"
     },
     {
       "id": "81637e54f09dc120",
