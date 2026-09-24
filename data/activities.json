@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T01:23:00.463Z",
+  "updatedAt": "2026-09-24T01:00:00.907Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,1634 @@
   ],
   "activities": [
     {
+      "id": "4c60dd9d433867c8",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-09-24T00:48:00.860Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "금융이 알고 싶을 때, 토스피드",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:48:00.860Z"
+    },
+    {
+      "id": "702c3865766ee195",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-09-24T00:47:00.680Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "금융이 알고 싶을 때, 토스피드",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:47:00.680Z"
+    },
+    {
+      "id": "93d1312d1025b515",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-09-24T00:46:00.484Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "금융이 알고 싶을 때, 토스피드",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:46:00.484Z"
+    },
+    {
+      "id": "75686a4aa849e1d2",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-09-24T00:45:00.325Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "금융이 알고 싶을 때, 토스피드",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:45:00.325Z"
+    },
+    {
+      "id": "0e2b049b434c2cc6",
+      "company": "빗썸코리아",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "빗썸, 신규·휴면 이용자 대상 ‘익절 더블업’ 이벤트 진행",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40VXMwQWhJc2JZc25GQzRXNl9nanFMM2Z1YkFXQklYMjFqbzY5X3M4dkFqd1ZFQ1Y1TWpTckxGb3hhT0stbDc5Y2d6ckNCcXRWaDRJSTB1MlZGZWlvaG9YU0EteHJRazROQ194eA?oc=5",
+      "publisher": "경향게임스",
+      "pubDate": "Thu, 24 Sep 2026 00:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "빗썸, 신규·휴면 이용자 대상 ‘익절 더블업’ 이벤트 진행",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:16:01.088Z"
+    },
+    {
+      "id": "96e698f167e16c7d",
+      "company": "코인원",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "코인원, 신규 가입자 대상 추석 이벤트 개최",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nay12UmFiekxIMmctajN2VXFqTnZ2cExxU2Q3ejdaT0wxOUVONFNUYXY2OWw0TVE4V3NXMWpQcUhmc21qcmhBektPZjluSzJxLWNWMXdDWmN5eVFoQ2tGbzEwWm56bm4tUXNCdg?oc=5",
+      "publisher": "경향게임스",
+      "pubDate": "Thu, 24 Sep 2026 00:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "코인원, 신규 가입자 대상 추석 이벤트 개최",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:23:01.199Z"
+    },
+    {
+      "id": "a69b26d40d14188e",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "'코로나나우' 만든 2005년생, 토스 거쳐 광고시장 뛰어든 배경은 - 머니투데이",
+      "link": "https://www.mt.co.kr/future/2026/09/24/2026082813234334062",
+      "publisher": "머니투데이",
+      "pubDate": "Thu, 24 Sep 2026 00:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=972,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026082813234334062_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "'코로나나우' 만든 2005년생, 토스 거쳐 광고시장 뛰어든 배경은 - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:37:00.772Z"
+    },
+    {
+      "id": "c847ec2e468e321a",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "더존ICT그룹",
+      "link": "https://www.douzone.com/media/media_room_read.jsp?id=3443&",
+      "publisher": "더존비즈온",
+      "pubDate": "2026-09-23T23:50:00.854Z",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "더존ICT그룹",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:50:00.854Z"
+    },
+    {
+      "id": "3be7a4495a8fe887",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "추석 무료주차장 어디?…카카오맵서 진료 병원도 찾는다",
+      "link": "https://v.daum.net/v/20260924080153518",
+      "publisher": "v.daum.net",
+      "pubDate": "Wed, 23 Sep 2026 23:01:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/24/yonhap/20260924080153480eusy.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "추석 무료주차장 어디?…카카오맵서 진료 병원도 찾는다",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:30:00.346Z"
+    },
+    {
+      "id": "800c6ca1eac95b01",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "추석에 갑자기 아프면 어디로?…네이버·카카오에 '문 연 병원' 물어보세요",
+      "link": "https://www.newsis.com/view/NISX20260923_0003801877",
+      "publisher": "뉴시스",
+      "pubDate": "Wed, 23 Sep 2026 23:00:00 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/09/23/NISI20260923_0002247566_web.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "추석에 갑자기 아프면 어디로?…네이버·카카오에 '문 연 병원' 물어보세요",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:27:49.545Z"
+    },
+    {
+      "id": "800c6ca1eac95b01",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "추석에 갑자기 아프면 어디로?…네이버·카카오에 '문 연 병원' 물어보세요",
+      "link": "https://www.newsis.com/view/NISX20260923_0003801877",
+      "publisher": "뉴시스",
+      "pubDate": "Wed, 23 Sep 2026 23:00:00 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/09/23/NISI20260923_0002247566_web.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "추석에 갑자기 아프면 어디로?…네이버·카카오에 '문 연 병원' 물어보세요",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:31:00.474Z"
+    },
+    {
+      "id": "6175baa960692e2b",
+      "company": "KT",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "KT, 영화·쇼핑·문화·여행 혜택으로 추석 연휴 즐거움 더한다",
+      "link": "https://v.daum.net/v/20260924073135162",
+      "publisher": "v.daum.net",
+      "pubDate": "Wed, 23 Sep 2026 22:31:35 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/24/akn/20260924073136957wfdy.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "KT, 영화·쇼핑·문화·여행 혜택으로 추석 연휴 즐거움 더한다",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:53:00.371Z"
+    },
+    {
+      "id": "6218ac48242dac05",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"월 4만원 아끼자\"… 토스·네이버·쿠팡, 끝까지 뽑아먹는 카드는? - 머니투데이",
+      "link": "https://www.mt.co.kr/finance/2026/09/24/2026092217402487674",
+      "publisher": "머니투데이",
+      "pubDate": "Wed, 23 Sep 2026 22:30:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026092217402487674_1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버 현대카드 Edition3 사용 시 네이버플러스 멤버십 혜택과 연동하여 네이버 쇼핑 이용 금액의 최대 15%를 네이버페이 포인트로 적립받을 수 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:27:37.755Z"
+    },
+    {
+      "id": "6218ac48242dac05",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "\"월 4만원 아끼자\"… 토스·네이버·쿠팡, 끝까지 뽑아먹는 카드는? - 머니투데이",
+      "link": "https://www.mt.co.kr/finance/2026/09/24/2026092217402487674",
+      "publisher": "머니투데이",
+      "pubDate": "Wed, 23 Sep 2026 22:30:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026092217402487674_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "\"월 4만원 아끼자\"… 토스·네이버·쿠팡, 끝까지 뽑아먹는 카드는? - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:38:00.975Z"
+    },
+    {
+      "id": "8402f50a3797d33a",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"추석 도로 정체구간 카카오내비로 확인 가능\"",
+      "link": "https://www.asiae.co.kr/article/2026092215565496918",
+      "publisher": "아시아경제",
+      "pubDate": "Wed, 23 Sep 2026 22:00:00 GMT",
+      "keyVisual": "https://cphoto.asiae.co.kr/listimglink/1/2026092215512938677_1790059889.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "\"추석 도로 정체구간 카카오내비로 확인 가능\"",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:30:15.871Z"
+    },
+    {
+      "id": "008adc9dcf7f7a13",
+      "company": "코인원",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "추석에도 코인 거래는 24시간… 5대 거래소 운영은",
+      "link": "https://it.chosun.com/news/articleView.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Wed, 23 Sep 2026 22:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "추석에도 코인 거래는 24시간… 5대 거래소 운영은",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:27:00.924Z"
+    },
+    {
+      "id": "41b8cd2f49e367d6",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“1만원 쓰면 5000원 적립”…네이버페이, 오프라인 결제망 확대",
+      "link": "https://news.mtn.co.kr/news-detail/2026092320493399945",
+      "publisher": "MTN 머니투데이방송",
+      "pubDate": "Wed, 23 Sep 2026 21:14:01 GMT",
+      "keyVisual": "https://menu.mtn.co.kr/upload/article/2026/09/23/2026092320493399945_00_930.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "“1만원 쓰면 5000원 적립”…네이버페이, 오프라인 결제망 확대",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:27:44.731Z"
+    },
+    {
+      "id": "25bfc85e1aa41052",
+      "company": "KT",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“아빌라·라일리 가을에만 빌리고 싶어, 꼭 돌려줄께” 1위 KT의 유일한 고민, 축구처럼 임대라도 하고 싶다",
+      "link": "https://www.chosun.com/sports/baseball/2026/09/24/GYYDEOBXGE4WMNRQGQZTOOLDGA/",
+      "publisher": "조선일보",
+      "pubDate": "Wed, 23 Sep 2026 16:10:00 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/MZSTMY3GMY4TQNDCGVQWIM3BGA.jpg?auth=497bfd8812d9a10046c65e4782486c586faa8638e194a3921914300cc4366da9&width=530&height=278&smart=true",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "“아빌라·라일리 가을에만 빌리고 싶어, 꼭 돌려줄께” 1위 KT의 유일한 고민, 축구처럼 임대라도 하고 싶다",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:02:01.095Z"
+    },
+    {
+      "id": "935a8c54e632b5b8",
+      "company": "KT",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'안재석 끝내기' 두산, KIA 4연승 저지하고 2연승…NC, KT 꺾고 8연패 탈출(종합)",
+      "link": "https://www.newsis.com/view/NISX20260923_0003802744",
+      "publisher": "뉴시스",
+      "pubDate": "Wed, 23 Sep 2026 13:29:56 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/08/23/NISI20260823_0021407938_web.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "'안재석 끝내기' 두산, KIA 4연승 저지하고 2연승…NC, KT 꺾고 8연패 탈출(종합)",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:58:00.427Z"
+    },
+    {
+      "id": "401e1f2cff6e4ede",
+      "company": "KT",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "8연패 탈출 NC 실낱 희망…선두 kt '매직넘버 10'에서 제동 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260923196700007",
+      "publisher": "연합뉴스",
+      "pubDate": "Wed, 23 Sep 2026 13:20:55 GMT",
+      "keyVisual": "https://img6.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923196700007_01_i_P4.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "8연패 탈출 NC 실낱 희망…선두 kt '매직넘버 10'에서 제동 | 연합뉴스",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:56:00.979Z"
+    },
+    {
+      "id": "728573be5e715fbb",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd",
+      "publisher": "KBS 뉴스",
+      "pubDate": "Wed, 23 Sep 2026 10:30:25 GMT",
+      "keyVisual": "//news.kbs.co.kr/resource/image/common/img_meta.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "본문은 KBS 뉴스의 푸터 및 저작권 공지사항 정보로, 네이버의 별도 마케팅 활동 내용은 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:29:27.477Z"
+    },
+    {
+      "id": "728573be5e715fbb",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd",
+      "publisher": "KBS 뉴스",
+      "pubDate": "Wed, 23 Sep 2026 10:30:25 GMT",
+      "keyVisual": "//news.kbs.co.kr/resource/image/common/img_meta.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "KBS 뉴스",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:42:00.750Z"
+    },
+    {
+      "id": "6dec98ecd3d56f64",
+      "company": "KT",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IPTV만 가입하려 했더니 제한…SKB·KT·LGU+ 과징금",
+      "link": "https://news.mtn.co.kr/news-detail/2026092318213194426",
+      "publisher": "MTN 머니투데이방송",
+      "pubDate": "Wed, 23 Sep 2026 09:26:39 GMT",
+      "keyVisual": "https://menu.mtn.co.kr/upload/article/2026/09/23/2026092318213194426_00_754.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IPTV만 가입하려 했더니 제한…SKB·KT·LGU+ 과징금",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:00:00.800Z"
+    },
+    {
+      "id": "4f09de2082e83ffa",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, AI 사업 확대 속도...그룹 내부 넘어 외부시장 넓힐까",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno",
+      "publisher": "뉴스락",
+      "pubDate": "Wed, 23 Sep 2026 09:14:07 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 그룹 내부를 넘어 외부 시장으로 AI 사업 확대를 적극적으로 추진하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 LG전자 등 그룹 내부 대상의 AI 사업 계약 중심 활동에서 벗어나 외부 시장으로의 본격적인 확장 가능성을 다루고 있습니다."
+      },
+      "processedAt": "2026-09-23T23:27:22.120Z"
+    },
+    {
+      "id": "d527549effadb498",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "웹툰·결제 이어 건강관리… 네이버, 새 사업 키우기 나섰다",
+      "link": "https://it.chosun.com/news/articleView.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Wed, 23 Sep 2026 08:44:54 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "웹툰·결제 이어 건강관리… 네이버, 새 사업 키우기 나섰다",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:28:34.301Z"
+    },
+    {
+      "id": "880409e8d0590929",
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "zdnet.co.kr",
+      "pubDate": "Wed, 23 Sep 2026 08:30:01 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:56:01.174Z"
+    },
+    {
+      "id": "0b121e61115ebf5c",
+      "company": "NHN",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "8년 만에 TGS 돌아온 'NHN', 신작부터 장수작까지 한자리에",
+      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno",
+      "publisher": "게임뷰",
+      "pubDate": "Wed, 23 Sep 2026 08:30:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "8년 만에 TGS 돌아온 'NHN', 신작부터 장수작까지 한자리에",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:38:00.778Z"
+    },
+    {
+      "id": "66c2d6f91357fa1a",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Wed, 23 Sep 2026 08:12:13 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:33:00.765Z"
+    },
+    {
+      "id": "5910f82a9374a4f4",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "그룹 전산실서 AI·RX까지…달라진 LG CNS의 위상",
+      "link": "https://v.daum.net/v/20260923171006075",
+      "publisher": "v.daum.net",
+      "pubDate": "Wed, 23 Sep 2026 08:10:06 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/23/552788-vZw4wcp/20260923171008371cenx.png",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-23",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 전통 SI 사업에서 클라우드, AI, RX(로봇 전환) 중심으로 사업 포트폴리오를 성공적으로 전환하여 5년 연속 성장세를 기록하고 그룹 내 핵심축으로 자리잡았습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:25:40.584Z"
+    },
+    {
+      "id": "ecc1a2a275194182",
+      "company": "카카오페이",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "카카오페이·뱅크, 파이어블록스와 맞손…디지털 자산 협력망 확대",
+      "link": "https://www.econovill.com/news/articleView.html?idxno",
+      "publisher": "ER 이코노믹리뷰",
+      "pubDate": "Wed, 23 Sep 2026 08:02:04 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오페이·뱅크, 파이어블록스와 맞손…디지털 자산 협력망 확대",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:34:00.270Z"
+    },
+    {
+      "id": "9c019e406984074c",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[이슈체크] SK텔레콤 ‘가짜일감’ 탈세사건, 심판청구 ‘패’…이재명 정부 검찰, 특경법 적용 검토했나?",
+      "link": "https://tfmedia.co.kr/mobile/article.html?no",
+      "publisher": "조세금융신문",
+      "pubDate": "Wed, 23 Sep 2026 07:59:09 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[이슈체크] SK텔레콤 ‘가짜일감’ 탈세사건, 심판청구 ‘패’…이재명 정부 검찰, 특경법 적용 검토했나?",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:27:25.597Z"
+    },
+    {
+      "id": "c0b0f62eba67895b",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "[단독]GS25, 토스와 '페이 동맹'…페이스페이 단말기 1.8만개 전 매장 도입",
+      "link": "https://www.news1.kr/industry/distribution/6300555",
+      "publisher": "뉴스1",
+      "pubDate": "Wed, 23 Sep 2026 06:51:59 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2026/9/23/8123872/high.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[단독]GS25, 토스와 '페이 동맹'…페이스페이 단말기 1.8만개 전 매장 도입",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:40:00.336Z"
+    },
+    {
+      "id": "ba348b214390d9ca",
+      "company": "카카오페이",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "휴게소 50% 적립도…네이버·카카오페이 추석 혜택은",
+      "link": "https://www.sedaily.com/article/20094562",
+      "publisher": "서울경제",
+      "pubDate": "Wed, 23 Sep 2026 06:32:34 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/09/23/news-p.v1.20260923.3f2627dcec6545d2a139d19b35f43f7a_Z1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "휴게소 50% 적립도…네이버·카카오페이 추석 혜택은",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:32:00.852Z"
+    },
+    {
+      "id": "c286dc7b2491fe10",
+      "company": "KT",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "메타 개인용 AI에이전트 '뮤즈' 돌풍, SKT·카카오·KT '모두의 AI'로 국내 선점 '발등에 불'",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41QlRDS19CYTR0MmVrWjdObUJnWndlY1hvUTBDRkJ1RllsdlZncjdzNm9MVVZQTHJ4cDFxaVNLNDhsSHR6dGNQS1dnV1NoN3hIb2xIMHNLY2JqRl9UWGU3VTJuSHRPdVZZbTZ1R0lSbjZIYXM?oc=5",
+      "publisher": "businesspost.co.kr",
+      "pubDate": "Wed, 23 Sep 2026 06:21:18 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "메타 개인용 AI에이전트 '뮤즈' 돌풍, SKT·카카오·KT '모두의 AI'로 국내 선점 '발등에 불'",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:59:00.601Z"
+    },
+    {
+      "id": "93577ae758bdc4bd",
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "컴투스, 독일 함부르크서 'SWC2026' 유럽 컵 개최",
+      "link": "https://v.daum.net/v/20260923151337035",
+      "publisher": "v.daum.net",
+      "pubDate": "Wed, 23 Sep 2026 06:13:37 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/23/SpoHankook/20260923151339037jrlg.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "컴투스, 독일 함부르크서 'SWC2026' 유럽 컵 개최",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:57:00.342Z"
+    },
+    {
+      "id": "970129eb74782d3d",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "더존비즈온, 세무·회계 전문가 대상 4주 프로그램 마련",
+      "link": "https://www.lawissue.co.kr/view.php?ud",
+      "publisher": "로이슈",
+      "pubDate": "Wed, 23 Sep 2026 06:11:55 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "더존비즈온, 세무·회계 전문가 대상 4주 프로그램 마련",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:44:00.765Z"
+    },
+    {
+      "id": "a28d5a86f6640642",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'SM엔터 주가조작' 카카오 김범수 2심서 징역 15년 구형",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6853779_36918.html",
+      "publisher": "MBC 뉴스",
+      "pubDate": "Wed, 23 Sep 2026 06:03:19 GMT",
+      "keyVisual": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/09/23/ggm_20260923_10.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "'SM엔터 주가조작' 카카오 김범수 2심서 징역 15년 구형",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:32:00.656Z"
+    },
+    {
+      "id": "016bc06ac9bdc795",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버·브룩필드 AIDC 10조 조달 닻…단계적 PF 추진",
+      "link": "https://www.sedaily.com/article/20094535",
+      "publisher": "서울경제",
+      "pubDate": "Wed, 23 Sep 2026 06:00:20 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/09/23/news-p.v1.20260923.422149229e74440397ac8c7ec62c3d55_Z1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버·브룩필드 AIDC 10조 조달 닻…단계적 PF 추진",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:29:14.222Z"
+    },
+    {
+      "id": "e05b22b3c94fa9b5",
+      "company": "빗썸코리아",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "추석 맞은 코인 거래소…빗썸 '익절 더블업'·코인원 1000만원 쏜다",
+      "link": "https://www.news1.kr/finance/blockchain-fintech/6300475",
+      "publisher": "뉴스1",
+      "pubDate": "Wed, 23 Sep 2026 05:43:34 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2026/9/23/8123815/high.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "추석 맞은 코인 거래소…빗썸 '익절 더블업'·코인원 1000만원 쏜다",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:15:00.886Z"
+    },
+    {
+      "id": "13919c5605d7644c",
+      "company": "코인원",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "코인원, 신규 고객 위한 '추석 보너스 이벤트'",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sb2gxQVJCMDBsYURZc2pVWW1ZWWRyWTVTOV9hSHZFSWltUWVUMzFwV3cwUUNramVxZjM5UXNhOG5vQkpTc2dsdEt4UXpyOGFRbXphVTBIRU15WW4tRTJVQnl3Y1VpMXQz?oc=5",
+      "publisher": "fetv.co.kr",
+      "pubDate": "Wed, 23 Sep 2026 05:31:52 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "코인원, 신규 고객 위한 '추석 보너스 이벤트'",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:25:00.503Z"
+    },
+    {
+      "id": "ba7cd94ee0a0470c",
+      "company": "카카오페이",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "카카오페이증권, 멜론과 '비트타는 주식 거래' 이벤트 진행",
+      "link": "https://www.etnews.com/20260923000172",
+      "publisher": "전자신문",
+      "pubDate": "Wed, 23 Sep 2026 05:30:46 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/23/news-p.v1.20260923.cfb99bec0fc641dfb7d6b1d5b167a622_P1.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오페이증권, 멜론과 '비트타는 주식 거래' 이벤트 진행",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:29:00.363Z"
+    },
+    {
+      "id": "de94e8073ae6d8b3",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'SM주가조작' 카카오 김범수 2심서 징역 15년 구형…\"무죄 파기\" | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260923122500004",
+      "publisher": "연합뉴스",
+      "pubDate": "Wed, 23 Sep 2026 05:30:01 GMT",
+      "keyVisual": "https://img2.yna.co.kr/photo/yna/YH/2026/09/23/PYH2026092316680001300_P4.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "'SM주가조작' 카카오 김범수 2심서 징역 15년 구형…\"무죄 파기\" | 연합뉴스",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:34:00.950Z"
+    },
+    {
+      "id": "0e97ded04eda9b68",
+      "company": "고팍스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "바이낸스 품은 고팍스, 국내 시장 공략 본격화…대규모 스테이킹 이벤트 추진 - 한국공공정책신문",
+      "link": "http://knpp.co.kr/news/553528",
+      "publisher": "knpp.co.kr",
+      "pubDate": "Wed, 23 Sep 2026 05:20:16 GMT",
+      "keyVisual": "https://www.ehom.kr/news/2026/09/23/77a2676604559a6a58b686536e8ef9d1141911_thumb.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "바이낸스 품은 고팍스, 국내 시장 공략 본격화…대규모 스테이킹 이벤트 추진 - 한국공공정책신문",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:51:00.302Z"
+    },
+    {
+      "id": "24b23539c336d142",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "더존비즈온, 택스워치와 세무 전문가 대상 ‘TAX 리더스 서밋’ 개최",
+      "link": "https://www.sentv.co.kr/article/view/sentv202609230135",
+      "publisher": "서울경제TV",
+      "pubDate": "Wed, 23 Sep 2026 05:06:49 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/09/23/sentv20260923000154.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "더존비즈온, 택스워치와 세무 전문가 대상 ‘TAX 리더스 서밋’ 개최",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:46:01.093Z"
+    },
+    {
+      "id": "9ab432490d072d6c",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "처음엔 점유율, 지금은 ‘검색 리워드’…네이버·토스 포스 연동 갈등",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwR25CYzhPblNpY3ltU2ZacmViZkF5WnVNT3R0elpaMEtuMUJsU3pZbGRaTjN6MnJwekxrVXgyc2RkOEpnWVBFQ2h4eDUxUHpZRkpWNTJ1ZHgxMmluMnhnTXp4WQ?oc=5",
+      "publisher": "쿠키뉴스",
+      "pubDate": "Wed, 23 Sep 2026 05:06:47 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "처음엔 점유율, 지금은 ‘검색 리워드’…네이버·토스 포스 연동 갈등",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:44:01.135Z"
+    },
+    {
+      "id": "70a7800543cd8b36",
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "컴투스홀딩스 '페이딩 에코', PS5·엑스박스 시리즈 X|S 출시",
+      "link": "https://www.newspim.com/news/view/20260923000694",
+      "publisher": "뉴스핌",
+      "pubDate": "Wed, 23 Sep 2026 05:00:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/09/23/2609231317180830_551_tc.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "컴투스홀딩스 '페이딩 에코', PS5·엑스박스 시리즈 X|S 출시",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:59:00.703Z"
+    },
+    {
+      "id": "fb049c8072eb77de",
+      "company": "두나무",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "삼성카드, 두나무 1% 확보…모니모와 업비트 연결되나",
+      "link": "http://www.press9.kr/news/articleView.html?idxno",
+      "publisher": "PRESS9",
+      "pubDate": "Wed, 23 Sep 2026 04:53:34 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성카드, 두나무 1% 확보…모니모와 업비트 연결되나",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:09:00.802Z"
+    },
+    {
+      "id": "7f4f762f21b4c7dd",
+      "company": "카카오페이",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "카카오페이, 가을 황금연휴 맞이 '본능따라 해외결제' 캠페인 전개",
+      "link": "https://www.newspim.com/news/view/20260923000511",
+      "publisher": "뉴스핌",
+      "pubDate": "Wed, 23 Sep 2026 04:43:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/09/23/2609231117009010_205_tc.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오페이, 가을 황금연휴 맞이 '본능따라 해외결제' 캠페인 전개",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:33:01.075Z"
+    },
+    {
+      "id": "0d2399276865506f",
+      "company": "카카오페이",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "[여의도 단신]대신증권·카카오페이증권·키움증권",
+      "link": "https://www.imaeil.com/page/view/2026092310340112653",
+      "publisher": "매일신문",
+      "pubDate": "Wed, 23 Sep 2026 04:38:43 GMT",
+      "keyVisual": "https://www.imaeil.com/photos/2026/09/23/2026092310320511573_l.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[여의도 단신]대신증권·카카오페이증권·키움증권",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:35:00.406Z"
+    },
+    {
+      "id": "0e20169d6a4a2efd",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI 시대, 기업 데이터의 재발견: 버려지던 데이터가 원유가 되다 | 인사이트리포트 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/insights/the-rediscovery-of-enterprise-data-in-the-ai-age.html",
+      "publisher": "samsungsds.com",
+      "pubDate": "Wed, 23 Sep 2026 04:25:35 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/09/23/thumb_0923.png?queryString=20260923011148",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "AI 시대, 기업 데이터의 재발견: 버려지던 데이터가 원유가 되다 | 인사이트리포트 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:25:19.690Z"
+    },
+    {
+      "id": "875bfb10cafa7539",
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "컴투스홀딩스, '페이딩 에코' PS5&middot;엑스박스 버전 출시",
+      "link": "http://www.inews24.com/view/2008763",
+      "publisher": "아이뉴스24",
+      "pubDate": "Wed, 23 Sep 2026 04:22:22 GMT",
+      "keyVisual": "https://image.inews24.com/v1/07f89ea7ca0921.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "컴투스홀딩스, '페이딩 에코' PS5&middot;엑스박스 버전 출시",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T01:00:00.901Z"
+    },
+    {
+      "id": "526857dce7f435ad",
+      "company": "KT",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "유비쿼스, 광통신 장비에 AI 심었다…KT와 상용망 실증 추진",
+      "link": "https://www.etnews.com/20260923000138",
+      "publisher": "전자신문",
+      "pubDate": "Wed, 23 Sep 2026 03:24:34 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/21/news-p.v1.20260921.b679e972c47446a880879b5afc32c408_P1.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "유비쿼스, 광통신 장비에 AI 심었다…KT와 상용망 실증 추진",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:57:01.201Z"
+    },
+    {
+      "id": "7107667698bca844",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오 임팩트재단, ‘대한민국 사회적가치 페스타’ 참여…사회혁신 현장 AX 경험 공유",
+      "link": "https://www.kakaocorp.com/page/detail/12148",
+      "publisher": "카카오",
+      "pubDate": "Wed, 23 Sep 2026 02:57:27 GMT",
+      "keyVisual": "https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/news/cb918c5901a000001.jpg?type=thumb&opt=C800x400",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오 임팩트재단, ‘대한민국 사회적가치 페스타’ 참여…사회혁신 현장 AX 경험 공유",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:35:01.112Z"
+    },
+    {
+      "id": "be9006fdb5906677",
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "컴투스홀딩스, 액션 게임 ‘페이딩 에코’ PS5·엑스박스 출시",
+      "link": "https://it.chosun.com/news/articleView.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Wed, 23 Sep 2026 02:20:40 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "컴투스홀딩스, 액션 게임 ‘페이딩 에코’ PS5·엑스박스 출시",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:58:00.532Z"
+    },
+    {
+      "id": "17038b63e6874ce0",
+      "company": "카카오페이",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "카카오페이증권, 2026 MMA 티켓 증정…'비트타는 주식 거래' 이벤트",
+      "link": "https://www.news1.kr/finance/general-stock/6300144",
+      "publisher": "뉴스1",
+      "pubDate": "Wed, 23 Sep 2026 02:19:11 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2026/9/23/8123008/high.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오페이증권, 2026 MMA 티켓 증정…'비트타는 주식 거래' 이벤트",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:31:00.682Z"
+    },
+    {
+      "id": "9ef4b57bf6486be8",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "쿠우쿠우, 토스 페이스페이 결제 시 5000원 할인 : 네이버 블로그",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanU5cFR3X0ZNSnRzRm1Ba2FwNHNHdkxobmJlbXNTMTdyWWJiRExWWU9mQWVWTDU0RWE0Vl9hRVZMeGhhSFIteVJOX1ZwWTdXcEtSRDk5Z2FSeWY2MmJmSEtpdVlEUVF6VVkxMkNTTjJWOHdYYkZFZTRYR3A0MmZIUXFCWG1oVHNJaWowdnFB?oc=5",
+      "publisher": "Naver Blog",
+      "pubDate": "Wed, 23 Sep 2026 02:15:50 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "쿠우쿠우, 토스 페이스페이 결제 시 5000원 할인 : 네이버 블로그",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:41:00.518Z"
+    },
+    {
+      "id": "e9c0e7bc0e696c36",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "대외매출 51% LG CNS…GPU·데이터센터로 ‘AI 2막’",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yZHc0ejl2Sks2TFhweThBNmczdERIUERhV3p0U3Z6ZHdPZGNhRVotazFHanZuX3BMRGlpWmxwdmNNME5oTmFvNV91aVNXRUxFMk95ZHJQUlJTVm5tazBVYXhtUjM1QQ?oc=5",
+      "publisher": "디일렉",
+      "pubDate": "Wed, 23 Sep 2026 02:15:23 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "대외매출 51% LG CNS…GPU·데이터센터로 ‘AI 2막’",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:27:03.367Z"
+    },
+    {
+      "id": "cbac1b4ca83f0fab",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "토스, 청와옥 '페이스페이' 도입⋯매장 경험 개선",
+      "link": "https://v.daum.net/v/20260923111509848",
+      "publisher": "v.daum.net",
+      "pubDate": "Wed, 23 Sep 2026 02:15:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/23/inews24/20260923111510384orrr.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "토스, 청와옥 '페이스페이' 도입⋯매장 경험 개선",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:39:01.146Z"
+    },
+    {
+      "id": "331b303d2e4e2a88",
+      "company": "빗썸코리아",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "빗썸, 추석 맞이 '익절 더블업' 이벤트",
+      "link": "https://www.newsis.com/view/NISX20260923_0003801809",
+      "publisher": "뉴시스",
+      "pubDate": "Wed, 23 Sep 2026 02:03:31 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/09/23/NISI20260923_0002247501_web.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "빗썸, 추석 맞이 '익절 더블업' 이벤트",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:20:00.750Z"
+    },
+    {
+      "id": "3cfc500c4bedd6e3",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 데이터센터 짓고 GPU도 돌린다…AI 인프라 사업 확장",
+      "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno",
+      "publisher": "위키리크스한국",
+      "pubDate": "Wed, 23 Sep 2026 01:58:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 데이터센터 구축과 GPU 운영을 포함한 AI 인프라 사업 영역을 확장합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 생성형 AI 및 코파일럿 서비스 공급 위주에서 데이터센터 구축 및 GPU 운영 등 AI 하드웨어 인프라 영역으로 사업을 확장하고 있습니다."
+      },
+      "processedAt": "2026-09-23T23:27:13.633Z"
+    },
+    {
+      "id": "b8586816cbbe8da6",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "토스뱅크, 추석 연휴 고객센터 24시간 운영…금융사기 신고도 접수",
+      "link": "https://www.dailian.co.kr/news/view/1693988/%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC-%EC%B6%94%EC%84%9D-%EC%97%B0%ED%9C%B4-%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0-24%EC%8B%9C%EA%B0%84-2026",
+      "publisher": "데일리안",
+      "pubDate": "Wed, 23 Sep 2026 01:48:00 GMT",
+      "keyVisual": "https://cdnimage.dailian.co.kr/news/202609/news_1790125701615_1693988_m_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "토스뱅크, 추석 연휴 고객센터 24시간 운영…금융사기 신고도 접수",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:43:00.921Z"
+    },
+    {
+      "id": "16b3c1a6b8aeabcb",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 치지직, 라이엇게임즈와 아시안게임 LoL 협업 확대",
+      "link": "https://www.nocutnews.co.kr/news/6582570",
+      "publisher": "노컷뉴스",
+      "pubDate": "Wed, 23 Sep 2026 01:45:59 GMT",
+      "keyVisual": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/23/202609231016571333_0.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "치지직 롤파크",
+      "format": "온·오프라인 이벤트",
+      "slogan": null,
+      "keyMessage": "네이버 치지직이 라이엇게임즈와의 파트너십을 확대하여 2026 아이치·나고야 아시안게임 LoL 경기를 중심으로 계정 연동 프로모션 및 오프라인 뷰잉파티 등 온·오프라인 협업을 진행한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:28:42.342Z"
+    },
+    {
+      "id": "2790e4e42f0ae662",
+      "company": "빗썸코리아",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "빗썸, 추석 맞아 ‘익절 더블업’ 이벤트…최대 50만원 리워드",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PS080WFN1bXFGbGpfWDN2em1MbFdvVl84bHBuRFJseWdoelRyYVdzQXN1bTAxT1NMam84RTZaU1VROGdENnZhQjFrZXlrenVGeHFlMW1fNmYzeWEtYU9mMjNVbUtnSVZweHYyaHZqWUR2Zw?oc=5",
+      "publisher": "인더스트리뉴스",
+      "pubDate": "Wed, 23 Sep 2026 01:43:18 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "빗썸, 추석 맞아 ‘익절 더블업’ 이벤트…최대 50만원 리워드",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:18:00.436Z"
+    },
+    {
+      "id": "6c079ae33d84c5ea",
+      "company": "코인원",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "코인원, 신규 고객 대상 ‘추석 보너스 이벤트’",
+      "link": "https://weekly.hankooki.com/news/articleViewAmp.html?idxno",
+      "publisher": "weekly.hankooki.com",
+      "pubDate": "Wed, 23 Sep 2026 01:42:07 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "코인원, 신규 고객 대상 ‘추석 보너스 이벤트’",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:26:00.737Z"
+    },
+    {
+      "id": "7d0d4c0b9608eff2",
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "컴투스 '제우스: 오만의 신', 점성술·신규 던전 추가",
+      "link": "https://www.newspim.com/news/view/20260923000313",
+      "publisher": "뉴스핌",
+      "pubDate": "Wed, 23 Sep 2026 01:38:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/09/23/2609230959492100_816_tc.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "컴투스 '제우스: 오만의 신', 점성술·신규 던전 추가",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:54:00.940Z"
+    },
+    {
+      "id": "1974e0fe99fbf5fb",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS 인니 공략 방정식, '단독법인' 넘어 '합작법인' 키운다",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "bloter.net",
+      "pubDate": "Wed, 23 Sep 2026 01:37:22 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS 인니 공략 방정식, '단독법인' 넘어 '합작법인' 키운다",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:25:54.403Z"
+    },
+    {
+      "id": "637ab3c474231abf",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 피지컬AI 확대…미라콤아이앤씨 역할론 커지나",
+      "link": "https://www.topdaily.kr/articles/112065",
+      "publisher": "톱데일리",
+      "pubDate": "Wed, 23 Sep 2026 01:29:00 GMT",
+      "keyVisual": "https://assets.repress.co.kr/photos/019a3bf9ce22371bbeb585ca260d4f3c/thumb.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 피지컬AI 및 로봇 전환(RX) 사업 확대를 위해 자회사 미라콤아이앤씨의 400여 개 제조 고객 기반을 활용하여 내년부터 로봇 오케스트레이션 플랫폼을 선보이고 현장 자동화 수요를 공략한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 소프트웨어·클라우드·인프라 중심 활동들과 달리 피지컬AI 및 로봇 전환(RX) 솔루션을 통한 제조 현장 자동화 사업 진출을 본격화한 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-09-23T23:25:32.219Z"
+    },
+    {
+      "id": "2e707eedb53733a8",
+      "company": "KT",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "KT, 추석 맞아 영상통화 무료…영화·공연 할인도 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260923067500017",
+      "publisher": "연합뉴스",
+      "pubDate": "Wed, 23 Sep 2026 01:25:17 GMT",
+      "keyVisual": "https://img2.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923067500017_01_i_P4.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "KT, 추석 맞아 영상통화 무료…영화·공연 할인도 | 연합뉴스",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:54:00.584Z"
+    },
+    {
+      "id": "dea188919e931ba5",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오 임팩트재단, 사회혁신 조직 위한 'AX 5단계 가이드' 공개",
+      "link": "https://www.etnews.com/20260923000086",
+      "publisher": "전자신문",
+      "pubDate": "Wed, 23 Sep 2026 01:24:58 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/23/news-p.v1.20260923.7434180e83664a54adb33fe7dabf153a_P1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오 임팩트재단, 사회혁신 조직 위한 'AX 5단계 가이드' 공개",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:37:00.512Z"
+    },
+    {
+      "id": "a3b4b2fbfba59576",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오 임팩트재단, AX 성과 발표…AX 가이드도 공개",
+      "link": "https://v.daum.net/v/20260923102442890",
+      "publisher": "v.daum.net",
+      "pubDate": "Wed, 23 Sep 2026 01:24:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/23/NEWS1/20260923102445154mcpd.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오 임팩트재단, AX 성과 발표…AX 가이드도 공개",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:36:00.257Z"
+    },
+    {
+      "id": "d75a18d33974be2a",
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "[클릭! e 게임]“올림포스에도 추석 온다”…컴투스 ‘제우스 : 오만의 신’, 점성술·엘리시움 등 업데이트",
+      "link": "https://www.munhwa.com/article/11619145",
+      "publisher": "문화일보",
+      "pubDate": "Wed, 23 Sep 2026 01:18:06 GMT",
+      "keyVisual": "https://wimg.munhwa.com/news/cms/2026/09/23/news-p.v1.20260923.a343defc56eb4b09b8e383ed9340af5a_R.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[클릭! e 게임]“올림포스에도 추석 온다”…컴투스 ‘제우스 : 오만의 신’, 점성술·엘리시움 등 업데이트",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:53:00.667Z"
+    },
+    {
+      "id": "1548fc8aaea25e63",
+      "company": "코인원",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "코인원, 신규 고객 대상 '추석 보너스 이벤트'…1000만원 상당 혜택",
+      "link": "https://www.hankyung.com/article/202609232995B",
+      "publisher": "한국경제",
+      "pubDate": "Wed, 23 Sep 2026 01:16:00 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202609/06e61bec-4c0f-43cc-af84-a3ab2cff8009.webp",
+      "activityType": "언론보도",
+      "eventDate": "9월 23일 ~ 9월 30일",
+      "location": null,
+      "format": "온라인 이벤트",
+      "slogan": null,
+      "keyMessage": "코인원이 추석 연휴를 맞아 신규 가입 고객을 대상으로 총 1000만원 상당의 혜택과 비트코인을 제공하는 '추석 보너스 이벤트'를 진행한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:28:07.953Z"
+    },
+    {
+      "id": "79b8f9dfba7440e1",
+      "company": "KT",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'좌완 선발+ML 거포' KT가 원한 그림 그대로... '슬라이더 우완 원톱' 2R급 재능도 3R에 품었다 - 머니투데이",
+      "link": "https://www.mt.co.kr/sports/2026/09/23/2026092308595049309",
+      "publisher": "머니투데이",
+      "pubDate": "Wed, 23 Sep 2026 01:12:06 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026092308595049309_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "'좌완 선발+ML 거포' KT가 원한 그림 그대로... '슬라이더 우완 원톱' 2R급 재능도 3R에 품었다 - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:01:00.959Z"
+    },
+    {
+      "id": "2b539416cf5f83a3",
+      "company": "카카오페이",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "[게시판] 카카오페이증권, 멜론과 '비트타는 주식 거래' 이벤트",
+      "link": "https://stock.mk.co.kr/news/view/1164257",
+      "publisher": "매일경제 마켓",
+      "pubDate": "Wed, 23 Sep 2026 01:10:52 GMT",
+      "keyVisual": "https://stock.mk.co.kr/photos/20260923/AKR20260923060500008_01_i_P4.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[게시판] 카카오페이증권, 멜론과 '비트타는 주식 거래' 이벤트",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:30:00.496Z"
+    },
+    {
       "id": "f936d81e2ef8e4cd",
       "company": "토스",
       "category": "디지털 금융",
@@ -114,6 +1742,50 @@
         "llmNote": null
       },
       "processedAt": "2026-09-23T01:07:00.459Z"
+    },
+    {
+      "id": "d04ef957ee8651e9",
+      "company": "빗썸코리아",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "빗썸, 추석 맞아 '익절 더블업' 이벤트…최대 50만원 지급",
+      "link": "https://www.hankyung.com/article/202609232942B",
+      "publisher": "한국경제",
+      "pubDate": "Wed, 23 Sep 2026 01:07:00 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202609/f76e6544-0117-4064-aa44-f00a2d697d41.webp",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "빗썸, 추석 맞아 '익절 더블업' 이벤트…최대 50만원 지급",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:21:00.898Z"
+    },
+    {
+      "id": "5480472ace85dade",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "Error",
+      "link": "https://www.newswire.co.kr/newsRead.php?no",
+      "publisher": "뉴스와이어",
+      "pubDate": "Wed, 23 Sep 2026 01:06:42 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "Error",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:47:00.229Z"
     },
     {
       "id": "83f7cae75b64e9ed",
@@ -182,6 +1854,28 @@
       "processedAt": "2026-09-23T01:04:00.910Z"
     },
     {
+      "id": "f8b99057fe4d87c2",
+      "company": "KT",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "KT, 추석 연휴 맞이 고객 혜택 마련⋯ “영화·쇼핑·문화·여행 혜택 한자리에”",
+      "link": "https://www.viva100.com/article/20260923500268",
+      "publisher": "브릿지경제",
+      "pubDate": "Wed, 23 Sep 2026 01:04:00 GMT",
+      "keyVisual": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/23/.cache/512/20260923500266.jpg?v=20260924085402",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "KT, 추석 연휴 맞이 고객 혜택 마련⋯ “영화·쇼핑·문화·여행 혜택 한자리에”",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:55:00.804Z"
+    },
+    {
       "id": "32503f1fd2338a23",
       "company": "토스",
       "category": "디지털 금융",
@@ -226,6 +1920,50 @@
       "processedAt": "2026-09-23T01:02:00.669Z"
     },
     {
+      "id": "ac555feaa42f27d3",
+      "company": "카카오페이",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "카카오페이, 웹소설·웹드라마·SNS 잇는 해외결제 콘텐츠 선봬 - 글로벌이코노믹",
+      "link": "https://www.g-enews.com/article/Finance/2026/09/202609230922373181cd0bfacc1c_1",
+      "publisher": "글로벌이코노믹",
+      "pubDate": "Wed, 23 Sep 2026 00:47:48 GMT",
+      "keyVisual": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=2026092309252703928cd0bfacc1c106101128238.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오페이, 웹소설·웹드라마·SNS 잇는 해외결제 콘텐츠 선봬 - 글로벌이코노믹",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:36:00.606Z"
+    },
+    {
+      "id": "0d80ff2f780ce56e",
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "컴투스 '제우스', 추석 맞아 점성술·신규 던전 업데이트",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno",
+      "publisher": "데일리한국",
+      "pubDate": "Wed, 23 Sep 2026 00:43:30 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "컴투스 '제우스', 추석 맞아 점성술·신규 던전 업데이트",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:55:01.048Z"
+    },
+    {
       "id": "4dfbfa277b6e8ab3",
       "company": "컴투스",
       "category": "디지털 금융",
@@ -246,6 +1984,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-23T01:17:00.324Z"
+    },
+    {
+      "id": "dfd01a798d1466a6",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS 상암&middot;부산 데이터센터, 소방청 '공간안전인증' 획득",
+      "link": "http://www.inews24.com/view/2008641",
+      "publisher": "아이뉴스24",
+      "pubDate": "Wed, 23 Sep 2026 00:34:09 GMT",
+      "keyVisual": "https://image.inews24.com/v1/6db9a47e6605da.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 지능형 안전관리체계 구축과 안전 설비 강화를 통해 국내 데이터센터 업계 최초로 소방청 감독 '공간안전인증'을 획득했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 생성형 AI 공급 계약 및 AI 사업 중심 활동과 달리 데이터센터 물리적 인프라의 안전성 인증 획득을 다룬 보도입니다."
+      },
+      "processedAt": "2026-09-23T23:26:07.746Z"
     },
     {
       "id": "3ad49a19c0cf8ef3",
@@ -356,6 +2116,50 @@
         "llmNote": null
       },
       "processedAt": "2026-09-23T00:49:00.789Z"
+    },
+    {
+      "id": "5830ccf95d7d48f9",
+      "company": "빗썸코리아",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "빗썸·코인원, 추석 이벤트 맞불…신규·휴면 고객 공략",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno",
+      "publisher": "ebn.co.kr",
+      "pubDate": "Wed, 23 Sep 2026 00:19:20 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "빗썸·코인원, 추석 이벤트 맞불…신규·휴면 고객 공략",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:19:00.577Z"
+    },
+    {
+      "id": "5830ccf95d7d48f9",
+      "company": "코인원",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "빗썸·코인원, 추석 이벤트 맞불…신규·휴면 고객 공략",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno",
+      "publisher": "ebn.co.kr",
+      "pubDate": "Wed, 23 Sep 2026 00:19:20 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "빗썸·코인원, 추석 이벤트 맞불…신규·휴면 고객 공략",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:22:01.047Z"
     },
     {
       "id": "20946899e7a874e1",
@@ -598,6 +2402,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-23T00:31:00.333Z"
+    },
+    {
+      "id": "4294abf1a7c27e49",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Tue, 22 Sep 2026 23:37:40 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:25:46.556Z"
     },
     {
       "id": "efae14451a4016a4",
@@ -1018,6 +2844,28 @@
       "processedAt": "2026-09-23T00:24:00.854Z"
     },
     {
+      "id": "6adaa3c9ae41ca03",
+      "company": "두나무",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "백악관 디지털자산 '정책통', 두나무 콘퍼런스 참석…윤선주 CBIO와 대담",
+      "link": "https://www.news1.kr/finance/blockchain-fintech/6299551",
+      "publisher": "뉴스1",
+      "pubDate": "Tue, 22 Sep 2026 11:19:54 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2026/9/22/8122304/medium.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "백악관 디지털자산 '정책통', 두나무 콘퍼런스 참석…윤선주 CBIO와 대담",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:10:01.023Z"
+    },
+    {
       "id": "dfa8cc45d0855a55",
       "company": "더존비즈온",
       "category": "IT 서비스",
@@ -1084,6 +2932,28 @@
       "processedAt": "2026-09-22T23:50:00.836Z"
     },
     {
+      "id": "17092aabca10343b",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "더존비즈온, 키르기즈 국가투자처와 디지털 전환 협력",
+      "link": "https://v.daum.net/v/20260922185608110",
+      "publisher": "v.daum.net",
+      "pubDate": "Tue, 22 Sep 2026 09:56:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/22/dt/20260922185609790xruy.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "더존비즈온, 키르기즈 국가투자처와 디지털 전환 협력",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:44:09.711Z"
+    },
+    {
       "id": "ef8f75c3f3adb59c",
       "company": "카카오",
       "category": "IT 서비스",
@@ -1148,6 +3018,116 @@
         "llmNote": null
       },
       "processedAt": "2026-09-22T23:46:00.250Z"
+    },
+    {
+      "id": "4c77f34b5e862310",
+      "company": "NHN",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "김동훈 NHN클라우드 대표, NHN 주식 1억4000만원어치 추가 매입",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/22/DVIJFDMKPNHNNM2ZF3UDUALDPQ/?outputType",
+      "publisher": "Chosunbiz",
+      "pubDate": "Tue, 22 Sep 2026 09:02:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/2L4RXLKBSJG3DNOCV52WYOKIWA.JPG?auth=7314b6fbfe7f0a7e9acc5aae0e703465fc3c6b04987182ac76513974b2d19c7f&width=1200&height=630&smart=true",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "김동훈 NHN클라우드 대표, NHN 주식 1억4000만원어치 추가 매입",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:39:00.829Z"
+    },
+    {
+      "id": "7d6e34f6ece2be2a",
+      "company": "코인원",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "[추석 보너스 혜택] 보름달 찾으면 추석 보너스 100% 받아요!",
+      "link": "https://coinone.co.kr/info/notice/5784",
+      "publisher": "coinone.co.kr",
+      "pubDate": "Tue, 22 Sep 2026 09:00:00 GMT",
+      "keyVisual": "https://coinone-talk-share.s3.ap-northeast-2.amazonaws.com/prd/2026/09/22/NOTICE/830aa506-3cfa-4f01-b2ae-100b1b8012f8.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[추석 보너스 혜택] 보름달 찾으면 추석 보너스 100% 받아요!",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:24:00.315Z"
+    },
+    {
+      "id": "66cfccdae76f48cf",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'인적분할' 첫 관문 넘은 카카오…합병 주주 반대 2%대 그쳐",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "bloter.net",
+      "pubDate": "Tue, 22 Sep 2026 08:42:22 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오가 주주 반대율 2%대에 그치며 인적분할 및 합병을 위한 첫 관문을 통과했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 웹툰·스토리 서비스 통합 및 모빌리티 상장 이슈와 달리 기업 지배구조 개편(인적분할 및 합병)에 관한 소식입니다."
+      },
+      "processedAt": "2026-09-23T23:29:39.190Z"
+    },
+    {
+      "id": "5b46d3c1a4581c0d",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드 “모델 크기 넘어 ‘보안 역량’ 집중…프런티어 도달할 것”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sRUswSlhrTWtUMFFCMlVIZ3ktbkNXNnJGZmY3c0lnYm5nZzB2MEdNNFVXMHNKNXk0blJpNlNtQVpuZGo1Z2xGX3VnNFM4YWJ5N2pTcGFqLU15ZU4teGNnQk1weURBTXNjNmc?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Tue, 22 Sep 2026 08:38:13 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버클라우드는 모델 크기 확장을 넘어 보안 역량에 집중함으로써 프런티어급 AI 기술에 도달하겠다는 비전을 발표했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:29:20.231Z"
+    },
+    {
+      "id": "5b46d3c1a4581c0d",
+      "company": "네이버클라우드",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드 “모델 크기 넘어 ‘보안 역량’ 집중…프런티어 도달할 것”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sRUswSlhrTWtUMFFCMlVIZ3ktbkNXNnJGZmY3c0lnYm5nZzB2MEdNNFVXMHNKNXk0blJpNlNtQVpuZGo1Z2xGX3VnNFM4YWJ5N2pTcGFqLU15ZU4teGNnQk1weURBTXNjNmc?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Tue, 22 Sep 2026 08:38:13 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버클라우드 “모델 크기 넘어 ‘보안 역량’ 집중…프런티어 도달할 것”",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:03:00.324Z"
     },
     {
       "id": "c98613a777e69ba4",
@@ -1348,6 +3328,28 @@
       "processedAt": "2026-09-22T23:42:00.516Z"
     },
     {
+      "id": "e798fe381d5bfaff",
+      "company": "네이버클라우드",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "zdnet.co.kr",
+      "pubDate": "Tue, 22 Sep 2026 07:57:54 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:07:00.569Z"
+    },
+    {
       "id": "714fb323ed7cc984",
       "company": "컴투스",
       "category": "디지털 금융",
@@ -1434,6 +3436,50 @@
         "llmNote": null
       },
       "processedAt": "2026-09-23T00:17:00.497Z"
+    },
+    {
+      "id": "078f162b7ab8dd37",
+      "company": "네이버클라우드",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드, ‘보안 AI’ 개발 착수…글로벌 최고 수준 노린다",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JRHJ2dkdaeGJpSXQxMWI2MHJ2YjZlRGZ4V09hTlFxNmZwdjU0Z0lLQ09HUW9ITVVBMzRraGE5dWZUY1BPbmRUQ2ZHTWY1VUtSN3JuS1puaEJ0dG8?oc=5",
+      "publisher": "에너지경제신문",
+      "pubDate": "Tue, 22 Sep 2026 07:48:12 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버클라우드, ‘보안 AI’ 개발 착수…글로벌 최고 수준 노린다",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:06:00.236Z"
+    },
+    {
+      "id": "4d4cd50b127f31fa",
+      "company": "NHN",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "김동훈 NHN클라우드 대표, NHN 주식 1억4098만원 추가 매입",
+      "link": "https://www.bloter.net/news/articleViewAmp.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Tue, 22 Sep 2026 07:48:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "김동훈 NHN클라우드 대표, NHN 주식 1억4098만원 추가 매입",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:41:00.208Z"
     },
     {
       "id": "97b6a45868a31544",
@@ -1656,6 +3702,28 @@
       "processedAt": "2026-09-23T00:10:01.158Z"
     },
     {
+      "id": "405de6759366944b",
+      "company": "NHN",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "NHN, AI 데이터센터 수장 자사주 매입했다",
+      "link": "https://www.smarttoday.co.kr/ko-kr/articles/111931",
+      "publisher": "스마트투데이",
+      "pubDate": "Tue, 22 Sep 2026 07:07:00 GMT",
+      "keyVisual": "https://cdn.www.smarttoday.co.kr/w1200/q100/f_jpg/article-images/2026-09-22/3cc5552f-1726-4740-b463-86e1abbe00dc.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "NHN, AI 데이터센터 수장 자사주 매입했다",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:42:00.393Z"
+    },
+    {
       "id": "eecf95d7d266a764",
       "company": "네이버",
       "category": "IT 서비스",
@@ -1788,6 +3856,28 @@
       "processedAt": "2026-09-22T23:28:29.797Z"
     },
     {
+      "id": "604e8526864da73c",
+      "company": "두나무",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "두나무 '업비트 인스티튜셔널 서밋' 29일 열어, 오경석 \"한국 시장과 글로벌 시장 연결\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mcWxRZXpSMzlWdGgydmVSQjNGTEwyTHZrQjRYRUFGS296QzFnT29sdmJQUTdXY0Y5eXdRbFhZZEU3dU1LcERKb0NNX3owQ0RKUE9KWmowRGpTMHRNQ09vMGNiNmhrYzBJc1lJMG1qTGdpV0U?oc=5",
+      "publisher": "비즈니스포스트",
+      "pubDate": "Tue, 22 Sep 2026 06:27:44 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "두나무 '업비트 인스티튜셔널 서밋' 29일 열어, 오경석 \"한국 시장과 글로벌 시장 연결\"",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:13:00.523Z"
+    },
+    {
       "id": "f151bc7c25de0f13",
       "company": "컴투스",
       "category": "디지털 금융",
@@ -1898,6 +3988,28 @@
       "processedAt": "2026-09-23T00:18:00.807Z"
     },
     {
+      "id": "3976fd075d4dc69f",
+      "company": "네이버클라우드",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "zdnet.co.kr",
+      "pubDate": "Tue, 22 Sep 2026 05:56:07 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:04:00.493Z"
+    },
+    {
       "id": "4d06053ddcb5e68a",
       "company": "카카오페이",
       "category": "디지털 금융",
@@ -2006,6 +4118,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-22T23:51:01.033Z"
+    },
+    {
+      "id": "5075a9936e0098d0",
+      "company": "네이버클라우드",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버클라우드, DB·서버 접근제어 SaaS ‘DSAC’ 출시",
+      "link": "https://it.chosun.com/news/articleViewAmp.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Tue, 22 Sep 2026 05:46:32 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버클라우드, DB·서버 접근제어 SaaS ‘DSAC’ 출시",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:05:00.629Z"
     },
     {
       "id": "4617c345f1b0d5c8",
@@ -2270,6 +4404,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-23T00:27:00.465Z"
+    },
+    {
+      "id": "6ec19fd32761a692",
+      "company": "NHN",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "NHN, ‘한게임 로얄홀덤’ HPT…총상금 22억원",
+      "link": "https://weekly.hankooki.com/news/articleViewAmp.html?idxno",
+      "publisher": "weekly.hankooki.com",
+      "pubDate": "Tue, 22 Sep 2026 02:43:42 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "NHN, ‘한게임 로얄홀덤’ HPT…총상금 22억원",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:43:00.569Z"
     },
     {
       "id": "70f8afd6d296f914",
@@ -2624,6 +4780,28 @@
       "processedAt": "2026-09-23T00:51:01.166Z"
     },
     {
+      "id": "21c00c6c15a312c9",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "더존비즈온, 키르기즈 정부와 디지털 전환 맞손…중앙아시아로 보폭 확대",
+      "link": "https://v.daum.net/v/20260922105850315",
+      "publisher": "v.daum.net",
+      "pubDate": "Tue, 22 Sep 2026 01:58:50 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/22/ZDNetKorea/20260922105851756iagv.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "더존비즈온, 키르기즈 정부와 디지털 전환 맞손…중앙아시아로 보폭 확대",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:47:11.706Z"
+    },
+    {
       "id": "6964e244978018d1",
       "company": "KT",
       "category": "IT 서비스",
@@ -2644,6 +4822,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-23T00:08:00.751Z"
+    },
+    {
+      "id": "3e1aa95908050e45",
+      "company": "NHN",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "NHN, ‘한게임 로얄홀덤’ 상금 22억원 대회 개최",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00WXlsOWdXbHN0RDJGOHRCTFN5MWdnUXlZX2lzdTEtdmF0eEFhUTNJVE96Z0NQX1d5US1SaUFDbko2RzRiOENFNWhyVGVjSFZYTkNuRzB4Mkl1emhiWjB4VkY0S0FsZw?oc=5",
+      "publisher": "디일렉",
+      "pubDate": "Tue, 22 Sep 2026 01:37:12 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "NHN, ‘한게임 로얄홀덤’ 상금 22억원 대회 개최",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:40:01.071Z"
     },
     {
       "id": "895538e7d7942a86",
@@ -2952,6 +5152,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-23T00:58:00.909Z"
+    },
+    {
+      "id": "f1aa7c0594369e79",
+      "company": "두나무",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "두나무, ‘UIS 2026’ 개최⋯ “글로벌 정책·금융 리더 한자리에”",
+      "link": "https://www.viva100.com/article/20260922500354",
+      "publisher": "브릿지경제",
+      "pubDate": "Tue, 22 Sep 2026 00:42:00 GMT",
+      "keyVisual": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/22/.cache/512/20260922500348.jpg?v=20260924091001",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "두나무, ‘UIS 2026’ 개최⋯ “글로벌 정책·금융 리더 한자리에”",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:11:00.192Z"
     },
     {
       "id": "ed746a709fc6ca53",
@@ -3988,6 +6210,28 @@
       "processedAt": "2026-09-22T00:59:00.902Z"
     },
     {
+      "id": "d1f02f486b823fd2",
+      "company": "두나무",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "주병기 “배달앱 부담 낮춰야”…네이버·두나무 결합 심의 연내 마무리 – 바이라인네트워크",
+      "link": "https://byline.network/2026/09/21_21283/",
+      "publisher": "바이라인네트워크",
+      "pubDate": "Mon, 21 Sep 2026 12:35:17 GMT",
+      "keyVisual": "https://cdn.byline.network/wp-content/uploads/2026/08/coupangeats_rider.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "주병기 “배달앱 부담 낮춰야”…네이버·두나무 결합 심의 연내 마무리 – 바이라인네트워크",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:14:00.729Z"
+    },
+    {
       "id": "c39da6879e8cc1b2",
       "company": "카카오",
       "category": "IT 서비스",
@@ -4384,6 +6628,28 @@
       "processedAt": "2026-09-22T01:09:00.382Z"
     },
     {
+      "id": "423b1c2fa29eb472",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "더존비즈온, AI 기본법 대응 속도…전사 거버넌스 체계 구축",
+      "link": "https://v.daum.net/v/20260921163348796",
+      "publisher": "v.daum.net",
+      "pubDate": "Mon, 21 Sep 2026 07:33:48 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/21/ZDNetKorea/20260921163350368snwl.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "더존비즈온, AI 기본법 대응 속도…전사 거버넌스 체계 구축",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:48:00.465Z"
+    },
+    {
       "id": "9f0ce9d9bf678932",
       "company": "더존비즈온",
       "category": "IT 서비스",
@@ -4514,6 +6780,28 @@
         "llmNote": "최근 수학·최적화 경진대회 개최나 글로벌 AI 기업과의 협력 논의 중심 활동과 달리 국내 대학과의 직접적인 산학협력 MOU를 체결한 점이 특징입니다."
       },
       "processedAt": "2026-09-21T23:50:57.016Z"
+    },
+    {
+      "id": "dd2731a1a61bddbb",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“숏폼 보고 포인트 받자”⋯네이버 클립, 추석 맞이 이벤트",
+      "link": "https://www.viva100.com/article/20260921501423",
+      "publisher": "브릿지경제",
+      "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "keyVisual": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/09/21/.cache/512/20260921501421.png?v=20260924082750",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "“숏폼 보고 포인트 받자”⋯네이버 클립, 추석 맞이 이벤트",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:28:25.747Z"
     },
     {
       "id": "4990e673dfe32d0e",
@@ -4730,7 +7018,7 @@
       "slogan": null,
       "keyMessage": "발언하는 오세진 DAXA 의장 겸 디지털엑스 대표",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:15:00.895Z"
@@ -4888,6 +7176,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-22T00:23:00.233Z"
+    },
+    {
+      "id": "29464bc5f33545b3",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "더존비즈온, 전사 AI 관리 위한 ‘AI 거버넌스 사무국’ 출범",
+      "link": "https://v.daum.net/v/20260921150007098",
+      "publisher": "v.daum.net",
+      "pubDate": "Mon, 21 Sep 2026 06:00:07 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/21/dt/20260921150008736gpel.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "더존비즈온, 전사 AI 관리 위한 ‘AI 거버넌스 사무국’ 출범",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:49:00.607Z"
     },
     {
       "id": "55135222b2228724",
@@ -5064,6 +7374,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-22T01:16:00.527Z"
+    },
+    {
+      "id": "740dc6d9c9642e80",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "더존비즈온, 국제표준 기반 'AI 거버넌스 사무국' 출범…5개 본부 체제",
+      "link": "https://www.etnews.com/20260921000309",
+      "publisher": "전자신문",
+      "pubDate": "Mon, 21 Sep 2026 05:20:50 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/21/news-p.v1.20260921.d3a92ea7d39f484bb03be9a325383112_P1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "더존비즈온, 국제표준 기반 'AI 거버넌스 사무국' 출범…5개 본부 체제",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:45:00.941Z"
     },
     {
       "id": "2f4a4fe848815f2a",
@@ -5614,6 +7946,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-21T23:50:17.011Z"
+    },
+    {
+      "id": "d6ecab4ef101f86a",
+      "company": "두나무",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "두나무, 서울시와 청년 맞춤 '업클래스 금융골든벨' 진행",
+      "link": "https://www.newspim.com/news/view/20260921000108",
+      "publisher": "뉴스핌",
+      "pubDate": "Sun, 20 Sep 2026 23:59:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/09/21/2609210835077780_189_tc.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "두나무, 서울시와 청년 맞춤 '업클래스 금융골든벨' 진행",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:12:00.348Z"
     },
     {
       "id": "aaac2e860862f304",
@@ -6318,6 +8672,28 @@
         "llmNote": "최근 이슈들이 리스크 관리 및 지배구조에 집중되었던 것과 달리, 본 활동은 자사 숏폼 서비스(클립)의 커머스 전환 성과 지표와 플랫폼 확장 전략을 구체적으로 제시하고 있습니다."
       },
       "processedAt": "2026-09-19T22:39:43.608Z"
+    },
+    {
+      "id": "72c290c7209eb817",
+      "company": "빗썸코리아",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "업비트·빗썸, 올해 상장 코인 70%가 하락… “이용자 보호 뒷전”",
+      "link": "https://biz.chosun.com/stock/finance/2026/09/20/62IZYZOPS5F45COPK5QJSSPP74/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Sat, 19 Sep 2026 21:00:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/33YCC5WEWBEAHHN5HQT3YMTX3I.jpg?auth=748f1c253944c23d1bbec5145056ee3adcaeb7d4b49f0db303b7f977052c8114&width=1080&height=567&smart=true",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "업비트·빗썸, 올해 상장 코인 70%가 하락… “이용자 보호 뒷전”",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:17:00.210Z"
     },
     {
       "id": "3cbce9f8cf12dbbc",
@@ -7326,7 +9702,7 @@
       "slogan": null,
       "keyMessage": "[오늘 뭐했니?] 네이버",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T01:47:00.500Z"
@@ -7480,7 +9856,7 @@
       "slogan": null,
       "keyMessage": "코인원, 메가존·데이터독 장애 대응 경진대회 우승",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T01:26:00.211Z"
@@ -7502,7 +9878,7 @@
       "slogan": null,
       "keyMessage": "코인원, 메가존·데이터독 주최 ‘실전형 장애 대응 경진대회’ 우승 ",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T01:30:00.799Z"
@@ -7524,7 +9900,7 @@
       "slogan": null,
       "keyMessage": "대신증권 \"네이버파이낸셜·두나무 결합 지연 가능성…규제 지연에 단기 불확실성\"",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T01:45:00.182Z"
@@ -7546,7 +9922,7 @@
       "slogan": null,
       "keyMessage": "대신증권 \"네이버파이낸셜·두나무 결합 지연 가능성…규제 지연에 단기 불확실성\"",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-23T00:53:00.489Z"
@@ -7590,7 +9966,7 @@
       "slogan": null,
       "keyMessage": "인베스트조선",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T01:44:01.036Z"
@@ -7612,7 +9988,7 @@
       "slogan": null,
       "keyMessage": "네이버-두나무 빅딜, '지주사 규제'가 복병으로…국회만 쳐다본다",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-23T00:52:00.352Z"
@@ -7656,7 +10032,7 @@
       "slogan": null,
       "keyMessage": "이데일리",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:28:01.071Z"
@@ -7700,7 +10076,7 @@
       "slogan": null,
       "keyMessage": "[단독] 문페이, '바이낸스-고팍스' 인수 이끈 최한결 전 고팍스 부대표 영입",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:25:00.578Z"
@@ -7766,7 +10142,7 @@
       "slogan": null,
       "keyMessage": "코빗, ‘디지털엑스’로 서비스명 변경…“미래에셋 브랜드 통합 절차 마무리”",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:16:01.066Z"
@@ -7788,7 +10164,7 @@
       "slogan": null,
       "keyMessage": "美 입법 막히고 韓 기본법도 지연…네이버·두나무 결합 영향은? [크립토360]",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-23T00:54:00.722Z"
@@ -7832,7 +10208,7 @@
       "slogan": null,
       "keyMessage": "고팍스, 블록체인 '크로쓰' 새 이름으로 '원체인' 채택",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:30:00.451Z"
@@ -7854,7 +10230,7 @@
       "slogan": null,
       "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-19T22:41:16.360Z"
@@ -7876,7 +10252,7 @@
       "slogan": null,
       "keyMessage": "고팍스, ‘크로쓰’ 명칭 ‘원체인’으로 변경…티커도 $ONE 전환",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:33:00.908Z"
@@ -7898,7 +10274,7 @@
       "slogan": null,
       "keyMessage": "가상자산거래소 코빗 '디지털엑스'로 탈바꿈, 미래에셋 인수 뒤 브랜드 통합",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:17:00.162Z"
@@ -7920,7 +10296,7 @@
       "slogan": null,
       "keyMessage": "금융서비스 장애대응 대회서 코인원 1위·빗썸 3위…거래소 기술 역량 두각",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T01:25:01.032Z"
@@ -7964,7 +10340,7 @@
       "slogan": null,
       "keyMessage": "코빗 이름 뗀 미래에셋…거래소 서비스명 디지털엑스로 변경",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:22:01.000Z"
@@ -8008,7 +10384,7 @@
       "slogan": null,
       "keyMessage": "코빗, ‘디지털엑스’로 서비스명 변경⋯미래에셋 브랜드 통합",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:24:00.469Z"
@@ -8052,7 +10428,7 @@
       "slogan": null,
       "keyMessage": "디지털엑스, 서비스명 '코빗'에서 '디지털엑스'로 변경",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:20:00.691Z"
@@ -8074,7 +10450,7 @@
       "slogan": null,
       "keyMessage": "가상자산 거래소 코빗, 디지털엑스로 13년 만에 상호 전환 | 연합뉴스",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:19:00.546Z"
@@ -8096,7 +10472,7 @@
       "slogan": null,
       "keyMessage": "코빗, '디지털엑스'로 새출발…미래에셋 편입 후 브랜드 통합",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:23:00.314Z"
@@ -8144,6 +10520,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-18T23:01:30.056Z"
+    },
+    {
+      "id": "267ab7b5aa26f277",
+      "company": "고팍스",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "은행이 굴리고 거래소가 나누는 예치금 수익⋯고팍스 인상에 격차 줄었다",
+      "link": "https://v.daum.net/v/28RRFTsAlN",
+      "publisher": "v.daum.net",
+      "pubDate": "Tue, 15 Sep 2026 23:49:03 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/16/552786-gygG85f/20260916084903415kvju.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "은행이 굴리고 거래소가 나누는 예치금 수익⋯고팍스 인상에 격차 줄었다",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:52:00.484Z"
     },
     {
       "id": "adeb65016f8ef4d3",
@@ -11050,6 +13448,28 @@
       "processedAt": "2026-09-22T02:18:00.396Z"
     },
     {
+      "id": "64df0c09a6133ce2",
+      "company": "코빗",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "코빗, 가상자산 거래소 서비스명 '디지털엑스'로 변경 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260909117200002",
+      "publisher": "yna.co.kr",
+      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "keyVisual": "https://img9.yna.co.kr/etc/inner/KR/2026/09/09/AKR20260909117200002_01_i_P4.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "코빗, 가상자산 거래소 서비스명 '디지털엑스'로 변경 | 연합뉴스",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:50:01.154Z"
+    },
+    {
       "id": "42d16e753ba54858",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -13688,6 +16108,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-03T23:01:56.146Z"
+    },
+    {
+      "id": "a83e06f8318fb96c",
+      "company": "두나무",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "네이버페이비상장, 두나무 주식 심사·유통까지… 이해상충 우려",
+      "link": "https://biz.chosun.com/stock/stock_general/2026/09/02/VLV24S5XANFRNPKARVK7DSX5BM/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/GY2GCNZUGVSGKMLGGJRWKM3BGQ.jpg?auth=0dbaa665598d8e1fa7d056ffb25ff16a3a2b93c0ae9f59abfb7b41e47d657465&width=1200&height=630&smart=true",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버페이비상장, 두나무 주식 심사·유통까지… 이해상충 우려",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:08:00.664Z"
     },
     {
       "id": "d3d967ab10f48c17",
@@ -30652,6 +33094,28 @@
       "processedAt": "2026-07-29T23:07:00.645Z"
     },
     {
+      "id": "2c4d7ad369f19d19",
+      "company": "코빗",
+      "category": "디지털 금융",
+      "sourceType": "news",
+      "title": "뉴스 상세  | KB의 생각",
+      "link": "https://kbthink.com/news-list/view.html?newsId",
+      "publisher": "KB Think",
+      "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "keyVisual": "https://kbthink.com/content/dam/tam-dcp-cms/kbthink/KB의 생각_한글.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "뉴스 상세  | KB의 생각",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T00:49:01.028Z"
+    },
+    {
       "id": "a2c379a119b8ed1f",
       "company": "한글과컴퓨터",
       "category": "IT 서비스",
@@ -31620,6 +34084,28 @@
       "processedAt": "2026-09-22T00:43:00.316Z"
     },
     {
+      "id": "7edfbc0fb3f8b4ca",
+      "company": "한글과컴퓨터",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "36년 '한글과컴퓨터' 역사 속으로…한컴, AI 운영체제 기업 전환 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/07/02/2026070211005552741",
+      "publisher": "머니투데이",
+      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=883,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026070211005552741_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "36년 '한글과컴퓨터' 역사 속으로…한컴, AI 운영체제 기업 전환 - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:52:01.151Z"
+    },
+    {
       "id": "76fd75aa9e05d588",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -31772,6 +34258,28 @@
         "llmNote": "최근 경영 실적 발표나 임원 겸임 소식 위주였던 것과 달리 글로벌 HR 컨설팅사와 손잡고 AI HR 플랫폼 및 조직 혁신 컨설팅이라는 구체적인 B2B AI 사업 모델을 제시했다는 점이 특징적입니다."
       },
       "processedAt": "2026-08-21T21:23:24.420Z"
+    },
+    {
+      "id": "20638b3cec520656",
+      "company": "한글과컴퓨터",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "한글과컴퓨터, 36년 만에 ‘한컴’으로 사명 변경",
+      "link": "https://www.chosun.com/economy/tech_it/2026/05/20/RASP3RWT75D37LHIAQUGZD6GPU/",
+      "publisher": "조선일보",
+      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+      "keyVisual": "/pf/resources/images/thumb_meta.png?d=2394",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "한글과컴퓨터, 36년 만에 ‘한컴’으로 사명 변경",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-23T23:51:00.964Z"
     },
     {
       "id": "2c86997677a44fb4",
