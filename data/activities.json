@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T01:00:00.907Z",
+  "updatedAt": "2026-09-24T23:49:27.852Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,182 @@
   ],
   "activities": [
     {
+      "id": "9421a63a4e8ca9f7",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버는 '장보기', 카카오는 '선물하기'…추석에 드러난 커머스 전략",
+      "link": "https://v.daum.net/v/20260925074904567",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 24 Sep 2026 22:49:04 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/25/552788-vZw4wcp/20260925074906650pckx.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버는 '장보기', 카카오는 '선물하기'…추석에 드러난 커머스 전략",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T23:46:11.701Z"
+    },
+    {
+      "id": "9421a63a4e8ca9f7",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버는 '장보기', 카카오는 '선물하기'…추석에 드러난 커머스 전략",
+      "link": "https://v.daum.net/v/20260925074904567",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 24 Sep 2026 22:49:04 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/25/552788-vZw4wcp/20260925074906650pckx.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버는 '장보기', 카카오는 '선물하기'…추석에 드러난 커머스 전략",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T23:47:41.988Z"
+    },
+    {
+      "id": "da17612a3d249857",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오도 네이버도 힘 쏟는 ‘멤버십’ 뭐길래…수익원 확보에 생태계 강화까지",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid",
+      "publisher": "국민일보",
+      "pubDate": "Thu, 24 Sep 2026 21:02:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 수익원 확보와 생태계 강화를 목표로 멤버십 서비스에 역량을 집중하고 있다는 내용의 언론 보도이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T23:46:46.664Z"
+    },
+    {
+      "id": "da17612a3d249857",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오도 네이버도 힘 쏟는 ‘멤버십’ 뭐길래…수익원 확보에 생태계 강화까지",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid",
+      "publisher": "국민일보",
+      "pubDate": "Thu, 24 Sep 2026 21:02:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오가 수익원 확보와 생태계 강화를 목적으로 멤버십 서비스에 역량을 집중하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 추석 맞이 생활 편의 서비스 안내 중심의 마케팅 활동과 달리, 멤버십 강화를 통한 수익원 확보 및 생태계 확장 전략이 중점적으로 다뤄졌습니다."
+      },
+      "processedAt": "2026-09-24T23:47:25.002Z"
+    },
+    {
+      "id": "d454bd3d55974f00",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "에너지경제신문",
+      "link": "https://www.ekn.kr/web/err.php",
+      "publisher": "에너지경제신문",
+      "pubDate": "Thu, 24 Sep 2026 21:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "해당 본문은 페이지 오류 안내 메시지로, 네이버의 마케팅 활동에 대한 정보가 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T23:46:21.346Z"
+    },
+    {
+      "id": "4c47bf93714fc31b",
+      "company": "NHN",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“GPU 빌려주니 1000억 매출”… NHN, AI 데이터센터로 기업가치 재평가",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno",
+      "publisher": "핀포인트뉴스",
+      "pubDate": "Thu, 24 Sep 2026 05:15:33 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "NHN이 AI 데이터센터 및 GPU 대여 사업을 통해 1000억 원의 매출을 올리며 기업가치를 재평가받고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 게임 신작 및 경영진 주식 매입 등과 달리 AI 데이터센터 및 GPU 서비스의 대규모 매출 성과를 집중 조명하고 있다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-24T23:49:16.727Z"
+    },
+    {
+      "id": "8ebe443294da60ab",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "명절에도 AI 개발로 분주…SKT·KT·카카오, '모두의 AI' 베타 사활",
+      "link": "https://news.mtn.co.kr/news-detail/2026092314100646376",
+      "publisher": "MTN 머니투데이방송",
+      "pubDate": "Thu, 24 Sep 2026 03:00:01 GMT",
+      "keyVisual": "https://menu.mtn.co.kr/upload/article/2026/09/23/2026092314100646376_00_251.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "명절에도 AI 개발로 분주…SKT·KT·카카오, '모두의 AI' 베타 사활",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T23:49:07.652Z"
+    },
+    {
+      "id": "fb2deebfb3eec3c7",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "공항 대기시간·무료주차·특선영화까지…네이버 추석 정보 한곳에",
+      "link": "https://www.etnews.com/20260924000021",
+      "publisher": "전자신문",
+      "pubDate": "Thu, 24 Sep 2026 01:25:48 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/24/news-p.v1.20260924.0305f8417e894aa38cc662dab4b50f76_P1.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "온라인 프로모션 및 정보 제공",
+      "slogan": null,
+      "keyMessage": "네이버가 추석 연휴를 맞아 검색, 플레이스, 클립, 치지직, 웹툰 등 주요 서비스 전반에서 명절 생활 정보와 다양한 콘텐츠 및 결제 혜택을 제공한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T23:46:41.476Z"
+    },
+    {
       "id": "4c60dd9d433867c8",
       "company": "토스",
       "category": "디지털 금융",
@@ -180,6 +356,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-24T00:45:00.325Z"
+    },
+    {
+      "id": "37c4f1e0d3e7802c",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Thu, 24 Sep 2026 00:32:40 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 지디넷코리아의 푸터 및 뉴스레터 구독 안내 문구로, 네이버의 마케팅 활동 내용을 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T23:46:30.796Z"
     },
     {
       "id": "0e2b049b434c2cc6",
@@ -292,6 +490,28 @@
       "processedAt": "2026-09-23T23:30:00.346Z"
     },
     {
+      "id": "03a967ba07b137c5",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "추석 무료주차장 어디?…카카오맵서 진료 병원도 찾는다 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260923174100017",
+      "publisher": "yna.co.kr",
+      "pubDate": "Wed, 23 Sep 2026 23:00:02 GMT",
+      "keyVisual": "https://img5.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923174100017_01_i_P4.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "추석 무료주차장 어디?…카카오맵서 진료 병원도 찾는다 | 연합뉴스",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T23:47:28.689Z"
+    },
+    {
       "id": "800c6ca1eac95b01",
       "company": "네이버",
       "category": "IT 서비스",
@@ -308,7 +528,7 @@
       "slogan": null,
       "keyMessage": "추석에 갑자기 아프면 어디로?…네이버·카카오에 '문 연 병원' 물어보세요",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-23T23:27:49.545Z"
@@ -374,7 +594,7 @@
       "slogan": null,
       "keyMessage": "네이버 현대카드 Edition3 사용 시 네이버플러스 멤버십 혜택과 연동하여 네이버 쇼핑 이용 금액의 최대 15%를 네이버페이 포인트로 적립받을 수 있다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-23T23:27:37.755Z"
@@ -462,10 +682,32 @@
       "slogan": null,
       "keyMessage": "“1만원 쓰면 5000원 적립”…네이버페이, 오프라인 결제망 확대",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-23T23:27:44.731Z"
+    },
+    {
+      "id": "8210ddcc5deb8be7",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"귀성길부터 문 연 병원까지\"… 네이버·카카오 추석 연휴 활용법",
+      "link": "https://it.chosun.com/news/articleView.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Wed, 23 Sep 2026 20:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "\"귀성길부터 문 연 병원까지\"… 네이버·카카오 추석 연휴 활용법",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T23:47:44.621Z"
     },
     {
       "id": "25bfc85e1aa41052",
@@ -488,6 +730,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-24T00:02:01.095Z"
+    },
+    {
+      "id": "70f2ac4676ee09ee",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "김범수 '징역 15년' 재구형…카카오, 오너 부재 리스크 우려 ↑",
+      "link": "https://v.daum.net/v/20260924000228423",
+      "publisher": "v.daum.net",
+      "pubDate": "Wed, 23 Sep 2026 15:02:28 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/24/THEFACT/20260924000229780dusx.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-24",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "카카오 창업자 김범수 미래이니셔티브센터장이 항소심에서도 징역 15년을 구형받으며 오너 사법리스크가 계속되는 가운데, 카카오는 인적분할과 AI 신사업 전환을 추진하고 있다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T23:48:05.767Z"
     },
     {
       "id": "935a8c54e632b5b8",
@@ -534,6 +798,28 @@
       "processedAt": "2026-09-23T23:56:00.979Z"
     },
     {
+      "id": "2d023cdd9a8a0ef9",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "1심서 무죄받은 카카오 김범수... 검찰, 2심도 징역 15년 구형",
+      "link": "https://www.chosun.com/national/court_law/2026/09/23/Z632PVCOTFCFRLEDVI3GCDQIFU/",
+      "publisher": "조선일보",
+      "pubDate": "Wed, 23 Sep 2026 12:09:00 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/WEHZU74DPZBNVPQWJFWWXJD6GA.jpg?auth=357c4d1658827be5bd91ddee70eb728416e98156c9717b5f870d00e3b9e78232&width=1200&height=630&focal=1313,619",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SM엔터 주가조작 혐의 1심에서 무죄를 선고받은 카카오 김범수 창업자에 대해 검찰이 2심에서도 징역 15년을 구형했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T23:48:12.948Z"
+    },
+    {
       "id": "728573be5e715fbb",
       "company": "네이버",
       "category": "IT 서비스",
@@ -550,7 +836,7 @@
       "slogan": null,
       "keyMessage": "본문은 KBS 뉴스의 푸터 및 저작권 공지사항 정보로, 네이버의 별도 마케팅 활동 내용은 포함되어 있지 않습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-23T23:29:27.477Z"
@@ -638,7 +924,7 @@
       "slogan": null,
       "keyMessage": "웹툰·결제 이어 건강관리… 네이버, 새 사업 키우기 나섰다",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-23T23:28:34.301Z"
@@ -730,6 +1016,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-23T23:25:40.584Z"
+    },
+    {
+      "id": "3aa2db22ccddc53a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "그룹 전산실서 AI·RX까지···달라진 LG CNS의 위상",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LNjhoU3BRV1pEOFFia2NRUVphWUdlWUduaXM1anE3bnduYTF2UGlPbXpYVUlsV3hFcUtUUVZiOEJnVXdqa3c2UHp2WnJqVHhyYkxlYnAwLTZJM3BhaWRyeVVuWUFQNXpUQmc?oc=5",
+      "publisher": "뉴스웨이",
+      "pubDate": "Wed, 23 Sep 2026 08:09:30 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 과거 그룹 전산실 역할에서 벗어나 AI 및 RX 중심의 기술 기업으로 성장하며 향상된 위상을 나타내고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T23:45:23.189Z"
     },
     {
       "id": "ecc1a2a275194182",
@@ -924,7 +1232,7 @@
       "slogan": null,
       "keyMessage": "네이버·브룩필드 AIDC 10조 조달 닻…단계적 PF 추진",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-23T23:29:14.222Z"
@@ -1034,7 +1342,7 @@
       "slogan": null,
       "keyMessage": "바이낸스 품은 고팍스, 국내 시장 공략 본격화…대규모 스테이킹 이벤트 추진 - 한국공공정책신문",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-24T00:51:00.302Z"
@@ -1392,6 +1700,28 @@
       "processedAt": "2026-09-24T00:20:00.750Z"
     },
     {
+      "id": "3cac15792f674793",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[진단] LG CNS, 데이터센터 ‘안전’도 관리한다… 상암·부산 공간안전인증",
+      "link": "http://www.economytalk.kr/news/articleView.html?idxno",
+      "publisher": "이코노미톡뉴스",
+      "pubDate": "Wed, 23 Sep 2026 01:58:51 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "상암, 부산",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 상암과 부산 데이터센터에 대한 공간안전인증을 획득하며 데이터센터의 안전 관리 역량을 입증했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 사업 확대 및 해외 시장 진출 위주의 마케팅 활동과 달리 데이터센터의 안전 관리 및 공간안전인증 획득을 강조한 점이 특이합니다."
+      },
+      "processedAt": "2026-09-24T23:45:08.984Z"
+    },
+    {
       "id": "3cfc500c4bedd6e3",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -1452,7 +1782,7 @@
       "slogan": null,
       "keyMessage": "네이버 치지직이 라이엇게임즈와의 파트너십을 확대하여 2026 아이치·나고야 아시안게임 LoL 경기를 중심으로 계정 연동 프로모션 및 오프라인 뷰잉파티 등 온·오프라인 협업을 진행한다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-23T23:28:42.342Z"
@@ -2552,7 +2882,7 @@
       "slogan": null,
       "keyMessage": "네이버가 일본 타베로그와 연계한 현지 맛집 예약 서비스 클릭수가 전년 대비 482% 증가하는 성과를 거두었으며, 연내 네이버지도 연동 등 해외 여행 편의 기능을 지속 확대할 계획이다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 AI 추론, 페이 결제액 성과, 노사 이슈 중심의 보도들과 달리 일본 여행객 대상의 현지 맛집 검색·예약 성과 및 해외 장소 연동 확장 전략을 다루고 있다는 점이 특이합니다."
       },
       "processedAt": "2026-09-22T23:30:55.106Z"
@@ -2662,7 +2992,7 @@
       "slogan": null,
       "keyMessage": "\"내 아바타 어쩌나\"…네이버제트 노조, 오늘 전면파업",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-22T23:30:13.570Z"
@@ -3102,7 +3432,7 @@
       "slogan": null,
       "keyMessage": "네이버클라우드는 모델 크기 확장을 넘어 보안 역량에 집중함으로써 프런티어급 AI 기술에 도달하겠다는 비전을 발표했다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-23T23:29:20.231Z"
@@ -3388,7 +3718,7 @@
       "slogan": null,
       "keyMessage": "네이버·LG, GPU 4512장 투입…10개월 내 프런티어급 ‘보안 특화 AI’ 만든다",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-22T23:31:26.941Z"
@@ -3414,6 +3744,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-23T00:13:00.729Z"
+    },
+    {
+      "id": "0b606c5d384c50b0",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"네이버가 수비하고 LG가 공격하고\"…'K-미토스' 실체 나왔다 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/09/22/2026092216352224614",
+      "publisher": "머니투데이",
+      "pubDate": "Tue, 22 Sep 2026 07:50:23 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026092216352224614_2.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "22일",
+      "location": "더 그랜드 롯데 서울",
+      "format": "사업자 간담회",
+      "slogan": null,
+      "keyMessage": "네이버클라우드가 LG AI연구원과 협력하여 공격과 방어 모델이 서로를 진화시키는 사이버보안 특화 AI 파운데이션 모델을 공동 개발하고 보안 주권을 확보할 계획이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존 B2C 서비스 확충 및 제휴 마케팅 중심 활동과 달리, 경쟁 구도에 있는 LG AI연구원과 손잡고 정부 사이버보안 AI 파운데이션 모델을 공동 개발하는 대형 B2B/B2G 협력 프로젝트라는 점이 특이합니다."
+      },
+      "processedAt": "2026-09-24T23:47:08.212Z"
     },
     {
       "id": "4ab74a7ab80481f4",
@@ -3724,6 +4076,50 @@
       "processedAt": "2026-09-23T23:42:00.393Z"
     },
     {
+      "id": "9e0fa4fee9325268",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "2200억 K-에듀파인 사업, 삼성SDS·LG CNS·아이티센엔텍 3파전",
+      "link": "https://www.etnews.com/20260922000375",
+      "publisher": "전자신문",
+      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/22/news-p.v1.20260922.ed7db6a5d96e429fa6f2eb58d85c71bc_P1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 KT와 컨소시엄을 구성하여 총 2,173억 원 규모의 대형 공공 정보화 사업인 K-에듀파인 고도화 및 재해복구 체계 구축 사업 입찰에 참여했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI, 데이터, 기술 솔루션 중심의 마케팅 활동과 달리 KT와 컨소시엄을 구성하여 대규모 공공 정보화 사업 수주전에 참여했다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-09-24T23:45:01.921Z"
+    },
+    {
+      "id": "9e0fa4fee9325268",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "2200억 K-에듀파인 사업, 삼성SDS·LG CNS·아이티센엔텍 3파전",
+      "link": "https://www.etnews.com/20260922000375",
+      "publisher": "전자신문",
+      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/09/22/news-p.v1.20260922.ed7db6a5d96e429fa6f2eb58d85c71bc_P1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 관제 분야에 강점을 지닌 위니텍과 컨소시엄을 구성해 2,173억 원 규모의 대형 공공 정보화사업인 'K-에듀파인 운영환경 고도화 및 재해복구 체계 구축' 사업 입찰에 참여했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 인프라, 해외 합작법인 설립, 클라우드 등 대외 신사업 중심의 마케팅·사업 확장 행보와 달리 대형 공공 정보화 사업(SI) 컨소시엄 수주전에 참여한 점이 돋보입니다."
+      },
+      "processedAt": "2026-09-24T23:45:33.713Z"
+    },
+    {
       "id": "eecf95d7d266a764",
       "company": "네이버",
       "category": "IT 서비스",
@@ -3740,10 +4136,32 @@
       "slogan": null,
       "keyMessage": "네이버가 다변화되는 해외여행 수요에 대응하여 네이버 여행 카테고리에 에어비앤비 상품을 탐색 및 예약할 수 있는 '공유숙박' 탭을 베타 오픈했다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 페이 결제, 거버넌스, 노사 갈등 등 기업 이슈 중심의 보도와 달리 여행 플랫폼의 실질적인 신규 서비스 영역 확장을 다루고 있다."
       },
       "processedAt": "2026-09-22T23:31:45.131Z"
+    },
+    {
+      "id": "fd514291302ca9ad",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오, LG CNS와 협력으로 ‘데이터센터 냉방설비 제어’에 에이전트 적용",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10dXplMDZMbDlYdmUtSkhEcWZ3eXBFdGFPM0hvd1g3M0hMUTJDVHpGY2xZSkc0U29zWTdpbERORFl0Y2dkc09PQkM4djcwcUJSZUlYanR6U1F4RXJjc0piZmRnWmdHcFVfdXc?oc=5",
+      "publisher": "aitimes.com",
+      "pubDate": "Tue, 22 Sep 2026 06:56:15 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 카카오와의 협력을 통해 데이터센터 냉방설비 제어에 AI 에이전트를 적용합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 AI 인프라 및 데이터센터 사업 확장 흐름에서 카카오와 협력하여 데이터센터 냉방설비 제어라는 구체적 영역에 AI 에이전트를 적용한 점이 특징입니다."
+      },
+      "processedAt": "2026-09-24T23:45:18.037Z"
     },
     {
       "id": "28e150a643240e04",
@@ -3916,7 +4334,7 @@
       "slogan": null,
       "keyMessage": "“아시안게임 특수 잡아라”⋯네이버·다음, 서비스 단장",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-22T23:32:01.452Z"
@@ -3942,6 +4360,28 @@
         "llmNote": "LG CNS의 최근 주요 활동인 오픈AI 협력 및 서강대 산학협력 등과 달리 타사인 카카오의 데이터센터 절감 사례 보도라는 특이점이 있습니다."
       },
       "processedAt": "2026-09-22T23:29:36.786Z"
+    },
+    {
+      "id": "f02c020eacc89da4",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "일본 얼마나 많이 가길래…현지 '맛집 예약' 네이버로 통했다",
+      "link": "https://www.hankyung.com/article/202609221211g",
+      "publisher": "한국경제",
+      "pubDate": "Tue, 22 Sep 2026 06:11:36 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202609/01.45785604.1.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "일본 얼마나 많이 가길래…현지 '맛집 예약' 네이버로 통했다",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T23:47:13.690Z"
     },
     {
       "id": "7a40cd1ba3649392",
@@ -4070,7 +4510,7 @@
       "slogan": null,
       "keyMessage": "네이버가 포기한 배민, 우버가 단독 인수… 공정위 사전심사 개시",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-22T23:33:03.621Z"
@@ -4180,7 +4620,7 @@
       "slogan": null,
       "keyMessage": "네이버지도서 日 맛집 검색·예약 가능해진다",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-22T23:30:45.607Z"
@@ -4950,7 +5390,7 @@
       "slogan": null,
       "keyMessage": "네이버 일본 맛집 예약 클릭 5.8배로…지도앱 연동 추진 | 연합뉴스",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-22T23:30:22.591Z"
@@ -5192,7 +5632,7 @@
       "slogan": null,
       "keyMessage": "네이버페이 비상장이 한국투자증권, 키움증권과 업무협약을 체결하고 비상장주식 장외거래 시장 활성화 및 투자자 보호 강화를 위해 협력하기로 했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-22T23:31:36.355Z"
@@ -6050,7 +6490,7 @@
       "slogan": null,
       "keyMessage": "\"국내 추론 시대 개막…네이버, 베팅할 시점\"[클릭e종목]",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-21T23:51:20.478Z"
@@ -6446,7 +6886,7 @@
       "slogan": null,
       "keyMessage": "네이버페이가 2024년 상반기 결제 취급액에서 롯데카드를 제치고 국내 결제 사업자 5위로 올라서며 간편결제 플랫폼 중심의 시장 재편을 이끌고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-21T23:52:07.817Z"
@@ -6468,7 +6908,7 @@
       "slogan": null,
       "keyMessage": "[빅테크 거버넌스④] 네이버 규제 통과, 카카오는 주주 설득…사업 재편 발목 잡는 복병",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-21T23:52:36.103Z"
@@ -6798,7 +7238,7 @@
       "slogan": null,
       "keyMessage": "“숏폼 보고 포인트 받자”⋯네이버 클립, 추석 맞이 이벤트",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-23T23:28:25.747Z"
@@ -6842,7 +7282,7 @@
       "slogan": null,
       "keyMessage": "제시된 본문에는 네이버의 마케팅 활동 관련 내용이 없고 SBS 뉴스의 하단 회사 정보 및 기사 제보 안내만 포함되어 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-21T23:52:31.442Z"
@@ -6908,7 +7348,7 @@
       "slogan": null,
       "keyMessage": "네이버제트 노조가 임금 동결 및 통합교섭 불응에 반발해 23일 전면 파업에 돌입한다고 밝혔다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존 활동들이 서비스 기능 강화, 해외 진출, B2B 대외 마케팅에 집중된 반면, 이번 활동은 내부 노사 갈등 및 파업 이슈라는 점에서 특이합니다."
       },
       "processedAt": "2026-09-21T23:52:24.871Z"
@@ -6952,7 +7392,7 @@
       "slogan": null,
       "keyMessage": "네이버제트 노조, 파업 수위 높인다…23일 전면 파업",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-21T23:52:12.084Z"
@@ -6996,7 +7436,7 @@
       "slogan": null,
       "keyMessage": "추석 연휴 문 여는 병원·약국은?…네이버, 연휴 맞이 서비스 제공",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-21T23:54:00.981Z"
@@ -7524,7 +7964,7 @@
       "slogan": null,
       "keyMessage": "네이버페이, 추석 맞아 해외 현장결제 프로모션",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-21T23:53:03.448Z"
@@ -8184,7 +8624,7 @@
       "slogan": null,
       "keyMessage": "네이버의 동영상 서비스 '클립'의 쇼핑 전환 매출이 전년 동월 대비 5.8배 증가했으며, 쇼핑·검색·예약 서비스 연동 및 콘텐츠 범위 확장을 가속화하고 있다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-20T23:00:31.004Z"
@@ -8294,7 +8734,7 @@
       "slogan": null,
       "keyMessage": "네이버웹툰이 일본 광고 사업을 외부 대행 위탁에서 직접 판매 체제로 전환하고, 도쿄게임쇼(TGS) 2026 참가를 기점으로 글로벌 게임 광고주 발굴 및 B2B 영업 강화에 나섰습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "국내 AI 및 커머스 서비스 연계 중심의 기존 활동과 달리, 일본 현지 광고 사업의 직판 체제 전환과 해외 게임 전시회를 활용한 글로벌 B2B 수익원 다변화를 본격 추진한다는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-09-20T23:01:26.961Z"
@@ -8536,7 +8976,7 @@
       "slogan": null,
       "keyMessage": "네이버클라우드가 '국방 AI 전략 세미나'에서 중앙·임무거점·현장을 연결하는 국방 특화 클라우드 구상을 공개하며 국방 AI 전환(AX) 시장 공략을 본격화했다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 커머스 및 B2C AI 에이전트 중심 서비스 활동과 달리 국방 및 B2G 특화 클라우드 인프라 시장 공략을 다루고 있다는 점에서 전략적 방향의 차이가 있다."
       },
       "processedAt": "2026-09-20T23:02:24.613Z"
@@ -8580,7 +9020,7 @@
       "slogan": null,
       "keyMessage": "수사 의뢰·공정위 제소…네이버·토스 갈등 왜? | 연합뉴스",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-20T23:00:39.168Z"
@@ -8624,7 +9064,7 @@
       "slogan": null,
       "keyMessage": "네이버가 추석을 맞아 네이버플러스 스토어 앱의 'AI 쇼핑 에이전트' 선물 특화 기능을 강화하여 구매 데이터, 후기, 배송 정보 등을 종합 반영한 맞춤형 추천 서비스를 제공합니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-20T23:01:14.013Z"
@@ -8668,7 +9108,7 @@
       "slogan": null,
       "keyMessage": "네이버의 동영상 서비스 '클립'의 쇼핑 전환 매출이 전년 대비 5.8배 증가하는 등 성과를 내며 커머스·장소 예약 서비스 연계 및 콘텐츠 범위 확장을 가속화하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 이슈들이 리스크 관리 및 지배구조에 집중되었던 것과 달리, 본 활동은 자사 숏폼 서비스(클립)의 커머스 전환 성과 지표와 플랫폼 확장 전략을 구체적으로 제시하고 있습니다."
       },
       "processedAt": "2026-09-19T22:39:43.608Z"
@@ -8800,7 +9240,7 @@
       "slogan": null,
       "keyMessage": "김승원 전 법무부 장관 후보자와 의혹 인물인 양수진 씨의 과거 자전거 라이딩 사진이 양 씨가 운영하던 네이버 카페에서 확인되었다는 내용의 보도입니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "네이버의 마케팅이나 사업 전략 활동이 아니라 정치·사회적 사건 기사 중 단순 서비스 플랫폼(네이버 카페) 이름만 거론된 보도라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-09-19T22:39:55.351Z"
@@ -8866,7 +9306,7 @@
       "slogan": null,
       "keyMessage": "네이버가 쇼핑과 지도에 이어 부동산, 건강 분야로 대화형 AI 에이전트를 확대 적용하여 탐색부터 실제 구매 및 예약까지 이어지는 '실행하는 AI' 생태계를 구축하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 거버넌스 논란, 노사 갈등, 오픈마켓 위조품 유통 등 부정적·경영 관련 이슈가 많았던 것과 달리, 네이버 본업의 핵심 서비스에 대화형 AI 에이전트를 직접 적용하여 거래액과 클릭률 상승 등 실질적 성과를 내는 서비스 고도화 소식입니다."
       },
       "processedAt": "2026-09-19T22:40:05.895Z"
@@ -8888,7 +9328,7 @@
       "slogan": null,
       "keyMessage": "카카오와 네이버의 거버넌스 재편 및 성장 전략을 비교하며 네이버 이해진 의장과 두나무 송치형 회장의 협력 등 기업 경영 및 성장 방향성을 분석한 보도이다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 AI 서비스 업데이트나 서비스 연동 소식과 달리 기업의 거버넌스 재편 및 두나무와의 파트너십/성장 전략을 다룬 분석 기사라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-09-18T23:03:38.605Z"
@@ -9020,7 +9460,7 @@
       "slogan": null,
       "keyMessage": "네이버는 언제 올라요? “리레이팅의 키, ‘수요 가시성’ 확보해야” [종목Pick]",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-20T23:02:00.296Z"
@@ -9064,7 +9504,7 @@
       "slogan": null,
       "keyMessage": "네이버가 웨일 브라우저 사이드바에 'AI 챗' 기능을 탑재하여 웹페이지 요약, 번역 및 자사 서비스 연동을 지원하는 등 AI 에이전트 접점을 브라우저로 확대했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-20T23:00:54.502Z"
@@ -9130,7 +9570,7 @@
       "slogan": null,
       "keyMessage": "지디넷코리아의 매체 소개 및 뉴스레터 구독 신청 관련 안내 정보이다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-09-19T22:40:42.007Z"
@@ -9306,7 +9746,7 @@
       "slogan": null,
       "keyMessage": "[KCSF 2026] 김연수 한컴 대표 \"AI 이끄는 에이전트 오너 돼야⋯'임팩트 퍼 펄슨'이 핵심\"",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T00:42:01.152Z"
@@ -9328,7 +9768,7 @@
       "slogan": null,
       "keyMessage": "코인원·디지털엑스, 신규 상장 멈췄다…왜?",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T01:27:00.330Z"
@@ -9548,7 +9988,7 @@
       "slogan": null,
       "keyMessage": "카카오가 LG유플러스와 컨소시엄을 구성해 정부의 '모두의 AI' 사업자로 선정되었으며, 규제 영역에 특화된 완결형 AI 에이전트 플랫폼을 통해 3년 내 챗GPT의 MAU를 넘어서겠다는 목표를 발표했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 B2C 서비스 확장 및 지배구조 개편 중심 활동과 달리, 정부 주도 사업 선정 및 경쟁 통신사인 LG유플러스와의 컨소시엄을 통해 공공·금융 등 규제 영역 시장 공략을 시도하는 점이 특이합니다."
       },
       "processedAt": "2026-09-19T22:41:08.933Z"
@@ -9658,7 +10098,7 @@
       "slogan": null,
       "keyMessage": "우리은행과 원화 스테이블코인 손잡은 문페이…고팍스 출신 최한결 영입",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:27:00.932Z"
@@ -9724,7 +10164,7 @@
       "slogan": null,
       "keyMessage": "문페이, 고팍스 출신 최한결 영입…한국서 금융사·스테이블코인 협력 넓힌다",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:29:00.216Z"
@@ -9768,7 +10208,7 @@
       "slogan": null,
       "keyMessage": "코인원, 실전 장애 대응 대회서 '우승'…결제 지연·외부 공격 대응 역량 입증",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T01:28:00.520Z"
@@ -9812,7 +10252,7 @@
       "slogan": null,
       "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T01:03:00.516Z"
@@ -9834,7 +10274,7 @@
       "slogan": null,
       "keyMessage": "문페이, ‘바이낸스 고팍스 인수’ 주도 최한결 전략총괄이사 영입",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T02:26:00.760Z"
@@ -11226,6 +11666,28 @@
       "processedAt": "2026-09-15T23:25:30.554Z"
     },
     {
+      "id": "dffc2a8bb3b75391",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 자체 AI 교육·인증 프로그램으로 고용부 장관상",
+      "link": "https://v.daum.net/v/WbIFOjJ6Sv?f",
+      "publisher": "v.daum.net",
+      "pubDate": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/14/dt/20260914100011027xszs.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX, 자체 AI 교육·인증 프로그램으로 고용부 장관상",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-24T23:45:39.102Z"
+    },
+    {
       "id": "d0331dac946668a9",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -11422,6 +11884,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-18T23:03:08.497Z"
+    },
+    {
+      "id": "e77a300006b9c18b",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, AI 인재 육성으로 체질 개선…고용노동부 장관상 품었다",
+      "link": "https://www.donga.com/news/Economy/article/all/20260914/134663260/1",
+      "publisher": "donga.com",
+      "pubDate": "Mon, 14 Sep 2026 02:50:30 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/14/134663257.2.jpg",
+      "activityType": "언론보도",
+      "eventDate": "11일",
+      "location": "서울 코엑스마곡",
+      "format": "시상식 및 발표대회",
+      "slogan": null,
+      "keyMessage": "SK AX가 독자 구축한 생성형 AI 교육 과정인 'AI 리터러시'와 'AI 부트캠프'로 고용노동부 장관상을 수상하며 국내 최초로 AI 활용 역량 정부 공식 인정을 받았다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "외부 시장 진출 및 로봇 전환(RX) 등 신사업 확장 위주의 최근 활동과 달리 사내 AI 인재 육성 및 역량 인증 체계 구축 성과에 집중된 활동이다."
+      },
+      "processedAt": "2026-09-24T23:46:08.063Z"
     },
     {
       "id": "739a9b8d62ddcb63",
