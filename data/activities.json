@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T23:51:21.975Z",
+  "updatedAt": "2026-09-26T23:29:29.871Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,336 @@
   ],
   "activities": [
     {
+      "id": "2ea84e130ac964a5",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SKT 전화 vs KT 생활서비스 vs 카카오 카톡·…'모두의 AI' 3사3색",
+      "link": "https://v.daum.net/v/20260927072207378",
+      "publisher": "v.daum.net",
+      "pubDate": "Sat, 26 Sep 2026 22:22:07 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/27/inews24/20260927072209418wrzw.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-27",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "카카오는 LG그룹과의 협업 및 4800만 카카오톡 이용자 접점을 활용해 예약·결제와 행정 업무까지 처리 가능한 완결형 AI 에이전트 전략을 구체화하고 10월 중순 베타 서비스를 선보일 예정이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:23:29.457Z"
+    },
+    {
+      "id": "fca6f56381727b78",
+      "company": "NHN",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"10% 이상은 안 담아요\" 게임주 비중 줄인 국민연금",
+      "link": "https://www.asiae.co.kr/article/2026092309472121069",
+      "publisher": "아시아경제",
+      "pubDate": "Sat, 26 Sep 2026 22:00:00 GMT",
+      "keyVisual": "https://cphoto.asiae.co.kr/listimglink/1/2026092310315239767_1790127112.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "\"10% 이상은 안 담아요\" 게임주 비중 줄인 국민연금",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:25:03.143Z"
+    },
+    {
+      "id": "3e99453626f32cf5",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, AI 팩토리에 '보안 독파모' 싣는다…해외 풀스택 공략",
+      "link": "https://www.news1.kr/it-science/internet-platform/6300646",
+      "publisher": "뉴스1",
+      "pubDate": "Sat, 26 Sep 2026 21:50:00 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2026/6/8/7948679/no_water.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론보도",
+      "slogan": null,
+      "keyMessage": "네이버가 정부 사업으로 개발하는 사이버보안 특화 AI 파운데이션 모델을 글로벌 AI 팩토리 사업과 연계해 해외 소버린 AI 시장을 풀스택 방식으로 공략한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 커머스 및 금융 서비스 중심 활동과 달리 글로벌 AI 팩토리 구축 및 보안 AI 모델을 연계한 해외 B2B/소버린 AI 공략 전략을 강조한 점이 특이하다."
+      },
+      "processedAt": "2026-09-26T23:22:27.575Z"
+    },
+    {
+      "id": "2f2190c67cf8758f",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 AI 쇼핑 에이전트, 상품 추천부터 결제까지 간다",
+      "link": "https://v.daum.net/v/20260927063500827",
+      "publisher": "v.daum.net",
+      "pubDate": "Sat, 26 Sep 2026 21:35:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/27/yonhap/20260927063503757mwjb.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버 AI 쇼핑 에이전트, 상품 추천부터 결제까지 간다",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:22:15.205Z"
+    },
+    {
+      "id": "30e787cfbb1c6d99",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 AI 쇼핑 에이전트, 상품 추천부터 결제까지 간다",
+      "link": "https://stock.mk.co.kr/news/view/1165247",
+      "publisher": "매일경제 마켓",
+      "pubDate": "Sat, 26 Sep 2026 21:33:01 GMT",
+      "keyVisual": "https://stock.mk.co.kr/photos/20260927/AKR20260923171100017_01_i_P4.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버가 AI 쇼핑 에이전트에 상품 추천부터 결제까지 일괄 지원하는 '에이전틱 커머스' 기능을 연내 시범 적용하고 관련 추천 서비스를 고도화한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 적립 혜택이나 장보기 커머스 전략에서 나아가, 생성형 AI가 추천부터 결제까지 직접 처리하는 '에이전틱 커머스'로 커머스 서비스의 패러다임을 전환하고 있습니다."
+      },
+      "processedAt": "2026-09-26T23:23:23.626Z"
+    },
+    {
+      "id": "0af4867d781c64b9",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오 6년 늦은 '유료 구독' 시장 참전, 정신아 커머스 약점 딛고 네이버·쿠팡 따라잡을까",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00VURjLVJsQ2xNaU1qLU1NTE5HNV9Ham01dEtLblRJUzkzdUNXYmFvMGYzZkNVTUE5SUdBdXA1S2E2b0c5YzhMSUw5aTZQS2VnZDZVZ2R2REhSNFlaa2xWUE1SY2lYbGNLWlM0XzFMZlloNTg?oc=5",
+      "publisher": "비즈니스포스트",
+      "pubDate": "Sat, 26 Sep 2026 21:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오가 유료 구독 시장에 진출하여 네이버와 쿠팡을 추격하는 커머스 전략을 조명한 언론 보도이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:22:09.900Z"
+    },
+    {
+      "id": "0af4867d781c64b9",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오 6년 늦은 '유료 구독' 시장 참전, 정신아 커머스 약점 딛고 네이버·쿠팡 따라잡을까",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00VURjLVJsQ2xNaU1qLU1NTE5HNV9Ham01dEtLblRJUzkzdUNXYmFvMGYzZkNVTUE5SUdBdXA1S2E2b0c5YzhMSUw5aTZQS2VnZDZVZ2R2REhSNFlaa2xWUE1SY2lYbGNLWlM0XzFMZlloNTg?oc=5",
+      "publisher": "비즈니스포스트",
+      "pubDate": "Sat, 26 Sep 2026 21:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오 6년 늦은 '유료 구독' 시장 참전, 정신아 커머스 약점 딛고 네이버·쿠팡 따라잡을까",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:23:35.558Z"
+    },
+    {
+      "id": "87505c4a2d13934d",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "더존비즈온, ‘CAIO Summit 2026’서 AI-Native Enterprise 전략 제시",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIQnE4c1FLVDVGNkZ2TzA5b0xyLTJDS21ZZ0hGSTczMGVwMjdxa2RtcXJnd0pGNjhSUEp4MWJqRGtPSm9KU3FqYkZpdldkcDRxbGduWWg0eXU5LVNZSnhFcEI0bDFFUEQwM0JoU2FB?oc=5",
+      "publisher": "koreasprint.com",
+      "pubDate": "Sat, 26 Sep 2026 15:51:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "더존비즈온, ‘CAIO Summit 2026’서 AI-Native Enterprise 전략 제시",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:26:00.345Z"
+    },
+    {
+      "id": "05b339f1df5ab9fd",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "무죄 vs 징역 15년...‘SM 시세조종 혐의’ 카카오 김범수 2심 11월 선고",
+      "link": "https://www.sedaily.com/article/20094828",
+      "publisher": "sedaily.com",
+      "pubDate": "Sat, 26 Sep 2026 10:30:00 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/09/24/rcv.NEWSIS.NEWSIS.20260923.NISI20260923_0021453444_Z1.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-26",
+      "location": "서울 서초구 서울고등법원",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SM엔터테인먼트 시세조종 혐의로 기소된 카카오 김범수 창업자의 항소심에서 검찰이 징역 15년을 구형했으며 2심 선고 결과는 11월 20일에 나올 예정이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "서비스 출시 및 이벤트 중심의 기존 활동들과 달리 창업자의 사법 리스크 및 재판 경과를 다룬 언론보도라는 점에서 차이가 있다."
+      },
+      "processedAt": "2026-09-26T23:23:47.135Z"
+    },
+    {
+      "id": "ea6f6a364a8920bb",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오, 10월 멤버십 공개…페이가 핵심될까? - 글로벌이코노믹",
+      "link": "https://www.g-enews.com/article/ICT/2026/09/2026092316510123403d7a510102_1",
+      "publisher": "글로벌이코노믹",
+      "pubDate": "Sat, 26 Sep 2026 04:00:00 GMT",
+      "keyVisual": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20260923160655083503d7a51010221124825158.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오, 10월 멤버십 공개…페이가 핵심될까? - 글로벌이코노믹",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:24:06.704Z"
+    },
+    {
+      "id": "7fe5b76904280328",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오 임팩트재단, ‘사회혁신 생태계 위한 AX 가이드’ 공개",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UZ1lRZ0dLZkJoaVVEOWszclBXZy1RNXNxNnM0UklSdEQ3cEkxMGh4eFNOQ0FBTC10QUE2TXVuZnc4TVpvbk90dkcyY25pcnJlNWFSSkp1azk3aV9IanlBcWZ5V2UzTVU0MG95ZA?oc=5",
+      "publisher": "IT비즈뉴스",
+      "pubDate": "Sat, 26 Sep 2026 04:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오 임팩트재단이 사회혁신 생태계 지원을 위한 'AX 가이드'를 공개했다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 B2C 서비스 편의 기능 강화나 마케팅 활동과 달리, 사회공헌 재단을 통해 사회혁신 생태계 지원 목적의 AX 가이드를 공개했다는 점에서 차별점이 있다."
+      },
+      "processedAt": "2026-09-26T23:24:49.732Z"
+    },
+    {
+      "id": "5cb8b89d6d1a3699",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "亞게임에 AI 한 스푼…SKT·네이버의 스포츠 지원",
+      "link": "https://news.bizwatch.co.kr/article/mobile/2026/09/23/0030",
+      "publisher": "비즈워치",
+      "pubDate": "Sat, 26 Sep 2026 02:30:03 GMT",
+      "keyVisual": "https://cdn.bizwatch.co.kr/news/photo/2026/09/23/f79464f3433ee5579255148bdce133d3.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버는 아시안게임을 맞아 스트리밍 플랫폼 치지직에 AI 클립 생성 시스템 '스포터'와 STT 자막 등 AI 기술을 적용하여 스포츠 시청 경험을 고도화합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 커머스 및 멤버십 혜택 중심의 활동과 달리, 스포츠 스트리밍 서비스에 AI 기술을 접목한 신규 기능을 선보였습니다."
+      },
+      "processedAt": "2026-09-26T23:23:06.090Z"
+    },
+    {
+      "id": "5d7440a7f663b1ca",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "9월 4주차 네이버 주가 20만원선 아래로 하락 마감",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno",
+      "publisher": "톱스타뉴스",
+      "pubDate": "Sat, 26 Sep 2026 01:54:25 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "9월 4주차 네이버 주가가 20만원선 아래로 하락하여 마감했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "마케팅 및 사업 전략 관련 기존 소식들과 달리 단순 주가 하락 동향을 다룬 기사입니다."
+      },
+      "processedAt": "2026-09-26T23:23:12.397Z"
+    },
+    {
+      "id": "81c485b2bddc9e23",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS·네이버, 공공 이어 국방 AX서도 격돌하나",
+      "link": "https://www.sedaily.com/article/20094861",
+      "publisher": "sedaily.com",
+      "pubDate": "Sat, 26 Sep 2026 00:00:00 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/09/24/news-p.v1.20260923.f88a9fd733c042e4915901bc0a688117_Z1.png",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-26",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 공공 AX 시장에서의 성과를 바탕으로 약 3,000억 원 규모의 한국군 지휘통제체계(KCCS) 구축 사업 등 국방 AX 분야로 사업영역을 확장하며 경쟁을 가화하고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 교육·제조 등 일반 공공 정보화 및 AI 영역을 넘어 대형 국방 AX(인공지능 전환) 사업 수주전에 본격 진출하는 행보가 확인된다."
+      },
+      "processedAt": "2026-09-26T23:22:02.756Z"
+    },
+    {
+      "id": "c196c589911d99d6",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "슴미니즈 7개월만에 종료...카카오게임즈, 되는 게임에 개발 자원 몰아준다",
+      "link": "https://www.newspim.com/news/view/20260923000928",
+      "publisher": "뉴스핌",
+      "pubDate": "Fri, 25 Sep 2026 23:48:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/02/25/2602251456307990_372_tc.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "카카오게임즈가 비수익 모바일 게임 '슴미니즈' 서비스를 종료하고, 선택과 집중 전략에 따라 개발 자원을 연내 신작 프로젝트에 재배치한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 AI 적용 및 통합 멤버십 출시 등 신규 기능 강화 행보와 달리, 비수익 서비스를 정리하고 사업 포트폴리오를 재편하는 구조조정적 내용을 다루고 있다."
+      },
+      "processedAt": "2026-09-26T23:24:57.166Z"
+    },
+    {
       "id": "e6cc640afa5e7791",
       "company": "네이버",
       "category": "IT 서비스",
@@ -114,6 +444,50 @@
         "llmNote": null
       },
       "processedAt": "2026-09-25T23:48:19.428Z"
+    },
+    {
+      "id": "af4cc9cfd07b6c63",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오뱅크 AI 이모지 퀴즈 정답(9월26일)",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9na2pac1g4Q0NnaG1lZ0xTanhfc1FLdjVyYlJoa21PZmZOTWVucnByY3NoTDhyVFdXbTM1N0pqODM0S3l5WWZKRzVwcWEyWXRaMTNhaWd5OVFTa1pZMWVpWktjbFR6bGdkN05XYg?oc=5",
+      "publisher": "gametoc.co.kr",
+      "pubDate": "Fri, 25 Sep 2026 23:02:48 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오뱅크 AI 이모지 퀴즈 정답(9월26일)",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:24:34.682Z"
+    },
+    {
+      "id": "b54c52bab0c82b98",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오, 카카오모빌리티 美 ADR 상장 제동…이사회 반대 결의",
+      "link": "https://www.sentv.co.kr/article/view/sentv202609230072",
+      "publisher": "서울경제TV",
+      "pubDate": "Fri, 25 Sep 2026 23:00:07 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/09/23/sentv20260923000079.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오, 카카오모빌리티 美 ADR 상장 제동…이사회 반대 결의",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:24:23.912Z"
     },
     {
       "id": "209dd604234432b9",
@@ -158,6 +532,50 @@
         "llmNote": null
       },
       "processedAt": "2026-09-25T23:49:51.316Z"
+    },
+    {
+      "id": "2e3dd3004f4f1b6f",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[IT돋보기] '혜택 늘리고 신규 서비스 도입' 네이버 VS 카카오 멤버십 격돌",
+      "link": "http://www.inews24.com/view/2009038",
+      "publisher": "아이뉴스24",
+      "pubDate": "Fri, 25 Sep 2026 22:30:02 GMT",
+      "keyVisual": "https://image.inews24.com/v1/c3225d506e86e8.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[IT돋보기] '혜택 늘리고 신규 서비스 도입' 네이버 VS 카카오 멤버십 격돌",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:22:31.691Z"
+    },
+    {
+      "id": "2e3dd3004f4f1b6f",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[IT돋보기] '혜택 늘리고 신규 서비스 도입' 네이버 VS 카카오 멤버십 격돌",
+      "link": "http://www.inews24.com/view/2009038",
+      "publisher": "아이뉴스24",
+      "pubDate": "Fri, 25 Sep 2026 22:30:02 GMT",
+      "keyVisual": "https://image.inews24.com/v1/c3225d506e86e8.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[IT돋보기] '혜택 늘리고 신규 서비스 도입' 네이버 VS 카카오 멤버십 격돌",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:24:17.398Z"
     },
     {
       "id": "89177031dc5b2714",
@@ -1348,6 +1766,28 @@
       "processedAt": "2026-09-24T23:45:23.189Z"
     },
     {
+      "id": "b97e31894c131cf4",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 AI 쇼핑 에이전트, 상품 추천부터 결제까지 간다 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260923171100017",
+      "publisher": "연합뉴스",
+      "pubDate": "Wed, 23 Sep 2026 08:06:00 GMT",
+      "keyVisual": "https://img6.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923171100017_01_i_P4.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "2026-09-27",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버가 생성형 AI 쇼핑 에이전트 내에서 상품 추천부터 결제까지 한 번에 지원하는 '에이전틱 커머스' 기능을 연내 시범 적용하고 배송·선물 추천 기능을 고도화합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 멤버십 혜택 제공이나 명절 특수 커머스 전략과 달리, 생성형 AI가 상품 추천을 넘어 결제까지 직접 수행하는 '에이전틱 커머스' 중심의 서비스 고도화를 본격 추진하고 있습니다."
+      },
+      "processedAt": "2026-09-26T23:22:46.869Z"
+    },
+    {
       "id": "ecc1a2a275194182",
       "company": "카카오페이",
       "category": "디지털 금융",
@@ -1544,6 +1984,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-23T23:29:14.222Z"
+    },
+    {
+      "id": "2b8333da5b63575e",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "더존비즈온-택스워치, ‘2026 TAX Leaders Summit’ 개최",
+      "link": "https://joseplus.com/article/1065574105999322",
+      "publisher": "조세플러스",
+      "pubDate": "Wed, 23 Sep 2026 05:48:19 GMT",
+      "keyVisual": "https://joseplus.com/news/data/2026/09/24/p1065574105999322_674_h2.png",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "10월 15일 ~ 11월 5일",
+      "location": "서울 중구 더존을지타워 11층 ATEC",
+      "format": "오프라인 행사",
+      "slogan": null,
+      "keyMessage": "더존비즈온이 택스워치와 함께 세무·회계·법률 전문가를 대상으로 AI 시대 경쟁력 강화 및 협업 모델 모색을 위한 '2026 TAX Leaders Summit'을 개최한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:29:15.691Z"
     },
     {
       "id": "e05b22b3c94fa9b5",
@@ -2294,6 +2756,28 @@
       "processedAt": "2026-09-23T23:37:00.512Z"
     },
     {
+      "id": "27ed36098e2f3b64",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "더존비즈온-택스워치, 택스 리더스 서밋 개최",
+      "link": "https://www.taxtimes.co.kr/news/article.html?no",
+      "publisher": "한국세정신문",
+      "pubDate": "Wed, 23 Sep 2026 01:24:09 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "더존비즈온-택스워치, 택스 리더스 서밋 개최",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:29:00.846Z"
+    },
+    {
       "id": "a3b4b2fbfba59576",
       "company": "카카오",
       "category": "IT 서비스",
@@ -2358,6 +2842,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-24T00:28:07.953Z"
+    },
+    {
+      "id": "d1276846edaa6e72",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "더존비즈온-택스워치, ‘2026 TAX Leaders Summit’ 개최",
+      "link": "https://intn.co.kr/news/articleView.html?idxno",
+      "publisher": "intn.co.kr",
+      "pubDate": "Wed, 23 Sep 2026 01:14:51 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "더존비즈온이 택스워치와 함께 '2026 TAX Leaders Summit'을 개최한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:27:03.854Z"
     },
     {
       "id": "79b8f9dfba7440e1",
@@ -3634,6 +4140,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-23T23:44:09.711Z"
+    },
+    {
+      "id": "b46b37f7d920213e",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "더존비즈온, 키르기즈 국가투자처와 디지털 전환 협력",
+      "link": "https://v.daum.net/v/QO77zd8BTS?f",
+      "publisher": "v.daum.net",
+      "pubDate": "Tue, 22 Sep 2026 09:56:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/22/dt/20260922185609790xruy.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "더존비즈온, 키르기즈 국가투자처와 디지털 전환 협력",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:28:00.732Z"
     },
     {
       "id": "ef8f75c3f3adb59c",
@@ -5988,6 +6516,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-23T00:58:00.909Z"
+    },
+    {
+      "id": "6f44388c175e3837",
+      "company": "NHN",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[게임월드] 넥슨ㆍ크래프톤ㆍ엔씨ㆍNHNㆍ카카오게임즈ㆍ컴투스홀딩스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hYmVERkUzNVNSRVh6alVlTER1WjJLZUt1d2EyWTFYY29ZVUs0RVNPTURkTVN2ZjlKM1RwMEN4U25odzhGeWJBcVhJU1U0UHQxb3R2VlpGZllLMm4wX0FELXB6S2lDZFFkaHdxUnh1Ym9jS0E?oc=5",
+      "publisher": "대한경제",
+      "pubDate": "Tue, 22 Sep 2026 00:43:10 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "NHN이 넥슨, 크래프톤, 엔씨 등 주요 게임사들과 함께 게임월드 관련 소식으로 언론에 보도되었습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:25:21.392Z"
     },
     {
       "id": "f1aa7c0594369e79",
@@ -9482,7 +10032,7 @@
       "slogan": null,
       "keyMessage": "네이버가 추석을 맞아 네이버플러스 스토어 앱의 'AI 쇼핑 에이전트' 선물 특화 기능을 강화하여 구매 데이터, 후기, 배송 정보 등을 종합 반영한 맞춤형 추천 서비스를 제공합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-20T23:01:14.013Z"
@@ -9504,7 +10054,7 @@
       "slogan": null,
       "keyMessage": "카카오가 인적분할 등 대규모 조직 개편과 AI 중심 사업 전환에 따라 올해 대규모 신입 공개채용 대신 수시 채용과 기존 인력 재배치 중심의 채용 전략을 이어갈 전망입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 사업 연동, 서비스 출시, 지배구조 개편 소식과 달리 신입 공채 중단 및 수시 채용 전환 등 인력 수급 및 채용 전략 변화를 다루고 있다는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-09-19T22:41:25.935Z"
@@ -9526,7 +10076,7 @@
       "slogan": null,
       "keyMessage": "네이버의 동영상 서비스 '클립'의 쇼핑 전환 매출이 전년 대비 5.8배 증가하는 등 성과를 내며 커머스·장소 예약 서비스 연계 및 콘텐츠 범위 확장을 가속화하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 이슈들이 리스크 관리 및 지배구조에 집중되었던 것과 달리, 본 활동은 자사 숏폼 서비스(클립)의 커머스 전환 성과 지표와 플랫폼 확장 전략을 구체적으로 제시하고 있습니다."
       },
       "processedAt": "2026-09-19T22:39:43.608Z"
@@ -9548,7 +10098,7 @@
       "slogan": null,
       "keyMessage": "업비트·빗썸, 올해 상장 코인 70%가 하락… “이용자 보호 뒷전”",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-24T00:17:00.210Z"
@@ -9570,7 +10120,7 @@
       "slogan": null,
       "keyMessage": "인베스팅프로, 한글과컴퓨터 주가 45% 하락 미리 포착",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T00:37:00.375Z"
@@ -9592,7 +10142,7 @@
       "slogan": null,
       "keyMessage": "카카오벤처스가 창업자의 몰입과 제품 개발을 지원하기 위한 공간 '템프서울'을 개관했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 AI 기술 탑재 및 구독 서비스 등 카카오 본사 중심 활동과 달리, 벤처캐피털 자회사를 통한 오프라인 창업자 지원 공간 개관 소식입니다."
       },
       "processedAt": "2026-09-19T22:41:42.240Z"
@@ -9636,7 +10186,7 @@
       "slogan": null,
       "keyMessage": "공정위, 네이버-두나무 기업결합 연내 심의 속도…“고난도 심사 진행”",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T01:10:00.593Z"
@@ -9658,7 +10208,7 @@
       "slogan": null,
       "keyMessage": "김승원 전 법무부 장관 후보자와 의혹 인물인 양수진 씨의 과거 자전거 라이딩 사진이 양 씨가 운영하던 네이버 카페에서 확인되었다는 내용의 보도입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "네이버의 마케팅이나 사업 전략 활동이 아니라 정치·사회적 사건 기사 중 단순 서비스 플랫폼(네이버 카페) 이름만 거론된 보도라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-09-19T22:39:55.351Z"
@@ -9702,7 +10252,7 @@
       "slogan": null,
       "keyMessage": "이데일리",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-22T00:38:00.489Z"
@@ -10102,6 +10652,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-22T00:13:00.689Z"
+    },
+    {
+      "id": "b796424532d595dd",
+      "company": "NHN",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "NHN, 한일 협업 기반 글로벌 게임 전략 공개",
+      "link": "https://www.newspim.com/news/view/20260918000418",
+      "publisher": "뉴스핌",
+      "pubDate": "Fri, 18 Sep 2026 01:56:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/09/18/2609181034553820_386_tc.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "일본 뉴오타니 마쿠하리 호텔",
+      "format": "단체 인터뷰",
+      "slogan": null,
+      "keyMessage": "NHN이 한국과 일본 개발 조직의 강점을 결합한 한일 협업 기반의 글로벌 게임 사업 전략을 발표하고 공동 개발 신작 '환상세계의 푸치포용'을 공개했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-09-26T23:25:15.455Z"
     },
     {
       "id": "a5f96e8fe7fed383",
