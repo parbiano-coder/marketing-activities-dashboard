@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T00:31:41.385Z",
+  "updatedAt": "2026-10-02T00:37:36.458Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,468 @@
   ],
   "activities": [
     {
+      "id": "3f89fa716395404b",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버시리즈서 '도쿄 리벤저스' 전편 무료로 본다",
+      "link": "https://v.daum.net/v/20261002090231495",
+      "publisher": "v.daum.net",
+      "pubDate": "Fri, 02 Oct 2026 00:02:31 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/02/fnnewsi/20261002090231963whgd.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버시리즈서 '도쿄 리벤저스' 전편 무료로 본다",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:36:00.654Z"
+    },
+    {
+      "id": "2740ceba9fdd039e",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"네이버, 데이터센터 산업 전망 밝아… 매수 기회 살필 것\"-한투 - 머니투데이",
+      "link": "https://www.mt.co.kr/stock/2026/10/02/2026100208065867136",
+      "publisher": "머니투데이",
+      "pubDate": "Thu, 01 Oct 2026 23:54:38 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=579,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026100208065867136_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "\"네이버, 데이터센터 산업 전망 밝아… 매수 기회 살필 것\"-한투 - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:36:38.469Z"
+    },
+    {
+      "id": "5fa7d1f15c20dc71",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "하반기 비용 부담 커지는 네이버…'AI 데이터센터' 반전 열쇠[애널리스트의 시각]",
+      "link": "https://v.daum.net/v/20261002084105583",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 01 Oct 2026 23:41:05 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/02/552788-vZw4wcp/20261002084105484swqx.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "하반기 비용 부담 커지는 네이버…'AI 데이터센터' 반전 열쇠[애널리스트의 시각]",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:37:14.808Z"
+    },
+    {
+      "id": "9f49f5fbc5a7f43d",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "한국투자證 “네이버 주가, 악재 대부분 반영…지금부터 매수 기회\"",
+      "link": "https://biz.chosun.com/stock/stock_general/2026/10/02/AJBQAQ7P6VHTHMP6SS2MAWU3PE/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Thu, 01 Oct 2026 22:37:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/G4YGKZBWGA4TANRZGU3GCMTFGM.jpg?auth=b4659b969d4212ba713356446216c7fc8849749e6d7c59ec12ac4bcd25dd3595&width=1200&height=630&smart=true",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "한국투자證 “네이버 주가, 악재 대부분 반영…지금부터 매수 기회\"",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:37:00.596Z"
+    },
+    {
+      "id": "99d9a0e239706839",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 제너럴 애틀랜틱과 산업용 SW·AI기업 발굴·투자",
+      "link": "https://www.khan.co.kr/article/202610012054005",
+      "publisher": "경향신문",
+      "pubDate": "Thu, 01 Oct 2026 11:54:00 GMT",
+      "keyVisual": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "지난달 24일",
+      "location": "미국 뉴욕 제너럴 애틀랜틱 본사",
+      "format": "공동투자 파트너십 체결식",
+      "slogan": null,
+      "keyMessage": "LG CNS가 글로벌 투자회사 제너럴 애틀랜틱과 손잡고 글로벌 기업용 SW 및 AI 분야 우량 기업을 공동 발굴하고 투자를 추진하기 위한 파트너십을 체결했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 자체 인프라 및 사업 기술 중심 활동과 달리, 글로벌 대형 투자사와 손잡고 글로벌 기업용 SW 및 AI 기업 발굴·투자에 직접 나선 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-10-02T00:31:08.215Z"
+    },
+    {
+      "id": "b542abb1411ec40f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "인트-LG CNS, 피지컬 AI 인재양성·데이터 검증 R&D 협력",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sWENfbktYT0tXV3hZZTBwN25Jb2lBVTlSZTRwaFp3NWthcnJQR0VlU3VGRVFsdUFabTVxWjMtRUJOSEtfWVZTYVh1NnhTQQ?oc=5",
+      "publisher": "전자신문",
+      "pubDate": "Thu, 01 Oct 2026 09:13:34 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 인트와 협력하여 피지컬 AI 분야의 인재 양성 및 데이터 검증 R&D를 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 인공지능 팩토리 및 블록체인 중심 활동과 달리 피지컬 AI 분야의 R&D 및 인재 양성 협력을 추진한다는 점이 특이합니다."
+      },
+      "processedAt": "2026-10-02T00:32:38.337Z"
+    },
+    {
+      "id": "72ed45a967b347f3",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI·데이터 혁신 3법 국회 통과…삼성SDS·LG CNS 사업기회 커진다",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zclNTSG5Cc0U1YXVtc2NMTnRnc0Y4aVk3Ny11eWM5cm1TR2dibzNVUWwzSE1UUnUxTVpQTTVMQUtLNmFxaUE3WFY0aWVhX3haeEF5OXZqdmdmSEpkYld5UExad3dZQQ?oc=5",
+      "publisher": "디일렉",
+      "pubDate": "Thu, 01 Oct 2026 09:05:44 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "AI·데이터 혁신 3법의 국회 통과로 인해 삼성SDS의 사업 기회가 확대될 것으로 전망됩니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기술 리포트 및 미국 AI 인프라 투자 등 자사의 주도적 활동을 다룬 최근 소식들과 달리, 국회 법안 통과라는 외부 규제 환경 변화에 따른 영향 및 전망을 다루고 있습니다."
+      },
+      "processedAt": "2026-10-02T00:30:27.560Z"
+    },
+    {
+      "id": "a8c4488be491585b",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "비개발자도 AI 에이전트 '뚝딱'…SK AX, '부트캠프 바이브' 출시",
+      "link": "https://news.bizwatch.co.kr/article/mobile/2026/10/01/0047",
+      "publisher": "news.bizwatch.co.kr",
+      "pubDate": "Thu, 01 Oct 2026 08:31:03 GMT",
+      "keyVisual": "https://cdn.bizwatch.co.kr/news/photo/2025/05/13/8aa0554afe9111db722b429a849403e9.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "비개발자도 AI 에이전트 '뚝딱'…SK AX, '부트캠프 바이브' 출시",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:33:00.741Z"
+    },
+    {
+      "id": "222fe4b9dc2744da",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 비개발자 대상 AI에이전트 교육 ‘부트캠프 바이브’ 출시",
+      "link": "https://www.dt.co.kr/article/12087039",
+      "publisher": "dt.co.kr",
+      "pubDate": "Thu, 01 Oct 2026 08:09:04 GMT",
+      "keyVisual": "https://wimg.dt.co.kr/news/cms/2026/10/01/news-p.v1.20261001.1912879d6c36439e86cc645bf76c3628_R.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX, 비개발자 대상 AI에이전트 교육 ‘부트캠프 바이브’ 출시",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:33:41.989Z"
+    },
+    {
+      "id": "9d263ea260aed1cf",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "인트·LG CNS, 피지컬 AI 기술협력 업무협약 체결",
+      "link": "https://v.daum.net/v/20261001162943100",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 01 Oct 2026 07:29:43 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/01/chosun/20261001162944862dvih.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-09-29",
+      "location": null,
+      "format": "업무협약 체결",
+      "slogan": null,
+      "keyMessage": "LG CNS는 AI 스타트업 인트와 업무협약을 체결하고 피지컬 AI 분야 인재 양성 및 기술 R&D를 위한 'Physical AI Fellowship'을 공동 운영한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 데이터센터 및 블록체인 사업 발표와 달리 피지컬 AI 분야 스타트업과 협력하여 펠로우십을 통한 인재 양성 및 데이터 품질 검증 기술 공동개발에 나선 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-10-02T00:30:59.824Z"
+    },
+    {
+      "id": "ee61617c9ead0b4f",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 비개발자도 AI 에이전트 만든다…'부트캠프 바이브' 출시",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Thu, 01 Oct 2026 07:25:42 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 비개발자도 직접 AI 에이전트를 만들 수 있는 '부트캠프 바이브' 서비스를 출시했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:33:18.986Z"
+    },
+    {
+      "id": "efd174c8d1a46253",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[비즈톡톡] M&A 속도 내는 삼성SDS·LG CNS… 美 투자사와 맞손",
+      "link": "https://biz.chosun.com/it-science/ict/2026/10/01/OWF7VIPY3FAOTOFK2DZ6FCLJ6Y/",
+      "publisher": "biz.chosun.com",
+      "pubDate": "Thu, 01 Oct 2026 07:13:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/EUW3CJKWS5CTBNPAAPADRAU6L4.jpg?auth=be7886abd4c9ee2b3c5ff73f600528ed8fe391c673dc1d5d9df8c3ad3da3900d&width=1200&height=630&smart=true",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[비즈톡톡] M&A 속도 내는 삼성SDS·LG CNS… 美 투자사와 맞손",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:30:30.330Z"
+    },
+    {
+      "id": "fa322573052153b5",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX \"코딩 몰라도 AI 에이전트 만든다\" 바이브코딩 부트캠프 출시",
+      "link": "https://www.econovill.com/news/articleView.html?idxno",
+      "publisher": "ER 이코노믹리뷰",
+      "pubDate": "Thu, 01 Oct 2026 06:49:01 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX \"코딩 몰라도 AI 에이전트 만든다\" 바이브코딩 부트캠프 출시",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:35:03.472Z"
+    },
+    {
+      "id": "1189af9a373e3901",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "코딩 지식 없어도 AI 에이전트 개발…SK AX, 'AI 부트캠프 바이브' 출시",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zWnNlbGczYnpTRmw2MHJ2aHBVaEFwajliNTZxRVZta05aNHJGLXZWdjc1VnVRQ1J2bk12bWRIV3pEZE9OVHpnRzlpeXFuS2ttYW5LY3B2NGoxeXFqeTR3d2RZWEE?oc=5",
+      "publisher": "매일일보",
+      "pubDate": "Thu, 01 Oct 2026 06:25:13 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 코딩 지식이 없어도 AI 에이전트를 개발할 수 있는 교육 서비스 'AI 부트캠프 바이브'를 출시했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:33:26.536Z"
+    },
+    {
+      "id": "ffe1be31b00e3f56",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "토스, 리워드 마케팅서 네이버 제외…2년 갈등 해소될지 주목(종합)",
+      "link": "https://v.daum.net/v/20261001152158827",
+      "publisher": "v.daum.net",
+      "pubDate": "Thu, 01 Oct 2026 06:21:58 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/01/yonhap/20261001152158175czsn.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-10-01",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버가 검색 순위 왜곡 가능성을 지적하며 대응해 온 리워드 마케팅 이슈와 관련하여, 토스가 네이버 연계 서비스를 종료하기로 결정함에 따라 2년 간 지속된 양사 갈등의 해소 여부가 주목받고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:37:22.606Z"
+    },
+    {
+      "id": "90bc3ade1f7810ef",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 엔터프라이즈 SW 승부수…북미 매출 '마중물'",
+      "link": "https://www.topdaily.kr/articles/112178",
+      "publisher": "topdaily.kr",
+      "pubDate": "Thu, 01 Oct 2026 05:15:00 GMT",
+      "keyVisual": "https://assets.repress.co.kr/photos/4132f07bdc117fd0bce500492245d912/thumb.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "미국 뉴욕 GA 본사",
+      "format": "파트너십 체결식",
+      "slogan": null,
+      "keyMessage": "LG CNS가 글로벌 사모펀드 제너럴 애틀랜틱과 파트너십을 체결하고, 기업용 SW 및 AI 분야 공동 투자를 통해 북미 시장 사업 확대와 사업 포트폴리오 다변화를 추진한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 국내 인프라 구축 및 솔루션 중심 활동과 달리, 글로벌 PEF와 손잡고 해외 엔터프라이즈 SW 기업에 대한 공동 투자를 통해 북미 시장을 직접 공략하는 점이 특이하다."
+      },
+      "processedAt": "2026-10-02T00:32:47.398Z"
+    },
+    {
+      "id": "0f527e28ee3aac00",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Thu, 01 Oct 2026 04:58:57 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 지디넷코리아의 뉴스레터 구독 신청 및 매체 정보만 포함하고 있어 SK AX의 마케팅 활동 정보를 확인하기 어렵습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:33:12.823Z"
+    },
+    {
+      "id": "1b753ee390301d27",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 비개발자용 AI 에이전트 교육 프로그램 출시",
+      "link": "https://weekly.hankooki.com/news/articleViewAmp.html?idxno",
+      "publisher": "주간한국",
+      "pubDate": "Thu, 01 Oct 2026 03:42:08 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 비개발자를 위한 AI 에이전트 교육 프로그램을 출시했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:33:34.630Z"
+    },
+    {
+      "id": "6f9ab63c8fbfb284",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG의 AI 혁신… 전자 ‘냉각 HW’·CNS ‘SW·AI’로 글로벌 공략",
+      "link": "https://www.newscj.com/news/articleView.html?idxno",
+      "publisher": "천지일보",
+      "pubDate": "Thu, 01 Oct 2026 02:09:52 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 LG전자의 냉각 하드웨어 기술과 자사의 소프트웨어 및 AI 역량을 결합하여 글로벌 AI 시장 공략을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "개별 데이터센터 및 블록체인 사업 중심의 최근 활동과 달리 LG전자와의 하드웨어·소프트웨어 결합 시너지를 통한 글로벌 시장 공략을 다루고 있다는 점이 특징적입니다."
+      },
+      "processedAt": "2026-10-02T00:32:06.193Z"
+    },
+    {
+      "id": "db57ef6a9e312299",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "코딩 몰라도 AI 에이전트 만든다…SK AX, 'AI 부트캠프 바이브' 출시 - 머니투데이",
+      "link": "https://www.mt.co.kr/amp/tech/2026/10/01/2026100110373185404",
+      "publisher": "머니투데이",
+      "pubDate": "Thu, 01 Oct 2026 01:41:38 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100110373185404_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "코딩 몰라도 AI 에이전트 만든다…SK AX, 'AI 부트캠프 바이브' 출시 - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:34:00.494Z"
+    },
+    {
+      "id": "89173402bb4525c1",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "누구나 AI증강되도록…SK AX, ‘부트캠프 바이브’로 업무혁신 생태계 조성",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno",
+      "publisher": "aitimes.kr",
+      "pubDate": "Thu, 01 Oct 2026 01:12:43 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX는 누구나 AI 기술을 활용해 업무를 증강할 수 있도록 '부트캠프 바이브'를 기반으로 업무혁신 생태계를 조성하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:33:53.456Z"
+    },
+    {
       "id": "f888c44fbbcade4b",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -132,7 +594,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 누구나 AI 에이전트를 만들 수 있는 '바이브코딩' 교육 서비스를 출시했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존 B2B 제조·물류 AI 및 로봇 전환(RX) 중심의 사업 활동과 달리 AI 에이전트 제작 관련 교육 서비스를 새롭게 출시했습니다."
       },
       "processedAt": "2026-10-01T00:23:12.563Z"
@@ -154,7 +616,7 @@
       "slogan": null,
       "keyMessage": "코딩 몰라도 AI 에이전트 만든다…SK AX, 실무형 교육 프로그램 출시",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-10-01T00:22:50.318Z"
@@ -198,7 +660,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 AI 에이전트 개발 지원을 위한 바이브코딩 교육 서비스를 출시했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 제조·물류 AI 및 로봇 전환(RX) 등 B2B 솔루션 중심 활동과 달리 AI 에이전트 개발 지원을 위한 교육 서비스를 새롭게 선보였습니다."
       },
       "processedAt": "2026-10-01T00:23:35.857Z"
@@ -220,7 +682,7 @@
       "slogan": null,
       "keyMessage": "SK AX, ‘AI 부트캠프 바이브’ 출시…비개발자도 AI 에이전트 만든다",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-10-01T00:23:17.664Z"
@@ -242,7 +704,7 @@
       "slogan": null,
       "keyMessage": "SK AX, 일반 직원용 ‘AI 부트캠프 바이브’ 출시…직접 AI 에이전트 만든다",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-10-01T00:22:46.699Z"
@@ -264,7 +726,7 @@
       "slogan": null,
       "keyMessage": "엠브릭스의 체내 CAR-T 구현, 한미약품의 비만 신약 개발, 레메디의 인도네시아 생산체계 구축 등 제약·바이오 및 의료 분야 기업들의 최신 동향을 다룬 기사입니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존 IT 서비스 및 AI·로봇 전환(RX) 중심의 활동과 달리 제약·바이오 기업 관련 언론보도로 구성되어 있습니다."
       },
       "processedAt": "2026-10-01T00:23:03.938Z"
@@ -308,7 +770,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 'AI 부트캠프 바이브' 교육 서비스를 출시했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 제조·물류 AI 및 로봇 전환(RX) 사업 영역과 달리 AI 교육 서비스를 새롭게 선보인 점이 눈에 띕니다."
       },
       "processedAt": "2026-10-01T00:23:28.686Z"
@@ -330,7 +792,7 @@
       "slogan": null,
       "keyMessage": "SK AX는 코딩 지식이 없는 일반 임직원도 자연어로 AI 에이전트를 직접 개발해 업무 생산성을 높일 수 있는 교육 프로그램 'AI 부트캠프 바이브'를 출시했다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 제조·물류 AI 및 로봇 전환(RX) 등 기술 사업 확장에 집중하던 활동과 달리, 일반 직군 대상의 AI 에이전트 개발 교육 서비스를 새롭게 선보였다는 점이 특징입니다."
       },
       "processedAt": "2026-10-01T00:22:40.084Z"
@@ -512,6 +974,28 @@
       "processedAt": "2026-10-01T00:21:40.663Z"
     },
     {
+      "id": "69354ca3d5749092",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, ‘사전제작 모듈형 데이터센터’ 공개…AI 팩토리 시장 공략",
+      "link": "https://v.daum.net/v/20260930154600270",
+      "publisher": "v.daum.net",
+      "pubDate": "Wed, 30 Sep 2026 06:46:00 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/30/donga/20260930154602047jimg.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, ‘사전제작 모듈형 데이터센터’ 공개…AI 팩토리 시장 공략",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:32:21.068Z"
+    },
+    {
       "id": "f5bdf64dd09aa98a",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -644,6 +1128,50 @@
       "processedAt": "2026-10-01T00:22:09.808Z"
     },
     {
+      "id": "282a57fc0fc636af",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 싱가포르 데이터센터 박람회서 ‘모듈형 AI 팩토리’ 선봬",
+      "link": "https://biz.chosun.com/it-science/ict/2026/09/30/NR4OHYE3WJDT7BNT6KLL7EUAUA/",
+      "publisher": "biz.chosun.com",
+      "pubDate": "Wed, 30 Sep 2026 01:12:34 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/ZOC4SH3CZFFIXGKLOKVIUT6M6U.jpg?auth=cd7ca734d16d611dd91162f2b79188d73c003de6d3816cb67e85db7406f2edf1&width=1200&height=630&smart=true",
+      "activityType": "전시",
+      "eventDate": "2026년 29일",
+      "location": "싱가포르",
+      "format": "오프라인 박람회 전시",
+      "slogan": null,
+      "keyMessage": "LG CNS가 싱가포르에서 열린 데이터센터 박람회에서 프리패브 모듈형 데이터센터와 AI 팩토리 풀스택 서비스를 공개하고 글로벌 AI 데이터센터 시장 공략에 나섰다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:32:55.139Z"
+    },
+    {
+      "id": "4a409da55729be99",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "2,174억 'K-에듀파인' 고도화, 아이티센엔텍이 삼성SDS·LG CNS 제쳤다",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPbWtpY3V2d3VLOFoyTkYtbmgtWVN5SlAzcjhZZnp6MjJqZ0ZtSk5XMWNyeVpvTG43MlBzU1lERVJFT0hGaXZyOWhyXzQxNUVGNlY4OWZqR1NvZjlGRVN1RE9randEU1NzQTlROFdB?oc=5",
+      "publisher": "조달경제신문",
+      "pubDate": "Wed, 30 Sep 2026 01:12:22 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "2,174억 'K-에듀파인' 고도화, 아이티센엔텍이 삼성SDS·LG CNS 제쳤다",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:30:41.848Z"
+    },
+    {
       "id": "a379e3f1b40fcfde",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -686,6 +1214,28 @@
         "llmNote": null
       },
       "processedAt": "2026-10-01T00:21:50.834Z"
+    },
+    {
+      "id": "b23d68202a89f59f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "컨테이너처럼 AI 데이터센터 짓는다…LG CNS, '모듈형 AI 팩토리' 공개 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/09/30/2026093008284272903",
+      "publisher": "머니투데이",
+      "pubDate": "Wed, 30 Sep 2026 01:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026093008284272903_1.jpg",
+      "activityType": "전시",
+      "eventDate": "29일",
+      "location": "싱가포르",
+      "format": "오프라인 전시",
+      "slogan": null,
+      "keyMessage": "LG CNS가 싱가포르에서 열린 '데이터센터 월드 아시아 2026'에 참가해 프리패브 모듈형 데이터센터(PMDC)와 베라 루빈 기반 AI 팩토리 풀스택 서비스를 공개하고 글로벌 AI 인프라 시장 공략을 본격화한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-02T00:32:13.492Z"
     },
     {
       "id": "5d9fb2cf3cadc49c",
@@ -814,7 +1364,7 @@
       "slogan": null,
       "keyMessage": "SK C&C와 태양기전, 문서 보안 솔루션 구축",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-10-01T00:24:00.145Z"
@@ -2998,6 +3548,28 @@
       "processedAt": "2026-10-01T00:20:48.401Z"
     },
     {
+      "id": "6577e6c1e6f61630",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 공무원용 AI 플랫폼 고도화 사업에 응찰 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20260928100500017",
+      "publisher": "연합뉴스",
+      "pubDate": "Mon, 28 Sep 2026 05:41:45 GMT",
+      "keyVisual": "https://img4.yna.co.kr/photo/cms/2024/07/23/16/PCM20240723000016990_P4.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-09-28",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 65억 원 규모의 범정부 AI 공통기반 2차 고도화 사업에 단독 응찰하며 공공 부문의 AI 전환과 행정 현장 맞춤형 연계 체계 지원을 강화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 활동들이 AI 데이터센터 확장 및 인프라 투자 중심이었던 것과 달리, 공공 부문 B2G AI 고도화 사업 입찰에 직접 단독 참여한 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-10-02T00:30:51.378Z"
+    },
+    {
       "id": "ed3db58296b70e00",
       "company": "컴투스",
       "category": "디지털 금융",
@@ -4796,7 +5368,7 @@
       "slogan": null,
       "keyMessage": "카카오가 추석 명절을 맞아 카카오톡에 AI 기능을 적용하여 이용자들에게 더욱 편리하고 다정한 서비스 경험을 제공하고자 한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-25T23:51:08.251Z"
@@ -4884,7 +5456,7 @@
       "slogan": null,
       "keyMessage": "네이버는 '장보기', 카카오는 '선물하기'…추석에 드러난 커머스 전략",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-24T23:47:41.988Z"
@@ -4950,7 +5522,7 @@
       "slogan": null,
       "keyMessage": "카카오가 수익원 확보와 생태계 강화를 목적으로 멤버십 서비스에 역량을 집중하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 추석 맞이 생활 편의 서비스 안내 중심의 마케팅 활동과 달리, 멤버십 강화를 통한 수익원 확보 및 생태계 확장 전략이 중점적으로 다뤄졌습니다."
       },
       "processedAt": "2026-09-24T23:47:25.002Z"
@@ -4972,7 +5544,7 @@
       "slogan": null,
       "keyMessage": "카카오가 추석 연휴를 맞아 카카오모빌리티의 실시간 교통 정보 및 렌터카 특가 혜택, 카카오 선물하기 기획전 및 카카오페이 할인 등 사용자 편의를 위한 종합 서비스와 프로모션을 제공한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-25T23:50:25.652Z"
@@ -5148,7 +5720,7 @@
       "slogan": null,
       "keyMessage": "명절에도 AI 개발로 분주…SKT·KT·카카오, '모두의 AI' 베타 사활",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-24T23:49:07.652Z"
@@ -5192,7 +5764,7 @@
       "slogan": null,
       "keyMessage": "카카오는 추석 연휴를 맞아 카카오맵을 통한 무료 주차장 및 명절 진료 정보 제공과 함께 카카오톡 선물하기, 예약하기 등 다양한 서비스 할인 프로모션을 진행한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-25T23:50:33.126Z"
