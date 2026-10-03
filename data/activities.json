@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T00:37:36.458Z",
+  "updatedAt": "2026-10-03T00:11:58.013Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,116 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "fad96fa5e46938a7",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-10-03T00:11:35.039Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": "온라인 아티클",
+      "slogan": "금융이 알고 싶을 때, 토스피드",
+      "keyMessage": "토스의 공식 미디어 토스피드가 배우 고아성과의 인터뷰를 통해 불안을 극복하고 자신만의 루틴과 취향을 형성하며 안정감을 찾아가는 삶의 태도를 다루었다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-03T00:11:35.039Z"
+    },
+    {
+      "id": "7350f4b5941c84f9",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-10-03T00:11:23.538Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": "인터뷰 아티클",
+      "slogan": null,
+      "keyMessage": "배우 고아성이 불안을 다루고 자신만의 루틴과 취향을 찾아가는 과정을 이야기하며, 스스로 삶의 주도성을 쟁취해 나가는 삶의 태도와 라이프스타일을 전달합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-03T00:11:23.538Z"
+    },
+    {
+      "id": "1b933977373cae37",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-10-03T00:11:13.787Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "금융이 알고 싶을 때, 토스피드",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-03T00:11:13.787Z"
+    },
+    {
+      "id": "8403f72d469c7e71",
+      "company": "토스",
+      "category": "디지털 금융",
+      "sourceType": "newsroom",
+      "title": "금융이 알고 싶을 때, 토스피드",
+      "link": "https://toss.im/tossfeed",
+      "publisher": "토스",
+      "pubDate": "2026-10-03T00:11:08.980Z",
+      "keyVisual": "https://static.toss.im/illusts/img-og-tossfeed-1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": "온라인 아티클",
+      "slogan": "금융이 알고 싶을 때, 토스피드",
+      "keyMessage": "토스피드 인터뷰를 통해 불안과 안정감, 스스로 라이프스타일과 루틴을 만들어가는 자립과 취향에 대한 솔직한 이야기를 전달합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-03T00:11:08.980Z"
+    },
+    {
+      "id": "61c414313af2b95e",
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "sourceType": "newsroom",
+      "title": "더존ICT그룹",
+      "link": "https://www.douzone.com/media/media_room_read.jsp?id=3461&",
+      "publisher": "더존비즈온",
+      "pubDate": "2026-10-03T00:09:49.460Z",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "더존ICT그룹",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-03T00:09:49.460Z"
+    },
     {
       "id": "3f89fa716395404b",
       "company": "네이버",
@@ -1914,7 +2024,7 @@
       "slogan": null,
       "keyMessage": "카카오엔터, 멜론·베리즈 계정 연동…팬 서비스 확대",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T00:55:00.283Z"
@@ -1936,7 +2046,7 @@
       "slogan": null,
       "keyMessage": "카카오가 인공지능안전연구소와 전략적 업무협약을 체결하고 AI 모델 및 에이전트의 안전성 공동 평가 체계 구축에 나선다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T00:58:13.478Z"
@@ -2024,7 +2134,7 @@
       "slogan": null,
       "keyMessage": "카카오그룹이 KB국민은행과 공동으로 '넥스트 파이낸스 코리아 2026' 콘퍼런스를 개최하고 급변하는 디지털자산 시장의 발전 방향과 네트워크 강화 방안을 논의했다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 AI 전환(AX) 및 IP 캐릭터 확장 중심의 활동과 달리, 시중은행인 KB국민은행과 공동으로 디지털자산 분야의 콘퍼런스를 개최하였다."
       },
       "processedAt": "2026-09-29T00:58:04.880Z"
@@ -2046,7 +2156,7 @@
       "slogan": null,
       "keyMessage": "카카오 AI 에이전트, 외부 안전성 평가 추진…AI안전연구소와 '맞손'",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T00:59:00.974Z"
@@ -2200,7 +2310,7 @@
       "slogan": null,
       "keyMessage": "아시아투데이",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T00:57:00.657Z"
@@ -2266,7 +2376,7 @@
       "slogan": null,
       "keyMessage": "카카오엔터, 멜론과 베리즈 계정 연동…K팝 활동 정보 연계",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T00:56:00.493Z"
@@ -2376,7 +2486,7 @@
       "slogan": null,
       "keyMessage": "카카오, 인공지능안전연구소와 AI 안전성 평가 체계 구축을 위한 MOU 체결",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T01:00:01.845Z"
@@ -3212,7 +3322,7 @@
       "slogan": null,
       "keyMessage": "카카오, CA협의체 공동의장에 김도영… 인적분할 준비",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T01:02:00.423Z"
@@ -3762,7 +3872,7 @@
       "slogan": null,
       "keyMessage": "카카오, CA협의체 공동 의장에 김도영 카카오X 대표 내정자 확정",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T01:01:00.228Z"
@@ -3850,7 +3960,7 @@
       "slogan": null,
       "keyMessage": "[속보]카카오, CA협의체 공동 의장에 김도영 카카오X 대표 내정",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T01:03:00.519Z"
@@ -4268,7 +4378,7 @@
       "slogan": null,
       "keyMessage": "카카오는 이모티콘을 단순 개별 상품에서 캐릭터 IP로 확장하고 창작자와 이용자의 접점을 넓히기 위해 카카오 이모티콘 스토어 내 '콘텐츠탭'을 베타 오픈했다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 AI 에이전트 출시, 유료 구독 및 멤버십 도입, 사법 리스크 등 기업·플랫폼 전략 소식이 주를 이루었던 것과 달리, 이번 활동은 이모티콘 캐릭터 IP 및 창작자 생태계 활성화를 위한 콘텐츠 서비스 개편이라는 점에서 차이가 있다."
       },
       "processedAt": "2026-09-27T23:39:37.133Z"
@@ -4290,7 +4400,7 @@
       "slogan": null,
       "keyMessage": "카카오 임팩트재단이 사회혁신 현장의 AI 전환(AX) 사례를 선보이고 조직용 가이드를 제시했다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-27T23:40:16.282Z"
@@ -4400,7 +4510,7 @@
       "slogan": null,
       "keyMessage": "카카오가 부산역 인근 아스티부산에 '카카오 AI 돛 센터'를 연내 조성하여 동남권 AI 인재 육성, 창업 지원 및 지역 주력 산업의 인공지능 전환(AX)을 추진한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "자사 서비스 출시나 경영 이슈 중심이었던 최근 활동과 달리, 부산 지역에 오프라인 AI 혁신 거점을 구축하여 지역 산업의 AX와 생태계 조성을 지원하는 점에서 차별화된다."
       },
       "processedAt": "2026-09-27T23:39:48.615Z"
@@ -4466,7 +4576,7 @@
       "slogan": null,
       "keyMessage": "뉴스토마토의 등록 정보, 발행일자 및 연락처 등 언론사 기본 정보만 포함되어 있으며 카카오의 마케팅 활동 관련 내용은 없다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-27T23:40:36.723Z"
@@ -4488,7 +4598,7 @@
       "slogan": null,
       "keyMessage": "카카오게임즈 ‘도깨비의세계’, MMORPG 진입장벽 낮춘다…내달 8일 출시",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-27T23:40:12.187Z"
@@ -4532,7 +4642,7 @@
       "slogan": null,
       "keyMessage": "카카오페이가 서울페이플러스 앱 내 서울사랑상품권 구매 수단으로 자사 간편결제 도입을 검토하며 결제 편의성 확대를 추진하고 있다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-27T23:39:54.780Z"
@@ -4686,7 +4796,7 @@
       "slogan": null,
       "keyMessage": "카카오뱅크에서 진행하는 9월 27일자 AI 이모지 퀴즈의 정답 정보를 공유하는 기사이다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-27T23:40:27.317Z"
@@ -4708,7 +4818,7 @@
       "slogan": null,
       "keyMessage": "카카오는 LG그룹과의 협업 및 4800만 카카오톡 이용자 접점을 활용해 예약·결제와 행정 업무까지 처리 가능한 완결형 AI 에이전트 전략을 구체화하고 10월 중순 베타 서비스를 선보일 예정이다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-26T23:23:29.457Z"
@@ -4840,7 +4950,7 @@
       "slogan": null,
       "keyMessage": "카카오 6년 늦은 '유료 구독' 시장 참전, 정신아 커머스 약점 딛고 네이버·쿠팡 따라잡을까",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-26T23:23:35.558Z"
@@ -4862,7 +4972,7 @@
       "slogan": null,
       "keyMessage": "카카오가 카카오톡을 생활 AI 관문으로 삼아 의료 및 금융 분야 서비스 연결을 추진한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-27T23:40:01.025Z"
@@ -4906,7 +5016,7 @@
       "slogan": null,
       "keyMessage": "SM엔터테인먼트 시세조종 혐의로 기소된 카카오 김범수 창업자의 항소심에서 검찰이 징역 15년을 구형했으며 2심 선고 결과는 11월 20일에 나올 예정이다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "서비스 출시 및 이벤트 중심의 기존 활동들과 달리 창업자의 사법 리스크 및 재판 경과를 다룬 언론보도라는 점에서 차이가 있다."
       },
       "processedAt": "2026-09-26T23:23:47.135Z"
@@ -4928,7 +5038,7 @@
       "slogan": null,
       "keyMessage": "카카오, 10월 멤버십 공개…페이가 핵심될까? - 글로벌이코노믹",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-26T23:24:06.704Z"
@@ -4950,7 +5060,7 @@
       "slogan": null,
       "keyMessage": "카카오 임팩트재단이 사회혁신 생태계 지원을 위한 'AX 가이드'를 공개했다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 B2C 서비스 편의 기능 강화나 마케팅 활동과 달리, 사회공헌 재단을 통해 사회혁신 생태계 지원 목적의 AX 가이드를 공개했다는 점에서 차별점이 있다."
       },
       "processedAt": "2026-09-26T23:24:49.732Z"
@@ -5082,7 +5192,7 @@
       "slogan": null,
       "keyMessage": "카카오게임즈가 비수익 모바일 게임 '슴미니즈' 서비스를 종료하고, 선택과 집중 전략에 따라 개발 자원을 연내 신작 프로젝트에 재배치한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 AI 적용 및 통합 멤버십 출시 등 신규 기능 강화 행보와 달리, 비수익 서비스를 정리하고 사업 포트폴리오를 재편하는 구조조정적 내용을 다루고 있다."
       },
       "processedAt": "2026-09-26T23:24:57.166Z"
@@ -5126,7 +5236,7 @@
       "slogan": null,
       "keyMessage": "카카오뱅크 AI 이모지 퀴즈 정답(9월26일)",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-26T23:24:34.682Z"
@@ -5148,7 +5258,7 @@
       "slogan": null,
       "keyMessage": "카카오, 카카오모빌리티 美 ADR 상장 제동…이사회 반대 결의",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-26T23:24:23.912Z"
@@ -5192,7 +5302,7 @@
       "slogan": null,
       "keyMessage": "카카오가 기존 유료 서비스와 새로운 혜택을 연계한 통합 멤버십을 10월에 소규모 선착순 가입 형태로 첫 공개한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-25T23:49:51.316Z"
@@ -5236,7 +5346,7 @@
       "slogan": null,
       "keyMessage": "[IT돋보기] '혜택 늘리고 신규 서비스 도입' 네이버 VS 카카오 멤버십 격돌",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-26T23:24:17.398Z"
@@ -5258,7 +5368,7 @@
       "slogan": null,
       "keyMessage": "카톡·전화로 누리는 '모두의 AI'…공공·의료·금융에 초점",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-25T23:50:01.117Z"
@@ -5280,7 +5390,7 @@
       "slogan": null,
       "keyMessage": "카카오모빌리티는 추석 연휴를 맞아 카카오내비에서 실시간 CCTV 영상 확인, 최적 경로 추천 이유 안내, 운전 점수 기능 등 귀성·귀경길 운전자를 위한 편의 기능을 강화했다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-25T23:50:07.241Z"
@@ -5346,7 +5456,7 @@
       "slogan": null,
       "keyMessage": "캐릭터 입고 달린다…카카오·데브·디즈니, ‘IP 러닝’ 봇물",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-25T23:50:12.726Z"
