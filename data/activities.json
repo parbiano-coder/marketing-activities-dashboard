@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T00:00:29.648Z",
+  "updatedAt": "2026-10-10T00:31:34.654Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,336 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "b86b3fa02f43f196",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI 다음 먹거리 찾는 LG CNS…디지털자산 플랫폼 강화",
+      "link": "https://www.sentv.co.kr/article/view/sentv202610080134",
+      "publisher": "서울경제TV",
+      "pubDate": "Fri, 09 Oct 2026 23:00:05 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/10/08/sentv20261008000095.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 자체 블록체인 인프라 플랫폼 '기틀'을 고도화하고 글로벌 기업들과의 협력을 확대하여 디지털자산 사업을 새로운 성장동력으로 육성하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 금융 IT 시스템 수주 및 AI 영역 중심 활동에서 벗어나 블록체인 기반 디지털자산 인프라 플랫폼 사업을 신성장 동력으로 본격화하는 점이 돋보입니다."
+      },
+      "processedAt": "2026-10-10T00:30:43.031Z"
+    },
+    {
+      "id": "095ed164d3eb2609",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "지연 프로젝트 재개에 클라우드 고성장…삼성SDS 실적 기대감",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno",
+      "publisher": "핀포인트뉴스",
+      "pubDate": "Fri, 09 Oct 2026 01:16:24 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "지연되었던 프로젝트 재개와 클라우드 분야의 고성장에 힘입어 삼성SDS의 실적 개선 기대감이 높아지고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-10T00:30:04.418Z"
+    },
+    {
+      "id": "49c905a17a62ebdd",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'삼성SDS 5종&middot;네이버클라우드 6종'⋯정부 '공무원용 AI' LLM 모델 살펴보니",
+      "link": "http://www.inews24.com/view/2013271",
+      "publisher": "아이뉴스24",
+      "pubDate": "Thu, 08 Oct 2026 08:47:08 GMT",
+      "keyVisual": "https://image.inews24.com/v1/1791e2d3d90ba1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 정부의 '범정부 초거대 AI 공통기반' 사업에 자사 AI 플랫폼 '패브릭스'로 참여하여 다양한 업무에 적합한 5종의 국내외 LLM을 탑재하고 제공 중인 것으로 확인됐다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-10T00:28:57.296Z"
+    },
+    {
+      "id": "2d89b200be47db57",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“AI 인프라 수주 봇물…삼성SDS, 단순 IT서비스 넘어 ‘AI 데이터센터 거물’로”",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hallTWjhPU1EwbkM0d2EyU0xON0FpR1NkNlE3WW10elhoTVdTdll3U0k2cjZoR09wMjdMdS1WQnM4S1VaeW9GTXlTM1JoTlZsR2w4Z21aQllKMFJfbkhvLXI0R00yN1pOUExZTllXYw?oc=5",
+      "publisher": "뉴스퀘스트",
+      "pubDate": "Thu, 08 Oct 2026 06:09:29 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI 인프라 수주 호조에 힘입어 기존 IT 서비스를 넘어 AI 데이터센터 전문 기업으로 사업 영역을 확장하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 투자 및 M&A 행보에 이어 AI 인프라 수주 및 데이터센터 사업자로서의 구체적인 가시적 성과가 강조되었습니다."
+      },
+      "processedAt": "2026-10-10T00:30:23.873Z"
+    },
+    {
+      "id": "8838cbdd248b4f45",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 伊 CPHI서 '제약 스마트팩토리' 3대 특화 솔루션 제시…글로벌 제조 AX 속도",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XenJhSEoyZnFwcHA0Z01yUW5LblhGY2xVVkFmMnk5X1ZpNEczSGNITllDeFdRUjVHdzdMM0VZbmxlTEdZRUd6NElrY2dRNEh2eWJMekdvMlJvZ01Mamc?oc=5",
+      "publisher": "더구루",
+      "pubDate": "Thu, 08 Oct 2026 01:35:45 GMT",
+      "keyVisual": null,
+      "activityType": "전시",
+      "eventDate": null,
+      "location": "이탈리아",
+      "format": "오프라인 전시",
+      "slogan": null,
+      "keyMessage": "LG CNS가 이탈리아 CPHI에서 제약 스마트팩토리 3대 특화 솔루션을 제시하며 글로벌 제조 AX 진출에 속도를 내고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 국내 금융·공공 수주 및 AI 파트너십 중심의 활동과 달리 이탈리아 해외 전시회에 참가하여 제약 스마트팩토리 분야의 글로벌 제조 AX 시장 공략을 추진하는 점이 이례적입니다."
+      },
+      "processedAt": "2026-10-10T00:31:05.736Z"
+    },
+    {
+      "id": "910edd85381a1a85",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[현장+] 삼성SDS, 레인보우 로봇에 미라콤 SW 탑재…'팀 RX’ 역할분담 구체화",
+      "link": "https://www.greened.kr/news/articleView.html?idxno",
+      "publisher": "녹색경제신문",
+      "pubDate": "Wed, 07 Oct 2026 07:19:55 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 레인보우 로보틱스 로봇에 미라콤의 소프트웨어를 탑재하며 '팀 RX' 내 역할 분담을 구체화했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 및 M&A 중심 활동과 달리 로봇 플랫폼과 자회사 SW를 결합한 '팀 RX' 협력 생태계를 구체화하고 있습니다."
+      },
+      "processedAt": "2026-10-10T00:29:05.072Z"
+    },
+    {
+      "id": "2bb94062e3bc10f2",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[WIKI 현장] 삼성SDS, AI 인프라에서 로봇까지…AX 영역 제조 현장으로 넓힌다",
+      "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno",
+      "publisher": "위키리크스한국",
+      "pubDate": "Wed, 07 Oct 2026 06:59:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI 인프라부터 로봇 기술까지 활용하며 인공지능 전환(AX) 영역을 제조 현장으로 확장하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-10T00:30:13.262Z"
+    },
+    {
+      "id": "3348a85b158422df",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LS \"삼성SDS, 생성AIㆍ클라우드 성장 본격화⋯4분기부터 재평가 기대\"",
+      "link": "https://www.etoday.co.kr/news/view/2633111",
+      "publisher": "이투데이",
+      "pubDate": "Tue, 06 Oct 2026 23:08:00 GMT",
+      "keyVisual": "https://img.etoday.co.kr/pto_db/2026/10/20261007080126_2397985_578_290.png",
+      "activityType": "언론보도",
+      "eventDate": "2026-10-07",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 클라우드 매출 성장과 앤트로픽 파트너십을 통한 생성AI 서비스 확대, 데이터센터 인프라 투자를 바탕으로 4분기부터 본격적인 실적 회복과 재평가를 받을 것으로 전망된다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-10T00:29:20.982Z"
+    },
+    {
+      "id": "5f6485d7517a2c4c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[N2 포커스] 3814억 베팅한 LG CNS…AI 팩토리로 체질 전환",
+      "link": "https://www.news2day.co.kr/article/20261006500255",
+      "publisher": "뉴스투데이",
+      "pubDate": "Tue, 06 Oct 2026 21:42:27 GMT",
+      "keyVisual": "https://cdn.news2day.co.kr/data2/content/image/2026/10/06/.cache/512/20261006500232.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 전통적인 SI 구축 사업에서 벗어나 대규모 GPU 투자, 모듈형 데이터센터, 블록체인 플랫폼 등 자체 인프라와 플랫폼을 확보하여 반복 매출 중심 구조로 사업 체질을 전환하고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "단순 시스템 수주나 개별 협약 소식 위주의 기존 활동과 달리, 3천억 원 대의 대규모 직접 투자와 자체 인프라·플랫폼 구축을 통한 전면적인 사업 체질 전환을 부각하고 있다."
+      },
+      "processedAt": "2026-10-10T00:30:50.113Z"
+    },
+    {
+      "id": "a28d974436683455",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Tue, 06 Oct 2026 04:52:10 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문에 삼성SDS의 마케팅 및 기업 활동 관련 내용이 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-10T00:28:39.919Z"
+    },
+    {
+      "id": "29e19f9af2855360",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성 계열사, 노조와 각개전투…'인사' 컨트롤타워 안보인다",
+      "link": "https://www.investchosun.com/site/data/html_dir/2026/10/05/2026100580062.html",
+      "publisher": "인베스트조선",
+      "pubDate": "Tue, 06 Oct 2026 03:22:54 GMT",
+      "keyVisual": "https://img.investchosun.com/site/data/img_dir/2026/10/05/2026100580062_0.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 성과급 체계 개편 실패와 노조 설립 등 삼성 그룹 전반의 노사 갈등 및 인사 컨트롤타워 부재 리스크를 조명하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 투자, M&A 등 기술·사업 성과 중심의 소식과 달리 내부 성과급 체계 개편 및 노사 갈등 이슈를 다루고 있다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-10-10T00:28:51.797Z"
+    },
+    {
+      "id": "8b749098be13f1e9",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "행안부, 공공기관 클라우드 전환 지원…네이버·삼성SDS 등 6개사 비교",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ORkhRbkhKUE94M1NoR1ZjZzVPdU9GWkhITHVSQV9USjluUHBPcXk5NGlBQmtCazhkNGloRUtmS0loQlg0c3RfaWcxOFgtVVNQQXRYSFNWcm5RWHlkZkJv?oc=5",
+      "publisher": "뉴스1",
+      "pubDate": "Tue, 06 Oct 2026 03:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "행정안전부가 공공기관의 클라우드 전환 지원을 위해 삼성SDS를 비롯한 6개 사업자를 비교 검토합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-10T00:29:12.366Z"
+    },
+    {
+      "id": "4215cd1433e0359e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "행정·공공기관 민간 클라우드 선택 돕는다…네이버·삼성SDS 등 6개사 참여",
+      "link": "https://www.newspim.com/news/view/20261006000296",
+      "publisher": "뉴스핌",
+      "pubDate": "Tue, 06 Oct 2026 03:00:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2024/05/22/2405221512177830_t1.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "12일",
+      "location": "서울 명동 포스트타워",
+      "format": "설명회 및 기술상담부스 운영",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 행정안전부 주관 CSP별 서비스 설명회에 참여하여 행정·공공기관을 대상으로 클라우드 서비스 소개 및 맞춤형 기술 상담을 진행한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-10T00:30:32.302Z"
+    },
+    {
+      "id": "a21b5725b12d40cb",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 디지털자산 블록체인 인프라 플랫폼 '기틀' 출시 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261006027000017",
+      "publisher": "연합뉴스",
+      "pubDate": "Tue, 06 Oct 2026 01:00:04 GMT",
+      "keyVisual": "https://img9.yna.co.kr/etc/inner/KR/2026/10/06/AKR20261006027000017_01_i_P4.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "2026-10-06",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 금융기관의 디지털자산 서비스 구축을 지원하는 블록체인 인프라 플랫폼 '기틀(KITL)'을 출시하고 글로벌 블록체인 기업 5곳과 파트너십을 체결했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 금융 IT 사업 수주나 AI 파트너십 위주의 활동과 달리, 디지털자산 시장을 겨냥해 직접 블록체인 인프라 플랫폼을 출시하고 글로벌 블록체인 재단들과 직접적인 협력을 추진했다는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-10-10T00:31:14.203Z"
+    },
+    {
+      "id": "3b71f761df6721a3",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "스테이블코인·STO 인프라 하나로…LG CNS, '기틀' 출시",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQeXloWGhMNWRuVnkyTHVUWGNNZ0pNeGxhcUdsZ0xMRng3d3d4em1kUGlUX29DSmk0eFMtcThLWVpBbllGZWdWNFl1YVE1SEgydFVaT0JiakFwd2x5VnBWZGp5X0szbklE?oc=5",
+      "publisher": "뉴스1",
+      "pubDate": "Tue, 06 Oct 2026 01:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 스테이블코인과 STO 인프라를 하나로 통합하는 디지털 자산 플랫폼 '기틀'을 출시했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 SI 수주 및 AI 파트너십 중심의 활동과 달리, 스테이블코인과 STO 인프라 관련 자체 신규 솔루션을 직접 출시했다는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-10-10T00:31:21.376Z"
+    },
     {
       "id": "e74fb237e8d3c95a",
       "company": "네이버",
@@ -594,7 +924,7 @@
       "slogan": null,
       "keyMessage": "비개발자도 AI 에이전트 '뚝딱'…SK AX, '부트캠프 바이브' 출시",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-02T00:33:00.741Z"
@@ -616,7 +946,7 @@
       "slogan": null,
       "keyMessage": "SK AX, 비개발자 대상 AI에이전트 교육 ‘부트캠프 바이브’ 출시",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-02T00:33:41.989Z"
@@ -682,7 +1012,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 비개발자도 직접 AI 에이전트를 만들 수 있는 '부트캠프 바이브' 서비스를 출시했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-02T00:33:18.986Z"
@@ -726,7 +1056,7 @@
       "slogan": null,
       "keyMessage": "SK AX \"코딩 몰라도 AI 에이전트 만든다\" 바이브코딩 부트캠프 출시",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-02T00:35:03.472Z"
@@ -748,7 +1078,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 코딩 지식이 없어도 AI 에이전트를 개발할 수 있는 교육 서비스 'AI 부트캠프 바이브'를 출시했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-02T00:33:26.536Z"
@@ -836,7 +1166,7 @@
       "slogan": null,
       "keyMessage": "제공된 본문은 지디넷코리아의 뉴스레터 구독 신청 및 매체 정보만 포함하고 있어 SK AX의 마케팅 활동 정보를 확인하기 어렵습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-02T00:33:12.823Z"
@@ -880,7 +1210,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 비개발자를 위한 AI 에이전트 교육 프로그램을 출시했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-02T00:33:34.630Z"
@@ -924,7 +1254,7 @@
       "slogan": null,
       "keyMessage": "코딩 몰라도 AI 에이전트 만든다…SK AX, 'AI 부트캠프 바이브' 출시 - 머니투데이",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-02T00:34:00.494Z"
@@ -946,7 +1276,7 @@
       "slogan": null,
       "keyMessage": "SK AX는 누구나 AI 기술을 활용해 업무를 증강할 수 있도록 '부트캠프 바이브'를 기반으로 업무혁신 생태계를 조성하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-02T00:33:53.456Z"
@@ -1034,7 +1364,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 바이브 코딩 교육 프로그램인 'AI 부트캠프 바이브'를 출시했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-03T23:33:21.193Z"
@@ -1078,7 +1408,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 누구나 AI 에이전트를 만들 수 있는 '바이브코딩' 교육 서비스를 출시했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존 B2B 제조·물류 AI 및 로봇 전환(RX) 중심의 사업 활동과 달리 AI 에이전트 제작 관련 교육 서비스를 새롭게 출시했습니다."
       },
       "processedAt": "2026-10-01T00:23:12.563Z"
@@ -1100,7 +1430,7 @@
       "slogan": null,
       "keyMessage": "코딩 몰라도 AI 에이전트 만든다…SK AX, 실무형 교육 프로그램 출시",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-01T00:22:50.318Z"
@@ -1122,7 +1452,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 코딩 지식이 없어도 직접 AI 에이전트를 만들 수 있도록 돕는 실무형 교육 프로그램을 출시했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-03T23:33:03.717Z"
@@ -1166,7 +1496,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 AI 에이전트 개발 지원을 위한 바이브코딩 교육 서비스를 출시했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 제조·물류 AI 및 로봇 전환(RX) 등 B2B 솔루션 중심 활동과 달리 AI 에이전트 개발 지원을 위한 교육 서비스를 새롭게 선보였습니다."
       },
       "processedAt": "2026-10-01T00:23:35.857Z"
@@ -1188,7 +1518,7 @@
       "slogan": null,
       "keyMessage": "SK AX, ‘AI 부트캠프 바이브’ 출시…비개발자도 AI 에이전트 만든다",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-01T00:23:17.664Z"
@@ -1210,7 +1540,7 @@
       "slogan": null,
       "keyMessage": "SK AX, 일반 직원용 ‘AI 부트캠프 바이브’ 출시…직접 AI 에이전트 만든다",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-01T00:22:46.699Z"
@@ -1232,7 +1562,7 @@
       "slogan": null,
       "keyMessage": "엠브릭스의 체내 CAR-T 구현, 한미약품의 비만 신약 개발, 레메디의 인도네시아 생산체계 구축 등 제약·바이오 및 의료 분야 기업들의 최신 동향을 다룬 기사입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존 IT 서비스 및 AI·로봇 전환(RX) 중심의 활동과 달리 제약·바이오 기업 관련 언론보도로 구성되어 있습니다."
       },
       "processedAt": "2026-10-01T00:23:03.938Z"
@@ -1276,7 +1606,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 'AI 부트캠프 바이브' 교육 서비스를 출시했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 제조·물류 AI 및 로봇 전환(RX) 사업 영역과 달리 AI 교육 서비스를 새롭게 선보인 점이 눈에 띕니다."
       },
       "processedAt": "2026-10-01T00:23:28.686Z"
@@ -1298,7 +1628,7 @@
       "slogan": null,
       "keyMessage": "SK AX는 코딩 지식이 없는 일반 임직원도 자연어로 AI 에이전트를 직접 개발해 업무 생산성을 높일 수 있는 교육 프로그램 'AI 부트캠프 바이브'를 출시했다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 제조·물류 AI 및 로봇 전환(RX) 등 기술 사업 확장에 집중하던 활동과 달리, 일반 직군 대상의 AI 에이전트 개발 교육 서비스를 새롭게 선보였다는 점이 특징입니다."
       },
       "processedAt": "2026-10-01T00:22:40.084Z"
@@ -1320,7 +1650,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 코딩 지식 없이도 비개발자가 직접 AI 에이전트를 개발하고 업무에 활용할 수 있도록 돕는 교육 프로그램 'AI 부트캠프 바이브'를 출시했다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-03T23:33:12.045Z"
@@ -1936,7 +2266,7 @@
       "slogan": null,
       "keyMessage": "SK C&C와 태양기전, 문서 보안 솔루션 구축",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-01T00:24:00.145Z"
@@ -3300,7 +3630,7 @@
       "slogan": null,
       "keyMessage": "한글과컴퓨터재단, 출범 첫 공식 행사 '다문화 어울림 캠프' 개최",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T01:20:00.930Z"
@@ -3498,7 +3828,7 @@
       "slogan": null,
       "keyMessage": "다문화 청소년 30명에 3000만원 장학금···한컴재단, 가족 캠프 연다",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T01:16:00.420Z"
@@ -4004,7 +4334,7 @@
       "slogan": null,
       "keyMessage": "한컴재단, 12개국 다문화가족 한자리에…“한글과 하나되는 캠프”",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T01:15:00.375Z"
@@ -4026,7 +4356,7 @@
       "slogan": null,
       "keyMessage": "한글과컴퓨터재단, 첫 공식 행사로 ‘다문화 어울림 캠프’ 개최",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T01:17:00.533Z"
@@ -4378,7 +4708,7 @@
       "slogan": null,
       "keyMessage": "[Tech & Now] 한글과컴퓨터재단, 첫 행사 '다문화 어울림 캠프' 개최 등",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T01:19:00.759Z"
@@ -4466,7 +4796,7 @@
       "slogan": null,
       "keyMessage": "한글과컴퓨터재단, 우리문화지킴이와 '다문화 어울림 캠프' 개최",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T01:18:00.675Z"
@@ -4510,7 +4840,7 @@
       "slogan": null,
       "keyMessage": "한글과컴퓨터재단, '다문화 어울림 캠프' 개최",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T01:13:01.029Z"
@@ -4532,7 +4862,7 @@
       "slogan": null,
       "keyMessage": "한글과컴퓨터재단, '다문화 어울림 캠프' 개최",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T01:22:00.150Z"
@@ -4664,7 +4994,7 @@
       "slogan": null,
       "keyMessage": "한글과컴퓨터재단, 첫 행사로 다문화 캠프 연다",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T01:21:01.026Z"
@@ -4708,7 +5038,7 @@
       "slogan": null,
       "keyMessage": "12개국 가족, '한글'로 어울린다…한컴재단 첫 행사는 다문화 캠프 - 머니투데이",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-09-29T01:14:00.186Z"
