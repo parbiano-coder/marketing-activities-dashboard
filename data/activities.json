@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T00:31:34.654Z",
+  "updatedAt": "2026-10-17T00:00:28.789Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,446 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "008ed65b7719a7ab",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "홍라희, 삼성SDS 지분 전량 처분…이재용 지분율은 9.2% 유지",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Fri, 16 Oct 2026 09:35:02 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "홍라희 전 관장이 삼성SDS 지분을 전량 처분했으나 이재용 삼성전자 회장의 지분율은 9.2%로 유지되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 사업 및 기술 성과 중심의 활동 소식들과 달리 주요 주주의 지분 변동에 관한 재무·지배구조 관련 보도라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-10-16T23:14:31.756Z"
+    },
+    {
+      "id": "bfef31ac168e64b2",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“KB·농협 등 금융 수주 물꼬 트인 LG CNS, AI 타고 3분기 실적 반등 나선다”",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91S2MtUnVOUUFSQTlnTFAycS1mU05kTHBUZ0k0MTVuM2paVm5kSXRkdFV4SjNJdTNEVmlCQXc1bHFTQWU2QlNwYllIajlHNGY2eHN0T3JXOWEybkUyU0cwa01vdjl3dGpiYXk3c0Facw?oc=5",
+      "publisher": "뉴스퀘스트",
+      "pubDate": "Fri, 16 Oct 2026 07:20:58 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 KB국민은행, 농협 등 금융권 수주 실적과 AI 사업 확대를 바탕으로 3분기 실적 반등을 모색하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:16:30.828Z"
+    },
+    {
+      "id": "e35abea3b42e1704",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "NH농협생명, LG CNS와 보험업무 AI 적용 방안 모색",
+      "link": "https://www.viva100.com/article/20261016500643",
+      "publisher": "브릿지경제",
+      "pubDate": "Fri, 16 Oct 2026 07:12:00 GMT",
+      "keyVisual": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/10/16/.cache/512/20261016500641.jpg?v=20261017081548",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "16일",
+      "location": "LG CNS 본사",
+      "format": "워크숍",
+      "slogan": null,
+      "keyMessage": "LG CNS가 NH농협생명 임직원들과 함께 고객서비스, 정보보호, 광고심의 등 보험업무에 AI를 적용하기 위한 'AX 디스커버리 워크숍'을 열고 실무 과제를 발굴했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:15:58.169Z"
+    },
+    {
+      "id": "49bc8ee89d679caa",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "NH농협생명, LG CNS와 AI 업무혁신 모색…활용과제 발굴",
+      "link": "https://www.newsis.com/view/NISX20261016_0003829272",
+      "publisher": "뉴시스",
+      "pubDate": "Fri, 16 Oct 2026 06:31:48 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/10/16/NISI20261016_0002265589_web.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "NH농협생명, LG CNS와 AI 업무혁신 모색…활용과제 발굴",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:16:12.972Z"
+    },
+    {
+      "id": "8b46ab4ec87ec262",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "Riggers Fall in San Diego - Calgary Roughnecks",
+      "link": "https://www.calgaryroughnecks.com/riggers-fall-in-san-diego-2/?ID",
+      "publisher": "Calgary Roughnecks",
+      "pubDate": "Fri, 16 Oct 2026 06:28:05 GMT",
+      "keyVisual": "https://www.calgaryroughnecks.com/wp-content/uploads/2023/12/20230408_68_PACE_CGY_vs_PC_ROU30209_AB.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "Riggers Fall in San Diego - Calgary Roughnecks",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:15:12.238Z"
+    },
+    {
+      "id": "cfebdb71b5f799f9",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "HD현대일렉트릭, LG CNS와 데이터센터 제조 협력 '맞손'",
+      "link": "https://www.etnews.com/20261016000169",
+      "publisher": "전자신문",
+      "pubDate": "Fri, 16 Oct 2026 04:19:51 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/10/16/news-p.v1.20261016.8c412acd87484c5a89f16a354cd2aae6_P1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "15일",
+      "location": "경기도 성남시 HD현대 글로벌 R&D센터",
+      "format": "업무협약 체결식",
+      "slogan": null,
+      "keyMessage": "LG CNS가 HD현대일렉트릭과 업무협약을 체결하고 데이터센터 전력 인프라 시장 공동 공략 및 스마트팩토리 고도화를 위한 기술 협력을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:15:47.265Z"
+    },
+    {
+      "id": "3459f7bd0a853328",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“데이터센터 보고 네이버 담은 분들, 탈출하세요”…노무라가 꼽은 톱픽은",
+      "link": "https://stock.mk.co.kr/news/view/1175815",
+      "publisher": "매일경제 마켓",
+      "pubDate": "Fri, 16 Oct 2026 02:23:08 GMT",
+      "keyVisual": "https://wimg.mk.co.kr/news/cms/202610/16/news-p.v1.20260628.b3899676595f4de29c7825b9dddc9427_P1.jpeg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "노무라증권이 한국 AI 데이터센터 시장에서 삼성SDS를 계열사 수요 및 사업 경쟁력을 바탕으로 최선호 종목으로 선정하고 목표주가 25만원을 제시했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:14:55.406Z"
+    },
+    {
+      "id": "62010e859549733c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "NH농협생명, LG CNS와 'AX Discovery 워크숍' 진행",
+      "link": "https://www.dtoday.co.kr/news/articleView.html?idxno",
+      "publisher": "일간투데이",
+      "pubDate": "Fri, 16 Oct 2026 01:15:50 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": "워크숍",
+      "slogan": null,
+      "keyMessage": "LG CNS가 NH농협생명과 함께 AX(인공지능 전환) 기회를 발굴하기 위한 'AX Discovery 워크숍'을 진행했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 블록체인 및 디지털 자산 인프라 관련 활동 위주에서 벗어나 금융 고객사를 대상으로 AX(AI 전환) 기회를 발굴하는 워크숍을 진행했습니다."
+      },
+      "processedAt": "2026-10-16T23:16:05.614Z"
+    },
+    {
+      "id": "bf1c52ce26f4dc18",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[피지컬 AI 생태계] LG CNS·리얼월드가 키우는 '로봇의 뇌'",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Thu, 15 Oct 2026 09:14:54 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 리얼월드와 협력하여 피지컬 AI 생태계를 구축하고 로봇의 뇌 분야 기술을 육성하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 블록체인 플랫폼 및 제약 스마트팩토리 중심 활동과 달리 피지컬 AI 및 로봇 기술 생태계 육성을 다루고 있다는 점이 특징입니다."
+      },
+      "processedAt": "2026-10-16T23:15:32.387Z"
+    },
+    {
+      "id": "f9b01c4a836cf876",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 2910억원 규모 새마을금고 금융시스템 최신화 사업 수주",
+      "link": "https://biz.chosun.com/it-science/ict/2026/10/15/6QDBDKRF65GXXILABUT7YUOBWY/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Thu, 15 Oct 2026 09:03:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/ANHQ2ULJYZFC7GLYVDHOIF3GUQ.jpg?auth=c881b2178cce60f7ef840fe1d9fa5b08c5f68203da9ae608f8a3d38262e46365&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 새마을금고중앙회와 2910억 원 규모의 계정계 최신화 구축 본계약을 체결하며 대형 금융 IT 시스템 현대화 사업 수주를 확정했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 블록체인 플랫폼이나 AI·GPU 인프라 등 신사업 중심의 활동과 달리, 2900억 원 규모의 대형 전통 금융 계정계 SI 사업 수주 소식입니다."
+      },
+      "processedAt": "2026-10-16T23:16:22.592Z"
+    },
+    {
+      "id": "b5c667d5e05eebc0",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] LG CNS, 앤트로픽 韓 최고 AI 파트너 됐다",
+      "link": "https://www.hankyung.com/article/2026101421871",
+      "publisher": "한국경제",
+      "pubDate": "Wed, 14 Oct 2026 09:32:38 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202610/AA.46054677.1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[단독] LG CNS, 앤트로픽 韓 최고 AI 파트너 됐다",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:15:36.627Z"
+    },
+    {
+      "id": "062b551ab9307cc1",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "GC녹십자, LG CNS와 AI 스마트팩토리 구축…“2030년까지 생산 자동화”",
+      "link": "https://www.sedaily.com/article/20101496",
+      "publisher": "서울경제",
+      "pubDate": "Wed, 14 Oct 2026 05:29:55 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/10/14/news-p.v1.20261014.9787822556044bd0a19254d748a5029a_Z1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "GC녹십자, LG CNS와 AI 스마트팩토리 구축…“2030년까지 생산 자동화”",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:16:35.303Z"
+    },
+    {
+      "id": "9a0b8381a0c59c46",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“그냥 검색만 할게요”…네이버·카카오에 AI 끄는 법 물었더니",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yWGR1V1RDXzdpc19DQ1k2N05xQnF6MXN0QWl3OWE5eWFfWUV6UGpJcUF6QU14ZjlCMHpJMThVYVRDRXpINTZ1Y1N5Q3BoNzZRbWg1UFhmc095R3c?oc=5",
+      "publisher": "에너지경제신문",
+      "pubDate": "Wed, 14 Oct 2026 04:36:43 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버와 카카오의 AI 검색 도입에 대해 AI 기능을 끄는 방법을 문의하는 등 기존 검색 방식을 선호하는 사용자들의 반응을 다룬 언론보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 글로벌 AX 확장 및 B2C 슈퍼앱 추진 등 적극적인 AI 서비스 확대 행보와 달리 사용자의 서비스 거부감 및 비활성화 요구라는 부정적 피드백을 조명하고 있습니다."
+      },
+      "processedAt": "2026-10-17T00:00:13.933Z"
+    },
+    {
+      "id": "4cfc5da4b13bf7b7",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 클라우드 분기 매출 8000억 첫 돌파 전망",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Vcjdjb01Fc0dIU1I1aVpZSXFMdjBEc3NmbXhFSDBXXzFpSzZZOXpDRy1OaGtsX04tTGJTUEctdzZSeGViTkM2X3NFR3I4Vkpoc3pIdGJyNnhNRDVvYVR4b015aWE2Zw?oc=5",
+      "publisher": "디일렉",
+      "pubDate": "Wed, 14 Oct 2026 04:02:52 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 클라우드 분기 매출이 처음으로 8000억 원을 돌파할 것으로 전망됩니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:14:46.151Z"
+    },
+    {
+      "id": "02e3afd2eb970568",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, KDDI와 손잡고 아태지역 AX 시장 공략 '본격화'",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kSGdNWUx2SEtSMFRHYmZGNnAwXzZuOGd4a2lxYmVWNFByRVZJOTcyWEdaVVFfSS1Yb29ScEg5cXVwRDJBdi0wNXE2Zl9aWGhRal9sNEhWdVdPeXpZa0F3OTZmSFI?oc=5",
+      "publisher": "매일일보",
+      "pubDate": "Wed, 14 Oct 2026 01:16:40 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 KDDI와 협력하여 아시아·태평양 지역의 AX(AI 전환) 시장 공략을 본격화합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:16:45.418Z"
+    },
+    {
+      "id": "276634ae62791f8b",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "Media - Calgary Roughnecks",
+      "link": "https://www.calgaryroughnecks.com/media/?ID",
+      "publisher": "Calgary Roughnecks",
+      "pubDate": "Tue, 13 Oct 2026 15:45:28 GMT",
+      "keyVisual": "https://www.calgaryroughnecks.com/wp-content/uploads/2017/11/20170429_FIELD_LOGO_ROU80525MS.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "Calgary Roughnecks 구단의 티켓, 일정 및 구단 소식을 안내하는 웹페이지 정보입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 SK AX의 AI 에이전트 서비스 출시 활동과 달리 해외 스포츠 구단 페이지 내용으로 회사 사업과 관련이 없습니다."
+      },
+      "processedAt": "2026-10-16T23:16:54.953Z"
+    },
+    {
+      "id": "7a0e105143797c36",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "에이전틱 AI는 평준화 되지만, 기업의 운영 역량은 평준화되지 않는다 | 인사이트리포트 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/insights/agentic-ai-enterprise-operational-capability.html",
+      "publisher": "Samsung SDS",
+      "pubDate": "Mon, 12 Oct 2026 06:54:41 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/10/12/thumb_1012.png?queryString=20261015095451",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "에이전틱 AI는 평준화 되지만, 기업의 운영 역량은 평준화되지 않는다 | 인사이트리포트 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:15:03.388Z"
+    },
+    {
+      "id": "47d8a8edf090f058",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 우정항공 인수한 이유…“항공화물사업 직접 진출”",
+      "link": "https://www.klnews.co.kr/news/articleView.html?idxno",
+      "publisher": "물류신문",
+      "pubDate": "Mon, 12 Oct 2026 05:27:48 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, 우정항공 인수한 이유…“항공화물사업 직접 진출”",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:14:35.492Z"
+    },
+    {
+      "id": "76f8342e230d7c20",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 항공물류업체 '우정항공' 인수 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261012026200017",
+      "publisher": "연합뉴스",
+      "pubDate": "Sun, 11 Oct 2026 23:55:03 GMT",
+      "keyVisual": "https://img4.yna.co.kr/photo/cms/2024/07/23/16/PCM20240723000016990_P4.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026년 10월 12일",
+      "location": null,
+      "format": "주식양수도계약 체결",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 항공운송 물류 전문기업 우정항공 지분 100%를 인수하며 글로벌 디지털 물류 플랫폼 첼로스퀘어와 연계한 항공 포워딩 사업 경쟁력을 한층 강화합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 활동들이 주로 AI 및 클라우드 분야 IT 서비스 확장에 집중되었던 것과 달리, 물류 분야 기업 인수(M&A)를 통한 사업 경쟁력 강화라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-10-16T23:14:24.555Z"
+    },
+    {
+      "id": "b9473272be768471",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI 깔았는데, 돈은 벌었나···삼성SDS·LG CNS·SK AX, '성과'로 승부",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yX0M2MndfMXhXZ0EtakpqZE5HSWx6U0t3TnpnZWUzTEdVRDFselVRXzJ3QTRiUW9lS0o2amlPNXpKWDdlbjJ0REhqMGxIOG00ODFPemhidEFKUkFIeFo0UHB4eVE2N3NjTnc?oc=5",
+      "publisher": "뉴스웨이",
+      "pubDate": "Sat, 10 Oct 2026 22:09:15 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, LG CNS, SK AX 등 IT 서비스 기업들이 AI 도입에서 더 나아가 실질적인 성과 창출을 목표로 경쟁하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "자사 제품 출시 위주의 최근 활동과 달리 경쟁사들과 함께 AI 사업의 실질적 성과를 다룬 언론보도입니다."
+      },
+      "processedAt": "2026-10-16T23:17:01.295Z"
+    },
     {
       "id": "b86b3fa02f43f196",
       "company": "LG CNS",
@@ -644,6 +1084,28 @@
       "processedAt": "2026-10-03T23:30:30.011Z"
     },
     {
+      "id": "abfacee2030338ed",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 초보도 만드는 ‘AI 부트캠프 바이브’ 출시",
+      "link": "https://biz.heraldcorp.com/article/10891680",
+      "publisher": "헤럴드경제",
+      "pubDate": "Fri, 02 Oct 2026 07:00:00 GMT",
+      "keyVisual": "https://wimg.heraldcorp.com/news/cms/2026/10/02/news-p.v1.20261002.166b23d872024583abc44cfeeacdb5d1_P1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX, 초보도 만드는 ‘AI 부트캠프 바이브’ 출시",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-17T00:00:02.962Z"
+    },
+    {
       "id": "f090e4aefa3cbbd4",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -1040,6 +1502,28 @@
       "processedAt": "2026-10-02T00:30:30.330Z"
     },
     {
+      "id": "ec86e182dfbe87bd",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "코딩 몰라도 AI 에이전트 만든다…SK AX, 'AI 부트캠프 바이브' 출시 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/10/01/2026100110373185404",
+      "publisher": "머니투데이",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026100110373185404_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "코딩 몰라도 AI 에이전트 만든다…SK AX, 'AI 부트캠프 바이브' 출시 - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:17:06.312Z"
+    },
+    {
       "id": "fa322573052153b5",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -1368,6 +1852,28 @@
         "llmNote": null
       },
       "processedAt": "2026-10-03T23:33:21.193Z"
+    },
+    {
+      "id": "cc31cd954d9f6eb5",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 'AI 부트캠프 바이브' 교육 출시…바이브코딩으로 AI 에이전트 개발",
+      "link": "https://www.etnews.com/20261001000062",
+      "publisher": "전자신문",
+      "pubDate": "Thu, 01 Oct 2026 00:27:41 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/10/01/news-p.v1.20261001.618fc12eb0ea4f7c8524516c9f5fd061_P1.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": "교육 서비스 출시",
+      "slogan": null,
+      "keyMessage": "SK AX는 비개발자도 자연어로 AI 에이전트를 직접 개발하고 업무 생산성을 높일 수 있는 실전형 교육 프로그램 'AI 부트캠프 바이브'를 출시했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:17:18.204Z"
     },
     {
       "id": "f888c44fbbcade4b",
@@ -2468,6 +2974,28 @@
         "llmNote": null
       },
       "processedAt": "2026-09-30T00:05:52.119Z"
+    },
+    {
+      "id": "6692b13a11955230",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-16T23:15:24.239Z"
     },
     {
       "id": "c2b902a8ce1f52fa",
