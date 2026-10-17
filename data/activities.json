@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T00:00:28.789Z",
+  "updatedAt": "2026-10-17T22:56:27.566Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,182 @@
   ],
   "activities": [
     {
+      "id": "2158ce869527ca85",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 29일 3분기 실적발표 콘퍼런스콜",
+      "link": "https://www.vegannews.co.kr/news/article.html?no",
+      "publisher": "비건뉴스",
+      "pubDate": "Sat, 17 Oct 2026 22:18:20 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "29일",
+      "location": null,
+      "format": "콘퍼런스콜",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 오는 29일 3분기 실적발표를 위한 콘퍼런스콜을 진행한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-17T22:52:19.708Z"
+    },
+    {
+      "id": "d2b8c6ef358d25a5",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "계열사 넘어 해외로···삼성SDS·LG CNS, AI로 고객 넓힌다",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KQThCLUpOUWdJRC1xX3pjNWNOQzJqRzctS1AyUkxjSVFTbGJtYlFwVGhpT3JrQnM0ZUEzeXVlM3pOZEVUd1I3dVRzMEg0MWdhNWdLYm1YNEdPUkNEQW9mQ3Bpa3M1M1V5LVE?oc=5",
+      "publisher": "뉴스웨이",
+      "pubDate": "Sat, 17 Oct 2026 22:17:40 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "계열사 넘어 해외로···삼성SDS·LG CNS, AI로 고객 넓힌다",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-17T22:52:13.873Z"
+    },
+    {
+      "id": "d2b8c6ef358d25a5",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "계열사 넘어 해외로···삼성SDS·LG CNS, AI로 고객 넓힌다",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KQThCLUpOUWdJRC1xX3pjNWNOQzJqRzctS1AyUkxjSVFTbGJtYlFwVGhpT3JrQnM0ZUEzeXVlM3pOZEVUd1I3dVRzMEg0MWdhNWdLYm1YNEdPUkNEQW9mQ3Bpa3M1M1V5LVE?oc=5",
+      "publisher": "뉴스웨이",
+      "pubDate": "Sat, 17 Oct 2026 22:17:40 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 계열사를 넘어 해외 시장으로 AI 서비스를 확대하며 고객 기반을 넓히고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "주로 국내 금융권 및 개별 기업 중심이었던 최근 활동과 달리 해외 시장 진출 및 계열사 외 고객 확대를 본격화하고 있다는 점이 특이합니다."
+      },
+      "processedAt": "2026-10-17T22:52:45.551Z"
+    },
+    {
+      "id": "6079b53c9dd5d597",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"검색부터 예약까지 AI가 척척\"···네이버·카카오, 생활밀착형 AI 경쟁",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pRXhCSmpFMUxYWjdwREdMb0J2NEtOb2JmWEFoQlZUeUlEdzgtNDczNkZCaWNRbDIxRG1WdC11RDFhWk50YmQ5aFZkRjVmQS1hZlAxdG5wckI4UENldDZUTlRJLVhKd2toYXc?oc=5",
+      "publisher": "뉴스웨이",
+      "pubDate": "Sat, 17 Oct 2026 22:13:42 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버와 카카오가 검색부터 예약까지 지원하는 생활밀착형 AI 기능을 내세워 주도권 경쟁을 펼치고 있음을 조명한 언론보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-17T22:54:45.542Z"
+    },
+    {
+      "id": "87a95306093be6a1",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, ‘맛동여지도’ 지방 확대…맛집 발굴해 예약·결제까지 묶는다 ",
+      "link": "https://news.mtn.co.kr/article/2026101617044093464",
+      "publisher": "MTN 머니투데이방송",
+      "pubDate": "Sat, 17 Oct 2026 21:00:30 GMT",
+      "keyVisual": "https://files.mtn.co.kr/article-asset/2026/10/16/5e0a82d0-fc23-4d38-909e-414b21606c78.png",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "11월",
+      "location": "광주광역시, 전남 목포시, 여수시, 순천시, 담양군",
+      "format": "오프라인 맛집 탐방 연계 프로모션",
+      "slogan": null,
+      "keyMessage": "네이버가 지도 앱 내 미식 프로젝트 '맛동여지도'를 지방으로 확대하며, 맛집 발굴부터 네이버 예약 및 네이버페이 결제로 이어지는 오프라인 미식 생태계 강화를 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-17T22:54:27.995Z"
+    },
+    {
+      "id": "0aefb1efa78bd1e3",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "목포시, 네이버와 손잡고 소상공인 성장 지원…‘로컬그로스 밋업’ 개최",
+      "link": "https://www.metroseoul.co.kr/article/20261016500185",
+      "publisher": "메트로신문",
+      "pubDate": "Sat, 17 Oct 2026 10:13:25 GMT",
+      "keyVisual": "//cdn.emetro.co.kr/data2/content/image/2026/10/16/.cache/512/20261016500186.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "10월 16일",
+      "location": "목포미식문화갤러리 해관1897",
+      "format": "오프라인 밋업",
+      "slogan": null,
+      "keyMessage": "네이버가 목포시와 협력하여 지역 소상공인의 디지털 경쟁력 강화와 로컬 브랜드 성장을 지원하기 위한 '네이버 로컬그로스 밋업: 목포'를 개최한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-17T22:54:37.788Z"
+    },
+    {
+      "id": "1213f94d0731d241",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI 시대의 검색, 구글과 네이버의 차이…AI 답변 어디까지 믿어야 하나",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno",
+      "publisher": "톱스타뉴스",
+      "pubDate": "Sat, 17 Oct 2026 00:32:21 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론보도",
+      "slogan": null,
+      "keyMessage": "AI 시대 검색 서비스에서 구글과 네이버의 차이점 및 AI 답변의 신뢰성에 대해 조명한 언론보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-17T22:56:05.405Z"
+    },
+    {
+      "id": "9652e6da3f64bd4a",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버페이, 국민행복카드 바우처 결제 지원…6개 카드사 모두 연동",
+      "link": "https://www.dailian.co.kr/news/view/1702450/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4-%EA%B5%AD%EB%AF%BC%ED%96%89%EB%B3%B5%EC%B9%B4%EB%93%9C-%EB%B0%94%EC%9A%B0%EC%B2%98-%EA%B2%B0%EC%A0%9C-2026",
+      "publisher": "데일리안",
+      "pubDate": "Fri, 16 Oct 2026 23:00:00 GMT",
+      "keyVisual": "https://cdnimage.dailian.co.kr/news/202610/news_1792127810041_1702450_m_1.png",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버페이가 국민행복카드 바우처에 간편결제를 연동하고 네이버플러스 스토어에 전용관을 오픈하여 바우처 결제 시에도 포인트 적립 및 할인 혜택을 제공합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-17T22:54:53.798Z"
+    },
+    {
       "id": "008ed65b7719a7ab",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -114,6 +290,72 @@
         "llmNote": "최근 사업 및 기술 성과 중심의 활동 소식들과 달리 주요 주주의 지분 변동에 관한 재무·지배구조 관련 보도라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-10-16T23:14:31.756Z"
+    },
+    {
+      "id": "ace86f80cbe5ac61",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버페이, 제주 소상공인 금융 지원",
+      "link": "https://www.hankyung.com/article/2026101671051",
+      "publisher": "한국경제",
+      "pubDate": "Fri, 16 Oct 2026 09:00:48 GMT",
+      "keyVisual": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": "업무협약식",
+      "slogan": null,
+      "keyMessage": "네이버페이가 제주도, 제주은행, 제주신용보증재단과 업무협약을 체결하고 제주 지역 소상공인 및 소기업에 75억원 규모의 특별 신용보증을 제공합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-17T22:56:14.824Z"
+    },
+    {
+      "id": "e3e9a989417019fe",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "KAI-경상대 ESG 협력... HD현대일렉-LG CNS 맞손 외 [시경Today-방산·중장비]",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EOHpnRHdhVUpmcUE0eUt3dVV5bEx6dl9fRGlVby11aFBReXFaejA4MnZ4V3VXTTIxTURtYnNFZlQyNFZQVGZsLW9FN3FOdkFsYzB1UXoxY2RERVdRZ00yTEplc2liLVFCYmxYSDR3Ulo?oc=5",
+      "publisher": "시장경제신문",
+      "pubDate": "Fri, 16 Oct 2026 08:16:15 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 HD현대일렉트릭과 협력을 맺고 기술 및 사업 협력을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-17T22:52:59.427Z"
+    },
+    {
+      "id": "91e254dc7d105427",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "HD현대일렉트릭·LG CNS, 데이터센터·스마트 제조 '동맹'",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno",
+      "publisher": "www.ebn.co.kr",
+      "pubDate": "Fri, 16 Oct 2026 07:57:20 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 HD현대일렉트릭과 데이터센터 및 스마트 제조 분야에서 협력 관계를 구축했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-17T22:54:12.092Z"
     },
     {
       "id": "bfef31ac168e64b2",
@@ -226,6 +468,28 @@
       "processedAt": "2026-10-16T23:15:47.265Z"
     },
     {
+      "id": "0944afa1bf89048e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "NH농협생명, LG CNS와 AI 활용 업무혁신 방안 모색",
+      "link": "https://www.newscj.com/news/articleView.html?idxno",
+      "publisher": "천지일보",
+      "pubDate": "Fri, 16 Oct 2026 04:12:11 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 NH농협생명과 함께 AI 기술을 활용한 보험 업무 혁신 방안을 모색합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-17T22:52:38.987Z"
+    },
+    {
       "id": "3459f7bd0a853328",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -270,6 +534,50 @@
       "processedAt": "2026-10-16T23:16:05.614Z"
     },
     {
+      "id": "0f6502486affe30d",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "10월 15일 네이버 검색 결과가 싹 바뀌며 로직도 바뀌엇나보네요",
+      "link": "https://www.i-boss.co.kr/ab-6141-72734",
+      "publisher": "아이보스",
+      "pubDate": "Fri, 16 Oct 2026 00:52:43 GMT",
+      "keyVisual": "https://cdn.ibos.kr/og-BD6140-72734.gif?v=1792117744",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "10월 15일 네이버 검색 결과가 싹 바뀌며 로직도 바뀌엇나보네요",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-17T22:55:02.200Z"
+    },
+    {
+      "id": "bd5af1c313e2c4b0",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "HD현대일렉트릭, LG CNS와 맞손…데이터센터·스마트팩토리 협력",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno",
+      "publisher": "데일리한국",
+      "pubDate": "Fri, 16 Oct 2026 00:27:51 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 HD현대일렉트릭과 손을 잡고 데이터센터 및 스마트팩토리 분야 협력을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-17T22:52:52.051Z"
+    },
+    {
       "id": "bf1c52ce26f4dc18",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -312,6 +620,50 @@
         "llmNote": "최근 블록체인 플랫폼이나 AI·GPU 인프라 등 신사업 중심의 활동과 달리, 2900억 원 규모의 대형 전통 금융 계정계 SI 사업 수주 소식입니다."
       },
       "processedAt": "2026-10-16T23:16:22.592Z"
+    },
+    {
+      "id": "a70c3fc7ad994167",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 새마을금고 핵심 전산 재구축…2910억원 수주",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBdkRSa0JhLS1RcnZaaUE5eWtQT3RWaXNOVGpvYmkxRWcxc1pUdWZ4ck5ZajNIWkRaOGJKT29RS2F6SFpwTGl1ZnZSZFBFdHp0WklIMDNRdWdzRXdWajdiS0J0dG4?oc=5",
+      "publisher": "매일일보",
+      "pubDate": "Thu, 15 Oct 2026 07:16:02 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 2910억원 규모의 새마을금고 핵심 전산 재구축 사업을 수주했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 진행된 AI 워크숍 및 제휴 활동과 달리 2910억원 규모의 대형 금융 핵심 전산 재구축 프로젝트 수주 소식입니다."
+      },
+      "processedAt": "2026-10-17T22:54:05.114Z"
+    },
+    {
+      "id": "ede00f1b4549bb12",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버·카카오·토스, 잠자는 충전금 알려준다…19일부터",
+      "link": "https://www.nocutnews.co.kr/news/6591820",
+      "publisher": "노컷뉴스",
+      "pubDate": "Thu, 15 Oct 2026 03:00:00 GMT",
+      "keyVisual": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/15/202610151010448572_0.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버파이낸셜이 금융당국 및 관련 플랫폼사와 협력하여 19일부터 장기 미사용 선불충전금 잔액을 이용자에게 정기적으로 안내하고 앱에서 즉시 환급할 수 있는 방안을 시행합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "AI 서비스 도입이나 해외 진출 등 비즈니스 확장 위주의 최근 활동과 달리 금융당국 및 경쟁사들과 함께 소비자 권익 보호를 위한 선불충전금 환급 제도를 추진한 점이 다릅니다."
+      },
+      "processedAt": "2026-10-17T22:54:23.506Z"
     },
     {
       "id": "b5c667d5e05eebc0",
@@ -2996,6 +3348,28 @@
         "llmNote": null
       },
       "processedAt": "2026-10-16T23:15:24.239Z"
+    },
+    {
+      "id": "4101aae8100a1a4e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "반도체 넘어 전력·냉각까지 주도 … 삼성의 'AI 생태계' 빌드업 - 매일경제",
+      "link": "https://www.mk.co.kr/news/business/12164013",
+      "publisher": "매일경제",
+      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "keyVisual": "https://pimg.mk.co.kr/news/cms/202609/30/20260930_01160103000002_L00.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": "지분 투자 및 공동 참여",
+      "slogan": null,
+      "keyMessage": "삼성SDS를 비롯한 삼성 6개사가 KKR이 설립한 AI 인프라 기업 '헬릭스'에 10억 달러 투자를 결정하며 AI 인프라 생태계 선점에 나섰습니다. 삼성SDS는 이를 바탕으로 AI 데이터센터(AIDC) 구축 및 운영 사업을 본격 확대할 계획입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "삼성 그룹 계열사들과 연합하여 글로벌 AI 인프라 기업에 10억 달러 규모의 대규모 공동 투자를 추진하며 데이터센터 인프라 생태계 선점에 직접 나선 점이 주목할 만합니다."
+      },
+      "processedAt": "2026-10-17T22:52:30.189Z"
     },
     {
       "id": "c2b902a8ce1f52fa",
