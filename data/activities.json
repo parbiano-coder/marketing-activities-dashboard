@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:00:18.955Z",
+  "updatedAt": "2026-10-25T23:03:39.154Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,358 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "e71e26dbab09a6d8",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "에너지경제신문",
+      "link": "https://www.ekn.kr/web/err.php",
+      "publisher": "에너지경제신문",
+      "pubDate": "Sun, 25 Oct 2026 23:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "기사 페이지가 존재하지 않거나 에러가 발생하여 내용을 확인할 수 없습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:03:09.625Z"
+    },
+    {
+      "id": "1cb5d115819a094e",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“학교생활부터 입시까지”…네이버, 교육 검색 고도화",
+      "link": "https://sports.donga.com/it/article/all/20261025/134903478/1",
+      "publisher": "스포츠동아",
+      "pubDate": "Sun, 25 Oct 2026 06:47:11 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/10/25/134903483.1.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 공식 데이터를 기반으로 학교생활부터 대학·학과 정보, 입시 및 수능 정보까지 교육 검색 범위를 대폭 확대하고 검색 신뢰성을 고도화했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:03:25.294Z"
+    },
+    {
+      "id": "f71f31ed662aadb0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“개별 은행 넘어 금융그룹까지”…삼성SDS, 금융권 AI 공략 가속",
+      "link": "https://www.sentv.co.kr/article/view/sentv202610230082",
+      "publisher": "서울경제TV",
+      "pubDate": "Fri, 23 Oct 2026 09:36:59 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/10/23/sentv20261023000173.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 BNK금융그룹의 생성형 AI 플랫폼 구축 사업 우선협상대상자로 선정되는 등 개별 은행을 넘어 금융그룹 전체로 AI 사업 영역을 확장하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:01:30.979Z"
+    },
+    {
+      "id": "99221f6768bfaaa9",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI국회·정부GPU로 넓힌 AX 사업 | 삼성SDS㊦",
+      "link": "https://v.daum.net/v/GEaE2a0Hbl",
+      "publisher": "Daum",
+      "pubDate": "Fri, 23 Oct 2026 07:25:45 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S800x400/?fname=https://t1.daumcdn.net/news/202610/23/bloter/20261023162545927eciq.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론 보도",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 'AI국회' 구축 참여, 범정부 AI 공통기반 사업 적용, 정부 GPU 자원 운영 수행기관 선정 등을 통해 공공 분야의 AI 솔루션 및 컴퓨팅 인프라 사업 영역을 확대하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:01:19.627Z"
+    },
+    {
+      "id": "9e7c986bd6af69bb",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[AIxRMF 워크숍] 삼성SDS 조지훈 마스터 “AI 시대 보안 핵심은 취약점 자동 복구와 IT 자산 가시성 확보”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WZVNraHRIZmpyaTlNWE1EWTdONVRBa3VUWXotMG5WZTltWmZ0MGJQeEJhMFJ6WTdGTXNoYXlUVmc3eHJUd3ZCQXBjNENsdjVtRENwN2xqUkFab1dRREZmblVSSDEzWm85REhIUA?oc=5",
+      "publisher": "데일리시큐",
+      "pubDate": "Fri, 23 Oct 2026 02:22:31 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS 조지훈 마스터는 AIxRMF 워크숍에서 AI 시대 보안의 핵심으로 취약점 자동 복구와 IT 자산 가시성 확보를 강조했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:01:37.795Z"
+    },
+    {
+      "id": "0e87503fe7cc905c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "GPU 직접 안사도 된다…삼성SDS, '다차원 AI 풀스택' 전략 - 머니투데이",
+      "link": "https://www.mt.co.kr/index.php/tech/2026/10/23/2026102210394164018",
+      "publisher": "머니투데이",
+      "pubDate": "Fri, 23 Oct 2026 01:40:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102210394164018_1.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "오는 29일",
+      "location": "서울 코엑스",
+      "format": "오프라인 컨퍼런스",
+      "slogan": null,
+      "keyMessage": "삼성SDS는 클라우드 기반 GPUaaS·NPUaaS 및 데이터센터 투자를 아우르는 '다차원 AI 풀스택' 전략을 추진하며, AI 인프라 프런티어 컨퍼런스에서 기업용 AI 인프라 전략과 활용 사례를 발표한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:01:08.424Z"
+    },
+    {
+      "id": "15f6c06c3de7c9fe",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Thu, 22 Oct 2026 10:20:43 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:02:27.493Z"
+    },
+    {
+      "id": "dc1e05debed37276",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 챗GPT 기업 고객 3만명 확보…산업 전반 확산 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261022171800017",
+      "publisher": "연합뉴스",
+      "pubDate": "Thu, 22 Oct 2026 10:02:20 GMT",
+      "keyVisual": "https://img5.yna.co.kr/etc/inner/KR/2026/10/22/AKR20261022171800017_01_i_P4.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026년 10월 22일",
+      "location": "서울 강남구 라움 아트 센터",
+      "format": "오프라인 행사 발표",
+      "slogan": null,
+      "keyMessage": "LG CNS는 '오픈AI 데브데이 익스체인지: 서울'에 참가해 챗GPT 엔터프라이즈 공급 성과 및 다양한 산업군의 AX(인공지능 전환) 지원 사례를 발표했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 스마트제조 및 전력 인프라 분야 협력 소식과 달리, 글로벌 빅테크인 오픈AI의 국내 유일 파트너로서 대형 글로벌 콘퍼런스 행사에 직접 참가 및 발표했다는 점에서 차별성이 있습니다."
+      },
+      "processedAt": "2026-10-25T23:02:20.805Z"
+    },
+    {
+      "id": "9aeb17dace3c6d2a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "BNK금융, AI 플랫폼 구축 우선협상대상자에 삼성SDS | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261022175900051",
+      "publisher": "연합뉴스",
+      "pubDate": "Thu, 22 Oct 2026 08:45:07 GMT",
+      "keyVisual": "https://img6.yna.co.kr/etc/inner/KR/2026/10/22/AKR20261022175900051_01_i_P4.jpg",
+      "activityType": "고객사례",
+      "eventDate": "2026-10-22",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 BNK금융그룹의 '그룹 공동 생성형 AI 플랫폼 구축 사업' 우선협상대상자로 선정되어 기술 협상을 진행 중입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:00:41.098Z"
+    },
+    {
+      "id": "2cdebe384c4edab0",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI 해킹과 규제 폭풍의 시대, SK AX가 제시하는 안전한 가속 페달과 통제 전략",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno",
+      "publisher": "스마트비즈",
+      "pubDate": "Wed, 21 Oct 2026 07:58:29 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 AI 해킹 위협과 규제 강화 환경에 대응하여 안전한 AI 활용 및 통제 전략을 제시했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 에이전트 교육 프로그램(부트캠프 바이브) 출시 중심 활동에서 AI 보안 및 규제 대응 전략 분야로 주제를 전환한 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-10-25T23:02:39.665Z"
+    },
+    {
+      "id": "9548ba17743df11b",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Wed, 21 Oct 2026 07:51:08 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 지디넷코리아의 뉴스레터 구독 안내 문구로 삼성SDS의 마케팅 활동 정보를 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "삼성SDS의 사업 또는 마케팅 활동과 관련 없는 웹페이지 구독 안내 문구가 수집되었습니다."
+      },
+      "processedAt": "2026-10-25T23:00:56.772Z"
+    },
+    {
+      "id": "9844f05ebbeb6a59",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI는 똑똑해졌는데, 왜 우리 회사 일은 모를까? | 인사이트리포트 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/insights/the-context-layer-for-enterprise-ai.html",
+      "publisher": "Samsung SDS",
+      "pubDate": "Wed, 21 Oct 2026 06:52:16 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/10/21/thumb_1021.png?queryString=20261021034613",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "AI는 똑똑해졌는데, 왜 우리 회사 일은 모를까? | 인사이트리포트 | 삼성SDS",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:00:27.937Z"
+    },
+    {
+      "id": "e33713efc84b0fda",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 韓 첫 해외 AI 데이터센터 준공 눈앞…'원LG' 결실",
+      "link": "https://www.newspim.com/news/view/20261021000558",
+      "publisher": "뉴스핌",
+      "pubDate": "Wed, 21 Oct 2026 02:38:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/10/21/2610211131318920_249_tc.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 韓 첫 해외 AI 데이터센터 준공 눈앞…'원LG' 결실",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:01:54.701Z"
+    },
+    {
+      "id": "ba43f39a86fe3ac7",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 2027년, 삼성SDS 2028년 … AI 데이터센터 '낙수효과' 차이 부른다",
+      "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno",
+      "publisher": "디지털포스트",
+      "pubDate": "Tue, 20 Oct 2026 01:32:53 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 AI 데이터센터 완공 및 운영 예정 시점이 2028년으로 예상됨에 따라 이에 따른 낙수효과 차이를 조명한 보도이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:00:46.566Z"
+    },
+    {
+      "id": "45318e2154037dfb",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK  AX &quot;영업 분석, 3일&rarr;3분으로 단축&quot;⋯기업 AI 네이티브 엔터프라이즈 전환 속도",
+      "link": "http://www.inews24.com/view/2016501",
+      "publisher": "아이뉴스24",
+      "pubDate": "Mon, 19 Oct 2026 08:33:47 GMT",
+      "keyVisual": "https://image.inews24.com/v1/d955e656d152bf.jpg",
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "SK AX가 한미전선에 AI 에이전트 브랜드 '엑스젠틱와이어' 기반의 AI 어시스턴트를 구축하여 영업 분석 업무 시간을 3일에서 3분으로 대폭 단축하는 성과를 거두었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 '부트캠프 바이브' 출시 등 제품 및 교육 위주의 활동과 달리, 한미전선과의 실제 기업 구축 성과를 다룬 구체적인 고객사례 발표라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-10-25T23:02:45.746Z"
+    },
+    {
+      "id": "2984b9df217ab70e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 디지털 워크플레이스 '메이저 플레이어' 선정",
+      "link": "https://news.bizwatch.co.kr/article/mobile/2026/10/19/0006",
+      "publisher": "비즈워치",
+      "pubDate": "Mon, 19 Oct 2026 01:20:03 GMT",
+      "keyVisual": "https://cdn.bizwatch.co.kr/news/photo/2026/08/05/c337e0f45ec63323bd6fb46d3413ab46.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 디지털 워크플레이스 '메이저 플레이어' 선정",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:01:46.893Z"
+    },
     {
       "id": "bb5657a1ca6c99ca",
       "company": "삼성SDS",
@@ -908,6 +1260,28 @@
       "processedAt": "2026-10-16T23:16:05.614Z"
     },
     {
+      "id": "036ac540d60d23aa",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "NH농협생명, LG CNS와 'AX 디스커버리 워크숍'",
+      "link": "https://www.asiae.co.kr/article/2026101610144192537",
+      "publisher": "아시아경제",
+      "pubDate": "Fri, 16 Oct 2026 01:14:42 GMT",
+      "keyVisual": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news_2026.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "NH농협생명, LG CNS와 'AX 디스커버리 워크숍'",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:02:02.456Z"
+    },
+    {
       "id": "055e0d756ea80e6c",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -1258,6 +1632,28 @@
         "llmNote": "최근 SK AX의 AI 에이전트 서비스 출시 활동과 달리 해외 스포츠 구단 페이지 내용으로 회사 사업과 관련이 없습니다."
       },
       "processedAt": "2026-10-16T23:16:54.953Z"
+    },
+    {
+      "id": "51ab964ea224eb12",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] LG CNS, 앤트로픽 클로드 '프리퍼드' 파트너 선정…\"전 세계 50곳뿐\"",
+      "link": "https://www.hankyung.com/article/202610138149i",
+      "publisher": "한국경제",
+      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202610/01.46032080.1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 국내 기업 최초로 앤트로픽의 '클로드 파트너 네트워크' 프리퍼드 등급을 획득하며 기업용 AI 시장 공략과 고객의 AI 전환(AX)을 가속화한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 스마트제조 및 데이터센터 중심의 국내 기업 협력 활동과 달리, 글로벌 생성형 AI 기업인 앤트로픽과의 최상위 파트너십 획득을 강조하고 있다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-10-25T23:02:11.775Z"
     },
     {
       "id": "7a0e105143797c36",
@@ -2008,6 +2404,28 @@
       "processedAt": "2026-10-04T00:00:16.595Z"
     },
     {
+      "id": "c5b1c6cbad32fe46",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, ‘AI 부트캠프 바이브’ 교육 출시 – 바이라인네트워크",
+      "link": "https://byline.network/2026/10/2-461/",
+      "publisher": "바이라인네트워크",
+      "pubDate": "Fri, 02 Oct 2026 03:59:03 GMT",
+      "keyVisual": "https://cdn.byline.network/wp-content/uploads/2026/10/ak-ax-ai-vibe.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 전 직종의 구성원이 자연어로 AI 에이전트를 직접 개발해 업무 생산성을 높일 수 있도록 돕는 실전형 교육 프로그램 'AI 부트캠프 바이브'를 출시했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:02:56.928Z"
+    },
+    {
       "id": "b455a07e0fdefec1",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -2358,6 +2776,28 @@
         "llmNote": null
       },
       "processedAt": "2026-10-18T22:47:03.301Z"
+    },
+    {
+      "id": "dcaae97abb3f99d0",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, ‘부트캠프 바이브’ 출시…“내 업무에 쓸 AI, 직접 만든다”",
+      "link": "https://www.itdaily.kr/news/articleView.html?idxno",
+      "publisher": "아이티데일리",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": "내 업무에 쓸 AI, 직접 만든다",
+      "keyMessage": "SK AX가 사용자가 직접 업무용 AI를 제작할 수 있는 '부트캠프 바이브'를 출시했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-25T23:03:01.881Z"
     },
     {
       "id": "fa322573052153b5",
