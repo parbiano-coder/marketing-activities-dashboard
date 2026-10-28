@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T23:03:39.154Z",
+  "updatedAt": "2026-10-28T00:19:41.488Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,424 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "6f5e48e1c8864c94",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 해피빈, 기업 사회공헌 협력 사례 공유⋯가족돌봄청년·이른둥이 지원",
+      "link": "https://www.viva100.com/article/20261028500237",
+      "publisher": "브릿지경제",
+      "pubDate": "Wed, 28 Oct 2026 00:13:00 GMT",
+      "keyVisual": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/10/28/.cache/512/20261028500177.jpg?v=20261028091719",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "27일",
+      "location": "서울 중구 문화역서울284",
+      "format": "오프라인 행사",
+      "slogan": null,
+      "keyMessage": "네이버 해피빈이 기업과 비영리기관의 사회공헌 협력 우수 사례를 공유하고 사회적 가치 창출을 모색하는 '해피빈 기업 파트너스데이'를 개최했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "AI, 데이터센터 인프라, 금융 서비스 중심의 최근 활동들과 달리 네이버 해피빈을 통한 기업 사회공헌(CSR) 파트너십 및 ESG 생태계 형성에 초점을 맞추고 있다."
+      },
+      "processedAt": "2026-10-28T00:17:30.776Z"
+    },
+    {
+      "id": "57cbc00a968b3018",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"카드 한 장에 1억7000만원\"…네이버 크림, 억 소리 나는 시장 선점? - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/10/28/2026102710244316883",
+      "publisher": "머니투데이",
+      "pubDate": "Tue, 27 Oct 2026 22:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102710244316883_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "\"카드 한 장에 1억7000만원\"…네이버 크림, 억 소리 나는 시장 선점? - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-28T00:18:25.785Z"
+    },
+    {
+      "id": "c23d7d6ab7420fce",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "검색창 밖으로 나온 네이버…공연장·경기장까지 파고드는 이유",
+      "link": "https://www.chosun.com/economy/tech_it/2026/10/28/6PROMNKPAVGI5LPZI5IQ27AB7E/",
+      "publisher": "조선일보",
+      "pubDate": "Tue, 27 Oct 2026 21:04:20 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/GU4TMMBWG5RWGMDGGUZTKN3EGY.jpg?auth=e6a62a4833d89b75debc5df06b38b728052bc86240fed9cee960eddd190de390&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 온라인 검색 서비스를 넘어 공연장과 경기장 등 오프라인 공간으로 서비스 영역을 확장하고 있음을 다룬 언론보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-28T00:18:32.581Z"
+    },
+    {
+      "id": "b62b229c9b3d51e7",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "오늘 하이닉스 실적 발표, 네이버 검색서 들어볼까…AI 요약도 한눈에",
+      "link": "https://www.newsis.com/view/NISX20261027_0003843584",
+      "publisher": "뉴시스",
+      "pubDate": "Tue, 27 Oct 2026 20:00:00 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/10/27/NISI20261027_0002275562_web.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "2026-10-22",
+      "location": null,
+      "format": "오디오 웹캐스팅 및 온라인 검색 서비스",
+      "slogan": null,
+      "keyMessage": "네이버가 국내 상장사 어닝콜 라이브 실시간 청취 및 AI 기반의 실적 요약 서비스를 도입하여 검색 서비스의 투자 정보 제공 범위를 대폭 확대했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-28T00:19:27.181Z"
+    },
+    {
+      "id": "0c086adccdf24447",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 '글로벌 AI팩토리' 본궤도, 브룩필드와 90억弗 인프라 계약 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/10/28/2026102719594721852",
+      "publisher": "머니투데이",
+      "pubDate": "Tue, 27 Oct 2026 19:03:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102719594721852_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버 '글로벌 AI팩토리' 본궤도, 브룩필드와 90억弗 인프라 계약 - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-28T00:19:06.899Z"
+    },
+    {
+      "id": "d79c05ded05bbe21",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[Tech&] “AI 도입을 넘어 AX로”… 삼성SDS, ‘다차원 AI 풀스택’으로 기업 AX 전환 이끈다",
+      "link": "https://www.donga.com/news/Economy/article/all/20261027/134865166/1",
+      "publisher": "동아일보",
+      "pubDate": "Tue, 27 Oct 2026 17:59:47 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/27/134865187.1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[Tech&] “AI 도입을 넘어 AX로”… 삼성SDS, ‘다차원 AI 풀스택’으로 기업 AX 전환 이끈다",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-28T00:14:43.246Z"
+    },
+    {
+      "id": "f61f08c1e0d7aac4",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 준법경영 국제표준 ‘ISO 37301’ 인증 획득",
+      "link": "https://www.itdaily.kr/news/articleView.html?idxno",
+      "publisher": "아이티데일리",
+      "pubDate": "Tue, 27 Oct 2026 07:23:27 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 준법경영 국제표준인 'ISO 37301' 인증을 획득했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI, 데이터센터, 스마트제조 등 기술 및 사업 중심의 활동들과 달리 준법경영 관련 국제표준 인증 획득이라는 경영 관리 측면의 소식입니다."
+      },
+      "processedAt": "2026-10-28T00:16:49.175Z"
+    },
+    {
+      "id": "b39b9561efe63441",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, KKR서 받은 1.2조 반년째 정기예금에…투자 집행 시점 '주목'",
+      "link": "https://www.popcornnews.net/news/articleView.html?idxno",
+      "publisher": "팝콘뉴스",
+      "pubDate": "Tue, 27 Oct 2026 07:13:10 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 KKR로부터 확보한 1조 2천억 원의 자금을 반년째 정기예금에 보관하고 있어 향후 투자 집행 시점에 관심이 쏠리고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 솔루션 수주 및 사업 확대 소식들과 달리 KKR 투자금 운용 및 투자 집행 시점에 관한 재무적 이슈를 다루고 있습니다."
+      },
+      "processedAt": "2026-10-28T00:15:01.921Z"
+    },
+    {
+      "id": "30f66c96e74d2fdf",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] 삼성SDS, 르완다 국가 플랫폼 '이렘보'와 전격 회동…수조원대 아프리카 공공 시장 열리나",
+      "link": "https://www.theguru.co.kr/news/article.html?no",
+      "publisher": "더구루",
+      "pubDate": "Tue, 27 Oct 2026 06:37:45 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[단독] 삼성SDS, 르완다 국가 플랫폼 '이렘보'와 전격 회동…수조원대 아프리카 공공 시장 열리나",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-28T00:14:49.794Z"
+    },
+    {
+      "id": "a7a958360ac6815f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 준법경영 국제표준 인증…AI·클라우드 전반 확대",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sQWJ1djB1M3lmcm5rNkt1eXNzQUxMOG9EM2RzZnp4VkJBVWd6eTBHRjJMdEZ0SV96ZTRFNFp1RjhNdmJsUF9BZDVVN3Q1NVdJb2hnek5CSnVTUTZpNUQwX0gzSzYtR1I1WVc5bg?oc=5",
+      "publisher": "스페셜경제",
+      "pubDate": "Tue, 27 Oct 2026 06:13:11 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 준법경영 국제표준 인증을 획득하고 AI 및 클라우드 사업 전반으로 준법경영 체계를 확대합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-28T00:17:17.090Z"
+    },
+    {
+      "id": "885dcaf8b4be4cc3",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "차세대 ERP, 신규 구축만이 정답은 아닙니다 | 인사이트리포트 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/insights/next-generation-erp-conversion.html",
+      "publisher": "Samsung SDS",
+      "pubDate": "Tue, 27 Oct 2026 05:19:19 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/insights/__icsFiles/afieldfile/2026/10/27/thumb_1027.png?queryString=20261027021108",
+      "activityType": "기타",
+      "eventDate": "2026-10-27",
+      "location": null,
+      "format": "인사이트 리포트",
+      "slogan": null,
+      "keyMessage": "차세대 ERP 전환 시 신규 구축뿐만 아니라 System Conversion 방식을 적극 고려하면 업무 연속성을 확보하면서 다운타임과 비용을 효율적으로 줄일 수 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 생성형 AI 플랫폼 구축 및 AI 인프라 중심의 마케팅 활동과 달리, SAP 차세대 ERP 전환 전략 및 수행 경험을 담은 인사이트 리포트를 발행했다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-10-28T00:14:38.160Z"
+    },
+    {
+      "id": "f9d332c09ede15e6",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Tue, 27 Oct 2026 01:45:30 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 지디넷코리아의 뉴스레터 구독 신청 및 운영 정보만 포함하고 있어 네이버의 마케팅 활동 내용을 확인할 수 없습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-28T00:18:41.495Z"
+    },
+    {
+      "id": "c96aab2eaa167e24",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 준법경영 시스템 국제표준 인증 획득 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261027025200017",
+      "publisher": "연합뉴스",
+      "pubDate": "Tue, 27 Oct 2026 01:00:05 GMT",
+      "keyVisual": "https://img3.yna.co.kr/etc/inner/KR/2026/10/27/AKR20261027025200017_01_i_P4.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 준법경영 시스템 국제표준 인증 획득 | 연합뉴스",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-28T00:16:58.611Z"
+    },
+    {
+      "id": "0230cc7e2a6a5f26",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 준법경영 국제표준 'ISO 37301' 인증 획득 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/10/27/2026102708184631563",
+      "publisher": "머니투데이",
+      "pubDate": "Tue, 27 Oct 2026 01:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102708184631563_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": "27일",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 준법경영 시스템 국제표준인 'ISO 37301' 인증을 획득하여 AI, 클라우드 등 주요 사업 영역 전반에 걸친 준법경영 체계의 우수성을 인정받았습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-28T00:16:33.029Z"
+    },
+    {
+      "id": "ecc82858b84c00f0",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI&middot;클라우드&middot;데이터센터까지&hellip;LG CNS, 준법경영 국제표준 인증 획득",
+      "link": "https://www.ddaily.co.kr/page/view/2026102708544136900",
+      "publisher": "디지털데일리",
+      "pubDate": "Tue, 27 Oct 2026 01:00:00 GMT",
+      "keyVisual": "/photos/2026/01/27/2026012709585641494_l.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI, 클라우드, 데이터센터 등 주요 사업 전반을 아우르는 준법경영 시스템 국제표준 'ISO 37301' 인증을 획득하며 컴플라이언스 체계의 신뢰성을 인정받았습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "주로 AI 전환 지원, 데이터센터 구축 및 사업 협력 위주였던 최근 활동과 달리 준법경영(컴플라이언스) 국제표준 인증 획득이라는 ESG·경영 관리 체계에 집중한 소식입니다."
+      },
+      "processedAt": "2026-10-28T00:17:07.883Z"
+    },
+    {
+      "id": "f61f083d81419196",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 주가 4거래일 연속 상승...AI·클라우드 성장에 주목",
+      "link": "http://www.s-d.kr/news/articleView.html?idxno",
+      "publisher": "증권일보",
+      "pubDate": "Mon, 26 Oct 2026 23:40:06 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 주가가 AI 및 클라우드 부문의 성장에 주목받으며 4거래일 연속 상승했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-28T00:16:04.060Z"
+    },
+    {
+      "id": "87e9f89559745eb9",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "상반기 부진 턴 삼성SDS·LG CNS, 하반기는 이익 증가구간",
+      "link": "https://www.viva100.com/article/20261026500711",
+      "publisher": "브릿지경제",
+      "pubDate": "Mon, 26 Oct 2026 21:01:00 GMT",
+      "keyVisual": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/01/22/.cache/512/20260122500415.jpg?v=20261028091502",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS는 클라우드 사업 호조와 AI 전환 수요 증가로 3분기 실적 개선이 기대되며 2031년까지 AI 인프라를 800MW 이상으로 확장하는 등 성장 동력을 강화하고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-28T00:15:11.897Z"
+    },
+    {
+      "id": "87e9f89559745eb9",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "상반기 부진 턴 삼성SDS·LG CNS, 하반기는 이익 증가구간",
+      "link": "https://www.viva100.com/article/20261026500711",
+      "publisher": "브릿지경제",
+      "pubDate": "Mon, 26 Oct 2026 21:01:00 GMT",
+      "keyVisual": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/01/22/.cache/512/20260122500415.jpg?v=20261028091633",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS는 금융권 차세대 프로젝트 매출 본격화와 AI·클라우드 사업 성장에 힘입어 3분기 실적 반등이 기대되며, 앤트로픽과의 파트너십 등을 통해 AX 사업 경쟁력을 강화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-28T00:16:41.189Z"
+    },
+    {
+      "id": "434d5fa60d906b3c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[모닝 리포트] \"삼성SDS, AI 데이터센터 투자로 재평가\"",
+      "link": "https://www.newspim.com/news/view/20261026000089",
+      "publisher": "뉴스핌",
+      "pubDate": "Mon, 26 Oct 2026 00:05:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2021/10/13/211013184507125_504_tc.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2031년까지 AI 데이터센터 및 인프라 구축에 10조 원을 투자하며 장기적인 성장성과 수익성을 확보해 기업 가치를 재평가받을 것으로 전망된다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "개별 사업 수주나 행사 참여 중심이었던 최근 활동과 달리, 2031년까지 10조 원 규모의 중장기 AI 데이터센터 및 인프라 투자 계획을 다루고 있다."
+      },
+      "processedAt": "2026-10-28T00:15:23.027Z"
+    },
     {
       "id": "e71e26dbab09a6d8",
       "company": "네이버",
@@ -204,6 +622,28 @@
       "processedAt": "2026-10-25T23:01:37.795Z"
     },
     {
+      "id": "1a279b735953f25c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, AI 인프라 5조 투자…DBO로 외형 키우고 GPU 효율 높여 - 딜사이트",
+      "link": "https://dealsite.co.kr/articles/171186",
+      "publisher": "딜사이트",
+      "pubDate": "Fri, 23 Oct 2026 02:00:00 GMT",
+      "keyVisual": "https://dtd31o1ybbmk8.cloudfront.net/photos/cae52f147ef42533adf6374145206a11/thumb.png",
+      "activityType": "언론보도",
+      "eventDate": "2026-10-23",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2031년까지 5조 원을 AI 인프라에 투자하여 데이터센터 DBO 사업 확대와 GPU 운영 효율화를 동시에 추진하는 이원화 전략으로 외형 성장과 수익성을 확보한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 개별 AI 프로젝트 수주나 컨퍼런스 발표 중심의 활동과 달리 2031년까지 5조 원 규모의 대규모 AI 인프라 투자 및 중장기 사업·수익 목표를 구체적으로 제시했다."
+      },
+      "processedAt": "2026-10-28T00:16:14.819Z"
+    },
+    {
       "id": "0e87503fe7cc905c",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -224,6 +664,28 @@
         "llmNote": null
       },
       "processedAt": "2026-10-25T23:01:08.424Z"
+    },
+    {
+      "id": "e581849e93645082",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "GPU 직접 안사도 된다…삼성SDS, '다차원 AI 풀스택' 전략 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/10/23/2026102210394164018",
+      "publisher": "머니투데이",
+      "pubDate": "Fri, 23 Oct 2026 01:40:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102210394164018_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "GPU 직접 안사도 된다…삼성SDS, '다차원 AI 풀스택' 전략 - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-28T00:16:20.685Z"
     },
     {
       "id": "15f6c06c3de7c9fe",
