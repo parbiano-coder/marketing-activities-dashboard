@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T00:19:41.488Z",
+  "updatedAt": "2026-10-29T00:38:31.382Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,292 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "a262f20bcb31c5ff",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[오늘의 증시일정] 두산에너빌리티·삼성SDS·한화에어로 등",
+      "link": "https://www.etoday.co.kr/news/view/2641443",
+      "publisher": "이투데이",
+      "pubDate": "Wed, 28 Oct 2026 23:12:00 GMT",
+      "keyVisual": "https://img.etoday.co.kr/pto_db/2026/10/20261028080248_2408048_600_600.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS를 포함한 주요 기업들의 결산실적공시 등 주요 증시 일정이 보도되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-29T00:35:53.372Z"
+    },
+    {
+      "id": "09259f7e5566fc57",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "하와이로 간 삼성SDS, 美 연방정부·국방 겨냥 '모바일 보안 사업' 확장",
+      "link": "https://www.theguru.co.kr/news/article.html?no",
+      "publisher": "더구루",
+      "pubDate": "Wed, 28 Oct 2026 23:10:23 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "하와이",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 미국 연방정부 및 국방 분야를 겨냥하여 하와이에서 모바일 보안 사업 확장에 나섰습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 및 클라우드, ERP 중심의 국내외 활동과 달리 미국 연방정부 및 국방 타깃의 모바일 보안 사업 확장을 다루고 있습니다."
+      },
+      "processedAt": "2026-10-29T00:35:26.966Z"
+    },
+    {
+      "id": "ecc1b343aacc6d07",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“AI 공급부터 구축·운영까지”…삼성SDS·LG CNS, 기업 AX 시장 격돌",
+      "link": "https://it.chosun.com/news/articleViewAmp.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Wed, 28 Oct 2026 21:35:58 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 LG CNS와 함께 AI 공급부터 구축 및 운영 전반을 아우르며 기업 AX(AI 전환) 시장에서 치열하게 경쟁하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-29T00:35:34.599Z"
+    },
+    {
+      "id": "440f02a5d18245ad",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“AI 공급부터 구축·운영까지”…삼성SDS·LG CNS, 기업 AX 시장 격돌",
+      "link": "https://it.chosun.com/news/articleView.html?idxno",
+      "publisher": "IT조선",
+      "pubDate": "Wed, 28 Oct 2026 21:30:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 삼성SDS와 함께 AI 공급부터 구축 및 운영을 아우르는 기업 AX 시장에서 경쟁을 벌이고 있다는 소식입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 준법경영 인증 중심의 활동 소식들과 달리, 본 건은 기업 AX 시장 내 주요 경쟁 구도 및 사업 역량을 조명하고 있습니다."
+      },
+      "processedAt": "2026-10-29T00:37:23.223Z"
+    },
+    {
+      "id": "8eea5c99f1f94418",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 11월 싱가포르서 사업전략 설명",
+      "link": "https://www.vegannews.co.kr/news/article.html?no",
+      "publisher": "비건뉴스",
+      "pubDate": "Wed, 28 Oct 2026 13:23:25 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "11월",
+      "location": "싱가포르",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 오는 11월 싱가포르에서 사업전략 설명회를 개최한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 국내 중심 AI·클라우드 마케팅이나 아프리카 협력 소식과 달리 싱가포르에서 직접 해외 사업전략 설명회를 연다는 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-10-29T00:36:00.829Z"
+    },
+    {
+      "id": "9947a7ffd8fb35c2",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "D-Wave·LG CNS, 아시아 양자컴퓨팅 확산 위한 MOU 체결",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lWWl1M0ZSd3ZGeVJGNV9oenVscVZyOUZ1OHFPRTIySzRibnpwb1F4TFNjbDBOV1lEYWJRSXhBUzMzVjFSbmg0cW1oM2JVaTBUYzNva2tvT2gtNnNJWWI2dFdUQU5lTDE3NVpoUE1HQ1g?oc=5",
+      "publisher": "Investing.com 한국어",
+      "pubDate": "Wed, 28 Oct 2026 11:13:00 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 D-Wave와 아시아 양자컴퓨팅 확산을 위한 업무협약(MOU)을 체결했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 준법경영(ISO 37301) 인증 관련 활동 중심에서 양자컴퓨팅 관련 파트너십(MOU) 체결 활동으로 영역이 달라졌습니다."
+      },
+      "processedAt": "2026-10-29T00:37:58.599Z"
+    },
+    {
+      "id": "f3f8dfcd574790cf",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Wed, 28 Oct 2026 08:21:04 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문은 지디넷코리아의 뉴스레터 구독 안내 정보로 삼성SDS의 마케팅 활동 관련 내용을 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-29T00:35:43.752Z"
+    },
+    {
+      "id": "f3f8dfcd574790cf",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Wed, 28 Oct 2026 08:21:04 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문은 LG CNS의 마케팅 활동 정보가 아닌 지디넷코리아 뉴스레터 구독 및 사이트 정보입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-29T00:37:15.269Z"
+    },
+    {
+      "id": "f5d4e700e1aaf0b2",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, GPU 풀가동 예고 LG CNS는 내년 도입…SI 2사 3분기 성적표는?",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wdHlIaERhVm5iMU9JUFFETGxFRTB0RDBORzNKNjRPM1M0ZUNucFkzN0xSTHdEWGY1NUduY2FlSVBmTGlOdGNBZER5UUlQNXQwUFp5LWhBaTNDX3pRNkxGM2tTWXU1c1liNDhpckQtb9IBckFVX3lxTE1tb2wzeU5ZNnRrU2VrY0NMelVUTTBPTmo4RHBWWTNpYm1SSHIxakJ0V3o0MVMwQUdESERLc1czNnBWODJBWmFVeVZYVXItVnVhaGRKbjU2LWJTd3NLTmhhMWR1eXQwYktoYlg3TDNoU19pZw?oc=5",
+      "publisher": "팝콘뉴스",
+      "pubDate": "Wed, 28 Oct 2026 06:46:49 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 GPU 풀가동을 예고한 가운데, 주요 SI 기업들의 3분기 실적과 AI 사업 전략에 대한 관심이 높아지고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-29T00:36:08.165Z"
+    },
+    {
+      "id": "da39d39e5830e4db",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "현신균 LG CNS 대표 \"양자컴퓨팅, 고객의 난제 해결할 것\"",
+      "link": "https://www.newsis.com/view/NISX20261028_0003844531",
+      "publisher": "뉴시스",
+      "pubDate": "Wed, 28 Oct 2026 02:52:42 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/10/28/NISI20261028_0002276134_web.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-10-28",
+      "location": "서울 종로구 포시즌스 호텔",
+      "format": "오프라인 컨퍼런스 및 업무협약 체결",
+      "slogan": null,
+      "keyMessage": "LG CNS는 글로벌 양자컴퓨팅 기업 디웨이브와 업무협약을 체결하고, 제조 및 물류 등 산업 현장의 복잡한 최적화 문제를 해결하기 위한 양자컴퓨팅 기반 솔루션 개발과 상용화를 추진한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 준법경영 인증(ISO 37301) 관련 활동이 주로 이어지던 것과 달리 양자컴퓨팅 기술 기업 디웨이브와의 글로벌 파트너십 체결 및 기술 상용화 발표가 이루어졌습니다."
+      },
+      "processedAt": "2026-10-29T00:38:16.155Z"
+    },
+    {
+      "id": "890b6ec5bc935b8c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "이데일리",
+      "link": "https://www.edaily.co.kr/?aspxerrorpath=/News/Read",
+      "publisher": "이데일리",
+      "pubDate": "Wed, 28 Oct 2026 02:28:27 GMT",
+      "keyVisual": "https://www.edaily.co.kr/profile_edaily_512.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "한미약품의 비만신약 처방 시작, SK바이오사이언스의 에볼라 백신 개발 합류, 웰트의 AI 헬스케어 기술 개발 등 제약·바이오 분야의 언론보도 내용입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 LG CNS의 준법경영 인증 등 IT·클라우드 관련 활동과 달리 LG CNS와의 직접적 연관성이 없는 제약·바이오 분야 기사들로 구성되어 있습니다."
+      },
+      "processedAt": "2026-10-29T00:37:35.996Z"
+    },
+    {
+      "id": "e98a0fa374ba2a60",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "앤트로픽 IPO에 기대 부푼 SKT·네이버·LG CNS … 최대 26배 차익 전망",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800103.html",
+      "publisher": "뉴데일리",
+      "pubDate": "Wed, 28 Oct 2026 01:14:00 GMT",
+      "keyVisual": "https://image.newdaily.co.kr/site/data/img/2026/10/28/2026102800103_0.png?u=20261028102707?u=20261028102707",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "미국 AI 기업 앤트로픽의 기업공개(IPO) 공식화에 따라 2023년 투자를 진행한 LG CNS 등 국내 IT 기업들의 투자 차익 기대감이 높아지고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 준법경영 국제표준 인증 중심의 활동과 달리 글로벌 AI 기업 투자 성과 및 재무적 가치 관련 언론보도라는 차이점이 있습니다."
+      },
+      "processedAt": "2026-10-29T00:37:45.205Z"
+    },
+    {
+      "id": "f31fa3c44e8570ce",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "앤트로픽 IPO 수혜 LG CNS…\"본질은 AX 시장 선점\"",
+      "link": "https://www.leadeconomy.co.kr/news/articleView.html?idxno",
+      "publisher": "리드경제",
+      "pubDate": "Wed, 28 Oct 2026 01:10:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 앤트로픽 IPO 수혜 기대감 속에서 본질적인 목표인 AX(AI 전환) 시장 선점에 집중하고 있다는 소식입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 지속된 준법경영(ISO 37301) 인증 관련 활동과 달리, 앤트로픽 관련 호재 및 AX 시장 선점이라는 사업적/기술적 전략을 다루고 있습니다."
+      },
+      "processedAt": "2026-10-29T00:38:08.678Z"
+    },
     {
       "id": "6f5e48e1c8864c94",
       "company": "네이버",
@@ -268,6 +554,28 @@
         "llmNote": "기존의 AI 솔루션 수주 및 사업 확대 소식들과 달리 KKR 투자금 운용 및 투자 집행 시점에 관한 재무적 이슈를 다루고 있습니다."
       },
       "processedAt": "2026-10-28T00:15:01.921Z"
+    },
+    {
+      "id": "0372aa87c9c36ba6",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 준법경영 국제표준 인증 획득…AI·클라우드 사업 포함 By EBN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIUVdLd3ctNm5qOVRzUWV1RDRKTzBLZUEyd19TTXQ5S2E2X053WHp0WVkyRnhyVktNc045U1F4bklPeDBnZm9zRzk2VzJUMk92SEZfNmFzZHpoM2pzUng0MzU5ZVBYNmNPN2hHampqaDg?oc=5",
+      "publisher": "Investing.com 한국어",
+      "pubDate": "Tue, 27 Oct 2026 06:49:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI 및 클라우드 사업 영역을 포함하여 준법경영 국제표준 인증을 획득했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-29T00:37:49.464Z"
     },
     {
       "id": "30f66c96e74d2fdf",
@@ -598,6 +906,28 @@
         "llmNote": null
       },
       "processedAt": "2026-10-25T23:01:19.627Z"
+    },
+    {
+      "id": "15c2c21f334ab5a3",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI국회·정부GPU로 넓힌 AX 사업 | 삼성SDS㊦",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Fri, 23 Oct 2026 02:51:39 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI 국회 구축 사업 및 정부 GPU 사업 등을 통해 AX(인공지능 전환) 사업 영역을 공공·정부 분야로 확장하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-29T00:37:04.225Z"
     },
     {
       "id": "9e7c986bd6af69bb",
