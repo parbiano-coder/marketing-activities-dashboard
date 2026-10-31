@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T00:39:50.089Z",
+  "updatedAt": "2026-10-31T00:25:10.714Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,292 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "0545be3dc29af0ec",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI·클라우드에 웃은 삼성SDS·LG CNS…최대 격전지는 `AI 인프라`",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tWTQySEt4aUJHSDIyejl2a0pidFdfbEN1d0E5T3VQZjFSdDJaZ1BIZHdpVXpLWnVla1hTTUI1QXhGcnFJSnlkT0VNRHozSy0yZkIzQnR1emFXRkRiN2x2dWJR?oc=5",
+      "publisher": "디지털데일리",
+      "pubDate": "Fri, 30 Oct 2026 21:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "AI·클라우드에 웃은 삼성SDS·LG CNS…최대 격전지는 `AI 인프라`",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-31T00:23:24.873Z"
+    },
+    {
+      "id": "0545be3dc29af0ec",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI·클라우드에 웃은 삼성SDS·LG CNS…최대 격전지는 `AI 인프라`",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tWTQySEt4aUJHSDIyejl2a0pidFdfbEN1d0E5T3VQZjFSdDJaZ1BIZHdpVXpLWnVla1hTTUI1QXhGcnFJSnlkT0VNRHozSy0yZkIzQnR1emFXRkRiN2x2dWJR?oc=5",
+      "publisher": "디지털데일리",
+      "pubDate": "Fri, 30 Oct 2026 21:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 삼성SDS와 함께 AI 및 클라우드 사업 실적 성장을 기록한 가운데 기업 간 경쟁의 최대 격전지로 AI 인프라 분야가 부상하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-31T00:23:36.264Z"
+    },
+    {
+      "id": "780a9a157492b61e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 3분기 영업익 1382억…AI·클라우드 사업 성장 견인",
+      "link": "https://www.etnews.com/20261030000355",
+      "publisher": "전자신문",
+      "pubDate": "Fri, 30 Oct 2026 11:36:45 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/10/30/news-p.v1.20261030.f19692dc74c349ac99f9422218ea2686_P1.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI와 클라우드 사업의 견조한 성장에 힘입어 3분기 영업이익 1382억 원을 기록하며 전년 동기 대비 15% 증가했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-31T00:23:57.463Z"
+    },
+    {
+      "id": "68be18cb825450d4",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[종목이 보영] 삼성SDS, 매출 성장에도 이익은 숙제",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno",
+      "publisher": "스트레이트뉴스",
+      "pubDate": "Fri, 30 Oct 2026 08:10:19 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 매출 성장을 이루었으나 수익성 개선이 주요 과제로 남아있다는 언론 보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-31T00:22:13.352Z"
+    },
+    {
+      "id": "2659fcab25b49dab",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 자카르타서 확인한 AIDC 수요…북미·유럽으로 확장",
+      "link": "https://v.daum.net/v/6KDYO2SrxL",
+      "publisher": "Daum",
+      "pubDate": "Fri, 30 Oct 2026 07:58:40 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S800x400/?fname=https://t1.daumcdn.net/news/202610/30/bloter/20261030165840761ydwx.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "실적발표 콘퍼런스콜",
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 자카르타 AIDC의 준공 전 전량 임차 고객 확보 성과를 바탕으로 모듈형 데이터센터 역량을 활용해 아시아태평양 및 북미·유럽으로 AI 인프라 사업 확장을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-31T00:24:12.755Z"
+    },
+    {
+      "id": "ec32516a9b5298ba",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인니 데이터센터 내달 준공…북미·유럽 진출 추진",
+      "link": "https://www.seoul.co.kr/news/economy/industry/2026/10/30/20261030800001",
+      "publisher": "서울신문",
+      "pubDate": "Fri, 30 Oct 2026 06:00:52 GMT",
+      "keyVisual": "https://img.seoul.co.kr//img/upload/2026/06/29/SSC_20260629173906_O2.jpg.webp",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 자카르타 데이터센터 준공 및 전량 임차 확보를 시작으로, 사전제작 모듈형 기술과 엔비디아 기반 역량을 앞세워 북미와 유럽 등 글로벌 시장 진출을 본격화합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-31T00:24:55.052Z"
+    },
+    {
+      "id": "f6f12036d8c7c613",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI시대 IT서비스 업계의 생존 전략…삼성SDS ’규모’·LG CNS ’수익성’ By EBN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92bXVBaXJmYm9Ed05aTWZrMndDcjdlTVJDcVNpaDAyU2pCTjZweVVNbUJZMHJveEdybFQzTzZpRjR3MlFVMHp1R0NmYTM3X01GS0NfaGgtSkM1M0h5VFJ5N2pZNFgwOFhOZ1dBWDViT3Q?oc=5",
+      "publisher": "Investing.com 한국어",
+      "pubDate": "Fri, 30 Oct 2026 05:28:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론 보도",
+      "slogan": null,
+      "keyMessage": "AI 시대 IT 서비스 업계에서 삼성SDS는 규모를, LG CNS는 수익성을 중심으로 생존 전략을 도모하고 있다는 내용을 다룬 언론 보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-31T00:22:19.338Z"
+    },
+    {
+      "id": "f605e51339516cb7",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인니 데이터센터 내달 준공…북미·유럽 진출 추진 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261030107700017",
+      "publisher": "연합뉴스",
+      "pubDate": "Fri, 30 Oct 2026 05:21:02 GMT",
+      "keyVisual": "https://img3.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030107700017_01_i_P4.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026년 10월 30일",
+      "location": null,
+      "format": "콘퍼런스콜",
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 자카르타 데이터센터 준공을 계기로 사전제작 모듈형 기술을 활용해 아시아태평양, 북미, 유럽 등 글로벌 데이터센터 및 AI 팩토리 시장 진출을 본격화한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-31T00:23:43.749Z"
+    },
+    {
+      "id": "2cf7e5659309aeff",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "조합원 96% \"투명한 성과급 시급\"…삼성SDS 노사 단체교섭 상견례",
+      "link": "https://biz.sbs.co.kr/article/20000343274",
+      "publisher": "SBS Biz",
+      "pubDate": "Fri, 30 Oct 2026 02:31:00 GMT",
+      "keyVisual": "https://img.biz.sbs.co.kr/upload/2026/10/30/AIu1793327424387-850.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS 노사가 단체교섭 상견례를 진행한 가운데, 조합원의 96%가 투명한 성과급 지급 체계 개선을 시급한 과제로 꼽았습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "실적 발표, 신기술 도입, 사업 전략 공개 등 대외 사업 관련 활동이 주를 이루던 최근 소식과 달리 내부 노사 단체교섭 및 성과급 이슈를 다룬 언론보도라는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-10-31T00:22:52.460Z"
+    },
+    {
+      "id": "04ac2136acaf7789",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 3분기 영업이익 1382억…전년比 15% 증가",
+      "link": "https://www.sedaily.com/article/20108181",
+      "publisher": "서울경제",
+      "pubDate": "Fri, 30 Oct 2026 01:11:37 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/10/30/news-p.v1.20261001.09f41ff2e5434a1c85c5c961b7b31f1a_Z1.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-10-30",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 2026년 3분기 매출 1조 6643억 원, 영업이익 1382억 원을 기록하며 AI·클라우드 및 디지털 비즈니스 서비스 사업의 성장에 힘입어 전년 동기 대비 견조한 실적 성장을 이뤄냈습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-31T00:24:46.100Z"
+    },
+    {
+      "id": "e2795c2f9d252318",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI·클라우드에 웃은 삼성SDS·LG CNS, 로보틱스 새 먹거리 본격화",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jUGtKS0xHcGw4MnRfdFQ1a3MxdGxGVG1iVUd6bDYyb0NnQ1JHdlF3YUx3TkJacGdQb0REcXpScDhDSFZ5ZFFncmh1OFNKcVRSaW1RaS1BQl9MQ2dRcDA3V3k2WkM?oc=5",
+      "publisher": "아시아경제",
+      "pubDate": "Fri, 30 Oct 2026 01:09:07 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI 및 클라우드 사업 성과를 바탕으로 로보틱스를 새로운 성장 동력으로 본격화하고 있다는 소식입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI·클라우드 인프라 및 데이터센터 중심 활동과 달리 로보틱스 분야를 새로운 먹거리로 본격화하고 있다는 점이 특이합니다."
+      },
+      "processedAt": "2026-10-31T00:24:33.160Z"
+    },
+    {
+      "id": "0ffe011e995907eb",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 창사 이래 첫 임단협…“성과급 산정과정 투명화 쟁점”",
+      "link": "https://www.greened.kr/news/articleView.html?idxno",
+      "publisher": "녹색경제신문",
+      "pubDate": "Fri, 30 Oct 2026 01:09:06 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 창사 이래 첫 임금·단체협상을 진행하며 성과급 산정과정의 투명화가 핵심 쟁점으로 떠올랐다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 사업 성과 및 신기술 도입 관련 소식과 달리 회사의 내부 노사관계 이슈인 창사 이래 첫 임단협을 다루고 있다는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-10-31T00:22:02.763Z"
+    },
+    {
+      "id": "8f72737fa39b478c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI·클라우드에 웃은 삼성SDS·LG CNS, 로보틱스 새 먹거리 본격화",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JM09leHdtZHV6X0xzeXhLakViNkIxU252X0FjOXJwU0VsYkJ2VUhCNXRNeTNXMWZRaC1LTnpPWDRZNGlJLUlfVmVTcllZekZaZnZEd2ZUYzg5a2RCVWZOMg?oc=5",
+      "publisher": "아시아경제",
+      "pubDate": "Fri, 30 Oct 2026 01:09:06 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI 및 클라우드 사업 호조를 바탕으로 로보틱스 분야를 새로운 성장 동력으로 본격 추진하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 클라우드, GPUaaS, DBO 중심의 활동에서 더 나아가 로보틱스를 새로운 먹거리로 가시화하고 있습니다."
+      },
+      "processedAt": "2026-10-31T00:22:36.536Z"
+    },
     {
       "id": "41777f55e5364924",
       "company": "삼성SDS",
@@ -248,6 +534,28 @@
       "processedAt": "2026-10-30T00:35:43.572Z"
     },
     {
+      "id": "bd444ba4158634b6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 클라우드·물류 동반 성장…3분기 외형 확대",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlJsQ0VwclBxYTFlTkVKaVhnam9wSlZkcVBQczItb1FWbVcxbWRBQ1ZIUVBOaDBDejVvLU5fSFJFZHJHdFZ6ZW0zc2JLLVVDazdoaXY3aXpXR0IzcHJiUVpLbDlBOW1wWXFRc3pzdTdKODlvVzJYR0c0T0h0TXhnZUpXTEpJUGQzc1dHTkJMOA?oc=5",
+      "publisher": "Naver Blog",
+      "pubDate": "Thu, 29 Oct 2026 07:35:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 클라우드와 물류 사업의 동반 성장에 힘입어 3분기 실적 외형 확대를 기록했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-31T00:22:44.210Z"
+    },
+    {
       "id": "b914d9507377654a",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -290,6 +598,28 @@
         "llmNote": null
       },
       "processedAt": "2026-10-30T00:37:47.461Z"
+    },
+    {
+      "id": "94cf425ef226e0bd",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "이데일리",
+      "link": "https://www.edaily.co.kr/?aspxerrorpath=/News/Read",
+      "publisher": "이데일리",
+      "pubDate": "Thu, 29 Oct 2026 06:47:04 GMT",
+      "keyVisual": "https://www.edaily.co.kr/profile_edaily_512.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문은 삼성SDS의 마케팅 활동과 관련이 없는 제약·바이오 및 타 기업 관련 소식만을 포함하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 IT 및 클라우드 사업 중심 활동들과 달리 삼성SDS와 전혀 무관한 타 산업 기사가 제출되었습니다."
+      },
+      "processedAt": "2026-10-31T00:23:16.546Z"
     },
     {
       "id": "4546132bf891b7f2",
@@ -422,6 +752,28 @@
         "llmNote": null
       },
       "processedAt": "2026-10-30T00:39:28.192Z"
+    },
+    {
+      "id": "6dbabe83bd66a3de",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Thu, 29 Oct 2026 02:00:22 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문은 지디넷코리아의 뉴스레터 구독 안내 정보로, 삼성SDS의 마케팅 활동 관련 내용을 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-10-31T00:21:53.510Z"
     },
     {
       "id": "4844ecc135d5c8fb",
