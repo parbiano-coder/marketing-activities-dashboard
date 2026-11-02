@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T23:59:26.754Z",
+  "updatedAt": "2026-11-02T00:15:37.879Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,94 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "ce12f6f532b3a494",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "이재용 직접 찾아간 로봇사업…삼성·LG 뛰어든 ‘지휘자 플랫폼’ 뭐길래 - 매일경제",
+      "link": "https://www.mk.co.kr/news/business/12193050",
+      "publisher": "매일경제",
+      "pubDate": "Sun, 01 Nov 2026 21:11:39 GMT",
+      "keyVisual": "https://pimg.mk.co.kr/news/cms/202611/02/news-p.v1.20261101.80c24b06c8bd4666a3377ae9a1c367e0_R.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 계열사 현장에서 10여 개 로봇 실증 사업을 진행하며 내년 '로봇 오케스트레이션 플랫폼' 출시와 피지컬 AI 시장 선점에 박차를 가하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 실적, 노사 갈등, 클라우드·AI 인프라 중심 보도와 달리 제조 현장 내 로봇 오케스트레이션 플랫폼 및 피지컬 AI 사업 진출을 본격적으로 다루었다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-02T00:13:26.192Z"
+    },
+    {
+      "id": "9e9da06f2a93008a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "뉴스토마토 :: 대한민국 대표 경제전문 멀티미디어 뉴스통신 채널",
+      "link": "https://www.newstomato.com/default.aspx",
+      "publisher": "뉴스토마토",
+      "pubDate": "Sun, 01 Nov 2026 21:10:00 GMT",
+      "keyVisual": "/images/logo.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문은 다양한 경제 및 사회 분야의 뉴스 헤드라인 모음으로, 삼성SDS의 마케팅 활동과 관련된 내용은 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-02T00:13:06.202Z"
+    },
+    {
+      "id": "551c5813ccb47a6d",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "로봇 학습부터 지휘까지…SI업계 'RX' 격돌 - 매일경제",
+      "link": "https://www.mk.co.kr/news/it/12192861",
+      "publisher": "매일경제",
+      "pubDate": "Sun, 01 Nov 2026 08:15:02 GMT",
+      "keyVisual": "https://pimg.mk.co.kr/news/cms/202611/02/20261102_01110114000004_L00.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론보도",
+      "slogan": null,
+      "keyMessage": "LG CNS가 로봇 전환(RX) 플랫폼 '피지컬웍스'를 앞세워 제조 및 물류 현장 개념검증(PoC)을 실제 수주로 연결하고 피지컬 AI 시장 선점에 속도를 내고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 AI·클라우드 실적 및 데이터센터 인프라 중심 활동과 달리 로봇 전환(RX) 플랫폼 '피지컬웍스' 기반의 제조 로봇 SW 사업화를 집중 조명한 보도라는 점이 특징적입니다."
+      },
+      "processedAt": "2026-11-02T00:13:41.013Z"
+    },
+    {
+      "id": "1d70fa436b4703ab",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "김장호 구미시장, 삼성SDS 구미 AI 데이터센터 기공식 참석",
+      "link": "https://www.dailydgnews.com/news/article.html?no",
+      "publisher": "데일리대구경북뉴스",
+      "pubDate": "Sun, 01 Nov 2026 07:04:27 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": "구미",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "김장호 구미시장이 삼성SDS 구미 AI 데이터센터 기공식에 참석했다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존 보도들이 주로 실적 및 경영 전략 분석 위주였던 것과 달리, 이번 활동은 실제 AI 데이터센터 인프라 구축 현장 기공식 행사를 다루고 있습니다."
+      },
+      "processedAt": "2026-11-02T00:13:14.595Z"
+    },
     {
       "id": "bd8f1dde455580b0",
       "company": "삼성SDS",
@@ -314,6 +402,50 @@
       "processedAt": "2026-10-31T00:24:55.052Z"
     },
     {
+      "id": "174cae65e824a36c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 3분기 영업익 전년比 15% 증가…AI·클라우드가 견인",
+      "link": "https://news.bizwatch.co.kr/article/mobile/2026/10/30/0027",
+      "publisher": "비즈워치",
+      "pubDate": "Fri, 30 Oct 2026 06:00:10 GMT",
+      "keyVisual": "https://cdn.bizwatch.co.kr/news/photo/2026/10/30/b43d08b9d8ed309f3e7ee1bb2cb6d8f2.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 3분기 영업익 전년比 15% 증가…AI·클라우드가 견인",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-02T00:14:00.599Z"
+    },
+    {
+      "id": "9ba17ff87bb8734c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인니 데이터센터 11월 준공…모듈형 기술로 해외 사업 확대",
+      "link": "https://www.asiae.co.kr/article/2026103014373433965",
+      "publisher": "아시아경제",
+      "pubDate": "Fri, 30 Oct 2026 05:48:17 GMT",
+      "keyVisual": "https://cphoto.asiae.co.kr/listimglink/1/2026091010321123268_1789003931.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 자카르타 데이터센터 준공 전 전량 임차 고객 확보 성과를 바탕으로, 사전제작 모듈형 기술과 엔비디아 협업 기반의 AI 팩토리를 활용해 북미 및 유럽 등 해외 AI 인프라 시장 진출을 본격화합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-02T00:13:52.003Z"
+    },
+    {
       "id": "2606d4061f0ab09e",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -402,6 +534,28 @@
       "processedAt": "2026-10-31T23:58:28.506Z"
     },
     {
+      "id": "dff0afa2ff10927f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Fri, 30 Oct 2026 02:33:53 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 LG CNS의 마케팅 활동 내용이 아니며 지디넷코리아 웹사이트의 하단 안내 및 뉴스레터 구독 정보만 포함하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "본문이 LG CNS의 마케팅 활동 내용 대신 언론사 사이트 하단 안내문으로만 이루어져 있습니다."
+      },
+      "processedAt": "2026-11-02T00:14:30.985Z"
+    },
+    {
       "id": "2cf7e5659309aeff",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -422,6 +576,50 @@
         "llmNote": "실적 발표, 신기술 도입, 사업 전략 공개 등 대외 사업 관련 활동이 주를 이루던 최근 소식과 달리 내부 노사 단체교섭 및 성과급 이슈를 다룬 언론보도라는 점에서 특이점이 있습니다."
       },
       "processedAt": "2026-10-31T00:22:52.460Z"
+    },
+    {
+      "id": "94adbcb0e54cbe58",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Fri, 30 Oct 2026 02:06:38 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 LG CNS의 마케팅 활동 내용이 아니며 지디넷코리아의 뉴스레터 구독 신청 및 운영 관련 하단 안내 정보만 포함하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-02T00:14:14.025Z"
+    },
+    {
+      "id": "5dfcc2e60e8f351b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Fri, 30 Oct 2026 01:57:42 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 LG CNS의 마케팅 활동 관련 내용이 아닌 지디넷코리아의 언론사 안내 및 뉴스레터 구독 정보만을 포함하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "이전 활동 발표들과 달리 LG CNS의 비즈니스나 마케팅 관련 정보가 전혀 포함되어 있지 않습니다."
+      },
+      "processedAt": "2026-11-02T00:14:22.284Z"
     },
     {
       "id": "194c1fabc9486007",
@@ -466,6 +664,28 @@
         "llmNote": null
       },
       "processedAt": "2026-10-31T23:56:43.980Z"
+    },
+    {
+      "id": "62c1f6c163883ea7",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Fri, 30 Oct 2026 01:22:38 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 LG CNS의 마케팅 활동과 무관한 언론사 하단 정보 및 뉴스레터 구독 안내 내용만 포함하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-02T00:14:40.962Z"
     },
     {
       "id": "f37465aeced1abf1",
@@ -930,6 +1150,50 @@
       "processedAt": "2026-10-30T00:36:00.018Z"
     },
     {
+      "id": "e8121f404aa2ee2e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "뉴스 상세  | KB의 생각",
+      "link": "https://kbthink.com/news-list/view.html?newsId",
+      "publisher": "KB Think",
+      "pubDate": "Thu, 29 Oct 2026 06:21:59 GMT",
+      "keyVisual": "https://kbthink.com/content/dam/tam-dcp-cms/kbthink/KB의 생각_한글.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문이 존재하지 않는 페이지(404 오류)로 마케팅 활동에 대한 세부 정보를 확인할 수 없습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-02T00:13:30.257Z"
+    },
+    {
+      "id": "3ef84e7907235d75",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, AI로 1800명 면접 6시간 만에…채용 혁신 나선다",
+      "link": "https://www.newspim.com/news/view/20261029001035",
+      "publisher": "뉴스핌",
+      "pubDate": "Thu, 29 Oct 2026 06:11:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/10/29/2610291509428330_482_tc.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 지원자의 문제해결력과 소통 능력, AI 활용 역량을 종합 분석하는 AI 기반 채용·인재 육성 솔루션 '지핏 스튜디오'를 출시했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-02T00:15:14.863Z"
+    },
+    {
       "id": "8aed5a1980b64cc9",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -1106,6 +1370,50 @@
       "processedAt": "2026-10-31T23:56:35.070Z"
     },
     {
+      "id": "34c62b684ff082da",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, AI로 1800명 면접 평가 6시간 만에 완료…채용도 실무역량 중심으로 바꾼다",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno",
+      "publisher": "인공지능신문",
+      "pubDate": "Thu, 29 Oct 2026 01:03:50 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 AI를 활용해 1,800명의 면접 평가를 6시간 만에 완료하며 실무 역량 중심으로 채용 구조를 전환했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-02T00:14:47.290Z"
+    },
+    {
+      "id": "fcdef91582e13cc4",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, AI로 채용 혁신…지원자 실무역량 분석해 인재 확보 돕는다",
+      "link": "https://www.etnews.com/20261029000028",
+      "publisher": "전자신문",
+      "pubDate": "Wed, 28 Oct 2026 23:47:24 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/04/23/news-p.v1.20260423.46a7f5242a534de39f0fa4177fea9a25_P3.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "SK AX가 AI 기반 역량진단 솔루션 '지핏 스튜디오'를 출시해 실제 업무 기반 시뮬레이션으로 지원자의 실무역량을 다각도로 분석하고 기업의 채용 혁신을 지원한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-02T00:15:03.778Z"
+    },
+    {
       "id": "2ec841c3de3f292b",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -1126,6 +1434,50 @@
         "llmNote": null
       },
       "processedAt": "2026-10-31T23:59:03.544Z"
+    },
+    {
+      "id": "3967b9e28613dfb7",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"지원자 1800명 평가에 6시간\"…SK AX가 내놓은 'AI 면접관'",
+      "link": "https://www.hankyung.com/article/202610292160g",
+      "publisher": "한국경제",
+      "pubDate": "Wed, 28 Oct 2026 23:30:05 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202610/99.32758692.1.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "SK AX가 실제 업무 환경을 AI로 구현해 지원자의 문제해결 과정과 커뮤니케이션 능력을 분석하는 역량진단 솔루션 'G-Fit Studio'를 출시했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-02T00:14:55.210Z"
+    },
+    {
+      "id": "e0f465ed876afbfe",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[AI픽] SK AX, AI 기반 역량진단 설루션 '지핏 스튜디오' 출시",
+      "link": "https://stock.mk.co.kr/news/view/1183905",
+      "publisher": "매일경제 마켓",
+      "pubDate": "Wed, 28 Oct 2026 23:30:01 GMT",
+      "keyVisual": "https://stock.mk.co.kr/photos/20261029/PCM20250519000066990_P4.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 실제 업무 기반 AI 시뮬레이션을 통해 지원자의 실무 역량을 종합 분석하고 평가를 돕는 인재 진단 솔루션 '지핏 스튜디오'를 출시했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-02T00:15:24.337Z"
     },
     {
       "id": "a262f20bcb31c5ff",
@@ -1914,7 +2266,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 2031년까지 AI 데이터센터 및 인프라 구축에 10조 원을 투자하며 장기적인 성장성과 수익성을 확보해 기업 가치를 재평가받을 것으로 전망된다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "개별 사업 수주나 행사 참여 중심이었던 최근 활동과 달리, 2031년까지 10조 원 규모의 중장기 AI 데이터센터 및 인프라 투자 계획을 다루고 있다."
       },
       "processedAt": "2026-10-28T00:15:23.027Z"
