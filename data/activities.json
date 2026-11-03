@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T00:15:37.879Z",
+  "updatedAt": "2026-11-03T02:48:13.139Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,358 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "985b47bd336a6110",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 구미에 60MW급 AI 전용 데이터센터 착공… 2028년 말 준공 목표",
+      "link": "http://www.mtnews.net/news/articleView.html?idxno",
+      "publisher": "기계신문",
+      "pubDate": "Tue, 03 Nov 2026 02:23:43 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "구미",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2028년 말 준공을 목표로 구미에 60MW급 AI 전용 데이터센터 착공에 나섰습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-03T02:46:31.520Z"
+    },
+    {
+      "id": "c4898f8a4b43c159",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "로봇 생산은 구미, 연산·관제는 SDS…삼성 휴머노이드 사업 밑그림",
+      "link": "https://www.newspim.com/news/view/20261103000392",
+      "publisher": "뉴스핌",
+      "pubDate": "Tue, 03 Nov 2026 01:39:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/11/03/2611031026149860_t1.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "11월 2일",
+      "location": "경북 구미시 공단동 옛 삼성전자 구미1사업장 부지",
+      "format": "기공식",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 경북 구미에 AI 데이터센터를 착공하여 로봇 연산 인프라와 관제를 담당하고, 2027년 로봇 오케스트레이션 플랫폼을 출시해 2030년 자율공장 전환을 지원할 계획이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-03T02:46:01.809Z"
+    },
+    {
+      "id": "e487d62f03ec7e98",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[AI 시티 포럼] LG CNS “모든 밸류체인에 AI 적용 추진”",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno",
+      "publisher": "스트레이트뉴스",
+      "pubDate": "Tue, 03 Nov 2026 01:35:49 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS는 'AI 시티 포럼'에서 모든 밸류체인에 AI 적용을 추진하겠다는 방침을 밝혔습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-03T02:47:04.576Z"
+    },
+    {
+      "id": "c33e1414364ca798",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[구미 24시] 구미시, 삼성SDS 구미 AI데이터센터 건립 첫 삽",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno",
+      "publisher": "시사저널",
+      "pubDate": "Tue, 03 Nov 2026 01:35:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "구미시",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 구미시에 구미 AI데이터센터 건립을 위한 첫 삽을 뜨고 본격적인 착공에 들어갔습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-03T02:46:23.417Z"
+    },
+    {
+      "id": "56db377a8a79780a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Tue, 03 Nov 2026 01:32:38 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "본문 내용은 LG CNS의 마케팅 활동이 아닌 지디넷코리아 언론사의 뉴스레터 구독 안내 문구만 포함되어 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-03T02:47:13.207Z"
+    },
+    {
+      "id": "5e95dc5135efbb35",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 성과급 개편 무산 후폭풍 온다 … 노조와 첫 단체교섭에 이목 쏠려 ",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300109.html",
+      "publisher": "뉴데일리",
+      "pubDate": "Tue, 03 Nov 2026 01:17:00 GMT",
+      "keyVisual": "https://image.newdaily.co.kr/site/data/img/2026/11/03/2026110300109_0.jpg?u=20261103102538?u=20261103102538",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론보도",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 성과급 개편 무산 이후 노조와의 첫 단체교섭에 착수하면서 성과급 산정 기준과 배분의 투명성 확보가 향후 보상 체계의 핵심 현안으로 부각되고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "클라우드, AI, 데이터센터 등 주요 사업/기술 홍보 활동 위주였던 기존과 달리 노사 교섭 및 내부 성과급 체계 관련 이슈를 다룬 보도입니다."
+      },
+      "processedAt": "2026-11-03T02:45:31.489Z"
+    },
+    {
+      "id": "492433aac590fcb1",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"삼성SDS, 구미에 AI 미래 심는다\"…60MW 데이터센터 건립 첫 삽",
+      "link": "http://www.ifocus.kr/news/articleView.html?idxno",
+      "publisher": "포커스데일리",
+      "pubDate": "Tue, 03 Nov 2026 00:10:14 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "구미",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 구미에 60MW 규모의 AI 데이터센터 건립을 위한 첫 삽을 떴습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-03T02:46:06.682Z"
+    },
+    {
+      "id": "e20d5c54fc8ff64d",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 구미 AI 데이터센터 착공",
+      "link": "https://www.segye.com/newsView/20261102515855?OutUrl",
+      "publisher": "세계일보",
+      "pubDate": "Mon, 02 Nov 2026 21:00:00 GMT",
+      "keyVisual": "https://www.segye.com/content/image/2026/11/02/20261102517446.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "경북 구미 공단동",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2028년 말 준공을 목표로 경북 구미에 최대 120㎿ 규모의 AI 데이터센터(AIDC)를 착공하며 영남권 피지컬 AI 혁신 클러스터 조성을 위한 핵심 인프라 구축에 본격 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-03T02:46:58.137Z"
+    },
+    {
+      "id": "cc1f8a71357b7440",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 구미 AI 데이터센터 착공…삼성 영남권 60조 투자 시동",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42WHRVYkZFZWxRQXA4WHAwaHFtRFZNVTZlSXhhZlFUd21vWU0ycTBRaEpjdVZldG53bWRlU1JHU2NuQS10ZjB5a01DZTNiZWh0Y2pJRDZZQkhPM3c2TFFyeGlYMWtMT09WM2c?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Mon, 02 Nov 2026 20:52:33 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, 구미 AI 데이터센터 착공…삼성 영남권 60조 투자 시동",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-03T02:45:49.302Z"
+    },
+    {
+      "id": "c83a749b6cc01dda",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 4만7000㎡ 구미 AI데이터센터 착공 | 중앙일보",
+      "link": "https://www.joongang.co.kr/article/25475131",
+      "publisher": "중앙일보",
+      "pubDate": "Mon, 02 Nov 2026 15:01:01 GMT",
+      "keyVisual": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/03/2c99ad99-2829-4e0c-b891-19870878f9d8.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2일",
+      "location": "경북 구미",
+      "format": "착공식",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 경북 구미에서 초대형 AI 데이터센터 착공식을 열고 차세대 AI 인프라를 바탕으로 현장의 AI 전환(AX)을 이끌겠다는 구상을 밝혔다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-03T02:46:15.345Z"
+    },
+    {
+      "id": "a515079dfa3ff92f",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 구미 AI 데이터센터 착공…삼성 영남권 60조 투자 계획 실행 | 언론보도 | 삼성SDS",
+      "link": "https://www.samsungsds.com/kr/news/gmdc-261102.html",
+      "publisher": "Samsung SDS",
+      "pubDate": "Mon, 02 Nov 2026 14:29:21 GMT",
+      "keyVisual": "https://image.samsungsds.com/kr/news/__icsFiles/afieldfile/2026/11/02/구미 AI 데이터센터_조감도_3.PNG?queryString=20261102035441",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "경북 구미시 공단동",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 경북 구미시에 대규모 AI 전용 데이터센터를 착공하여 국가 AI 경쟁력 강화 및 대내외 AI·제조 RX 서비스를 위한 핵심 인프라 확보에 나섰다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-03T02:45:44.062Z"
+    },
+    {
+      "id": "d117d5389fc82c81",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SI 넘어 AI 데이터센터로…삼성SDS 구미·LG CNS 자카르타 공략",
+      "link": "https://www.donga.com/news/Economy/article/all/20261102/134949205/1",
+      "publisher": "동아일보",
+      "pubDate": "Mon, 02 Nov 2026 06:45:00 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134951118.1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "인도네시아 자카르타",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 자카르타에 30MW급 AI 데이터센터를 완공하며 국내 기업 최초로 해외 현지 고객 대상 DBO(설계·구축·운영) 사업 성과를 달성했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 국내 로봇 전환(RX) 및 클라우드 사업 중심에서 벗어나 국내 기업 최초로 해외 현지 고객 대상 AI 데이터센터 구축·운영(DBO) 성과를 올렸습니다."
+      },
+      "processedAt": "2026-11-03T02:47:49.957Z"
+    },
+    {
+      "id": "fdfba9615287209e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 구미 AI 데이터센터 착공…60MW급 2029년 가동 목표(종합) | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261102107951053",
+      "publisher": "연합뉴스",
+      "pubDate": "Mon, 02 Nov 2026 06:19:51 GMT",
+      "keyVisual": "https://img0.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102107951053_04_i_P4.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026년 11월 02일",
+      "location": "경북 구미시 공단동 옛 삼성전자 1캠퍼스 부지",
+      "format": "오프라인 기공식",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 생성형 AI 및 클라우드 수요에 대응하기 위해 경북 구미에 60MW급 AI 데이터센터 기공식을 열고 2029년 가동을 목표로 착공에 들어갔다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-03T02:45:22.600Z"
+    },
+    {
+      "id": "2f82ddf089056a45",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[기업 이모저모] 은행 전산 바꾸던 LG CNS, AI로 일하는 방식 바꾼다",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno",
+      "publisher": "연합인포맥스",
+      "pubDate": "Mon, 02 Nov 2026 01:35:21 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 기존 은행 전산 구축 중심의 사업 구조에서 AI를 활용하여 일하는 방식을 혁신하는 방향으로 사업 체질을 전환하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-03T02:47:38.492Z"
+    },
+    {
+      "id": "d5a654be001ba85a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[오늘의 증권가 콜] 기아, 현대모비스, 한화에어로, LG CNS, 에이피알, 효성중공업, 대덕전자, 카카오게임즈 등 ",
+      "link": "https://www.hankyung.com/article/202611029477i",
+      "publisher": "한국경제",
+      "pubDate": "Mon, 02 Nov 2026 01:11:14 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202611/01.46273849.1.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-11-02",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "증권가 리포트를 통해 LG CNS를 포함한 주요 기업들의 실적 전망 및 목표주가 분석이 다루어졌습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-03T02:47:31.567Z"
+    },
+    {
+      "id": "c106d310588b6322",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인니 30MW AI데이터센터 완공…국내 기업 첫 해외 구축 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/11/02/2026110207131990335",
+      "publisher": "머니투데이",
+      "pubDate": "Mon, 02 Nov 2026 01:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026110207131990335_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "인도네시아 자카르타",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 자카르타에 30MW급 AI데이터센터 구축을 완료하며 국내 기업 최초로 해외 고객사의 AI데이터센터를 현지에 직접 구축하는 성과를 거두었습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 국내 사업 실적 및 로봇 전환(RX) 플랫폼 발표 중심이었던 활동과 달리, 국내 기업 최초로 해외 현지 AI데이터센터를 직접 구축 완료한 글로벌 성과라는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-11-03T02:47:22.636Z"
+    },
     {
       "id": "ce12f6f532b3a494",
       "company": "삼성SDS",
@@ -2068,7 +2420,7 @@
       "slogan": null,
       "keyMessage": "LG CNS, 준법경영 시스템 국제표준 인증 획득",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-30T00:39:03.037Z"
@@ -2090,7 +2442,7 @@
       "slogan": null,
       "keyMessage": "제시된 본문은 LG CNS의 마케팅 활동 내용이 아닌 지디넷코리아의 뉴스레터 구독 안내 문구입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "LG CNS의 실제 마케팅 및 기업 활동 정보가 전혀 포함되어 있지 않습니다."
       },
       "processedAt": "2026-10-30T00:39:14.238Z"
@@ -2112,7 +2464,7 @@
       "slogan": null,
       "keyMessage": "LG CNS, 준법경영 시스템 국제표준 인증 획득 | 연합뉴스",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-28T00:16:58.611Z"
@@ -2134,7 +2486,7 @@
       "slogan": null,
       "keyMessage": "휴온스의 크론병 전임상 데이터 발표 및 박셀바이오의 간암 치료제 임상 결과 등 제약·바이오 기업들의 최근 언론보도 내용입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "LG CNS의 IT 서비스 활동과 무관한 제약·바이오 기업들의 기사 내용으로 구성되어 있습니다."
       },
       "processedAt": "2026-10-30T00:39:22.714Z"
@@ -2156,7 +2508,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 준법경영 시스템 국제표준인 'ISO 37301' 인증을 획득하여 AI, 클라우드 등 주요 사업 영역 전반에 걸친 준법경영 체계의 우수성을 인정받았습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-28T00:16:33.029Z"
@@ -2178,7 +2530,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 AI, 클라우드, 데이터센터 등 주요 사업 전반을 아우르는 준법경영 시스템 국제표준 'ISO 37301' 인증을 획득하며 컴플라이언스 체계의 신뢰성을 인정받았습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "주로 AI 전환 지원, 데이터센터 구축 및 사업 협력 위주였던 최근 활동과 달리 준법경영(컴플라이언스) 국제표준 인증 획득이라는 ESG·경영 관리 체계에 집중한 소식입니다."
       },
       "processedAt": "2026-10-28T00:17:07.883Z"
@@ -2200,7 +2552,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS의 주가가 AI 및 클라우드 부문의 성장에 주목받으며 4거래일 연속 상승했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-28T00:16:04.060Z"
@@ -2222,7 +2574,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS는 클라우드 사업 호조와 AI 전환 수요 증가로 3분기 실적 개선이 기대되며 2031년까지 AI 인프라를 800MW 이상으로 확장하는 등 성장 동력을 강화하고 있다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-28T00:15:11.897Z"
@@ -2244,7 +2596,7 @@
       "slogan": null,
       "keyMessage": "LG CNS는 금융권 차세대 프로젝트 매출 본격화와 AI·클라우드 사업 성장에 힘입어 3분기 실적 반등이 기대되며, 앤트로픽과의 파트너십 등을 통해 AX 사업 경쟁력을 강화하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-28T00:16:41.189Z"
