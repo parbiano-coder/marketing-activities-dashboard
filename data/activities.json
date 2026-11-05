@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T02:48:13.139Z",
+  "updatedAt": "2026-11-05T01:22:01.919Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,292 @@
   ],
   "activities": [
     {
+      "id": "4789f4ceb20abc16",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, '광고주센터→네이버애즈' 명칭 변경…AI 에이전트 기능 추가 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/11/05/2026110509160251171",
+      "publisher": "머니투데이",
+      "pubDate": "Thu, 05 Nov 2026 00:48:39 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026110509160251171_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버, '광고주센터→네이버애즈' 명칭 변경…AI 에이전트 기능 추가 - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:21:14.272Z"
+    },
+    {
+      "id": "4d22b6d05d253f40",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS·LG CNS, SI 사업 '희비'…클라우드 성장·금융 수주 영향 - 딜사이트",
+      "link": "https://dealsite.co.kr/articles/171998",
+      "publisher": "딜사이트",
+      "pubDate": "Wed, 04 Nov 2026 22:00:00 GMT",
+      "keyVisual": "https://dtd31o1ybbmk8.cloudfront.net/photos/2026/11/03/3b40aa40d6c34dc29b8ffbfd1fca8883/thumb.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 3분기 SI 매출은 대형 프로젝트 종료로 전년 대비 감소했으나 클라우드 매출 성장에 힘입어 전체 IT서비스 매출은 증가했으며, 4분기부터 SI 사업도 성장세로 전환될 전망입니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:17:43.463Z"
+    },
+    {
+      "id": "e02f6089f89e8372",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[IR 분석] 삼성SDS·LG CNS, AX 수주 확대 공통 키워드‘시스템 재설계’",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oaDRoaVlmdC1zbWhXbkZSR3M5WmJtd1piMk9sdXgzT0tNRVVnSFlLd0NPdWtySnBCZ3VHSnJ4SVVxbm15WkNGcWQ3OFN4NGpKTXNTT0xHc243aXl4WktGdlE5YWd6WmJp?oc=5",
+      "publisher": "www.fetv.co.kr",
+      "pubDate": "Wed, 04 Nov 2026 22:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 LG CNS와 함께 AX 수주 확대를 위한 핵심 키워드로 '시스템 재설계'를 내세우며 사업을 추진하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 구미 AI 데이터센터 착공 관련 보도가 주를 이루었던 것과 달리 AX 수주 확대를 위한 사업 전략 및 IR 분석을 다루고 있습니다."
+      },
+      "processedAt": "2026-11-05T01:17:52.442Z"
+    },
+    {
+      "id": "e02f6089f89e8372",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[IR 분석] 삼성SDS·LG CNS, AX 수주 확대 공통 키워드‘시스템 재설계’",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oaDRoaVlmdC1zbWhXbkZSR3M5WmJtd1piMk9sdXgzT0tNRVVnSFlLd0NPdWtySnBCZ3VHSnJ4SVVxbm15WkNGcWQ3OFN4NGpKTXNTT0xHc243aXl4WktGdlE5YWd6WmJp?oc=5",
+      "publisher": "www.fetv.co.kr",
+      "pubDate": "Wed, 04 Nov 2026 22:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 삼성SDS와 함께 AX 수주 확대를 위한 주요 전략 키워드로 '시스템 재설계'를 추진하고 있음을 분석한 언론보도입니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:19:17.764Z"
+    },
+    {
+      "id": "83b2feecf9875b53",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "초기 60MW 구미 AI 데이터센터 착공…삼성SDS, 2028년 말 준공 목표",
+      "link": "https://www.vegannews.co.kr/news/article.html?no",
+      "publisher": "비건뉴스",
+      "pubDate": "Wed, 04 Nov 2026 21:43:47 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "구미",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2028년 말 준공을 목표로 구미에 60MW급 AI 데이터센터 착공에 나섰습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:19:05.800Z"
+    },
+    {
+      "id": "77ebeb30f6377f0e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 로봇 플랫폼 추격전…LG CNS 넘을까",
+      "link": "https://www.sidae.com/article/2026110414415137804",
+      "publisher": "동행미디어 시대",
+      "pubDate": "Wed, 04 Nov 2026 21:09:00 GMT",
+      "keyVisual": "https://menu.sidae.com/moneyweek/thumb/2026/11/04/00/2026110414415137804_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, 로봇 플랫폼 추격전…LG CNS 넘을까",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:17:58.117Z"
+    },
+    {
+      "id": "ee73d88b41258f5e",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[설명] 20261104 한국경제TV(11.4.) 두나무-네이버 합병 초읽기 기사 관련",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBITFRfbmpqSW9maFFPZW0teml2OHZfbWhNelA0TnBjeVBwTXg4S2I2ZHcxUk1CSjF1SkdiTXhOQko1OWdRWGtuM3lrSkhNcjh4eDVEUk9NOVpNOXlUUWN4ank1Q1FDcXp1N3VlV3R6RQ?oc=5",
+      "publisher": "대한민국 정책브리핑",
+      "pubDate": "Wed, 04 Nov 2026 17:45:29 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": "2026-11-04",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "한국경제TV의 두나무와 네이버 합병 관련 보도에 대해 설명하는 공식 자료입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 일반적인 AI 서비스 출시 및 해외 인프라 투자 등과 달리 대형 M&A 보도 대응 관련 활동이라는 특이점이 있습니다."
+      },
+      "processedAt": "2026-11-05T01:21:39.516Z"
+    },
+    {
+      "id": "85b0fa7457680671",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[IT는 지금] LG CNS, 국내 기업 최초 해외 AI데이터센터 구축…인니 30MW급 완공 外 : 네이버 블로그",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGJOQWxzSGpSQ3pDczRFVkl4TEY2NG5fTW41Y1U3OFpQRlFfZ2hfWndwazBRNWpfZlZXRXlEMWJ1X1A0dXpWUmxQY2lGaUhEUlBWb1Nsa0dyc1o0YnlmVV9hWEtTN3dkOW92bm9wREVWdzFELTI4OUtKd1FCTWdfdDFVTjV1a09IdnFhZlpLOA?oc=5",
+      "publisher": "Naver Blog",
+      "pubDate": "Wed, 04 Nov 2026 11:40:36 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "인도네시아",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 국내 기업 최초로 인도네시아에 30MW급 해외 AI 데이터센터를 완공했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:19:51.960Z"
+    },
+    {
+      "id": "9ae82498588ec6ef",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[삼성SDS] 삼성SDS, AI 데이터센터 800MW 목표…클라우드 성장 어디까지?(2026년_3Q)",
+      "link": "https://contents.premium.naver.com/bilanxlyc/curiousir/contents/261104162717790fq",
+      "publisher": "네이버 프리미엄콘텐츠",
+      "pubDate": "Wed, 04 Nov 2026 07:27:00 GMT",
+      "keyVisual": "https://scs-phinf.pstatic.net/MjAyNjEwMzBfOTIg/MDAxNzkzMzQ3MDQ3NjQz.dgzWsbHRoT9BnVqgd3wSDl3PJxWfM89qEqtvXmwVDQAg.4DaaUZxq6E041VYdhoZL58mKjgFgbix3NdaVQEj3QfAg.PNG/image.png?type=w800",
+      "activityType": "언론보도",
+      "eventDate": "2026년 11월",
+      "location": null,
+      "format": "컨퍼런스 콜",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2026년 3분기 실적 발표를 통해 클라우드 대외 매출 92% 성장 성과를 공유하고, 2031년까지 AI 인프라 800MW 확장 로드맵과 패브릭스 2.0 출시 등 AI·AX 중심 중장기 성장 전략을 발표했다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:17:14.754Z"
+    },
+    {
+      "id": "efea4fd630acc53f",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Wed, 04 Nov 2026 06:45:56 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "해당 본문은 지디넷코리아의 뉴스레터 구독 신청 안내 정보로 네이버의 마케팅 활동 내용이 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:21:30.718Z"
+    },
+    {
+      "id": "a3bb813786d7860e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[게시판] 새마을금고, LG CNS와 전산시스템 재구축 자문단 출범 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261104091400002",
+      "publisher": "연합뉴스",
+      "pubDate": "Wed, 04 Nov 2026 06:02:30 GMT",
+      "keyVisual": "https://img2.yna.co.kr/etc/inner/KR/2026/11/04/AKR20261104091400002_01_i_P4.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[게시판] 새마을금고, LG CNS와 전산시스템 재구축 자문단 출범 | 연합뉴스",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:19:21.637Z"
+    },
+    {
+      "id": "b7944bb03cc71290",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 구미 AI 데이터센터 착공…2029년 3월 가동 목표",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Fc2s2MEhsQWZld2ZpamRvR21YTzRCbDhnTklJOS1FNFVnYW0wLWsyZzhHQmVpMVJKVG5aNXN6WloweHZiZk9yclRBSkY4djR3SXV4U1hzMVNQTnBQazFPRmlKVHV2dmtBQjVyUURORVhNcDQ?oc=5",
+      "publisher": "오늘경제",
+      "pubDate": "Wed, 04 Nov 2026 00:28:09 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "구미",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 2029년 3월 가동을 목표로 구미 AI 데이터센터 착공에 들어갔습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:17:21.136Z"
+    },
+    {
+      "id": "b885ad3531cdc9c4",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI 호황에도 엇갈린 SI 실적···LG CNS만 수익성 개선",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42VzJsMjBEa3JDYVc1OUNUU3FnbXhsdWtSRkVneW5XQUNjLVhSTmlPT0lSUTdIUmQxVmk5YlRObVhLQ3lMN2hvSFl3MXVYdGRGLU1IVC1pTnNUU3BBYkZRSzB6MDROOEIwU2c?oc=5",
+      "publisher": "서울파이낸스",
+      "pubDate": "Tue, 03 Nov 2026 08:42:42 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "AI 호황 속에서 SI 기업들의 실적이 엇갈리는 가운데 LG CNS만이 수익성 개선을 나타냈습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:20:06.576Z"
+    },
+    {
       "id": "985b47bd336a6110",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -158,6 +444,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-03T02:47:04.576Z"
+    },
+    {
+      "id": "369ff414ef2dc5cd",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[AI 시티 포럼] LG CNS “모든 밸류체인에 AI 적용 추진”",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno",
+      "publisher": "스트레이트뉴스",
+      "pubDate": "Tue, 03 Nov 2026 01:35:49 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 'AI 시티 포럼'에서 모든 밸류체인에 AI 적용을 추진하겠다는 방침을 밝혔습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:19:41.727Z"
     },
     {
       "id": "c33e1414364ca798",
@@ -336,6 +644,28 @@
       "processedAt": "2026-11-03T02:45:44.062Z"
     },
     {
+      "id": "b68d60b43da463bb",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 구미 AI 데이터센터 착공…2029년 3월 본격 가동 목표",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PVjV0cUNNRG4tcWE4SDREQXpGbmViTE1wZUU2c3VLaThhMmlmTzMzMGdoUmdNN1lrVkVJcy16bWR6ZGo1YlVxT3Zxb3Fjb1ZnS1BUOE93T2RiWnBiNG9lelNkZDhvblNCaFZjaEFoRjA?oc=5",
+      "publisher": "신아일보",
+      "pubDate": "Mon, 02 Nov 2026 07:59:32 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 구미 AI 데이터센터 착공을 알리며 2029년 3월 본격 가동을 목표로 하고 있다고 밝혔습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:17:30.885Z"
+    },
+    {
       "id": "d117d5389fc82c81",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -358,6 +688,28 @@
       "processedAt": "2026-11-03T02:47:49.957Z"
     },
     {
+      "id": "a1e0d88f3a9683f1",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SI 넘어 AI 데이터센터로…삼성SDS 구미·LG CNS 자카르타 공략 | DBR",
+      "link": "https://dbr.donga.com/kfocus/view/article_no/3829",
+      "publisher": "동아비즈니스리뷰",
+      "pubDate": "Mon, 02 Nov 2026 06:45:00 GMT",
+      "keyVisual": "https://dbr.donga.com/upload_dir/kfocus/2026/11/20261102.134949205.1_1793752609_6aea7e219fae3.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "인도네시아 자카르타",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 인도네시아 자카르타에 30MW급 AI 데이터센터를 완공하며 국내 기업 최초로 해외 고객 대상 설계·구축·운영(DBO) 사업 성과를 달성하고 글로벌 시장 진출을 가속화했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:19:36.130Z"
+    },
+    {
       "id": "fdfba9615287209e",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -378,6 +730,50 @@
         "llmNote": null
       },
       "processedAt": "2026-11-03T02:45:22.600Z"
+    },
+    {
+      "id": "d3c6a76f4224d831",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 구미 AI 데이터센터 착공·LG CNS 인니 센터 완공…AI 인프라 경쟁 가속",
+      "link": "https://www.chosun.com/economy/tech_it/2026/11/02/NGX7KV5GW5CN5HUVP2CZKILKIA/",
+      "publisher": "조선일보",
+      "pubDate": "Mon, 02 Nov 2026 06:02:58 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/M4SIFJ2ME5E5NM6HOHU4MWDGUU.PNG?auth=20359116da9d20a310b45d4bdd7a79e5b0bf3499c05725be6503db838f10e076&width=1200&height=630&focal=1001,1141",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS 구미 AI 데이터센터 착공·LG CNS 인니 센터 완공…AI 인프라 경쟁 가속",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:20:12.362Z"
+    },
+    {
+      "id": "63644b08106bdbe0",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 지도가 해외에 나가면 어떤 모습일까, 사우디 앱을 써봤다 – 바이라인네트워크",
+      "link": "https://byline.network/2026/11/01_29827172/",
+      "publisher": "바이라인네트워크",
+      "pubDate": "Mon, 02 Nov 2026 02:57:13 GMT",
+      "keyVisual": "https://cdn.byline.network/wp-content/uploads/2026/11/balady_4.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버 지도가 해외에 나가면 어떤 모습일까, 사우디 앱을 써봤다 – 바이라인네트워크",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:21:03.013Z"
     },
     {
       "id": "2f82ddf089056a45",
@@ -1744,6 +2140,28 @@
       "processedAt": "2026-11-02T00:14:47.290Z"
     },
     {
+      "id": "d04f06e11e2153d8",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"1800명 면접 평가에 6시간\"…SK AX, AI 채용 솔루션 선보여",
+      "link": "https://www.news1.kr/it-science/internet-platform/6335826",
+      "publisher": "뉴스1",
+      "pubDate": "Thu, 29 Oct 2026 00:28:39 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2026/6/16/7961058/no_water.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "\"1800명 면접 평가에 6시간\"…SK AX, AI 채용 솔루션 선보여",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:20:17.194Z"
+    },
+    {
       "id": "fcdef91582e13cc4",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -1848,7 +2266,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS를 포함한 주요 기업들의 결산실적공시 등 주요 증시 일정이 보도되었습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-29T00:35:53.372Z"
@@ -1870,7 +2288,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 미국 연방정부 및 국방 분야를 겨냥하여 하와이에서 모바일 보안 사업 확장에 나섰습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 AI 및 클라우드, ERP 중심의 국내외 활동과 달리 미국 연방정부 및 국방 타깃의 모바일 보안 사업 확장을 다루고 있습니다."
       },
       "processedAt": "2026-10-29T00:35:26.966Z"
@@ -1892,7 +2310,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 LG CNS와 함께 AI 공급부터 구축 및 운영 전반을 아우르며 기업 AX(AI 전환) 시장에서 치열하게 경쟁하고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-29T00:35:34.599Z"
@@ -1914,7 +2332,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 삼성SDS와 함께 AI 공급부터 구축 및 운영을 아우르는 기업 AX 시장에서 경쟁을 벌이고 있다는 소식입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 준법경영 인증 중심의 활동 소식들과 달리, 본 건은 기업 AX 시장 내 주요 경쟁 구도 및 사업 역량을 조명하고 있습니다."
       },
       "processedAt": "2026-10-29T00:37:23.223Z"
@@ -1936,7 +2354,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 오는 11월 싱가포르에서 사업전략 설명회를 개최한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 국내 중심 AI·클라우드 마케팅이나 아프리카 협력 소식과 달리 싱가포르에서 직접 해외 사업전략 설명회를 연다는 점이 눈에 띕니다."
       },
       "processedAt": "2026-10-29T00:36:00.829Z"
@@ -1958,7 +2376,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 D-Wave와 아시아 양자컴퓨팅 확산을 위한 업무협약(MOU)을 체결했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 준법경영(ISO 37301) 인증 관련 활동 중심에서 양자컴퓨팅 관련 파트너십(MOU) 체결 활동으로 영역이 달라졌습니다."
       },
       "processedAt": "2026-10-29T00:37:58.599Z"
@@ -1980,7 +2398,7 @@
       "slogan": null,
       "keyMessage": "제시된 본문은 지디넷코리아의 뉴스레터 구독 안내 정보로 삼성SDS의 마케팅 활동 관련 내용을 포함하고 있지 않습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-29T00:35:43.752Z"
@@ -2002,7 +2420,7 @@
       "slogan": null,
       "keyMessage": "제시된 본문은 LG CNS의 마케팅 활동 정보가 아닌 지디넷코리아 뉴스레터 구독 및 사이트 정보입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-29T00:37:15.269Z"
@@ -2024,7 +2442,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 GPU 풀가동을 예고한 가운데, 주요 SI 기업들의 3분기 실적과 AI 사업 전략에 대한 관심이 높아지고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-29T00:36:08.165Z"
@@ -2046,7 +2464,7 @@
       "slogan": null,
       "keyMessage": "LG CNS는 글로벌 양자컴퓨팅 기업 디웨이브와 업무협약을 체결하고, 제조 및 물류 등 산업 현장의 복잡한 최적화 문제를 해결하기 위한 양자컴퓨팅 기반 솔루션 개발과 상용화를 추진한다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 준법경영 인증(ISO 37301) 관련 활동이 주로 이어지던 것과 달리 양자컴퓨팅 기술 기업 디웨이브와의 글로벌 파트너십 체결 및 기술 상용화 발표가 이루어졌습니다."
       },
       "processedAt": "2026-10-29T00:38:16.155Z"
@@ -2068,7 +2486,7 @@
       "slogan": null,
       "keyMessage": "한미약품의 비만신약 처방 시작, SK바이오사이언스의 에볼라 백신 개발 합류, 웰트의 AI 헬스케어 기술 개발 등 제약·바이오 분야의 언론보도 내용입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존 LG CNS의 준법경영 인증 등 IT·클라우드 관련 활동과 달리 LG CNS와의 직접적 연관성이 없는 제약·바이오 분야 기사들로 구성되어 있습니다."
       },
       "processedAt": "2026-10-29T00:37:35.996Z"
@@ -2090,7 +2508,7 @@
       "slogan": null,
       "keyMessage": "미국 AI 기업 앤트로픽의 기업공개(IPO) 공식화에 따라 2023년 투자를 진행한 LG CNS 등 국내 IT 기업들의 투자 차익 기대감이 높아지고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 준법경영 국제표준 인증 중심의 활동과 달리 글로벌 AI 기업 투자 성과 및 재무적 가치 관련 언론보도라는 차이점이 있습니다."
       },
       "processedAt": "2026-10-29T00:37:45.205Z"
@@ -2112,7 +2530,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 앤트로픽 IPO 수혜 기대감 속에서 본질적인 목표인 AX(AI 전환) 시장 선점에 집중하고 있다는 소식입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 지속된 준법경영(ISO 37301) 인증 관련 활동과 달리, 앤트로픽 관련 호재 및 AX 시장 선점이라는 사업적/기술적 전략을 다루고 있습니다."
       },
       "processedAt": "2026-10-29T00:38:08.678Z"
@@ -2244,7 +2662,7 @@
       "slogan": null,
       "keyMessage": "[Tech&] “AI 도입을 넘어 AX로”… 삼성SDS, ‘다차원 AI 풀스택’으로 기업 AX 전환 이끈다",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-28T00:14:43.246Z"
@@ -2266,7 +2684,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 준법경영 국제표준인 'ISO 37301' 인증을 획득했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 AI, 데이터센터, 스마트제조 등 기술 및 사업 중심의 활동들과 달리 준법경영 관련 국제표준 인증 획득이라는 경영 관리 측면의 소식입니다."
       },
       "processedAt": "2026-10-28T00:16:49.175Z"
@@ -2288,7 +2706,7 @@
       "slogan": null,
       "keyMessage": "삼성SDS가 KKR로부터 확보한 1조 2천억 원의 자금을 반년째 정기예금에 보관하고 있어 향후 투자 집행 시점에 관심이 쏠리고 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 AI 솔루션 수주 및 사업 확대 소식들과 달리 KKR 투자금 운용 및 투자 집행 시점에 관한 재무적 이슈를 다루고 있습니다."
       },
       "processedAt": "2026-10-28T00:15:01.921Z"
@@ -2310,7 +2728,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 AI 및 클라우드 사업 영역을 포함하여 준법경영 국제표준 인증을 획득했습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-29T00:37:49.464Z"
@@ -2332,7 +2750,7 @@
       "slogan": null,
       "keyMessage": "[단독] 삼성SDS, 르완다 국가 플랫폼 '이렘보'와 전격 회동…수조원대 아프리카 공공 시장 열리나",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-28T00:14:49.794Z"
@@ -2354,7 +2772,7 @@
       "slogan": null,
       "keyMessage": "LG CNS가 준법경영 국제표준 인증을 획득하고 AI 및 클라우드 사업 전반으로 준법경영 체계를 확대합니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-10-28T00:17:17.090Z"
@@ -2376,7 +2794,7 @@
       "slogan": null,
       "keyMessage": "차세대 ERP 전환 시 신규 구축뿐만 아니라 System Conversion 방식을 적극 고려하면 업무 연속성을 확보하면서 다운타임과 비용을 효율적으로 줄일 수 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 생성형 AI 플랫폼 구축 및 AI 인프라 중심의 마케팅 활동과 달리, SAP 차세대 ERP 전환 전략 및 수행 경험을 담은 인사이트 리포트를 발행했다는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-10-28T00:14:38.160Z"
@@ -46250,6 +46668,28 @@
       "processedAt": "2026-08-19T21:27:14.614Z"
     },
     {
+      "id": "71fa2d4ba2a9c3c5",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, AI가 기업성장 이끄는 ‘에이전틱 엔터프라이즈’ 발표",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yS2ZMQTV2VTFBOHFjYl8yMkp5NUNnbmpOUFhkSks1MVNyZFF2Q0RKREYtNGg2eDI5MEw2SHRXbmU2RzF4cFlKcXhCUDMtWjJzZTMzeVh3OV9BOFY4SVZsX0hsSzVEQQ?oc=5",
+      "publisher": "디일렉",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX, AI가 기업성장 이끄는 ‘에이전틱 엔터프라이즈’ 발표",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:20:25.270Z"
+    },
+    {
       "id": "a94f66be1adb559d",
       "company": "고팍스",
       "category": "디지털 금융",
@@ -46336,6 +46776,72 @@
         "llmNote": null
       },
       "processedAt": "2026-09-22T00:39:00.648Z"
+    },
+    {
+      "id": "d759d359707b7706",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "한국투자증권 “SK, AX 사업 성장 기대…하닉 가치 상승이 NAV 견인”",
+      "link": "https://www.etoday.co.kr/news/view/2585727",
+      "publisher": "이투데이",
+      "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
+      "keyVisual": "https://img.etoday.co.kr/pto_db/2026/05/20260517095418_2334413_1200_900.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-05-19",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "한국투자증권은 SK C&C를 중심으로 한 AX(AI 전환) 사업의 성장과 자회사 지분가치 상승을 바탕으로 SK의 성장이 기대된다고 분석했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 솔루션 및 플랫폼 출시 관련 마케팅 활동과 달리 증권사 리포트를 인용한 기업 가치 및 AX 사업 성장 전망 관련 언론보도입니다."
+      },
+      "processedAt": "2026-11-05T01:20:46.386Z"
+    },
+    {
+      "id": "f6afec8b42aa6a71",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, ‘에이전틱 AI’로 대신증권 IT 운영한다",
+      "link": "https://www.sedaily.com/article/20036006",
+      "publisher": "서울경제",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/04/23/news-p.v1.20260423.74be2a6ef83d48e382a1d4c361692177_Z1.jpg",
+      "activityType": "고객사례",
+      "eventDate": "2026-04-23",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 향후 7년간 대신증권의 IT 운영 전반을 통합 관리하는 사업을 수주하고, 에이전틱 AI 기반 인프라 운영 서비스인 '엑스젠틱와이어 NPO'를 단계적으로 도입합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 HR 및 채용 관련 AI 솔루션(지핏 스튜디오) 출시 위주의 활동과 달리, 금융권 대형 IT 인프라 통합 운영 장기 수주 건이라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-05T01:20:58.530Z"
+    },
+    {
+      "id": "483efc8ee35b5824",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-05T01:20:34.049Z"
     }
   ]
 }
