@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T00:32:40.943Z",
+  "updatedAt": "2026-11-10T08:04:57.441Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,688 @@
   ],
   "activities": [
     {
+      "id": "41ff321141117c49",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "치솟는 카카오 가격에...포도씨·들깨로 초콜릿 만든다고?",
+      "link": "https://www.chosun.com/kid/kid_nie/kid_upper-grades/2026/11/10/ZTAB43SRMFEV7I7VDINQAZZE3M/",
+      "publisher": "조선일보",
+      "pubDate": "Tue, 10 Nov 2026 07:21:00 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/MB3LAVF6CNAH5AX2UXMFCHKFJA.png?auth=11d168ea6208aa3c4a3a5604bdae45bf54453d9caf12c707aeeba9392071d711&width=1200&height=630&smart=true",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "치솟는 카카오 가격에...포도씨·들깨로 초콜릿 만든다고?",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T08:00:58.094Z"
+    },
+    {
+      "id": "8fae265f38a7a8e1",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'투자금 사적 이용 의혹' 김일두 전 카카오브레인 대표 구속 기소",
+      "link": "https://www.newsis.com/view/NISX20261110_0003862509",
+      "publisher": "뉴시스",
+      "pubDate": "Tue, 10 Nov 2026 07:20:05 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/10/01/NISI20261001_0021469702_web.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "김일두 전 카카오브레인 대표가 오픈리서치 투자 유치 과정에서 약 90억 원의 투자금을 도박 등 사적으로 이용한 혐의로 구속 기소되었다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 AI 안전성 협약 및 파트너십 등 긍정적인 마케팅 활동과 달리 전 경영진의 횡령·사기 혐의 구속 기소라는 법적 리스크 이슈를 다루고 있습니다."
+      },
+      "processedAt": "2026-11-10T08:01:50.718Z"
+    },
+    {
+      "id": "f393572ffd3a741c",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'도박인정' 카카오브레인 前대표, 스타트업 투자금 유용 등 기소 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261110122800004",
+      "publisher": "연합뉴스",
+      "pubDate": "Tue, 10 Nov 2026 06:15:38 GMT",
+      "keyVisual": "https://img3.yna.co.kr/photo/yna/YH/2023/01/20/PYH2023012015150001300_P4.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "'도박인정' 카카오브레인 前대표, 스타트업 투자금 유용 등 기소 | 연합뉴스",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T08:01:30.192Z"
+    },
+    {
+      "id": "9a867b4d17ec5cf4",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] 투자금으로 도박·사채…김일두 前 카카오브레인 대표 구속 기소",
+      "link": "https://www.sedaily.com/article/20112391",
+      "publisher": "서울경제",
+      "pubDate": "Tue, 10 Nov 2026 04:11:25 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/11/10/news-p.v1.20261110.778b804bb3354590995224a0fae4dc67_Z1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[단독] 투자금으로 도박·사채…김일두 前 카카오브레인 대표 구속 기소",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T08:01:55.437Z"
+    },
+    {
+      "id": "c9e1988b0eaf0a17",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "서울Pn",
+      "link": "https://go.seoul.co.kr/",
+      "publisher": "서울Pn",
+      "pubDate": "Tue, 10 Nov 2026 03:06:23 GMT",
+      "keyVisual": "//imggo.seoul.co.kr/img/go_share.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문에는 네이버의 마케팅 활동 대신 경기주택도시공사의 수상 및 견본주택 연장 운영, 경기콘텐츠진흥원의 수출상담회 개최 소식이 포함되어 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "네이버의 마케팅 활동과 관련 없는 타 기관 관련 보도 내용으로 구성되어 있습니다."
+      },
+      "processedAt": "2026-11-10T03:10:15.965Z"
+    },
+    {
+      "id": "7b8e42957480245d",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "공정위, 네이버·두나무 기업결합 심의 개시…연내 결론 날 듯 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261110081800002",
+      "publisher": "연합뉴스",
+      "pubDate": "Tue, 10 Nov 2026 03:00:01 GMT",
+      "keyVisual": "https://img6.yna.co.kr/photo/yna/YH/2025/11/27/PYH2025112710150001300_P4.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "공정위, 네이버·두나무 기업결합 심의 개시…연내 결론 날 듯 | 연합뉴스",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T03:10:00.923Z"
+    },
+    {
+      "id": "49fa8d45b753b8f0",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "공정위 사무처, 네이버·두나무 결합 반대 의견···“경쟁제한 가능성 커”",
+      "link": "https://www.khan.co.kr/article/202611101200011",
+      "publisher": "경향신문",
+      "pubDate": "Tue, 10 Nov 2026 03:00:00 GMT",
+      "keyVisual": "https://img.khan.co.kr/news/2026/11/10/rcv.YNA.20251127.PYH2025112710150001300_P1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "공정거래위원회 사무처가 네이버파이낸셜과 두나무의 기업결합에 대해 간편결제 및 가상자산 시장 등의 경쟁 제한 우려를 이유로 반대 의견을 담은 심사보고서를 제출했다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T03:10:25.351Z"
+    },
+    {
+      "id": "57cf3b5d4ed1a151",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Tue, 10 Nov 2026 02:50:23 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "지디넷코리아의 뉴스레터 구독 신청에 대한 안내 정보입니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T08:03:20.322Z"
+    },
+    {
+      "id": "4509c05c523e06b6",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "챗GPT로 그린 라이언의 꿈…카카오, AI 단편 '그래도, 라이언' 공개",
+      "link": "https://www.newsis.com/view/NISX20261110_0003861703",
+      "publisher": "뉴시스",
+      "pubDate": "Tue, 10 Nov 2026 02:12:44 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/11/10/NISI20261110_0002287567_web.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "2026-11-11",
+      "location": "서울 성동구 무비랜드",
+      "format": "온라인 영상 공개 및 오프라인 특별 상영회",
+      "slogan": null,
+      "keyMessage": "카카오가 라이언 데뷔 10주년을 기념하여 오픈AI와의 기술 협업을 통해 챗GPT로 제작한 5분 분량의 단편 애니메이션 '그래도, 라이언'을 공개했다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 AI 안전성 평가 체계 구축이나 금융 컨퍼런스 등 B2B·기술 정책 중심 활동과 달리, 글로벌 AI 기업인 오픈AI와의 기술 협업을 통해 캐릭터 IP 콘텐츠 제작에 생성형 AI를 활용한 점이 특이하다."
+      },
+      "processedAt": "2026-11-10T08:02:56.105Z"
+    },
+    {
+      "id": "493d5553fedd75a5",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS컨소, 석유공사 132억 생성형 AI 사업 우협&hellip;점수 1위 KT는 예가 초과",
+      "link": "https://www.ddaily.co.kr/page/view/2026111010302879018",
+      "publisher": "디지털데일리",
+      "pubDate": "Tue, 10 Nov 2026 01:54:20 GMT",
+      "keyVisual": "/photos/2026/07/24/2026072414343493706_l.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS 컨소시엄이 한국석유공사의 132억원 규모 생성형 AI 플랫폼 구축 및 AX 개발 사업 우선협상대상자로 선정되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 데이터센터 투자 및 하이퍼스케일 센터 기공 소식 중심이었던 것과 달리 공공 부문 대상의 대규모 생성형 AI 플랫폼 구축 사업 수주 성과라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-10T03:08:40.941Z"
+    },
+    {
+      "id": "b2eb68e3e8ea4421",
+      "company": "NHN",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "NHN, 3분기 영업익 두배 '껑충'…\"역대 최대 실적\"",
+      "link": "https://news.bizwatch.co.kr/article/mobile/2026/11/10/0013",
+      "publisher": "비즈워치",
+      "pubDate": "Tue, 10 Nov 2026 01:47:02 GMT",
+      "keyVisual": "https://cdn.bizwatch.co.kr/news/photo/2024/08/01/7d5590ff67ca70a61a9186737607bd10.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "NHN은 게임, 결제, 클라우드 부문의 고른 성장에 힘입어 올해 3분기 역대 최대 실적을 달성했으며, 향후 AI 에이전트 결제 인프라 구축 및 GPU 데이터센터 확충 등 신사업 성장에 집중할 계획이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T08:04:38.332Z"
+    },
+    {
+      "id": "f499f78c6ecf179e",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "챗GPT가 그리고 사람이 다듬었다… 카카오, AI 애니메이션 선봬",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QcFdEbDJmMldLcDFWTmZMM2pRMHI4ckhQcnJ1UlEybC1qTkt0WWM2T3hhT1RIQ0dkbS1zYjl6Z3lvM0NPQk9VcG5rdi0wZUEyRVZ6ZGZ4VE56ZDh4RTJBREZVZlI2d1dYUk9QOENKZFLSAXRBVV95cUxQaUgxcHZ5SEFKVUQybHcydE5ZNUYxWGtTNXpIMWxZV1FqMDg4QWRqMjhuSloyOERQZThjNkh6akh3ejJkWVVnR1lJOHB6MkJKNmxGQ081VkU3ckZUQUQyczNlRkNHSjFDOVlISEVvYWJwOXNRaQ?oc=5",
+      "publisher": "IT조선",
+      "pubDate": "Tue, 10 Nov 2026 01:31:18 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오가 챗GPT와 창작자의 작업을 결합하여 제작한 AI 애니메이션을 선보였다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 AI 안전성 평가 협약이나 금융 콘퍼런스 개최 등 B2B·제도적 활동 위주에서 벗어나 생성형 AI를 활용한 애니메이션 콘텐츠를 직접 공개했다는 차이점이 있다."
+      },
+      "processedAt": "2026-11-10T08:02:42.401Z"
+    },
+    {
+      "id": "f9a47bd529daca38",
+      "company": "NHN",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[장중수급포착] NHN, 기관 8일 연속 순매수행진... 주가 +29.87%",
+      "link": "https://www.newspim.com/news/view/20261110000599",
+      "publisher": "뉴스핌",
+      "pubDate": "Tue, 10 Nov 2026 01:24:00 GMT",
+      "keyVisual": "https://img.newspim.com/etc/newspim_sns_logo_201x201_v1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[장중수급포착] NHN, 기관 8일 연속 순매수행진... 주가 +29.87%",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T08:04:03.300Z"
+    },
+    {
+      "id": "bc49d890b2f81269",
+      "company": "NHN",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "NHN, 3분기 영업익 113%↑⋯결제·클라우드가 견인",
+      "link": "https://www.viva100.com/article/20261110500278",
+      "publisher": "브릿지경제",
+      "pubDate": "Tue, 10 Nov 2026 00:22:00 GMT",
+      "keyVisual": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/11/10/.cache/512/20261110500146.jpg?v=20261110170339",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "NHN이 결제 및 기술(클라우드) 부문의 성장에 힘입어 3분기 역대 최대 분기 실적을 달성하고, 향후 AI 인프라와 신규 결제 인프라 확대를 적극 추진할 방침이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T08:03:58.725Z"
+    },
+    {
+      "id": "9ed817406cb07501",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 구미 AI 데이터센터 착공 - 한국공공정책신문",
+      "link": "http://knpp.co.kr/news/583738",
+      "publisher": "knpp.co.kr",
+      "pubDate": "Mon, 09 Nov 2026 23:03:08 GMT",
+      "keyVisual": "https://img.ehom.kr/news/2026/11/10/01d8f122570cf9e32514d26cf0b39930080155_thumb.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, 구미 AI 데이터센터 착공 - 한국공공정책신문",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T03:09:28.516Z"
+    },
+    {
+      "id": "4ea4814461345dcb",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독]카카오뱅크 애플페이, 100분간 열렸다…“결제도 성공”",
+      "link": "https://www.etnews.com/20261110000010",
+      "publisher": "전자신문",
+      "pubDate": "Mon, 09 Nov 2026 22:22:30 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.193c1e422adb4624a6cc4328a3c464b4_P1.png",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오뱅크가 애플페이 정식 서비스를 앞두고 테스트를 진행하던 중 카카오뱅크 체크카드 및 미니카드의 애플페이 등록과 결제 기능이 일시적으로 열리며 서비스 출시가 임박했음이 확인되었습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 AI 안전성 연구 협력 및 디지털자산 컨퍼런스 중심의 활동과 달리, 금융 핀테크 서비스의 애플페이 결제 연동 및 사전 기능 테스트와 관련된 내용입니다."
+      },
+      "processedAt": "2026-11-10T08:02:17.142Z"
+    },
+    {
+      "id": "bae1744c5bf7bb05",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오, 라이언의 첫 AI 단편 애니메이션 <그래도, 라이언> 공개",
+      "link": "https://www.kakaocorp.com/page/detail/12195",
+      "publisher": "카카오",
+      "pubDate": "Mon, 09 Nov 2026 22:10:35 GMT",
+      "keyVisual": "https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/news/c2ba6c5301a100001.jpg?type=thumb&opt=C800x400",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오, 라이언의 첫 AI 단편 애니메이션 <그래도, 라이언> 공개",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T08:02:32.529Z"
+    },
+    {
+      "id": "751148f36a2556fc",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[빅데이터로본다] IT서비스 상장기업 2026년 11월 브랜드평판... 1위 삼성SDS, 2위 현대오토에버, 3위 카카오페이",
+      "link": "https://www.dtoday.co.kr/news/articleView.html?idxno",
+      "publisher": "일간투데이",
+      "pubDate": "Mon, 09 Nov 2026 21:02:58 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[빅데이터로본다] IT서비스 상장기업 2026년 11월 브랜드평판... 1위 삼성SDS, 2위 현대오토에버, 3위 카카오페이",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T03:09:09.749Z"
+    },
+    {
+      "id": "6139402ea02edf8f",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "젠슨 황 스캔들 하루 전 네이버 1.3조 지분 투자 마무리…'AI 팩토리' 동맹 괜찮나",
+      "link": "https://www.newsis.com/view/NISX20261109_0003860688",
+      "publisher": "뉴시스",
+      "pubDate": "Mon, 09 Nov 2026 21:00:00 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/10/20/NISI20261020_0001677185_web.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "젠슨 황 스캔들 하루 전 네이버 1.3조 지분 투자 마무리…'AI 팩토리' 동맹 괜찮나",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T03:10:46.006Z"
+    },
+    {
+      "id": "74209a0e96e2c588",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버·카카오 AI, 선택할 이유부터 보여줘야 [줌인IT]",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0NXNDbU4yQkNZVldrcUtTdi1pdi1Pa2IzZmJwcHp1ZlJ1TF9qWkF2cHNYU3JWcW96QzY5c3ZyRW9KRHNzZzBOTnVBdXUxOWhOZTViYmxWTXMwdWRQZlhRQ3lmSm54T3ozQW9fTFk2RXfSAXRBVV95cUxOVUNQejkzaUV6dFBzZDFwcHNzN2hzMHJKOVFFVWhyLTRobWRRV1A1MFpzQTVuZUpIQ01yNGpZNnA0dmkxVGRqMWw1YkNFWkxSN2ZXU1B1c010N0xqdUVlanFPVkUzdG9yRFBWVFlZYU54WGlvNg?oc=5",
+      "publisher": "IT조선",
+      "pubDate": "Mon, 09 Nov 2026 21:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버·카카오 AI, 선택할 이유부터 보여줘야 [줌인IT]",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T03:10:55.728Z"
+    },
+    {
+      "id": "4aa7f340a72baada",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] 직원 공개 질책하고 업무 배제한 네이버 임원, 직내괴로 징계",
+      "link": "https://www.news1.kr/it-science/internet-platform/6348072",
+      "publisher": "뉴스1",
+      "pubDate": "Mon, 09 Nov 2026 09:08:12 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2025/2/7/7119270/high.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 직원을 공개 질책하고 업무 배제한 임원에 대해 직장 내 괴롭힘으로 징계를 내렸다는 언론 보도입니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 서비스 업데이트, 합병 설명, 저작권 소송 관련 소식과 달리 임원의 직장 내 괴롭힘 징계라는 내부 인사 이슈를 다루고 있어 특이점이 있습니다."
+      },
+      "processedAt": "2026-11-10T03:10:33.226Z"
+    },
+    {
+      "id": "8ca2f0513080b588",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[클릭 e종목]\"삼성SDS, 데이터센터 추가 확보 기대…목표가 ↑\"",
+      "link": "https://core.asiae.co.kr/article/2026110915263348144",
+      "publisher": "아시아경제",
+      "pubDate": "Mon, 09 Nov 2026 09:04:00 GMT",
+      "keyVisual": "https://cphoto.asiae.co.kr/listimglink/1/2026110419264387069_1793788003.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[클릭 e종목]\"삼성SDS, 데이터센터 추가 확보 기대…목표가 ↑\"",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T03:08:51.671Z"
+    },
+    {
+      "id": "1c8bc4116ae3fcad",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오페이증권제1호스팩 등 총 3개사, 코스닥 상장예심 신청 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261109146200008",
+      "publisher": "연합뉴스",
+      "pubDate": "Mon, 09 Nov 2026 08:47:27 GMT",
+      "keyVisual": "https://img9.yna.co.kr/photo/cms/2026/06/25/83/PCM20260625000183990_P4.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-11-09",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오페이증권이 첫 스팩(SPAC) 프로젝트인 '카카오페이증권제1호스팩'의 코스닥 상장예비심사를 신청하며 IB 사업 단계적 확대에 나섰다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존 AI 안전성 협력 및 콘퍼런스 개최 중심 활동과 달리 카카오페이증권의 첫 스팩 상장 추진을 통한 투자금융(IB) 사업 확장 소식을 다루고 있다."
+      },
+      "processedAt": "2026-11-10T08:03:37.161Z"
+    },
+    {
+      "id": "a59ccb4ec598e54c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성, 영남 60조 투자 첫발 뗐다",
+      "link": "https://www.hankyung.com/article/2026110941671",
+      "publisher": "한국경제",
+      "pubDate": "Mon, 09 Nov 2026 06:42:53 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202611/AA.46359240.1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성, 영남 60조 투자 첫발 뗐다",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T03:09:33.797Z"
+    },
+    {
+      "id": "688df2544a9cb227",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 국내 기업 최초 해외 AI데이터센터 완공",
+      "link": "https://www.hankyung.com/article/2026110941661",
+      "publisher": "한국경제",
+      "pubDate": "Mon, 09 Nov 2026 06:42:11 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202611/AA.46359239.1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "인도네시아 자카르타",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 국내 기업 최초로 인도네시아 자카르타에 30MW급 해외 AI 데이터센터를 완공하고 글로벌 DBO(설계·구축·운영) 시장 공략에 본격 나섰습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T03:09:49.774Z"
+    },
+    {
+      "id": "bb0cbf3f21882ada",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Mon, 09 Nov 2026 06:26:51 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T03:10:38.860Z"
+    },
+    {
+      "id": "ce31abfdaf8a68a5",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "푸조, 네이버 공식 스토어 시승 신청 서비스 도입",
+      "link": "https://www.autoview.co.kr/ko-kr/articles/102426",
+      "publisher": "오토뷰",
+      "pubDate": "Mon, 09 Nov 2026 05:54:00 GMT",
+      "keyVisual": "https://cdn.www.autoview.co.kr/w1200/q100/f_jpg/article-images/2026-11-09/c3b810d2-c309-42d4-9296-f95b29cdf96b.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "푸조, 네이버 공식 스토어 시승 신청 서비스 도입",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T08:00:37.208Z"
+    },
+    {
+      "id": "4720c8f67a994069",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, IT서비스 매출 절반이 '클라우드'···저마진 SI 줄이고 AX로",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iYmRzS3F0dWFndUptTER4aDhOWkt6aE5LRTNtQktFOVhLMFJ3SUFTc09uT3NtNDAzTEFRVjFFYUFsTEx5RDcteVVqMklFNG9MX1pVcDhoQ2JBNFFuWlBIMV9mT1dNY19HNHc?oc=5",
+      "publisher": "뉴스웨이",
+      "pubDate": "Mon, 09 Nov 2026 05:25:17 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, IT서비스 매출 절반이 '클라우드'···저마진 SI 줄이고 AX로",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T03:09:15.708Z"
+    },
+    {
+      "id": "129ebc4332f07cd5",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "하나증권 \"데이터센터 규제·앤트로픽 상장 불확실성에도 증시 저점 형성, 기업용 AI 수혜주는 삼성SDS\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yaUN3TV94WG5SUnZucGRPY3VEWWhMZTY1VVJnNzZxdm91bFdZenJhbWRWMmJNYnVkWndlOHZBLVZ3Z3Njb3ViYjN0NTNaZHN2ZmYwcW5KZENCY3A5U2pPZzVtd3o5OHF2WlpDQTJGTUF3UFk?oc=5",
+      "publisher": "비즈니스포스트",
+      "pubDate": "Mon, 09 Nov 2026 00:40:01 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "하나증권 \"데이터센터 규제·앤트로픽 상장 불확실성에도 증시 저점 형성, 기업용 AI 수혜주는 삼성SDS\"",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T03:09:01.375Z"
+    },
+    {
+      "id": "7c1babbc07e6b533",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "美 데이터센터 규제에 반사이익?…메리츠證 \"네이버·삼성SDS에 기회\" By EBN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJdGlPZEMzWVpENmo0V2RWX3lMdGFKaW0tMS1sV21CajdEN0hxNnBEcXpLOXd1RzZaa2V3OXM1TDBrY1ZIalJHV0ludzZjb0hON0tKbGMtRkRCWlptTW91ZmRFQU50OVNQbHBtY3pNVTk?oc=5",
+      "publisher": "Investing.com 한국어",
+      "pubDate": "Mon, 09 Nov 2026 00:34:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "메리츠증권은 미국 데이터센터 규제 강화에 따라 네이버와 삼성SDS가 반사이익을 얻을 수 있는 기회를 맞이할 것으로 전망했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T03:08:47.341Z"
+    },
+    {
+      "id": "de68b8508bfeb284",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "푸조, 네이버서 시승 신청까지 한 번에…공식 스토어 서비스 확대 - 머니투데이",
+      "link": "https://www.mt.co.kr/industry/2026/11/09/2026110909180970653",
+      "publisher": "머니투데이",
+      "pubDate": "Mon, 09 Nov 2026 00:33:26 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026110909180970653_1.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": "온라인 서비스",
+      "slogan": null,
+      "keyMessage": "푸조가 네이버 공식 스토어에 시승 신청 서비스를 도입하여 고객이 별도 회원가입 없이 네이버 계정만으로 차량 탐색부터 시승 신청, 구매 예약까지 한 번에 이용할 수 있도록 했다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 법적 분쟁이나 자체 서비스 개편 이슈 위주였던 활동들과 달리 수입차 브랜드 푸조와의 이커머스 및 시승 연동 서비스 제휴를 다루고 있습니다."
+      },
+      "processedAt": "2026-11-10T08:00:17.321Z"
+    },
+    {
       "id": "4dafd57ba3ec57aa",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -138,6 +820,28 @@
       "processedAt": "2026-11-09T00:30:17.671Z"
     },
     {
+      "id": "f5f5b02e793f95f8",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd",
+      "publisher": "KBS 뉴스",
+      "pubDate": "Sun, 08 Nov 2026 23:34:00 GMT",
+      "keyVisual": "//news.kbs.co.kr/resource/image/common/img_meta.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "KBS 뉴스",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T08:00:05.099Z"
+    },
+    {
       "id": "230904179403edbd",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -176,7 +880,7 @@
       "slogan": null,
       "keyMessage": "제시된 본문은 KBS 뉴스의 하단 공지 및 저작권 정보로 네이버의 마케팅 활동 내용이 포함되어 있지 않습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "네이버의 마케팅 활동이 아닌 KBS 뉴스의 푸터 정보가 수집된 점이 특이합니다."
       },
       "processedAt": "2026-11-09T00:32:11.132Z"
@@ -246,6 +950,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-09T00:31:37.731Z"
+    },
+    {
+      "id": "eea82bf86d95ef50",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "또 ‘최대실적’ 현신균, LG CNS 새판 짠다 [오늘의 리더]",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hRTZlZmdxSTc2Ykl1SENkRDhQdWxUcng2SnBPblc2b1hCQ1FsSE13bnJEV3dMbDNiS0dKNVpzYTByZDRvRkhPcnFUSnJXV3NKOU05QW4xc1loY0ZtdWxHLWM0R3ZCZnJHZXEw?oc=5",
+      "publisher": "시사오늘",
+      "pubDate": "Sat, 07 Nov 2026 22:30:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "또 ‘최대실적’ 현신균, LG CNS 새판 짠다 [오늘의 리더]",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-10T03:09:53.043Z"
     },
     {
       "id": "7654e47ff4470817",
@@ -330,7 +1056,7 @@
       "slogan": null,
       "keyMessage": "지상파 3사가 네이버를 상대로 AI 저작권 침해에 따른 손해액이 각각 400억 원대에 달한다며 소송을 제기한 내용이다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 서비스 출시나 마케팅·파트너십 활동과 달리 지상파 3사와의 대규모 AI 저작권 소송이라는 법적 분쟁 및 리스크 관련 이슈이다."
       },
       "processedAt": "2026-11-09T00:32:18.685Z"
@@ -352,7 +1078,7 @@
       "slogan": null,
       "keyMessage": "네이버, '광고주센터→네이버애즈' 명칭 변경…AI 에이전트 기능 추가 - 머니투데이",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-11-05T01:21:14.272Z"
@@ -484,7 +1210,7 @@
       "slogan": null,
       "keyMessage": "한국경제TV의 두나무와 네이버 합병 관련 보도에 대해 설명하는 공식 자료입니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 일반적인 AI 서비스 출시 및 해외 인프라 투자 등과 달리 대형 M&A 보도 대응 관련 활동이라는 특이점이 있습니다."
       },
       "processedAt": "2026-11-05T01:21:39.516Z"
@@ -550,7 +1276,7 @@
       "slogan": null,
       "keyMessage": "해당 본문은 지디넷코리아의 뉴스레터 구독 신청 안내 정보로 네이버의 마케팅 활동 내용이 포함되어 있지 않습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-11-05T01:21:30.718Z"
