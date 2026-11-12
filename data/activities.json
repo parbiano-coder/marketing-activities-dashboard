@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T08:04:57.441Z",
+  "updatedAt": "2026-11-12T08:00:30.479Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,490 @@
   ],
   "activities": [
     {
+      "id": "9276f59caf2026b2",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 국내외 로봇 석학과 머리 맞댔다…RX 전략 가속",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkblRKNFpodEo0NkEzMEhGX0dxdWp5ME1lU2FxOGtEbU5zbEdCZ2Q0dVJxN0tYdl9DX1c3MC1CQV85N3NYc042bFdONkVfZ1hjVUZEZXlDc09yMGJtVjM1eWpIZUw?oc=5",
+      "publisher": "매일일보",
+      "pubDate": "Thu, 12 Nov 2026 01:12:19 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 국내외 로봇 분야 석학들과의 협력을 통해 로봇 전환(RX) 전략 추진을 가속화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:09:04.006Z"
+    },
+    {
+      "id": "8718cf5070eb5d2c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, ‘로보틱스 & 피지컬 AI 포럼’ 개최…AI 산업 적용 해법 모색",
+      "link": "https://www.inthenews.co.kr/news/article.html?no",
+      "publisher": "인더뉴스",
+      "pubDate": "Thu, 12 Nov 2026 01:00:42 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, ‘로보틱스 & 피지컬 AI 포럼’ 개최…AI 산업 적용 해법 모색",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:09:16.029Z"
+    },
+    {
+      "id": "8b80418d041e8cf4",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 글로벌 로봇 전문가들과 피지컬 AI 산업 활용 방안 논의",
+      "link": "https://www.sentv.co.kr/article/view/sentv202611120002",
+      "publisher": "서울경제TV",
+      "pubDate": "Thu, 12 Nov 2026 01:00:05 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/11/12/sentv20261112000002.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": "서울 마곡 본사 퓨처로보틱스 랩",
+      "format": "오프라인 포럼",
+      "slogan": null,
+      "keyMessage": "LG CNS가 국내외 로봇 및 AI 전문가 100여 명과 함께 '2026 로보틱스·피지컬 AI 포럼'을 개최하고, 피지컬 AI 기술의 핵심 연구 성과 공유 및 산업 현장 적용 방안을 논의했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:09:13.842Z"
+    },
+    {
+      "id": "7047dfe7274cbb0e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, '로보틱스 & 피지컬 AI 포럼' 개최…산업 적용 해법 모색",
+      "link": "https://www.etnews.com/20261112000048",
+      "publisher": "전자신문",
+      "pubDate": "Thu, 12 Nov 2026 01:00:00 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/11/12/news-p.v1.20261112.38776a5bd2084fcab56105e5769379e5_P1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, '로보틱스 & 피지컬 AI 포럼' 개최…산업 적용 해법 모색",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:08:33.344Z"
+    },
+    {
+      "id": "ee5c50fce0a46cf8",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 글로벌 로봇 연구진들과 피지컬 AI 산업 적용 논의",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno",
+      "publisher": "디지털투데이",
+      "pubDate": "Thu, 12 Nov 2026 01:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 글로벌 로봇 연구진들과 피지컬 AI 산업 적용 논의",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:09:25.220Z"
+    },
+    {
+      "id": "2405fb5ea365ef0e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, ‘로보틱스·피지컬 AI 포럼’ 개최…산업 적용 방향 논의",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEM04tbE9KSE1kazJZeFdPTUFxaVAteU1pM1QtcEhWaHJJMWJ1SnMxYlBmbHdpX0lHdEd1VUxVSTlyOUF2SFpUT0pVdllqSmNQTDJETkxvME1EUUpjTXFWMVctQTBCaVNs?oc=5",
+      "publisher": "테크월드",
+      "pubDate": "Thu, 12 Nov 2026 01:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, ‘로보틱스·피지컬 AI 포럼’ 개최…산업 적용 방향 논의",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:09:40.614Z"
+    },
+    {
+      "id": "9403e45f08faf6b7",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "파리바게뜨, 내년까지 '네이버플러스 멤버십' 회원 10% 할인·적립",
+      "link": "https://www.news1.kr/industry/distribution/6351332",
+      "publisher": "뉴스1",
+      "pubDate": "Thu, 12 Nov 2026 00:13:07 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2026/11/12/8209976/high.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-11-12",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 파리바게뜨와 제휴를 맺고 내년까지 네이버플러스 멤버십 회원을 대상으로 10% 할인 및 적립 혜택을 제공한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 기술 투자 및 기업결합 등 기술·경영 중심 이슈와 달리 리테일 프랜차이즈와의 B2C 멤버십 제휴 혜택 활동이다."
+      },
+      "processedAt": "2026-11-12T08:00:18.344Z"
+    },
+    {
+      "id": "d8c2f71229523737",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 경영진 직접소통·현장IR…배당예측 가능성도↑ - 머니투데이",
+      "link": "https://www.mt.co.kr/index.php/stock/2026/11/12/2026111107292627523",
+      "publisher": "머니투데이",
+      "pubDate": "Wed, 11 Nov 2026 20:02:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=396,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/11/2026111107292627523_1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 경영진 직접소통·현장IR…배당예측 가능성도↑ - 머니투데이",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:09:38.399Z"
+    },
+    {
+      "id": "9c500cbeeec04f68",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "부산항만공사-삼성SDS, ‘디지털·AI 항만, 물류 혁신’ MOU",
+      "link": "https://www.klnews.co.kr/news/articleView.html?idxno",
+      "publisher": "물류신문",
+      "pubDate": "Wed, 11 Nov 2026 16:21:55 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 부산항만공사와 '디지털·AI 항만, 물류 혁신'을 위한 업무협약(MOU)을 체결했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:08:22.866Z"
+    },
+    {
+      "id": "09dd6179f2fd1602",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성 국가핵심기술 中 유출하려다 발각…업체 임직원 7명 기소",
+      "link": "https://www.chosun.com/national/national_general/2026/11/11/5KMM3KO4ZVAANI7TLLYJSLBQBA/",
+      "publisher": "조선일보",
+      "pubDate": "Wed, 11 Nov 2026 07:56:07 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/UNVVL32YLJIJVK6CVT7VNK6FTM.jpg?auth=3921f508be8ef1ff410930687e90a240284a86df9c88898482e2c86e263220e5&width=1200&height=630&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성의 국가핵심기술을 중국으로 유출하려던 관련 업체 임직원 7명이 발각되어 기소되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 생성형 AI 수주, 데이터센터 착공 등 긍정적인 비즈니스 소식과 달리 기술 유출 기소라는 부정적 이슈를 다룬 언론보도입니다."
+      },
+      "processedAt": "2026-11-12T02:06:26.614Z"
+    },
+    {
+      "id": "e0482ce7edba768a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Wed, 11 Nov 2026 07:49:51 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "본문 내용에 삼성SDS의 구체적인 마케팅 활동 정보가 명시되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:06:35.513Z"
+    },
+    {
+      "id": "a6c226a16305767b",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성디스플레이 기술 유출 시도·삼성SDS 솔루션 무단 도용‥협력사 임직원 등 7명 기소",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6864889_36918.html",
+      "publisher": "MBC 뉴스",
+      "pubDate": "Wed, 11 Nov 2026 07:49:48 GMT",
+      "keyVisual": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/11/11/ljm_20261111_8.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-11-11",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 공장자동화 솔루션을 무단 도용해 영업비밀을 유출하고 불법 사업을 수행한 협력업체 관계자들이 재판에 넘겨졌습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 데이터센터 구축 및 사업 수주 등 긍정적인 동향 발표와 달리, 자사 솔루션 무단 도용 피해 및 검찰 기소 관련 사건 보도라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-12T02:07:10.525Z"
+    },
+    {
+      "id": "893ec0ee05eb9a72",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "아시아투데이",
+      "link": "https://www.asiatoday.co.kr/error.php?code=3",
+      "publisher": "아시아투데이",
+      "pubDate": "Wed, 11 Nov 2026 07:45:43 GMT",
+      "keyVisual": "https://img.asiatoday.co.kr/social/kr_asiatoday_og.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "아시아투데이",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:06:40.048Z"
+    },
+    {
+      "id": "4f2349298a63c677",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성 핵심기술 中 유출하려다 덜미…업체 임직원 7명 기소",
+      "link": "https://www.fnnews.com/news/202611111602086442",
+      "publisher": "파이낸셜뉴스",
+      "pubDate": "Wed, 11 Nov 2026 07:11:57 GMT",
+      "keyVisual": "https://image.fnnews.com/resource/media/image/2026/09/03/202609030924031443_e.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성 핵심기술 中 유출하려다 덜미…업체 임직원 7명 기소",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:08:09.664Z"
+    },
+    {
+      "id": "9a9d823bd51ef1b0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "항공 이어 해상까지…삼성SDS, 물류 경쟁력 강화 속도",
+      "link": "https://www.sentv.co.kr/article/view/sentv202611110087",
+      "publisher": "서울경제TV",
+      "pubDate": "Wed, 11 Nov 2026 05:19:20 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/11/11/sentv20261111000082.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "항공 이어 해상까지…삼성SDS, 물류 경쟁력 강화 속도",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:08:06.120Z"
+    },
+    {
+      "id": "fde63cd4df3a7728",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[메트로 창간 24주년 기획_리부트 코리아] SK AX, 제조 시장·인재 육성 공략…현장형 AX 박차",
+      "link": "https://www.metroseoul.co.kr/article/20261111500347",
+      "publisher": "메트로신문",
+      "pubDate": "Wed, 11 Nov 2026 05:14:00 GMT",
+      "keyVisual": "//cdn.emetro.co.kr/data2/content/image/2026/11/11/.cache/512/20261111500348.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "SK AX가 제조 현장 지능화, 북미 물류 자동화 및 AI 인재 역량진단 솔루션을 중심으로 실행력 있는 현장형 AI 전환(AX) 사업을 가속화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 채용 솔루션(지핏 스튜디오) 단일 제품 출시에 집중되었던 활동에 비해 북미 제조 물류 자동화 및 글로벌 파트너십을 포함한 전사적 현장형 AX 사업 전략을 종합적으로 소개하고 있습니다."
+      },
+      "processedAt": "2026-11-12T02:09:58.107Z"
+    },
+    {
+      "id": "bfea0db2bb628a97",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Wed, 11 Nov 2026 02:53:50 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "ZDNet Korea의 뉴스레터 구독 신청 관련 안내 문구입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:08:48.890Z"
+    },
+    {
+      "id": "db03e8520fc0a1b7",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "부산항만공사·삼성SDS, AI 기반 스마트항만 구축 협력",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LY2luSjhOR2ZVR3p4OWl1S1dLcmZxSlBQbUVMTEwzMm9lTWRrNWdDZWRVQldxVU9xTEdyUEtNQ3ZNNXZpbDNwSktwSlY3N2JBTDBPeUx3aHVLc2tkM0x1WVBGN18yUWlOdHNtZDd3?oc=5",
+      "publisher": "폴리뉴스 Polinews",
+      "pubDate": "Wed, 11 Nov 2026 02:16:05 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS와 부산항만공사가 AI 기반의 스마트항만 구축을 위해 협력합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:06:51.548Z"
+    },
+    {
+      "id": "0de7e56c145ae226",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 기업 AI 전환의 판 바꾼다…'에이전틱 AI'로 산업 혁신 가속",
+      "link": "https://www.koreaittimes.com/news/articleView.html?idxno",
+      "publisher": "Korea IT Times",
+      "pubDate": "Wed, 11 Nov 2026 02:03:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 에이전틱 AI를 통해 산업 혁신을 가속화하고 기업의 AI 전환을 주도하겠다는 비전을 밝혔습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 HR·채용 솔루션인 '지핏 스튜디오' 출시 중심의 활동에서 산업 전반의 '에이전틱 AI' 기반 기업 AI 전환 전략 발표로 주제를 확장했습니다."
+      },
+      "processedAt": "2026-11-12T02:10:05.128Z"
+    },
+    {
+      "id": "6b408cd003c6394a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "부산항만공사-삼성SDS, 디지털화 스마트항만 구축 협력",
+      "link": "https://www.metroseoul.co.kr/article/20261111500101",
+      "publisher": "메트로신문",
+      "pubDate": "Wed, 11 Nov 2026 01:18:34 GMT",
+      "keyVisual": "//cdn.emetro.co.kr/data2/content/image/2026/11/11/.cache/512/20261111500102.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "10일",
+      "location": "부산항만공사",
+      "format": "업무협약식",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 부산항만공사와 업무협약을 체결하고, 부산항의 디지털·AI 전환 및 스마트항만 구축을 위해 글로벌 물류, AI, 클라우드 등 IT 서비스 역량을 바탕으로 긴밀히 협력한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 데이터센터 착공 및 공공 AI 플랫폼 구축 위주의 활동과 비교해, 물류·항만 분야 공기업과의 디지털·AI 전환(AX) 파트너십이라는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-11-12T02:06:59.179Z"
+    },
+    {
+      "id": "88fd3eab56460b46",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI·금융 두 축으로 성과 낸 현신균...LG CNS 성장 이끌다",
+      "link": "https://www.insight.co.kr/news/581500",
+      "publisher": "인사이트",
+      "pubDate": "Wed, 11 Nov 2026 00:57:46 GMT",
+      "keyVisual": "https://img.insight.co.kr/static/2026/11/11/1200/img_20261111095324_29501q3i.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "AI·금융 두 축으로 성과 낸 현신균...LG CNS 성장 이끌다",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:08:55.101Z"
+    },
+    {
+      "id": "39b845cdfff28535",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS·LG CNS, 증시 급락 전보다 10% 넘게 올라…배경은",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5RW1oY2I4R3NjSHZvYy1zUnB5blBJZUY1UHFSSVVLUWI2a3l1SERnZllHcDh4WlBMZU93U2o5ekhYNEFKNGRYLW9Ba3pCWUJ4Rml6YjIzcUNDa1MzbzVKOEUySnRTYzI3Sm4yNVR0VnbSAXRBVV95cUxNM05YQnZnbnZOZ3dRWjZBOTlkX2xFZXVDcjJTTldSMTBGNDIzdkI3ckZWXzUzSmtVYURONFdsb2NxcVdwcXBtUXBJY0dLX0pyRXNraU00OWVvNTlSRy1jYjhQeWp6M1JuOHYyb1pzc1ROWHlQaA?oc=5",
+      "publisher": "IT조선",
+      "pubDate": "Tue, 10 Nov 2026 08:01:52 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS와 LG CNS의 주가가 증시 급락 전 대비 10% 이상 상승한 배경을 다룬 언론보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-12T02:08:29.794Z"
+    },
+    {
       "id": "41ff321141117c49",
       "company": "카카오",
       "category": "IT 서비스",
@@ -136,6 +620,28 @@
         "llmNote": "기존의 AI 안전성 협약 및 파트너십 등 긍정적인 마케팅 활동과 달리 전 경영진의 횡령·사기 혐의 구속 기소라는 법적 리스크 이슈를 다루고 있습니다."
       },
       "processedAt": "2026-11-10T08:01:50.718Z"
+    },
+    {
+      "id": "d899d84821f2747c",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독]네이버, 6년 만에 멤버십서 '플러스' 뗀다…슈퍼클럽·오프라인 혜택 강화",
+      "link": "https://www.etnews.com/20261110000305",
+      "publisher": "전자신문",
+      "pubDate": "Tue, 10 Nov 2026 07:00:00 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/11/10/news-p.v1.20261110.f3b36dddeb4a4348afdb7a9d7fff3f7c_P1.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 기존 '네이버플러스 멤버십'을 '네이버 멤버십'으로 6년 만에 리브랜딩하며, 온라인 커머스 중심이었던 혜택을 오프라인 및 엔터테인먼트 영역으로 대폭 확장한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 지분 투자 및 기업결합 심의 등 B2B·경영 이슈 위주였던 행보와 달리, 일반 이용자를 대상으로 한 B2C 유료 구독 서비스 리브랜딩 및 오프라인 혜택 확장 전략을 선보였다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-12T08:00:08.497Z"
     },
     {
       "id": "f393572ffd3a741c",
@@ -198,7 +704,7 @@
       "slogan": null,
       "keyMessage": "제시된 본문에는 네이버의 마케팅 활동 대신 경기주택도시공사의 수상 및 견본주택 연장 운영, 경기콘텐츠진흥원의 수출상담회 개최 소식이 포함되어 있습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "네이버의 마케팅 활동과 관련 없는 타 기관 관련 보도 내용으로 구성되어 있습니다."
       },
       "processedAt": "2026-11-10T03:10:15.965Z"
@@ -220,7 +726,7 @@
       "slogan": null,
       "keyMessage": "공정위, 네이버·두나무 기업결합 심의 개시…연내 결론 날 듯 | 연합뉴스",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-11-10T03:10:00.923Z"
@@ -242,7 +748,7 @@
       "slogan": null,
       "keyMessage": "공정거래위원회 사무처가 네이버파이낸셜과 두나무의 기업결합에 대해 간편결제 및 가상자산 시장 등의 경쟁 제한 우려를 이유로 반대 의견을 담은 심사보고서를 제출했다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-11-10T03:10:25.351Z"
@@ -506,7 +1012,7 @@
       "slogan": null,
       "keyMessage": "젠슨 황 스캔들 하루 전 네이버 1.3조 지분 투자 마무리…'AI 팩토리' 동맹 괜찮나",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-11-10T03:10:46.006Z"
@@ -528,7 +1034,7 @@
       "slogan": null,
       "keyMessage": "네이버·카카오 AI, 선택할 이유부터 보여줘야 [줌인IT]",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-11-10T03:10:55.728Z"
@@ -550,7 +1056,7 @@
       "slogan": null,
       "keyMessage": "네이버가 직원을 공개 질책하고 업무 배제한 임원에 대해 직장 내 괴롭힘으로 징계를 내렸다는 언론 보도입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 서비스 업데이트, 합병 설명, 저작권 소송 관련 소식과 달리 임원의 직장 내 괴롭힘 징계라는 내부 인사 이슈를 다루고 있어 특이점이 있습니다."
       },
       "processedAt": "2026-11-10T03:10:33.226Z"
@@ -660,7 +1166,7 @@
       "slogan": null,
       "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-11-10T03:10:38.860Z"
@@ -682,7 +1188,7 @@
       "slogan": null,
       "keyMessage": "푸조, 네이버 공식 스토어 시승 신청 서비스 도입",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-11-10T08:00:37.208Z"
@@ -770,7 +1276,7 @@
       "slogan": null,
       "keyMessage": "푸조가 네이버 공식 스토어에 시승 신청 서비스를 도입하여 고객이 별도 회원가입 없이 네이버 계정만으로 차량 탐색부터 시승 신청, 구매 예약까지 한 번에 이용할 수 있도록 했다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 법적 분쟁이나 자체 서비스 개편 이슈 위주였던 활동들과 달리 수입차 브랜드 푸조와의 이커머스 및 시승 연동 서비스 제휴를 다루고 있습니다."
       },
       "processedAt": "2026-11-10T08:00:17.321Z"
@@ -836,7 +1342,7 @@
       "slogan": null,
       "keyMessage": "KBS 뉴스",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-11-10T08:00:05.099Z"
@@ -880,7 +1386,7 @@
       "slogan": null,
       "keyMessage": "제시된 본문은 KBS 뉴스의 하단 공지 및 저작권 정보로 네이버의 마케팅 활동 내용이 포함되어 있지 않습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "네이버의 마케팅 활동이 아닌 KBS 뉴스의 푸터 정보가 수집된 점이 특이합니다."
       },
       "processedAt": "2026-11-09T00:32:11.132Z"
@@ -1056,7 +1562,7 @@
       "slogan": null,
       "keyMessage": "지상파 3사가 네이버를 상대로 AI 저작권 침해에 따른 손해액이 각각 400억 원대에 달한다며 소송을 제기한 내용이다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 서비스 출시나 마케팅·파트너십 활동과 달리 지상파 3사와의 대규모 AI 저작권 소송이라는 법적 분쟁 및 리스크 관련 이슈이다."
       },
       "processedAt": "2026-11-09T00:32:18.685Z"
@@ -1078,7 +1584,7 @@
       "slogan": null,
       "keyMessage": "네이버, '광고주센터→네이버애즈' 명칭 변경…AI 에이전트 기능 추가 - 머니투데이",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-11-05T01:21:14.272Z"
@@ -1210,7 +1716,7 @@
       "slogan": null,
       "keyMessage": "한국경제TV의 두나무와 네이버 합병 관련 보도에 대해 설명하는 공식 자료입니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 일반적인 AI 서비스 출시 및 해외 인프라 투자 등과 달리 대형 M&A 보도 대응 관련 활동이라는 특이점이 있습니다."
       },
       "processedAt": "2026-11-05T01:21:39.516Z"
@@ -1276,7 +1782,7 @@
       "slogan": null,
       "keyMessage": "해당 본문은 지디넷코리아의 뉴스레터 구독 신청 안내 정보로 네이버의 마케팅 활동 내용이 포함되어 있지 않습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-11-05T01:21:30.718Z"
@@ -47722,6 +48228,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-05T01:20:25.270Z"
+    },
+    {
+      "id": "7ed8f05bb55816fd",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "김완종 SK AX 사장 “기업 경쟁력, AI 업무 효율화서 차이”",
+      "link": "https://www.munhwa.com/article/11595842",
+      "publisher": "문화일보",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "keyVisual": "https://wimg.munhwa.com/news/cms/2026/06/16/news-p.v1.20260616.c61f931f2b194202994a54e7b9eb737d_R.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "16일",
+      "location": "서울 강남구 그랜드인터컨티넨탈 서울 파르나스",
+      "format": "오프라인 컨퍼런스",
+      "slogan": null,
+      "keyMessage": "김완종 SK AX 사장은 '이매진 AX 2026' 콘퍼런스에서 AI를 통해 기업의 업무와 운영 전반을 재설계하는 '에이전틱 엔터프라이즈' 비전과 에이전틱 AI 플랫폼을 제시했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "특정 솔루션 출시 위주였던 최근 활동과 달리 사장이 직접 대규모 컨퍼런스에서 기조연설을 맡아 전사적인 AI 전환 비전을 선언했다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-12T02:10:19.407Z"
     },
     {
       "id": "a94f66be1adb559d",
