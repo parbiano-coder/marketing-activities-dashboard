@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T08:00:30.479Z",
+  "updatedAt": "2026-11-13T01:43:27.326Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,292 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "e1f7c52a21cfec6a",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, 스트리머·팬 소통 특화 '크리에이터 카페' 내달 출시",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XSHVtRjZqUUVTWC1sQzBNbnVBbFNHSVFLbER1MUh6MlN4OE9ibVljRGdTenFJckV2SHhockhuUWVUYkRQVnhaYllIemZpZw?oc=5",
+      "publisher": "전자신문",
+      "pubDate": "Fri, 13 Nov 2026 00:56:55 GMT",
+      "keyVisual": null,
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 스트리머와 팬 간의 소통에 특화된 신규 서비스인 '크리에이터 카페'를 다음 달 출시한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 멤버십 혜택 확장 및 M&A 관련 이슈와 달리 스트리머 및 팬 커뮤니티 강화를 위한 전용 크리에이터 서비스를 선보였다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-13T01:42:29.748Z"
+    },
+    {
+      "id": "ff1ff2d52c44fce4",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Thu, 12 Nov 2026 23:43:08 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "본문은 지디넷코리아의 뉴스레터 구독 신청 및 운영 관련 정보로 네이버의 마케팅 활동 내용은 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "네이버의 마케팅 활동 관련 내용이 전혀 없이 언론사의 구독 안내 문구만 포함되어 있어 이전 활동들과 현저한 차이가 있습니다."
+      },
+      "processedAt": "2026-11-13T01:42:14.474Z"
+    },
+    {
+      "id": "96d925e0c8c35b20",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "부산항만공사-삼성SDS, AI 기반 스마트항만 구축 협력",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno",
+      "publisher": "포인트데일리",
+      "pubDate": "Thu, 12 Nov 2026 22:47:59 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 부산항만공사와 협력하여 AI 기반 스마트항만 구축에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-13T01:39:52.930Z"
+    },
+    {
+      "id": "d0f6280f2fe0520a",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 자회사 멀티캠퍼스 해킹, 임직원 개인정보 약 7만명 유출",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rMG1KNHJkWUxwRXUzWWhueXFaZlNaZE9xRl9qNTZ4MWhvX0RjNTlGM1NxSFRLZU9VTzRhcDBFdnUxTWhEUEx3UkZQdmROX0w4TG1IVXBnM0NHS2l2QmJGc3VrQXFaeDdQZWMxeg?oc=5",
+      "publisher": "데일리시큐",
+      "pubDate": "Thu, 12 Nov 2026 14:29:12 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 자회사 멀티캠퍼스가 해킹을 당해 임직원 약 7만 명의 개인정보가 유출되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "일반적인 제품 홍보나 업무협약(MOU) 등 긍정적 마케팅 활동이 아닌 자회사 해킹 및 대규모 개인정보 유출이라는 보안 사고 관련 악재 이슈입니다."
+      },
+      "processedAt": "2026-11-13T01:39:44.688Z"
+    },
+    {
+      "id": "e57b4b0c82bc2960",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독]멀티캠퍼스서 개인정보 유출…개보위 \"신고 접수\"",
+      "link": "https://www.asiae.co.kr/article/2026111216571136752",
+      "publisher": "아시아경제",
+      "pubDate": "Thu, 12 Nov 2026 09:04:29 GMT",
+      "keyVisual": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news_2026.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[단독]멀티캠퍼스서 개인정보 유출…개보위 \"신고 접수\"",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-13T01:40:59.659Z"
+    },
+    {
+      "id": "1d681a7964721eb7",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[사진]LG CNS 'IR 대상' ICT 부문 최우수상 - 머니투데이",
+      "link": "https://www.mt.co.kr/stock/2026/11/12/2026111216293860594",
+      "publisher": "머니투데이",
+      "pubDate": "Thu, 12 Nov 2026 07:30:24 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111216293860594_1.jpg",
+      "activityType": "기타",
+      "eventDate": "2026.11.12",
+      "location": "서울 중구 웨스틴조선 서울",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 '머니투데이 주주친화대상-2026 IR 대상'에서 ICT 부문 최우수상을 수상했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 활동들이 주로 로봇 및 피지컬 AI 관련 포럼과 연구 협력에 집중되어 있던 것과 달리, 이번 활동은 IR 수상 관련 소식이라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-13T01:41:25.830Z"
+    },
+    {
+      "id": "d253d74e6feaecd2",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "㈜LG, 전자·AI 사업 성장에도 화학 부진에 수익성 주춤",
+      "link": "https://www.newspim.com/news/view/20261112001330",
+      "publisher": "뉴스핌",
+      "pubDate": "Thu, 12 Nov 2026 07:30:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/11/12/261112162742565_271_tc.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 클라우드 서비스 사업 확대를 통해 2026년 3분기 매출 1조 6,643억 원, 영업이익 1,382억 원을 기록하며 양호한 성장세를 이어갔습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 로보틱스 및 피지컬 AI 포럼 등 기술 분야 행사 및 파트너십 활동 중심이었던 것과 달리, 이번 활동은 경영 실적 발표에 관한 언론보도입니다."
+      },
+      "processedAt": "2026-11-13T01:41:34.388Z"
+    },
+    {
+      "id": "0bb1de06d4b75597",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“연구 성과가 산업 혁신으로”…LG CNS, 로봇 석학들과 머리 맞댔다",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hTzFKdll3VDZCaWc5NENUd09ONHlqM1ZoSmh3OWV3ZHY5OHZLVlVyemRXS09mb3J6VFplX1VsVXBlZUZWRk5TNGNURUpSSnBlNllidFgyTVBFbFJ1b0JibDNmRDFHRkRxNUs4UzMtQ2FPazVX?oc=5",
+      "publisher": "대한경제",
+      "pubDate": "Thu, 12 Nov 2026 07:27:31 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 로봇 분야 석학들과 함께 기술 연구 성동을 산업 현장의 혁신으로 이어가기 위한 협력 방안을 논의했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-13T01:41:48.755Z"
+    },
+    {
+      "id": "e7ce60cf500ee1ee",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 3분기 영업익 15% 늘었지만···환율 여파에 순익 830억",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3bkZPcmF5ZXBfSzdMTmM3UXdrQ0ktVS1zQ3FqYzdtRlVaS1UzZXExSjRwVmJ4UHp0UXI1c1RKdno4ZVVRZWZNVmx3VS1YWkZNM2N3WURNQ191Sk9nZTRSRmlMZ1p6R0hRb2c?oc=5",
+      "publisher": "뉴스웨이",
+      "pubDate": "Thu, 12 Nov 2026 06:05:51 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS의 3분기 영업이익이 15% 증가했으나 환율 여파로 순이익은 830억 원을 기록했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 로봇 및 피지컬 AI 관련 포럼/행사 활동 위주였던 것과 달리 경영 실적 발표에 대한 언론보도입니다."
+      },
+      "processedAt": "2026-11-13T01:41:41.374Z"
+    },
+    {
+      "id": "5d42e979ba24a3d6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS에 74억원에 판 기술로 369억원 사업…협력사 기소",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno",
+      "publisher": "뉴스저널리즘",
+      "pubDate": "Thu, 12 Nov 2026 05:25:34 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS에 74억 원에 판매한 기술을 이용해 369억 원 규모의 불법 사업을 영위한 협력사 관계자들이 기소되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-13T01:41:11.133Z"
+    },
+    {
+      "id": "b2e2359ee874f589",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 ‘누리’, 중동 뚫는다…사우디서 ‘로봇 배송 서비스’ 출시",
+      "link": "https://www.kyeonggi.com/article/20261112580072",
+      "publisher": "경기일보",
+      "pubDate": "Thu, 12 Nov 2026 02:42:53 GMT",
+      "keyVisual": "https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/11/12/.cache/512/20261112580064.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": "사우디아라비아 리야드",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 사우디아라비아 리야드에서 디지털 트윈 데이터와 로봇 기술을 결합한 실외 로봇 배송 서비스 '누리'를 내년 상반기 출시를 목표로 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 국내 멤버십 혜택 확장 및 기업결합 관련 이슈와 달리 사우디아라비아 현지에서 실외 로봇 배송 서비스를 추진하며 해외 기술 진출을 본격화했다는 점이 특이합니다."
+      },
+      "processedAt": "2026-11-13T01:42:57.724Z"
+    },
+    {
+      "id": "1c2a907d5d292f15",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 피지컬 AI 상용화 속도···로봇 학습·제어 기술 확보 나선다",
+      "link": "https://www.enewstoday.co.kr/news/articleView.html?idxno",
+      "publisher": "이뉴스투데이",
+      "pubDate": "Thu, 12 Nov 2026 02:14:50 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 피지컬 AI 상용화를 가속화하기 위해 로봇 학습 및 제어 기술 확보에 나서고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-13T01:41:55.676Z"
+    },
+    {
+      "id": "cec51d6a823f5f92",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 로봇 ‘학습부터 현장 관제까지’…피지컬 AI 적용 해법 모색",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44WTZDdGh4ejY5eVB3YmcxNWhINFRjYVZiaUdKdVVYMFZlUW0zbUNTemJLOHJOREwwa1JYcVFoREdIOXdkTHRjRXc3SkoydUdZSEliSzQycWRUOXIxZ1BtR2hQbTlCT2JzRHQ0?oc=5",
+      "publisher": "라이센스뉴스",
+      "pubDate": "Thu, 12 Nov 2026 01:16:18 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 로봇의 학습부터 현장 관제까지 피지컬 AI 기술을 산업에 적용하기 위한 해법을 모색합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-13T01:42:05.661Z"
+    },
     {
       "id": "9276f59caf2026b2",
       "company": "LG CNS",
@@ -226,6 +512,50 @@
       "processedAt": "2026-11-12T02:09:40.614Z"
     },
     {
+      "id": "e675d2227f5c8af0",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, 내년 상반기 사우디서 실외 배송로봇 출시…스마트시티 사업 확대",
+      "link": "https://www.sedaily.com/article/20113313",
+      "publisher": "서울경제",
+      "pubDate": "Thu, 12 Nov 2026 00:50:57 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/11/12/news-p.v1.20261112.91b1a926e0ce48f1ac5a42851ada6fa0_Z1.png",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "2026-11-12",
+      "location": "사우디아라비아 리야드",
+      "format": "실적 발표 콘퍼런스콜",
+      "slogan": null,
+      "keyMessage": "네이버가 내년 상반기 사우디아라비아에서 실외 자율주행 배송로봇 '누리'를 출시하고, 디지털 트윈 기반 지도 서비스와 연계해 해외 스마트시티 시장 공략을 확대한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존 국내 B2C 멤버십 혜택이나 기업결합 이슈와 달리, 사우디아라비아 현지 실외 배송로봇 및 스마트시티 등 글로벌 기술 엔터프라이즈 사업 확대를 발표했다는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-11-13T01:43:13.963Z"
+    },
+    {
+      "id": "ace674c9dbd5b3f0",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 로봇, 사우디 도로 달린다…내년 상반기 배송 추진 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261112051500017",
+      "publisher": "연합뉴스",
+      "pubDate": "Thu, 12 Nov 2026 00:42:58 GMT",
+      "keyVisual": "https://img8.yna.co.kr/photo/yna/YH/2025/11/27/PYH2025112705410006100_P4.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "2026-11-12",
+      "location": "사우디아라비아 리야드",
+      "format": "실적 발표 콘퍼런스콜",
+      "slogan": null,
+      "keyMessage": "네이버가 사우디아라비아 리야드에서 실외 배송 로봇 '누리'를 기반으로 한 로봇 배송 서비스를 내년 상반기 출시를 목표로 준비 중이라고 밝혔다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존 국내 멤버십 혜택 확장이나 기업결합 이슈와 달리 사우디아라비아 현지 로봇 배송 서비스 추진이라는 기술 기반의 해외 사업 전략을 발표했다는 특이점이 있다."
+      },
+      "processedAt": "2026-11-13T01:43:06.214Z"
+    },
+    {
       "id": "9403e45f08faf6b7",
       "company": "네이버",
       "category": "IT 서비스",
@@ -242,7 +572,7 @@
       "slogan": null,
       "keyMessage": "네이버가 파리바게뜨와 제휴를 맺고 내년까지 네이버플러스 멤버십 회원을 대상으로 10% 할인 및 적립 혜택을 제공한다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 AI 기술 투자 및 기업결합 등 기술·경영 중심 이슈와 달리 리테일 프랜차이즈와의 B2C 멤버십 제휴 혜택 활동이다."
       },
       "processedAt": "2026-11-12T08:00:18.344Z"
@@ -290,6 +620,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-12T02:08:22.866Z"
+    },
+    {
+      "id": "9ce2605790ad4756",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성디스플레이·SDS기술 중국에 빼돌리려던 협력사 직원들 기소 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261111151900004",
+      "publisher": "연합뉴스",
+      "pubDate": "Wed, 11 Nov 2026 08:20:56 GMT",
+      "keyVisual": "https://img0.yna.co.kr/photo/yna/YH/2026/09/29/PYH2026092904360001300_P4.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성디스플레이·SDS기술 중국에 빼돌리려던 협력사 직원들 기소 | 연합뉴스",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-13T01:40:26.940Z"
     },
     {
       "id": "09dd6179f2fd1602",
@@ -638,7 +990,7 @@
       "slogan": null,
       "keyMessage": "네이버가 기존 '네이버플러스 멤버십'을 '네이버 멤버십'으로 6년 만에 리브랜딩하며, 온라인 커머스 중심이었던 혜택을 오프라인 및 엔터테인먼트 영역으로 대폭 확장한다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 AI 지분 투자 및 기업결합 심의 등 B2B·경영 이슈 위주였던 행보와 달리, 일반 이용자를 대상으로 한 B2C 유료 구독 서비스 리브랜딩 및 오프라인 혜택 확장 전략을 선보였다는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-11-12T08:00:08.497Z"
@@ -664,6 +1016,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-10T08:01:30.192Z"
+    },
+    {
+      "id": "ff8d3229e1b511aa",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "BPA·삼성SDS, 부산항 AI 전환 본격화…디지털·물류 혁신 협력",
+      "link": "http://www.haesanews.com/news/articleView.html?idxno",
+      "publisher": "해사신문",
+      "pubDate": "Tue, 10 Nov 2026 05:23:32 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 부산항만공사(BPA)와 협력하여 부산항의 AI 전환 및 디지털·물류 혁신을 본격적으로 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-13T01:41:16.576Z"
     },
     {
       "id": "9a867b4d17ec5cf4",
@@ -704,7 +1078,7 @@
       "slogan": null,
       "keyMessage": "제시된 본문에는 네이버의 마케팅 활동 대신 경기주택도시공사의 수상 및 견본주택 연장 운영, 경기콘텐츠진흥원의 수출상담회 개최 소식이 포함되어 있습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "네이버의 마케팅 활동과 관련 없는 타 기관 관련 보도 내용으로 구성되어 있습니다."
       },
       "processedAt": "2026-11-10T03:10:15.965Z"
@@ -726,7 +1100,7 @@
       "slogan": null,
       "keyMessage": "공정위, 네이버·두나무 기업결합 심의 개시…연내 결론 날 듯 | 연합뉴스",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-11-10T03:10:00.923Z"
@@ -748,7 +1122,7 @@
       "slogan": null,
       "keyMessage": "공정거래위원회 사무처가 네이버파이낸셜과 두나무의 기업결합에 대해 간편결제 및 가상자산 시장 등의 경쟁 제한 우려를 이유로 반대 의견을 담은 심사보고서를 제출했다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-11-10T03:10:25.351Z"
@@ -1012,7 +1386,7 @@
       "slogan": null,
       "keyMessage": "젠슨 황 스캔들 하루 전 네이버 1.3조 지분 투자 마무리…'AI 팩토리' 동맹 괜찮나",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-11-10T03:10:46.006Z"
@@ -1034,7 +1408,7 @@
       "slogan": null,
       "keyMessage": "네이버·카카오 AI, 선택할 이유부터 보여줘야 [줌인IT]",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-11-10T03:10:55.728Z"
@@ -1056,7 +1430,7 @@
       "slogan": null,
       "keyMessage": "네이버가 직원을 공개 질책하고 업무 배제한 임원에 대해 직장 내 괴롭힘으로 징계를 내렸다는 언론 보도입니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 서비스 업데이트, 합병 설명, 저작권 소송 관련 소식과 달리 임원의 직장 내 괴롭힘 징계라는 내부 인사 이슈를 다루고 있어 특이점이 있습니다."
       },
       "processedAt": "2026-11-10T03:10:33.226Z"
@@ -1166,7 +1540,7 @@
       "slogan": null,
       "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-11-10T03:10:38.860Z"
@@ -1188,7 +1562,7 @@
       "slogan": null,
       "keyMessage": "푸조, 네이버 공식 스토어 시승 신청 서비스 도입",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-11-10T08:00:37.208Z"
@@ -1276,7 +1650,7 @@
       "slogan": null,
       "keyMessage": "푸조가 네이버 공식 스토어에 시승 신청 서비스를 도입하여 고객이 별도 회원가입 없이 네이버 계정만으로 차량 탐색부터 시승 신청, 구매 예약까지 한 번에 이용할 수 있도록 했다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "최근 법적 분쟁이나 자체 서비스 개편 이슈 위주였던 활동들과 달리 수입차 브랜드 푸조와의 이커머스 및 시승 연동 서비스 제휴를 다루고 있습니다."
       },
       "processedAt": "2026-11-10T08:00:17.321Z"
@@ -1342,7 +1716,7 @@
       "slogan": null,
       "keyMessage": "KBS 뉴스",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-11-10T08:00:05.099Z"
@@ -1386,7 +1760,7 @@
       "slogan": null,
       "keyMessage": "제시된 본문은 KBS 뉴스의 하단 공지 및 저작권 정보로 네이버의 마케팅 활동 내용이 포함되어 있지 않습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "네이버의 마케팅 활동이 아닌 KBS 뉴스의 푸터 정보가 수집된 점이 특이합니다."
       },
       "processedAt": "2026-11-09T00:32:11.132Z"
@@ -1562,7 +1936,7 @@
       "slogan": null,
       "keyMessage": "지상파 3사가 네이버를 상대로 AI 저작권 침해에 따른 손해액이 각각 400억 원대에 달한다며 소송을 제기한 내용이다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존의 서비스 출시나 마케팅·파트너십 활동과 달리 지상파 3사와의 대규모 AI 저작권 소송이라는 법적 분쟁 및 리스크 관련 이슈이다."
       },
       "processedAt": "2026-11-09T00:32:18.685Z"
