@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T01:43:27.326Z",
+  "updatedAt": "2026-11-14T01:19:55.766Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,226 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "fed5b1e862a0ae28",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SBS 뉴스",
+      "link": "https://news.sbs.co.kr/news/newsMain.do?plink=EMPTYIDERR&cooper=SBSNEWSEND",
+      "publisher": "SBS 뉴스",
+      "pubDate": "Fri, 13 Nov 2026 22:06:38 GMT",
+      "keyVisual": "https://img.sbs.co.kr/news/logo/sbsnews_cover.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 기사 본문은 SBS 언론사 기본 정보 및 푸터 내용으로, 네이버의 마케팅 활동에 대한 정보가 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "신규 서비스 출시 및 해외 로봇 배송 사업 등 네이버의 최근 주요 마케팅 활동 내용과 달리 기업 마케팅 정보가 전혀 존재하지 않는 본문입니다."
+      },
+      "processedAt": "2026-11-14T01:18:21.493Z"
+    },
+    {
+      "id": "32cd991730a8df7f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, ‘2026 로보틱스 & 피지컬 AI 포럼’ 열어",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53Qm5Id1BLeExKb2ZUVHFidDdoSHF3b1A1OEpWRXpIbjNmckVTLWpzZndsa1dOZlk0NnpmUTdGb051U0hrNGw2VzRiRzROT2k1MUF4UjZMM2VtV1ljaHV6aWcyVDNBUmhGa1E?oc=5",
+      "publisher": "디지털경제뉴스",
+      "pubDate": "Fri, 13 Nov 2026 10:19:45 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 '2026 로보틱스 & 피지컬 AI 포럼'을 개최했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-14T01:17:03.798Z"
+    },
+    {
+      "id": "932e86322ec943f0",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "≪주간현대≫ LG CNS, 국내외 로봇 석학들과 ‘2026 로보틱스 & 피지컬 AI 포럼’ 개최",
+      "link": "http://hyundaenews.com/107909",
+      "publisher": "주간현대",
+      "pubDate": "Fri, 13 Nov 2026 08:30:00 GMT",
+      "keyVisual": "http://www.hyundaenews.com/data/hyundaenews_com/mainimages/202611/202611133211877.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026-11-13",
+      "location": "마곡 본사 퓨처로보틱스 랩",
+      "format": "오프라인 포럼",
+      "slogan": null,
+      "keyMessage": "LG CNS가 국내외 로봇 및 AI 석학들과 ‘2026 로보틱스 & 피지컬 AI 포럼’을 개최하여 피지컬 AI의 산업 현장 적용 전략과 발전 방향을 논의했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-14T01:17:14.398Z"
+    },
+    {
+      "id": "ff7416dba3f238f5",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Fri, 13 Nov 2026 07:59:22 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 지디넷코리아의 뉴스레터 구독 신청 관련 페이지 정보로 네이버의 마케팅 활동 내용을 포함하지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "로봇 배송 서비스 출시 등 네이버의 신기술 및 서비스 관련 마케팅 활동을 다룬 최근 소식들과 달리 지디넷코리아 뉴스레터 구독 관련 본문만 포함되어 있습니다."
+      },
+      "processedAt": "2026-11-14T01:19:16.963Z"
+    },
+    {
+      "id": "04a4f6c7e6e0c555",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"美 규제가 오히려 기회\"…증권가가 주목하는 종목들",
+      "link": "https://www.hankyung.com/article/202611135283i",
+      "publisher": "한국경제",
+      "pubDate": "Fri, 13 Nov 2026 06:59:23 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202611/ZA.46280805.1.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-11-13",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "미국의 AI 데이터센터 규제 강화에 따른 풍선효과와 생성형 AI 및 클라우드 수요 증가로 인해 삼성SDS의 주가와 실적 기대감이 상승하고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-14T01:16:10.520Z"
+    },
+    {
+      "id": "8c675da65c717502",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "구글맵, 한국 서비스 강화된다···네이버·카카오 등 ‘긴장’",
+      "link": "https://www.khan.co.kr/article/202611131444011",
+      "publisher": "경향신문",
+      "pubDate": "Fri, 13 Nov 2026 05:44:00 GMT",
+      "keyVisual": "https://img.khan.co.kr/news/2026/11/13/news-p.v1.20260424.d195332e38ba4a59b6ed713da4c0cc02_P1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "구글이 고정밀 지도 반출 보안 조건을 이행하면서 구글맵의 한국 서비스 강화가 전망됨에 따라, 네이버지도를 포함한 국내 지도 시장의 경쟁 구도 변화가 예상된다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "네이버의 자사 제품 및 해외 진출 소식이 아닌 외부 경쟁사의 시장 진입 동향에 관한 보도라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-14T01:18:27.443Z"
+    },
+    {
+      "id": "502f0b17b874aa4c",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 밴드 개발자, 미국서 창업한 이유…\"시작부터 글로벌 겨냥\" - 머니투데이",
+      "link": "https://www.mt.co.kr/index.php/future/2026/11/13/2026110314000433703",
+      "publisher": "머니투데이",
+      "pubDate": "Fri, 13 Nov 2026 05:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026110314000433703_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버 밴드 등을 개발한 박수만 대표가 미국에서 AI 기반 오프라인 모임 플랫폼 '츄룹'을 서비스하는 스타트업 '벗뷰리풀'을 창업하고 글로벌 시장 진출에 나섰다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "네이버 본사의 자율주행 배송 로봇이나 신규 서비스 출시 등의 기술 발표와 달리 네이버 출신 개발자의 외부에 관한 창업 인터뷰 및 언론보도라는 점이 특징적입니다."
+      },
+      "processedAt": "2026-11-14T01:19:34.289Z"
+    },
+    {
+      "id": "99beb915b474789f",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "구글 지도 한국서 달라진다…네이버·카카오 '긴장' | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261113094700017",
+      "publisher": "연합뉴스",
+      "pubDate": "Fri, 13 Nov 2026 04:42:19 GMT",
+      "keyVisual": "https://img6.yna.co.kr/photo/etc/gt/2017/03/07/PGT20170307000101034_P4.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-11-13",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "구글이 국내 고정밀 지도 국외 반출을 위한 보안 조건을 충족하여 서비스 강화를 예고함에 따라, 네이버지도 등 국내 플랫폼과의 경쟁이 한층 치열해질 전망이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "자사의 신규 서비스 출시나 기술 발표 위주였던 최근 활동들과 달리, 경쟁사 구글의 국내 시장 진출로 인한 시장 영향 및 규제 형평성을 다룬 언론보도이다."
+      },
+      "processedAt": "2026-11-14T01:18:39.002Z"
+    },
+    {
+      "id": "296ff06a4023f4d7",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "구글 맵 &#039;고정밀 지도&#039; 숙원 깼다&hellip; 네이버&middot;카카오 긴장",
+      "link": "https://news.ikbc.co.kr/article/view/kbc202611130036",
+      "publisher": "KBC광주방송",
+      "pubDate": "Fri, 13 Nov 2026 04:22:26 GMT",
+      "keyVisual": "https://www.ikbc.co.kr/data/kbc/image/2026/11/13/kbc202611130061.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "구글이 정부의 고정밀 지도 국외 반출 보안 조건을 이행 완료함에 따라 네이버, 카카오 등 국내 지도·모빌리티 플랫폼과의 시장 경쟁이 더욱 심화될 것으로 전망된다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "네이버의 직접적인 신규 서비스 출시나 해외 사업 발표가 아닌, 경쟁사 구글의 이슈로 인한 국내 시장 경쟁 환경 변화를 다룬 언론보도라는 점에서 차이가 있다."
+      },
+      "processedAt": "2026-11-14T01:18:46.811Z"
+    },
+    {
+      "id": "fed136cd81e71190",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, 수능 맞아 입시 정보 확대…정시 환산점수 계산 서비스 제공",
+      "link": "https://www.newspim.com/news/view/20261113000627",
+      "publisher": "뉴스핌",
+      "pubDate": "Fri, 13 Nov 2026 04:02:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/11/13/2611131112576110_t1.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 2027학년도 수능을 맞아 AI 기반 시험 분석, 환산 점수 계산, 정시 후보 비교 등 수험생과 학부모를 위한 맞춤형 입시 정보 서비스를 확대 제공한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-14T01:19:43.658Z"
+    },
     {
       "id": "e1f7c52a21cfec6a",
       "company": "네이버",
@@ -270,6 +490,50 @@
       "processedAt": "2026-11-13T01:41:48.755Z"
     },
     {
+      "id": "f937d56072c85422",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"쿠팡보다 싼데\"…새벽배송 카드 꺼낸 네이버 '판 흔든다' [정지은의 테크킥]",
+      "link": "https://www.hankyung.com/article/202611123273i",
+      "publisher": "한국경제",
+      "pubDate": "Thu, 12 Nov 2026 07:02:57 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202611/02.42295898.1.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 25일부터 네이버플러스 멤버십 회원을 대상으로 새벽배송 서비스를 시작하여 배송 경쟁력과 멤버십 쇼핑 생태계를 본격 확장한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 사우디아라비아 자율주행 배송 로봇 및 크리에이터 서비스 출시 활동과 달리, 국내 커머스 경쟁력 강화를 위한 멤버십 전용 새벽배송 서비스를 새롭게 도입했다는 점이 특이하다."
+      },
+      "processedAt": "2026-11-14T01:18:02.065Z"
+    },
+    {
+      "id": "f1df64ae2d9014dc",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, 3분기 역대 최대 매출에도 영업익↓…'AI 팩토리·에이전트'로 성장 동력 재점화",
+      "link": "https://www.etnews.com/20261112000214",
+      "publisher": "전자신문",
+      "pubDate": "Thu, 12 Nov 2026 07:00:00 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/06/17/news-p.v1.20260617.4a821368f7044b54a772d273117c832a_P1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버가 3분기 역대 최대 매출을 달성했으나 영업이익이 감소함에 따라, AI 팩토리 사업과 통합 AI 에이전트 조기 출시, 물류 자회사 설립 등을 통해 수익성 개선과 성장 동력 확보에 나선다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "개별 개별 서비스 출시나 사우디 해외 진출 관련 소식 위주였던 최근 활동과 달리, 분기 실적 발표 및 기업 전반의 AI·물류 미래 성장 전략을 다루고 있다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-14T01:18:57.214Z"
+    },
+    {
       "id": "e7ce60cf500ee1ee",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -290,6 +554,28 @@
         "llmNote": "최근 로봇 및 피지컬 AI 관련 포럼/행사 활동 위주였던 것과 달리 경영 실적 발표에 대한 언론보도입니다."
       },
       "processedAt": "2026-11-13T01:41:41.374Z"
+    },
+    {
+      "id": "ebb35d5166c1879c",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 국내외 대학 연구팀과 로보틱스·피지컬 AI 미래 모색",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93RDNkVlNfNjlJN1hmVXo2TU40c0Y5d0RFRWY2YU1RZmxaVjZJaFphNlQyTnV3RmNDNzVMWTNxSllpMjZyUTlCNVhNckNBYUVlbEpvNUZDR29RNU1oZ1UyNEc2bUthRkVkNVE?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Thu, 12 Nov 2026 05:39:16 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 국내외 대학 연구팀과 협력하여 로보틱스 및 피지컬 AI의 미래 발전 방향을 모색한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-14T01:16:50.365Z"
     },
     {
       "id": "5d42e979ba24a3d6",
@@ -400,6 +686,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-12T02:09:04.006Z"
+    },
+    {
+      "id": "c92649ea0805735f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, ‘2026 로보틱스 & 피지컬 AI 포럼 개최",
+      "link": "https://www.sedaily.com/article/20113326",
+      "publisher": "서울경제",
+      "pubDate": "Thu, 12 Nov 2026 01:01:53 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/11/12/news-p.v1.20261112.f27c3fb3ed6a4ea8aea59653d1c47564_Z1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, ‘2026 로보틱스 & 피지컬 AI 포럼 개최",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-14T01:17:46.441Z"
     },
     {
       "id": "8718cf5070eb5d2c",
@@ -862,6 +1170,28 @@
         "llmNote": "최근 HR·채용 솔루션인 '지핏 스튜디오' 출시 중심의 활동에서 산업 전반의 '에이전틱 AI' 기반 기업 AI 전환 전략 발표로 주제를 확장했습니다."
       },
       "processedAt": "2026-11-12T02:10:05.128Z"
+    },
+    {
+      "id": "62a92847b5dfa637",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "BPA-삼성SDS, 스마트항만 구현 '맞손'",
+      "link": "http://www.maritimepress.co.kr/news/articleView.html?idxno",
+      "publisher": "한국해운신문",
+      "pubDate": "Wed, 11 Nov 2026 01:42:59 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 부산항만공사(BPA)와 협력하여 스마트항만 구현에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-14T01:16:26.255Z"
     },
     {
       "id": "6b408cd003c6394a",
@@ -1936,7 +2266,7 @@
       "slogan": null,
       "keyMessage": "지상파 3사가 네이버를 상대로 AI 저작권 침해에 따른 손해액이 각각 400억 원대에 달한다며 소송을 제기한 내용이다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "기존의 서비스 출시나 마케팅·파트너십 활동과 달리 지상파 3사와의 대규모 AI 저작권 소송이라는 법적 분쟁 및 리스크 관련 이슈이다."
       },
       "processedAt": "2026-11-09T00:32:18.685Z"
@@ -48228,6 +48558,28 @@
         "llmNote": null
       },
       "processedAt": "2026-08-16T21:19:10.257Z"
+    },
+    {
+      "id": "46b6656a89e09b34",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "공장에 비싼 로봇 들여놨더니 '말썽'…SK AX가 찾은 해법",
+      "link": "https://www.hankyung.com/article/202607083526g",
+      "publisher": "한국경제",
+      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202607/01.44964258.1.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "9일",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "SK AX가 디지털 트윈, 피지컬 AI, 이기종 로봇 통합 관제 기술을 결합하여 로봇 도입부터 운영까지 지원하는 '제조 RX 풀스택 서비스'를 본격화한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 에이전틱 AI 및 채용·역량진단 소프트웨어 중심 활동과 달리, 피지컬 AI와 이기종 로봇 관제를 결합한 제조 현장 로봇 전환(RX) 사업을 다루고 있다."
+      },
+      "processedAt": "2026-11-14T01:17:54.425Z"
     },
     {
       "id": "75802c543c3b5840",
