@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T01:19:55.766Z",
+  "updatedAt": "2026-11-15T00:48:34.417Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,204 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "7829510c5276d51a",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "현대백화점, 카카오톡 이어 챗GPT로 AI 쇼핑 확대",
+      "link": "https://biz.chosun.com/distribution/channel/2026/11/15/MQDQHCTWCFCZNDIM6LSQTO3RYE/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Sun, 15 Nov 2026 00:17:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/GTJ7RWVLOBF2TMHQXGM26PM5OY.png?auth=5604e82d55be11afa8fc91091afac0d4d4b4bd9d073bc5c7854d8e20737750d9&width=1200&height=630&smart=true",
+      "activityType": "고객사례",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "현대백화점이 지난 4월 카카오톡 기반 'ChatGPT for Kakao'에 연동한 AI 쇼핑 서비스 성과를 바탕으로 챗GPT 플랫폼까지 AI 쇼핑 접점을 확대했다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 전 카카오브레인 대표의 구속 기소 등 부정적 이슈 중심이었던 것과 달리 카카오 플랫폼 기반 기업 서비스의 이용 성과 및 활용 사례가 다루어졌다."
+      },
+      "processedAt": "2026-11-15T00:46:51.681Z"
+    },
+    {
+      "id": "237be867301467b2",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "교통 과태료 고지서 카카오톡으로 받는다…위반 영상도 확인 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261115009700004",
+      "publisher": "연합뉴스",
+      "pubDate": "Sun, 15 Nov 2026 00:00:01 GMT",
+      "keyVisual": "https://img1.yna.co.kr/photo/yna/YH/2021/05/11/PYH2021051113770001300_P4.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "2026년 11월 18일",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "경찰청이 카카오톡 알림톡과 PASS 앱을 활용해 교통 과태료 고지서를 발송하고 위반 영상을 모바일로 확인할 수 있는 서비스를 시범 운영한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 대표진의 구속 기소 등 사법 리스크 관련 보도가 주를 이루던 것과 달리 공공기관 협력을 통한 실생활 행정 서비스 적용 사례라는 점에서 차이가 있다."
+      },
+      "processedAt": "2026-11-15T00:46:31.495Z"
+    },
+    {
+      "id": "bb2f58bb97440ae4",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "로봇 통합 운영 나선 SI업계…삼성SDS·LG CNS 경쟁 본격화",
+      "link": "https://www.sentv.co.kr/article/view/sentv202611130104",
+      "publisher": "서울경제TV",
+      "pubDate": "Sat, 14 Nov 2026 23:00:07 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/11/13/sentv20261113000090.png",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 제조 및 물류 IT 시스템 구축 경험을 바탕으로 로봇의 학습과 현장 배치, 운용을 통합 관리하는 '로봇 오케스트레이션 플랫폼'을 2027년 출시하고 로봇 통합 운영 시장 공략을 본격화합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 클라우드 및 스마트항만 구축 중심의 활동에서 벗어나 로봇 오케스트레이션 플랫폼을 통한 로봇 통합 운영이라는 신규 사업 분야 진출을 발표했습니다."
+      },
+      "processedAt": "2026-11-15T00:43:40.112Z"
+    },
+    {
+      "id": "504e95f855524e9c",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"구글 고정밀 지도 온다\"…바빠진 네이버·카카오, 길찾기 주도권 강화 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/11/15/2026111315555216366",
+      "publisher": "머니투데이",
+      "pubDate": "Sat, 14 Nov 2026 21:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111315555216366_1.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "구글의 고정밀 지도 국외 반출에 대응해 네이버는 지도 앱에 AI 기반 '플레이스 에이전트' 기능과 외국인 여권 인증을 도입하여 서비스 경쟁력을 강화하고 있다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-15T00:45:11.967Z"
+    },
+    {
+      "id": "0c2b28113b402e82",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"구글 고정밀 지도 온다\"…바빠진 네이버·카카오, 길찾기 주도권 강화 - 머니투데이",
+      "link": "https://www.mt.co.kr/index.php/tech/2026/11/15/2026111315555216366",
+      "publisher": "머니투데이",
+      "pubDate": "Sat, 14 Nov 2026 21:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111315555216366_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "구글의 국내 고정밀 지도 서비스 도입에 대응해 카카오는 카카오톡 장소 에이전트 기능 고도화 및 카카오맵 초정밀 위치 서비스 확대로 길찾기 및 장소 추천 주도권 강화에 나섰다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 전 카카오브레인 대표 관련 부정적 사건 사고 보도가 주를 이루던 것과 달리, AI 에이전트 및 카카오맵 서비스 경쟁력 강화를 다룬 본업 관련 보도이다."
+      },
+      "processedAt": "2026-11-15T00:47:33.424Z"
+    },
+    {
+      "id": "771aaaa3d133666c",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "스포츠로 몸집 키운 치지직… 네이버 수익성엔 부담",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBScklkZmJVbGlnem5pTVlkNDZ4N3I2U25fNmxIV1d4MkRVdFVSNWpHLWtHWXBNTi1adFhNejh2eE5QRFRacmxpS09TZjZzRkR6cEJ0YVlOLUJmd3lPMGFtSWtEdmI3NnA4eVdDRUVhNE7SAXRBVV95cUxPWUUyUmZqOUdrUG82ajJoVUc4YUdyZUFMQWZFd1NadlV2cmVqSWtpdFMxT2FZRVgyMjNIRHNZbnBmRi15Y2o5OWdtWWppMWZYLUhvVTZpeUpjR1VPN1prREU4bjhsY2lNbkdFZXVCSUg4OW9fTw?oc=5",
+      "publisher": "IT조선",
+      "pubDate": "Sat, 14 Nov 2026 20:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버의 게임 스트리밍 플랫폼 '치지직'이 스포츠 중계 등으로 중계권을 확보하며 사업 규모를 키우고 있으나 이에 따른 비용 증가로 네이버의 수익성에는 부담이 되고 있다는 지적이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-15T00:44:18.185Z"
+    },
+    {
+      "id": "d5a14750090c921e",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "젠슨황 깐부 잃은 네이버…이틀새 주가 -11% ‘와르르’ [투자360]",
+      "link": "https://biz.heraldcorp.com/article/10936916",
+      "publisher": "헤럴드경제",
+      "pubDate": "Sat, 14 Nov 2026 09:40:00 GMT",
+      "keyVisual": "https://wimg.heraldcorp.com/news/cms/2026/11/14/news-p.v1.20260705.8939f29a74d047ca9aef178c529e1afe_P1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "엔비디아 CEO 사임 리스크와 3분기 영업이익 급감 등의 악재로 네이버 주가가 이틀 새 11% 이상 하락했으며, 향후 AI 팩토리 신사업의 성과가 본업의 수익성 둔화를 상쇄하는 핵심 요인이 될 것으로 전망된다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존 지도 시장 경쟁 및 인사이동 소식과 달리, 엔비디아와의 파트너십 리스크 및 3분기 실적 하락 등 대형 재무·경영 악재를 다룬 언론보도라는 점에서 차이가 있다."
+      },
+      "processedAt": "2026-11-15T00:45:42.582Z"
+    },
+    {
+      "id": "a3f599ecc6838765",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "구글 지도 빗장 풀렸다…티맵·네이버·카카오 '내비 삼국지' 흔들까",
+      "link": "https://www.newsis.com/view/NISX20261113_0003867234",
+      "publisher": "뉴시스",
+      "pubDate": "Sat, 14 Nov 2026 01:00:00 GMT",
+      "keyVisual": "https://img1.newsis.com/2025/03/14/NISI20250314_0001792094_web.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "구글 지도의 국내 도보·자동차 길찾기 서비스 도입 예고로 지도 및 내비게이션 시장 경쟁이 가열되는 가운데, 네이버는 현대차그룹과의 협력을 통해 차량용 인포테인먼트 시스템 내 네이버 지도 등 주요 서비스 접점을 확대하고 있다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-15T00:44:44.598Z"
+    },
+    {
+      "id": "a3f599ecc6838765",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "구글 지도 빗장 풀렸다…티맵·네이버·카카오 '내비 삼국지' 흔들까",
+      "link": "https://www.newsis.com/view/NISX20261113_0003867234",
+      "publisher": "뉴시스",
+      "pubDate": "Sat, 14 Nov 2026 01:00:00 GMT",
+      "keyVisual": "https://img1.newsis.com/2025/03/14/NISI20250314_0001792094_web.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "구글 지도의 국내 길찾기 서비스 도입이 가시화됨에 따라 티맵, 네이버, 카카오 등 국내 토종 내비게이션 업체들과의 시장 주도권 경쟁이 본격화될 전망이다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 카카오 관련 이슈가 주로 전 경영진의 비위 및 구속 기소 등 사법 리스크 위주였던 것과 달리, 이번 기사는 카카오내비의 서비스 개편 및 지도 시장 경쟁 동향을 다루고 있다."
+      },
+      "processedAt": "2026-11-15T00:47:11.408Z"
+    },
     {
       "id": "fed5b1e862a0ae28",
       "company": "네이버",
@@ -226,6 +424,28 @@
       "processedAt": "2026-11-14T01:18:27.443Z"
     },
     {
+      "id": "2c73201fdcbec25b",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'AI 기여도 보상해야'...네이버 메이트, AI시대 '창작자' 생태계에 새 바람",
+      "link": "https://www.techm.kr/news/articleView.html?idxno",
+      "publisher": "테크M",
+      "pubDate": "Fri, 13 Nov 2026 05:43:53 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버 메이트가 AI 시대 창작자의 기여도에 대한 보상 체계를 마련하며 창작자 생태계에 새로운 변화를 이끌고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근의 지도 서비스 경쟁이나 인물 관련 소식들과 달리, AI 시대의 창작자 보상 생태계 구축을 다룬 서비스 소식이라는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-11-15T00:46:16.473Z"
+    },
+    {
       "id": "502f0b17b874aa4c",
       "company": "네이버",
       "category": "IT 서비스",
@@ -312,6 +532,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-14T01:19:43.658Z"
+    },
+    {
+      "id": "3a6739948e270a3a",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "카카오 기업용 메신저도 뚫렸다…메일 내용·첨부파일도 유출",
+      "link": "https://www.donga.com/news/Economy/article/all/20261113/135019362/1",
+      "publisher": "동아일보",
+      "pubDate": "Fri, 13 Nov 2026 02:37:00 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/13/135019786.1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "카카오의 기업용 메신저 '카카오워크' 공급사 시스템이 외부 공격을 받아 일부 이용자의 개인정보와 이메일 본문, 첨부파일 등 업무 자료가 유출되었다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-15T00:48:23.549Z"
     },
     {
       "id": "e1f7c52a21cfec6a",
@@ -534,6 +776,28 @@
       "processedAt": "2026-11-14T01:18:57.214Z"
     },
     {
+      "id": "3291809529784f19",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "설비 속 '삼성 기술' 노린 협력사, 중국에 반출 시도",
+      "link": "https://www.safetimes.co.kr/news/articleView.html?idxno",
+      "publisher": "세이프타임즈",
+      "pubDate": "Thu, 12 Nov 2026 06:30:15 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS 설비 내 삼성 기술을 노린 협력사가 해당 기술의 중국 반출을 시도한 정황이 보도되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-15T00:43:50.797Z"
+    },
+    {
       "id": "e7ce60cf500ee1ee",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -600,6 +864,28 @@
       "processedAt": "2026-11-13T01:41:11.133Z"
     },
     {
+      "id": "f9a5690ac730e71a",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버, AI 팩토리 2조원 첫 수주 확보…”10곳 이상과 추가 협상 중\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3Z0FlMnFkY1N4QWJMczk5Tk52SFJ4dmdIT1pwV0JHdzNSRVZrNjgzTmhqNzNKdWRyMkoxY21QM0huRWlNRGVBRzBXRGhwSFBneERocjB6dkNqaTRlMFVPSnVERXc0bVVkaFE?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Thu, 12 Nov 2026 03:45:08 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 AI 팩토리 사업에서 2조 원 규모의 첫 수주를 확보했으며 10곳 이상의 기업과 추가 협상을 진행 중입니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존 지도 플랫폼 경쟁이나 인물 동정 관련 소식과 달리 2조 원 규모의 대형 AI 팩토리 사업 수주 성과를 직접 발표했다는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-11-15T00:43:59.199Z"
+    },
+    {
       "id": "b2e2359ee874f589",
       "company": "네이버",
       "category": "IT 서비스",
@@ -620,6 +906,28 @@
         "llmNote": "기존의 국내 멤버십 혜택 확장 및 기업결합 관련 이슈와 달리 사우디아라비아 현지에서 실외 로봇 배송 서비스를 추진하며 해외 기술 진출을 본격화했다는 점이 특이합니다."
       },
       "processedAt": "2026-11-13T01:42:57.724Z"
+    },
+    {
+      "id": "85294a18e081b20a",
+      "company": "카카오",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“홍보 영상 AI로 뚝딱”…카카오벤처스·힉스필드 맞손",
+      "link": "https://www.sedaily.com/article/20113403",
+      "publisher": "서울경제",
+      "pubDate": "Thu, 12 Nov 2026 02:32:50 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/11/12/news-p.v1.20261112.43621a5258104420831dbd596b44735e_Z1.png",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-11-12",
+      "location": null,
+      "format": "업무협약(MOU) 체결",
+      "slogan": null,
+      "keyMessage": "카카오벤처스가 글로벌 AI 영상 제작 플랫폼 힉스필드와 업무협약을 체결하여 투자 스타트업의 홍보·마케팅 콘텐츠 제작 지원 및 AI 역량 강화에 나선다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "최근 잇따른 사법 리스크 관련 부정적 보도와 달리 투자 스타트업의 성장을 지원하기 위한 생성형 AI 기술 기업과의 파트너십 활동이라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-15T00:47:59.314Z"
     },
     {
       "id": "1c2a907d5d292f15",
@@ -950,6 +1258,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-13T01:40:26.940Z"
+    },
+    {
+      "id": "224ddf6cd8efbee7",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버 제휴심사 발표 임박… 각종 허위·낭설 주의보",
+      "link": "https://www.journalist.or.kr/m/m_article.html?no",
+      "publisher": "한국기자협회",
+      "pubDate": "Wed, 11 Nov 2026 08:01:17 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버의 뉴스 제휴심사 발표가 임박함에 따라 각종 허위 사실 및 낭설 유포에 대한 주의가 필요하다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-15T00:46:02.334Z"
     },
     {
       "id": "09dd6179f2fd1602",
