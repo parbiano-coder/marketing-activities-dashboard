@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T00:48:34.417Z",
+  "updatedAt": "2026-11-16T00:46:34.117Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,248 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "756d65c50d93c8ca",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "아시아투데이",
+      "link": "https://www.asiatoday.co.kr/error.php?code=3",
+      "publisher": "아시아투데이",
+      "pubDate": "Mon, 16 Nov 2026 00:26:45 GMT",
+      "keyVisual": "https://img.asiatoday.co.kr/social/kr_asiatoday_og.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 아시아투데이 언론사의 기본 정보 및 푸터 내용으로 네이버의 마케팅 활동 정보를 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-16T00:46:00.321Z"
+    },
+    {
+      "id": "52b2b86ccf1b8fd0",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"음식점 생수 대량 구매도 네이버에서\"…B2B 전용 플랫폼 신설 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/11/16/2026111608354568834",
+      "publisher": "머니투데이",
+      "pubDate": "Sun, 15 Nov 2026 23:55:30 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111608354568834_1.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": "지난 11일",
+      "location": null,
+      "format": "온라인 플랫폼 오픈",
+      "slogan": null,
+      "keyMessage": "네이버가 스마트스토어 중심의 B2C 생태계를 B2B 영역으로 확대하기 위해 B2B 전용 온라인몰 '네이버플러스 사업자몰'을 신설하고 정식 오픈했습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존 AI 지도 서비스 및 스트리밍 플랫폼 중심 활동과 달리, B2C 커머스 생태계를 B2B 전용 시장으로 확장하는 신규 서비스를 출시한 점이 특이합니다."
+      },
+      "processedAt": "2026-11-16T00:45:45.713Z"
+    },
+    {
+      "id": "588b83d7a78f2cb5",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"네이버, AI 신사업 좋지만 본업이 둔화\"...목표가 ↓",
+      "link": "https://www.fnnews.com/news/202611150157461685",
+      "publisher": "파이낸셜뉴스",
+      "pubDate": "Sun, 15 Nov 2026 23:45:19 GMT",
+      "keyVisual": "https://image.fnnews.com/resource/media/image/2026/11/12/202611120955095351_e.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 북미 AI 기업과 2조 원 규모의 AI 데이터센터 공급 계약을 체결하고 연내 AI 에이전트 출시를 계획하고 있으나, 본업 성장 둔화 및 수익성 부담으로 인해 목표주가가 하향 조정되었다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-16T00:45:54.929Z"
+    },
+    {
+      "id": "c0d8b28aa190a254",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 삼성전자 DX 부진에 '전전긍긍'…AX서 돌파구 찾는다",
+      "link": "https://www.greened.kr/news/articleView.html?idxno",
+      "publisher": "녹색경제신문",
+      "pubDate": "Sun, 15 Nov 2026 21:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 삼성전자 DX 부문의 부진 여파 속에서 AX(AI 전환)를 새로운 돌파구로 삼아 전략적 대응에 나서고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-16T00:43:54.934Z"
+    },
+    {
+      "id": "b072a057c6ab44d0",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "구글로 맛집 찾고 길 안내까지 한번에…네이버·카카오 승부수는?",
+      "link": "https://www.newsis.com/view/NISX20261113_0003867751",
+      "publisher": "뉴시스",
+      "pubDate": "Sun, 15 Nov 2026 21:00:00 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/11/13/NISI20261113_0002291699_web.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "구글 지도의 국내 길찾기 서비스 도입 가능성에 대응해 네이버는 AI 기반 '플레이스 에이전트', 방한객 대상 본인 인증·결제 기능, 해외 플랫폼 연동 등을 통해 지도 및 매장 추천 경쟁력을 강화하고 있다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-16T00:45:37.575Z"
+    },
+    {
+      "id": "24a42c0a485e7244",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "아시아투데이",
+      "link": "https://www.asiatoday.co.kr/error.php?code=3",
+      "publisher": "아시아투데이",
+      "pubDate": "Sun, 15 Nov 2026 19:49:20 GMT",
+      "keyVisual": "https://img.asiatoday.co.kr/social/kr_asiatoday_og.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 언론사 기본 정보 및 저작권 공지사항으로 삼성SDS의 마케팅 활동에 대한 정보가 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-16T00:44:08.027Z"
+    },
+    {
+      "id": "e8af2a7ba95075d1",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "앤트로픽 상장 ‘초읽기’…삼전·하닉·삼성SDS 수혜 기대",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03YkpYMWlYTml0SGs3ODVnV1Z2V0R2c0p2U2tKTG55TEdaTGxVQnA2RFdYM2Y3LXJOeXJjbXdBbm1fMDhiODA2RXhsQ0hiS2drVWtaYzdkZ2owTWdRZUxFbWp2STM0ZWNZeGhSOQ?oc=5",
+      "publisher": "뉴시안",
+      "pubDate": "Sun, 15 Nov 2026 14:43:13 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "인공지능 스타트업 앤트로픽의 상장 추진으로 인해 삼성SDS 등 관련 기업의 수혜 기대감이 증대되고 있다는 소식입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-16T00:43:59.074Z"
+    },
+    {
+      "id": "38a2f1a34c50f1a1",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "나오자마자 ‘1위’ 터졌다…네이버, 사우디서 구글 제치고 뜻밖의 돌풍",
+      "link": "https://biz.heraldcorp.com/article/10937609",
+      "publisher": "헤럴드경제",
+      "pubDate": "Sun, 15 Nov 2026 12:40:00 GMT",
+      "keyVisual": "https://wimg.heraldcorp.com/news/cms/2026/11/15/news-p.v1.20261113.0ab700a8389147d7891def7dadc51bb0_P1.png",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": "사우디아라비아",
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버가 사우디아라비아에서 첫 해외 지도 앱 '발라디 플러스'를 출시해 구글 지도를 제치고 현지 앱스토어 1위에 오르며 B2C 플랫폼 사업으로 영역을 확장했다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": "기존의 국내 서비스 강화 및 사우디 B2G·B2B 사업 중심에서 벗어나 사우디 현지 일반 소비자를 대상으로 한 해외 첫 B2C 모바일 앱을 직접 출시해 성과를 거두었다는 점에서 의미가 있다."
+      },
+      "processedAt": "2026-11-16T00:45:29.793Z"
+    },
+    {
+      "id": "244464d076dcb567",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "이데일리",
+      "link": "https://www.edaily.co.kr/?aspxerrorpath=/News/Read",
+      "publisher": "이데일리",
+      "pubDate": "Sun, 15 Nov 2026 06:31:15 GMT",
+      "keyVisual": "https://www.edaily.co.kr/profile_edaily_512.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 기사 본문에는 네이버의 마케팅 활동 관련 내용이 포함되어 있지 않으며 바이오 기업 관련 기사 제목으로만 구성되어 있습니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-16T00:46:22.130Z"
+    },
+    {
+      "id": "df54479ba2690ddb",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI·로봇 19조 통큰 투자…구미에 다시 부는 '삼성 르네상스'",
+      "link": "https://www.imaeil.com/page/view/2026110510004991968",
+      "publisher": "매일신문",
+      "pubDate": "Sun, 15 Nov 2026 04:50:05 GMT",
+      "keyVisual": "https://www.imaeil.com/photos/2026/11/02/2026110217412958359_l.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2일",
+      "location": "경북 구미시 공단동 옛 삼성전자 1캠퍼스 부지",
+      "format": "오프라인 행사",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 경북 구미에서 4,273억 원 규모의 AI 데이터센터 기공식을 개최하고 본격적인 데이터센터 건립에 착수했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-16T00:44:27.277Z"
+    },
+    {
+      "id": "6cbcaff5e1f24090",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[CEO 와칭] 'IT 현장 전문가' 김완종 SK AX 사장, SK그룹 AX·보안 전략 중추로",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdjdkOHpFS0N0VEdxY0syaU1QSVFqS3lyaGVFcl9tX285UGNyQUVRYS1pd1pMZVgycHVySDZma2VQVWlvekxaZnZXNGhaT19BQ2xqNXlQd1NXSk11c3NMSQ?oc=5",
+      "publisher": "메트로신문",
+      "pubDate": "Sun, 15 Nov 2026 04:16:13 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "IT 현장 전문가인 김완종 SK AX 사장이 SK그룹의 AX 및 보안 전략에서 중추적인 역할을 맡아 끌어가고 있음을 다룬 기사입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 솔루션 출시 및 기술 비전 발표 위주의 활동과 달리 대표이사(CEO)의 리더십과 그룹 내 전략적 역할을 조명한 보도라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-16T00:45:22.033Z"
+    },
     {
       "id": "7829510c5276d51a",
       "company": "카카오",
@@ -246,6 +488,28 @@
         "llmNote": "기존 지도 시장 경쟁 및 인사이동 소식과 달리, 엔비디아와의 파트너십 리스크 및 3분기 실적 하락 등 대형 재무·경영 악재를 다룬 언론보도라는 점에서 차이가 있다."
       },
       "processedAt": "2026-11-15T00:45:42.582Z"
+    },
+    {
+      "id": "fe75d04afe36a16c",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"주말에 갈 식당 찾아서 예약해줘\" 말했더니…'놀라운 결과' [정지은의 테크킥]",
+      "link": "https://www.hankyung.com/article/202611146124i",
+      "publisher": "한국경제",
+      "pubDate": "Sat, 14 Nov 2026 02:00:01 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202611/01.46418894.1.png",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": "실적발표 콘퍼런스콜",
+      "slogan": null,
+      "keyMessage": "네이버가 검색, 쇼핑, 예약, 결제까지 이용자를 대신해 통합 수행하는 개인형 AI 에이전트 앱을 다음 달 출시하며 AI 중심의 플랫폼 확장과 거래 생태계 강화를 추진한다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-16T00:46:13.332Z"
     },
     {
       "id": "a3f599ecc6838765",
@@ -774,6 +1038,28 @@
         "llmNote": "개별 개별 서비스 출시나 사우디 해외 진출 관련 소식 위주였던 최근 활동과 달리, 분기 실적 발표 및 기업 전반의 AI·물류 미래 성장 전략을 다루고 있다는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-11-14T01:18:57.214Z"
+    },
+    {
+      "id": "3769f8fe0e1a6b29",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 로봇 석학들과 ‘피지컬 AI’ 머리 맞댔다…현장 적용 과제 논의",
+      "link": "https://www.donga.com/news/It/article/all/20261112/135014917/1",
+      "publisher": "동아일보",
+      "pubDate": "Thu, 12 Nov 2026 06:59:44 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/12/135014903.2.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": "서울 마곡 본사 퓨처로보틱스 랩",
+      "format": "오프라인 포럼",
+      "slogan": null,
+      "keyMessage": "LG CNS가 서울 마곡 본사에서 '2026 로보틱스 & 피지컬 AI 포럼'을 개최하고 국내외 로봇 석학들과 피지컬 AI 기술 동향 및 산업 현장 적용 방안을 논의했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-16T00:45:05.985Z"
     },
     {
       "id": "3291809529784f19",
@@ -2310,7 +2596,7 @@
       "slogan": null,
       "keyMessage": "푸조가 네이버 공식 스토어에 시승 신청 서비스를 도입하여 고객이 별도 회원가입 없이 네이버 계정만으로 차량 탐색부터 시승 신청, 구매 예약까지 한 번에 이용할 수 있도록 했다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "최근 법적 분쟁이나 자체 서비스 개편 이슈 위주였던 활동들과 달리 수입차 브랜드 푸조와의 이커머스 및 시승 연동 서비스 제휴를 다루고 있습니다."
       },
       "processedAt": "2026-11-10T08:00:17.321Z"
@@ -2376,7 +2662,7 @@
       "slogan": null,
       "keyMessage": "KBS 뉴스",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": null
       },
       "processedAt": "2026-11-10T08:00:05.099Z"
@@ -2420,7 +2706,7 @@
       "slogan": null,
       "keyMessage": "제시된 본문은 KBS 뉴스의 하단 공지 및 저작권 정보로 네이버의 마케팅 활동 내용이 포함되어 있지 않습니다.",
       "anomaly": {
-        "statisticalSpike": true,
+        "statisticalSpike": false,
         "llmNote": "네이버의 마케팅 활동이 아닌 KBS 뉴스의 푸터 정보가 수집된 점이 특이합니다."
       },
       "processedAt": "2026-11-09T00:32:11.132Z"
@@ -3152,6 +3438,28 @@
       "processedAt": "2026-11-03T02:45:44.062Z"
     },
     {
+      "id": "38b9d03dc7a79ab7",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "‘애니콜 신화’ 현장에 AI 거점…삼성SDS, 구미 데이터센터 첫 삽",
+      "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno",
+      "publisher": "경북일보",
+      "pubDate": "Mon, 02 Nov 2026 08:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "구미",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 과거 애니콜 생산 현장이었던 구미에 AI 거점이 될 데이터센터 건립 착공(첫 삽)에 들어갔습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 플랫폼 개발 협력이나 보안 사고 관련 이슈와 달리, AI 거점 데이터센터 직접 착공을 통한 물리적 인프라 투자 행보라는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-11-16T00:44:18.880Z"
+    },
+    {
       "id": "b68d60b43da463bb",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -3656,6 +3964,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-09T00:31:27.330Z"
+    },
+    {
+      "id": "321484616e4ff7c7",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 인니 데이터센터 11월 준공…모듈형 기술로 해외 사업 확대",
+      "link": "https://view.asiae.co.kr/article/2026103014373433965",
+      "publisher": "아시아경제",
+      "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
+      "keyVisual": "https://cphoto.asiae.co.kr/listimglink/1/2026091010321123268_1789003931.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "인도네시아 자카르타",
+      "format": "실적발표 콘퍼런스콜",
+      "slogan": null,
+      "keyMessage": "LG CNS가 오는 11월 인도네시아 자카르타 데이터센터 준공을 계기로 사전제작 모듈형 기술을 활용하여 북미 및 유럽 시장 등 해외 데이터센터 사업 확대를 본격 추진한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 로봇 및 피지컬 AI 관련 학술 포럼과 실적 발표 위주의 활동과 달리 인도네시아 데이터센터 준공을 교두보로 북미·유럽 등 해외 데이터센터 구축 사업 진출을 본격적으로 다루고 있습니다."
+      },
+      "processedAt": "2026-11-16T00:44:35.706Z"
     },
     {
       "id": "ec32516a9b5298ba",
