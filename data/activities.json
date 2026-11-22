@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T02:00:55.223Z",
+  "updatedAt": "2026-11-22T00:58:20.436Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,116 @@
   ],
   "activities": [
     {
+      "id": "afb4fce7744c4490",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "이데일리",
+      "link": "https://www.edaily.co.kr/?aspxerrorpath=/News/Read",
+      "publisher": "이데일리",
+      "pubDate": "Sun, 22 Nov 2026 00:00:06 GMT",
+      "keyVisual": "https://www.edaily.co.kr/profile_edaily_512.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문은 LG CNS의 마케팅 활동과 무관한 제약·바이오 및 헬스케어 관련 기사 제목 모음입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AX 사업 및 임원인사 소식과 달리 본문에 LG CNS와 관련된 마케팅 활동 내용이 전혀 포함되어 있지 않습니다."
+      },
+      "processedAt": "2026-11-22T00:56:37.340Z"
+    },
+    {
+      "id": "27bb779a374b298d",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG유플, AI 사업 중심 조직 재편… B2B 수장에 LG CNS 출신 영입 | 중앙일보",
+      "link": "https://www.joongang.co.kr/article/25480737",
+      "publisher": "중앙일보",
+      "pubDate": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "keyVisual": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/22/da04a9a8-0323-448e-892b-985354df64ac.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG유플러스가 AI 사업 실행력 강화를 위해 B2B 엔터프라이즈 부문 수장으로 LG CNS 출신의 김홍근 부사장을 영입하고 AI 중심으로 조직을 재편했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "LG CNS 자체의 마케팅 활동이 아닌 계열사 LG유플러스의 조직개편 및 LG CNS 출신 임원 영입 소식을 다루고 있다는 점이 특이합니다."
+      },
+      "processedAt": "2026-11-22T00:56:27.573Z"
+    },
+    {
+      "id": "c791765065394a7d",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LGU+, 조직 개편 단행…기업 AI 사업 '인프라·플랫폼' 양대 축으로 재편 ",
+      "link": "https://www.newsis.com/view/NISX20261122_0003877858",
+      "publisher": "뉴시스",
+      "pubDate": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/04/22/NISI20260422_0002117090_web.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG유플러스가 AI 사업 강화를 위한 조직 개편을 단행하며 B2B 부문장에 LG CNS 출신 김홍근 부사장을 선임했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "LG CNS의 직접적인 활동이 아닌 계열사인 LG유플러스의 조직 개편 및 LG CNS 출신 임원 이동 소식을 다루고 있습니다."
+      },
+      "processedAt": "2026-11-22T00:56:44.446Z"
+    },
+    {
+      "id": "db8316aff8fbefc0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 지멘스와 공급망 의사결정 혁신 논의…운영 효율화 수요 대응 전략 공유",
+      "link": "https://www.theguru.co.kr/news/article.html?no",
+      "publisher": "더구루",
+      "pubDate": "Sat, 21 Nov 2026 22:50:24 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 지멘스와 공급망 의사결정 혁신 방안을 논의하고 운영 효율화 수요 대응 전략을 공유했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 경영진 유임 및 내부 AI·로봇 조직 개편 소식과 달리, 글로벌 기업 지멘스와의 공급망 혁신 협력 논의라는 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-11-22T00:56:01.753Z"
+    },
+    {
+      "id": "d7eadef3338b182a",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"운동화 넘어 카드·감자튀김·PB까지\"…사업 넓히는 리셀 1위 네이버 크림 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/11/22/2026111910374475010",
+      "publisher": "머니투데이",
+      "pubDate": "Sat, 21 Nov 2026 21:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111910374475010_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버의 한정판 거래 플랫폼 크림(KREAM)이 단순 리셀을 넘어 TCG, 팬덤 굿즈, F&B 협업 및 자체 브랜드(PB) 출시 등 B2C 마케팅과 사업 영역을 공격적으로 확장하고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 마케팅 활동들이 AI, B2B, 해외 지도 등 글로벌 IT 인프라 중심이었던 것과 달리, C2C 플랫폼 크림을 통한 F&B·팬덤·PB 등 B2C 라이프스타일 마케팅 확장을 다루고 있습니다."
+      },
+      "processedAt": "2026-11-22T00:58:08.803Z"
+    },
+    {
       "id": "57a0e915f813061b",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -114,6 +224,28 @@
         "llmNote": "자사의 행사 개최, 수상, 실적 발표 위주의 최근 활동과 달리 그룹 계열사인 LG유플러스와의 AI·AX 사업 영역 중복 및 경쟁 이슈를 조명한 보도입니다."
       },
       "processedAt": "2026-11-21T02:00:15.779Z"
+    },
+    {
+      "id": "41b16d303de1600d",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[어바웃 C] 삼성SDS 이준희 유임…'AI·클라우드' 드라이브 잇는다",
+      "link": "https://v.daum.net/v/BKTI2XIkMx",
+      "publisher": "Daum",
+      "pubDate": "Fri, 20 Nov 2026 08:03:44 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S800x400/?fname=https://t1.daumcdn.net/news/202611/20/bloter/20261120170344428eqnx.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS 이준희 대표이사 사장의 유임으로 AI 및 클라우드 중심의 성장 전략과 함께 로봇전환(RX) 등 신사업 영역 확장이 더욱 탄력을 받게 되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-22T00:56:11.564Z"
     },
     {
       "id": "15b3ec5417ae3d5a",
@@ -314,6 +446,28 @@
       "processedAt": "2026-11-21T02:00:06.828Z"
     },
     {
+      "id": "a14931e2916d1101",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 배민 디지털사업부장 부사장 승진",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno",
+      "publisher": "연합인포맥스",
+      "pubDate": "Thu, 19 Nov 2026 08:03:57 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS에서 배민 디지털사업부장을 부사장으로 승진시키는 정기 임원인사를 단행했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-22T00:56:54.549Z"
+    },
+    {
       "id": "754499c952972ece",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -334,6 +488,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-21T02:00:23.798Z"
+    },
+    {
+      "id": "0554e4d3ddf77894",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 14명 규모 임원인사 단행… AI 네이티브 시장 선점 총력",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKc0NpU3JJTFpmQ2hHUzgwZVV0c2xtVkgxbFFlb0hNZ0o0cE04cXZfbEFueUVCTHZXZ2pYQzFvakJGNzcxUWlGT1F1dTRlR3FOOGVwb0t6UWotVkl6a05CLXhXSVI?oc=5",
+      "publisher": "매일일보",
+      "pubDate": "Thu, 19 Nov 2026 07:48:25 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 AI 네이티브 시장 선점을 총력 추진하기 위해 14명 규모의 임원인사를 단행했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-22T00:57:10.008Z"
     },
     {
       "id": "cc1436142a8bdcb5",
@@ -400,6 +576,94 @@
         "llmNote": "삼성SDS의 IT 사업 및 마케팅 활동과 직접적인 관련이 없는 개인 부동산 세금 관련 내용이 포함되어 있습니다."
       },
       "processedAt": "2026-11-21T01:58:44.106Z"
+    },
+    {
+      "id": "128c63ed7439479d",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 협력사 120여곳과 동반성장데이…AI 협력안 논의 | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261117085900017",
+      "publisher": "연합뉴스",
+      "pubDate": "Tue, 17 Nov 2026 06:30:00 GMT",
+      "keyVisual": "https://img0.yna.co.kr/etc/inner/KR/2026/11/17/AKR20261117085900017_01_i_P4.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026년 11월 17일",
+      "location": "경기 성남 SK u-타워",
+      "format": "오프라인 행사",
+      "slogan": null,
+      "keyMessage": "SK AX가 협력사 120여곳과 함께 '2026 동반성장데이'를 개최하고 AI 기반 구매 업무 서비스인 '프로에이엑스'를 최초로 공개하며 AI 중심의 상생 협력 방안을 논의했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 활동들이 AI 솔루션 출시 및 대고객 AX 사업 가속화에 집중되었던 것과 달리, 이번 활동은 협력사와의 상생 및 동반성장에 중점을 두었습니다."
+      },
+      "processedAt": "2026-11-22T00:57:17.538Z"
+    },
+    {
+      "id": "8f61d9034aa57dda",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX, 협력사 AI 전환 지원 확대… 기술·인재·금융 상생 생태계 구축",
+      "link": "https://www.koreaittimes.com/news/articleView.html?idxno",
+      "publisher": "Korea IT Times",
+      "pubDate": "Tue, 17 Nov 2026 06:23:23 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 협력사의 성공적인 AI 전환(AX)을 지원하기 위해 기술, 인재, 금융 전반의 상생 생태계 구축을 확대하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "자사 중심의 AI 솔루션 및 플랫폼 출시 활동에서 벗어나 협력사를 대상으로 한 기술·인재·금융 상생 생태계 지원으로 활동 영역을 확장했습니다."
+      },
+      "processedAt": "2026-11-22T00:57:30.720Z"
+    },
+    {
+      "id": "8bc25de2bd200fa2",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS·삼성SDS, 블록체인 사업 '재시동'",
+      "link": "https://news.bizwatch.co.kr/article/mobile/2026/11/17/0018",
+      "publisher": "비즈워치",
+      "pubDate": "Tue, 17 Nov 2026 06:15:03 GMT",
+      "keyVisual": "https://cdn.bizwatch.co.kr/news/photo/2026/10/20/06cab2f009358b462a2d5a8876a4ede0.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 스테이블코인 및 토큰증권(STO) 시장 선점을 위해 디지털자산컨설팅그룹을 신설하고 두나무 지분 인수 등을 통해 블록체인 사업에 다시 속도를 내고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 강조되던 AI, 클라우드 및 로봇 중심의 사업 추진과 달리 스테이블코인과 토큰증권 등 블록체인 분야 신사업 재추진이 부각되었습니다."
+      },
+      "processedAt": "2026-11-22T00:56:19.387Z"
+    },
+    {
+      "id": "8bc25de2bd200fa2",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS·삼성SDS, 블록체인 사업 '재시동'",
+      "link": "https://news.bizwatch.co.kr/article/mobile/2026/11/17/0018",
+      "publisher": "비즈워치",
+      "pubDate": "Tue, 17 Nov 2026 06:15:03 GMT",
+      "keyVisual": "https://cdn.bizwatch.co.kr/news/photo/2026/10/20/06cab2f009358b462a2d5a8876a4ede0.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 블록체인 인프라 플랫폼 '기틀(KITL)'을 출시하고 글로벌 기술 기업들과 협력하여 디지털자산 및 금융 시장을 대상으로 한 사업을 확대하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 임원인사 및 AI 사업 중심의 소식들과 달리, 글로벌 블록체인 기업들과 손잡고 디지털자산 인프라 플랫폼 사업을 본격 재개했다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-22T00:57:01.064Z"
     },
     {
       "id": "756d65c50d93c8ca",
@@ -49396,6 +49660,28 @@
       "processedAt": "2026-08-02T21:56:44.478Z"
     },
     {
+      "id": "47320bac25a8a683",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "KBS 뉴스",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd",
+      "publisher": "KBS 뉴스",
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "keyVisual": "//news.kbs.co.kr/resource/image/common/img_meta.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "본문 내용이 KBS 뉴스 사이트의 하단 푸터 정보로 구성되어 있어 SK AX의 마케팅 활동 관련 정보가 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-22T00:57:56.814Z"
+    },
+    {
       "id": "e7d49f7479b8af0d",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -49902,6 +50188,28 @@
       "processedAt": "2026-08-11T21:46:06.932Z"
     },
     {
+      "id": "49368d12a734f820",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK AX ‘AI로 기업경영 재설계’ 시장 공략 나서 | DBR",
+      "link": "https://dbr.donga.com/kfocus/view/article_no/2945",
+      "publisher": "동아비즈니스리뷰",
+      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "keyVisual": "https://dbr.donga.com/upload_dir/kfocus/2026/06/20260617.134123694.2_1781658810_6a31f4badaf97.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "2026년 6월 16일",
+      "location": "서울 강남구 그랜드 인터컨티넨탈 파르나스 호텔",
+      "format": "오프라인 컨퍼런스",
+      "slogan": "AI를 도입하는 기업에서 AI가 일하는 기업으로",
+      "keyMessage": "SK AX는 '이매진 AX 2026' 콘퍼런스를 개최하여 전사 업무 및 운영 전반을 AI로 재설계하는 '에이전틱 엔터프라이즈' 시장 공략 계획과 주요 협력 성과를 발표했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-22T00:57:48.915Z"
+    },
+    {
       "id": "86305618131c2d3b",
       "company": "SK AX",
       "category": "IT 서비스",
@@ -50120,6 +50428,28 @@
         "llmNote": "최근 HR 및 채용 관련 AI 솔루션(지핏 스튜디오) 출시 위주의 활동과 달리, 금융권 대형 IT 인프라 통합 운영 장기 수주 건이라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-11-05T01:20:58.530Z"
+    },
+    {
+      "id": "b61c67196587cc04",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 기사 본문은 뉴스레터 구독 안내 내용으로 SK AX의 마케팅 활동 관련 정보가 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-22T00:57:38.950Z"
     },
     {
       "id": "483efc8ee35b5824",
