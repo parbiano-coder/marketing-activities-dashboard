@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T00:58:20.436Z",
+  "updatedAt": "2026-11-23T01:25:45.077Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,336 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "f4514ae66991651b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 고교생 AI 인재 육성…AI 지니어스 아카데미 개최",
+      "link": "https://biz.chosun.com/it-science/ict/2026/11/23/2BY2O32YYRF5ZKSZ2474G2QKJA/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Mon, 23 Nov 2026 01:12:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/INQ5OKVP2NEANHHLKCLX62LCH4.jpg?auth=85e0d4bc051e571243fcf092276c3b4a98f684b63ca556c0a2bc981efd04f89f&width=1200&height=630&smart=true",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "지난 20일",
+      "location": "서울 마곡 LG사이언스파크 본사",
+      "format": "오프라인 행사",
+      "slogan": null,
+      "keyMessage": "LG CNS가 고등학생 대상 AI 교육 사회공헌 프로그램인 'AI지니어스 아카데미 챌린지데이'를 개최하여 미래 AI 인재 육성과 사회공헌에 앞장서고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 임원 인사나 사업 경쟁 관련 이슈와 달리 청소년 대상 AI 교육 사회공헌(CSR) 활동 소식이라는 점이 특징적입니다."
+      },
+      "processedAt": "2026-11-23T01:23:50.790Z"
+    },
+    {
+      "id": "c112e4edc4a6eef6",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "부산대-SK AX [AI 인재 키우고 부울경 산업 바꾼다]",
+      "link": "https://www.veritas-a.com/news/articleView.html?idxno",
+      "publisher": "베리타스알파",
+      "pubDate": "Mon, 23 Nov 2026 01:04:15 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 부산대학교와 협력하여 AI 인재를 양성하고 부울경 지역 산업의 혁신을 추진합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 협력사 동반성장 및 사업 전략 발표 중심 활동과 달리 대학과의 산학협력을 통한 지역 AI 인재 양성 노력을 다룬 점이 특징입니다."
+      },
+      "processedAt": "2026-11-23T01:25:32.653Z"
+    },
+    {
+      "id": "9f0de005cb8e584c",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "부산대-SK AX, AI 인재 양성·동남권 산업 혁신 맞손",
+      "link": "https://view.asiae.co.kr/article/2026112309534192562",
+      "publisher": "아시아경제",
+      "pubDate": "Mon, 23 Nov 2026 01:02:23 GMT",
+      "keyVisual": "https://cphoto.asiae.co.kr/listimglink/1/2026112309515719337_1795395117.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "부산대학교 IT관 5층 라운지",
+      "format": "업무협약 체결",
+      "slogan": null,
+      "keyMessage": "SK AX가 부산대학교와 업무협약을 체결하고 동남권 지역 산업의 AI 전환(AX)과 실무형 AI 인재 양성을 위한 산학협력에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존 협력사 상생 및 기업 대상 AI 사업 중심 활동에서 벗어나 지역 거점 대학과의 산학협력을 통해 동남권 지역 인재 양성과 지역 산업 AX 지원으로 협력 범위를 확장했습니다."
+      },
+      "processedAt": "2026-11-23T01:25:26.027Z"
+    },
+    {
+      "id": "4bf7143b880410f3",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, ‘AI지니어스 아카데미 챌린지데이’ 개최…역대 최대 규모",
+      "link": "https://www.sentv.co.kr/article/view/sentv202611230020",
+      "publisher": "서울경제TV",
+      "pubDate": "Mon, 23 Nov 2026 01:00:05 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/11/23/sentv20261123000008.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": "서울 마곡 LG사이언스파크 본사",
+      "format": "오프라인 행사",
+      "slogan": null,
+      "keyMessage": "LG CNS가 미래 AI 인재 양성을 위한 사회공헌 프로그램 'AI지니어스 아카데미 챌린지데이'를 개최하고 고등학생들이 직접 개발한 우수 AI 프로젝트를 시상했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 임원 인사 및 계열사 간 경쟁 등 조직·경영 이슈가 주를 이루었던 것과 달리 고등학생 대상의 AI 인재 양성 사회공헌 행사를 개최한 점이 특징입니다."
+      },
+      "processedAt": "2026-11-23T01:25:02.439Z"
+    },
+    {
+      "id": "d46286cc08a5afbb",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS가 키운 고교생 AI 인재들…안심 귀가 서비스 개발",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IRFowbUJETVU4djFhbWdCRGZmTW13NWdZeG03cDFvVDZ3d3hENWtMRWozWWhERkNKazNLbDdkQ0Iwc2xYcWdMNU43VG5HWTNDM3VVX2tVRU4tSHQ2amlqWExxLURUUQ?oc=5",
+      "publisher": "디일렉",
+      "pubDate": "Mon, 23 Nov 2026 01:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 육성한 고등학생 AI 인재들이 안심 귀가 서비스를 개발했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 임원 인사 및 경쟁사 동향 기사와 달리 CSR 및 AI 인재 양성 프로그램 성과를 다룬 점이 특징입니다."
+      },
+      "processedAt": "2026-11-23T01:25:08.335Z"
+    },
+    {
+      "id": "8701d1314790f7b1",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI주 찬바람에 삼성SDS·LG CNS 유탄…10%대 급락 - 머니투데이",
+      "link": "https://www.mt.co.kr/stock/2026/11/23/2026112309543083230",
+      "publisher": "머니투데이",
+      "pubDate": "Mon, 23 Nov 2026 00:55:40 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=686,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/11/2026112309543083230_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "미국발 AI주 급락 여파로 삼성SDS 주가가 10%대 급락세를 보인 가운데, 증권가에서는 클라우드 매출 성장률과 GPUaaS 매출 비중이 향후 실적의 핵심 요소라고 분석했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 사업 확장 및 파트너십 발표 활동들과 달리, 미국발 악재에 따른 주가 급락 및 시장 반응을 다룬 언론보도라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-23T01:23:07.351Z"
+    },
+    {
+      "id": "8701d1314790f7b1",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI주 찬바람에 삼성SDS·LG CNS 유탄…10%대 급락 - 머니투데이",
+      "link": "https://www.mt.co.kr/stock/2026/11/23/2026112309543083230",
+      "publisher": "머니투데이",
+      "pubDate": "Mon, 23 Nov 2026 00:55:40 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=686,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/11/2026112309543083230_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "미국발 AI주 급락 여파로 LG CNS 주가가 10%대 급락한 가운데, AIDC 구축·운영 수주와 GPU 서비스 성장성 및 감가상각 부담이 함께 분석되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 조직·인사 및 사업 경쟁 관련 소식과 달리 미국발 AI 악재로 인한 주가 급락과 AIDC·GPU 사업 실적 전망을 다룬 증권가 분석 기사입니다."
+      },
+      "processedAt": "2026-11-23T01:23:59.001Z"
+    },
+    {
+      "id": "6cceee013cef62d4",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[특징주] 삼성SDS, AI·클라우드 투자 부담 우려 재점화…14%대 급락 | 아주경제",
+      "link": "https://www.ajunews.com/view/20261123094714133",
+      "publisher": "아주경제",
+      "pubDate": "Mon, 23 Nov 2026 00:52:06 GMT",
+      "keyVisual": "https://image.ajunews.com/content/image/2026/11/23/20261123095018567489.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI와 클라우드 투자 확대에 따른 자금조달 부담과 수익성 둔화 우려로 인해 주가가 14%대 급락했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI·클라우드 중심 성장 전략과 경영진 유임 등 긍정적 행보와 달리, 투자 부담 및 수익성 둔화 우려로 인한 주가 급락 악재를 다루고 있습니다."
+      },
+      "processedAt": "2026-11-23T01:23:26.760Z"
+    },
+    {
+      "id": "784eed0fed3f1806",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "CB 발행 역대 최대 9조9097억원…증시 급락에 상환 부담 커져",
+      "link": "https://www.sentv.co.kr/article/view/sentv202611230028",
+      "publisher": "서울경제TV",
+      "pubDate": "Mon, 23 Nov 2026 00:16:00 GMT",
+      "keyVisual": "https://www.sentv.co.kr/data/sentv/image/2026/11/23/sentv20261123000025.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론 보도",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 잠재적인 자본조달 전략 및 시장 환경을 반영하여 1조 2,200억 원 규모의 전환사채(CB)를 성공적으로 발행했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI·클라우드 성장 전략 및 로봇 신사업 추진 활동과 달리 대규모 전환사채(CB) 발행을 통한 자금 조달 관련 재무 소식이라는 점에서 특이점이 있습니다."
+      },
+      "processedAt": "2026-11-23T01:23:34.428Z"
+    },
+    {
+      "id": "256a69a9bb3eb80b",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "앤트로픽 상장 효과 어디까지…LG CNS·삼성SDS도 수혜주로 부상",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno",
+      "publisher": "핀포인트뉴스",
+      "pubDate": "Sun, 22 Nov 2026 08:20:52 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "앤트로픽 상장에 따른 시장의 수혜 기대감으로 LG CNS와 함께 삼성SDS가 수혜주로 부상하고 있다는 소식입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 자사 사업 전략이나 대표이사 유임 발표와 달리 앤트로픽 상장이라는 외부 시장 이슈로 인해 수혜주로 언급된 보도 내용입니다."
+      },
+      "processedAt": "2026-11-23T01:23:42.253Z"
+    },
+    {
+      "id": "26d608ffe6d78a9e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 품질문제 잡아내는 양자컴 소프트웨어 만든다",
+      "link": "https://www.sedaily.com/article/20117393",
+      "publisher": "서울경제",
+      "pubDate": "Sun, 22 Nov 2026 07:40:43 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/11/22/news-p.v1.20260812.6e776376e73f402a951deb6a28a9c062_Z1.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-11-22",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 고려대학교 연구진과 협력하여 제조업의 제품 품질 문제를 진단하고 원인을 분석하는 양자컴퓨터 기반 수학적 최적화 엔진 개발에 나섰습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 인사 및 경쟁 구도 중심의 기사들과 달리, 양자컴퓨터 선행 연구 및 고려대와의 산학협력을 주제로 다루고 있습니다."
+      },
+      "processedAt": "2026-11-23T01:24:16.044Z"
+    },
+    {
+      "id": "f5333e0187da06a1",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "중기중앙회, LG CNS서 AI 전환 교육 성과 공유…24명 수료",
+      "link": "https://stock.mk.co.kr/news/view/1203746",
+      "publisher": "매일경제 마켓",
+      "pubDate": "Sun, 22 Nov 2026 03:00:06 GMT",
+      "keyVisual": "https://stock.mk.co.kr/photos/20261122/PCM20260322000044990_P4.jpg",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": "20일",
+      "location": "강서구 LG CNS",
+      "format": "오프라인 수료식",
+      "slogan": null,
+      "keyMessage": "LG CNS가 중소기업중앙회와 함께 진행한 'KBIZ AX 브릿지' 수료식을 개최하고, 중소기업 실무진이 구축한 AI 에이전트 및 대시보드 등의 성과를 공유했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 임원 인사 및 계열사 간 경쟁 구도 관련 소식이 주를 이루었던 것과 달리 중소기업을 대상으로 한 AI 교육 및 AX 생태계 조성 활동이라는 점에서 차이가 있다."
+      },
+      "processedAt": "2026-11-23T01:24:07.989Z"
+    },
+    {
+      "id": "70a41812a710f19b",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"대기업 AI 노하우, 中企 역량으로\"…중기중앙회·LG CNS 'AX 브릿지'",
+      "link": "https://www.news1.kr/industry/sb-founded/6361885",
+      "publisher": "뉴스1",
+      "pubDate": "Sun, 22 Nov 2026 03:00:00 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2026/8/12/8051631/high.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 중소기업중앙회와 협력하여 대기업의 AI 노하우를 중소기업에 전수하고 지원하는 'AX 브릿지'를 추진한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 임원 인사나 계열사 간 AI 사업 경쟁 이슈와 달리 중소기업과의 상생을 위한 대외 파트너십을 추진한다는 점이 특이합니다."
+      },
+      "processedAt": "2026-11-23T01:24:32.981Z"
+    },
+    {
+      "id": "8ff1aaec482307ad",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "아시아투데이",
+      "link": "https://www.asiatoday.co.kr/error.php?code=3",
+      "publisher": "아시아투데이",
+      "pubDate": "Sun, 22 Nov 2026 03:00:00 GMT",
+      "keyVisual": "https://img.asiatoday.co.kr/social/kr_asiatoday_og.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "본문은 LG CNS의 마케팅 활동 내용이 아닌 아시아투데이의 매체 등록 정보 및 저작권 관련 공지사항입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "LG CNS의 IT 서비스 및 AI 사업 등 주요 마케팅 활동과 전혀 관련 없는 언론사 하단 공지 정보입니다."
+      },
+      "processedAt": "2026-11-23T01:24:44.393Z"
+    },
+    {
+      "id": "b8a4a7c439bb30b6",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "중기중앙회·LG CNS, 中企 AI 실무교육 확대…현장 적용 지원",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iYnFZUEFPUlZMaWw5WjNRU2hKX01Jc1JYS0NYLS1aNEtSSzJIWjJRamZueGIzdmtlbUoyWUp5a0V0bFZDUWZBR20wMzJFMWh3Y29NcTZTdDhvYmFveFFzcDNjNWw?oc=5",
+      "publisher": "매일일보",
+      "pubDate": "Sun, 22 Nov 2026 03:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 중소기업중앙회와 협력하여 중소기업 대상 AI 실무교육을 확대하고 현장 적용을 지원합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 임원 인사 및 계열사 간 경쟁 이슈 위주의 소식과 달리 중소기업 대상 AI 실무교육 지원 협력 활동을 진행했다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-23T01:24:50.809Z"
+    },
     {
       "id": "afb4fce7744c4490",
       "company": "LG CNS",
