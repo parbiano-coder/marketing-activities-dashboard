@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T01:25:45.077Z",
+  "updatedAt": "2026-11-24T05:14:27.338Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -93,6 +93,358 @@
     "기타"
   ],
   "activities": [
+    {
+      "id": "250f0f09b1e190eb",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, ‘AI지니어스 아카데미’ 개최",
+      "link": "http://www.bikorea.net/news/articleView.html?idxno",
+      "publisher": "BI KOREA",
+      "pubDate": "Tue, 24 Nov 2026 04:04:14 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 미래 AI 인재 육성을 위한 사회공헌 프로그램인 'AI지니어스 아카데미'를 개최했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:11:54.970Z"
+    },
+    {
+      "id": "06ea311c3e08f0cb",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "'마케팅·여성 리더 약진' 삼성SDS 임원인사…AI 사업 역량 끌어올린다",
+      "link": "https://www.greened.kr/news/articleView.html?idxno",
+      "publisher": "녹색경제신문",
+      "pubDate": "Tue, 24 Nov 2026 02:23:31 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 마케팅 및 여성 리더를 전면에 배치하는 임원인사를 통해 AI 사업 역량을 끌어올리고자 합니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "주가 변동, 자금 조달 및 해외 기업 협력 위주의 최근 활동들과 달리 내부 임원 인사 및 인재 중용에 관한 보도라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-24T05:10:26.370Z"
+    },
+    {
+      "id": "80c7e364f83e3b7e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Tue, 24 Nov 2026 01:24:04 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제시된 본문에는 지디넷코리아의 뉴스레터 구독 안내 문구만 포함되어 있어 삼성SDS의 마케팅 활동 정보를 확인할 수 없습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:08:15.675Z"
+    },
+    {
+      "id": "94a5dc8bc00012d1",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 임원 10명 승진…AI·클라우드 인재 중용",
+      "link": "https://www.yonhapnewstv.co.kr/news/AKR20261124102211Iak",
+      "publisher": "연합뉴스TV",
+      "pubDate": "Tue, 24 Nov 2026 01:22:00 GMT",
+      "keyVisual": "https://media.yonhapnewstv.co.kr/article/AKR/20261124/AKR20261124102211Iak_01_i.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS는 AI 전환과 클라우드 등 미래 성장동력 확보를 위해 10명 규모의 정기 임원 인사를 단행하고 기술 리더십과 사업 경쟁력을 강화할 방침입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:09:59.190Z"
+    },
+    {
+      "id": "40071670e3c0f912",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[리포트 브리핑]삼성에스디에스, '2027년 인터넷/게임: 바텀 피싱' 목표가 290,000원 - 하나증권",
+      "link": "https://www.newspim.com/news/view/20261124000111",
+      "publisher": "뉴스핌",
+      "pubDate": "Mon, 23 Nov 2026 23:31:00 GMT",
+      "keyVisual": "https://img.newspim.com/etc/newspim_sns_logo_201x201_v1.jpg",
+      "activityType": "언론보도",
+      "eventDate": "24일",
+      "location": null,
+      "format": "증권사 리포트 분석 보도",
+      "slogan": null,
+      "keyMessage": "하나증권은 삼성SDS의 AI 데이터센터(DC) 확보 계획 순항과 클라우드 사업 수혜 전망을 바탕으로 투자의견 'BUY'와 목표주가 290,000원을 유지했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:09:03.741Z"
+    },
+    {
+      "id": "4a68bc92ea79f27f",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 'AI 팩토리·로봇' 엔진 장착 …'글로벌 AI 톱티어' 대도약 시동",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno",
+      "publisher": "뉴스드림",
+      "pubDate": "Mon, 23 Nov 2026 23:15:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 'AI 팩토리·로봇' 엔진을 장착하고 글로벌 AI 톱티어 기업으로 대도약하기 위한 구상을 밝혔습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 주를 이루던 AI 인재 양성 사회공헌(AI지니어스 아카데미) 중심 활동에서 벗어나 'AI 팩토리·로봇' 중심의 글로벌 AI 도약이라는 메인 사업 전략을 전면에 내세우고 있습니다."
+      },
+      "processedAt": "2026-11-24T05:12:15.568Z"
+    },
+    {
+      "id": "58d3f61e23875a0a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[구광모의 LG]④CEO 유임 속 실행조직 재편…AI·본업 경쟁력 강화",
+      "link": "https://www.smarttoday.co.kr/ko-kr/articles/113965",
+      "publisher": "스마트투데이",
+      "pubDate": "Mon, 23 Nov 2026 23:00:00 GMT",
+      "keyVisual": "https://cdn.www.smarttoday.co.kr/w1200/q100/f_jpg/article-images/2026-07-08/c5d90393-77fe-4c4a-b261-40d1a3bf8904.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[구광모의 LG]④CEO 유임 속 실행조직 재편…AI·본업 경쟁력 강화",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:13:50.822Z"
+    },
+    {
+      "id": "b44d1952d46fd0e6",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "“대기업 AI 노하우, 중소기업에 확산”…중기중앙회·LG CNS ‘AX 브릿지’ 수료식",
+      "link": "https://www.munhwa.com/article/11633464",
+      "publisher": "문화일보",
+      "pubDate": "Mon, 23 Nov 2026 13:12:06 GMT",
+      "keyVisual": "https://wimg.munhwa.com/news/cms/2026/11/23/news-p.v1.20261123.40b79005006e40f2980de6de075b6fd0_R.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": "서울 강서구 LG CNS",
+      "format": "오프라인 수료식",
+      "slogan": null,
+      "keyMessage": "LG CNS가 중소기업중앙회와 협력하여 중소기업의 인공지능 전환(AX)을 지원하는 'KBIZ AX 브릿지' 수료식을 열고 AI 에이전트 활용 성과를 공유했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존에는 청소년 대상 AI 교육 중심이었으나 이번에는 중소기업중앙회와 협력하여 중소기업 현장 실무진 및 CEO의 AX(인공지능 전환)를 역량 강화를 지원하는 파트너십 프로그램으로 확장되었습니다."
+      },
+      "processedAt": "2026-11-24T05:13:00.020Z"
+    },
+    {
+      "id": "6881731f137ef36a",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "부산대, SK AX와 AI 교육과정 공동 개발한다 | 중앙일보",
+      "link": "https://www.joongang.co.kr/article/25481196",
+      "publisher": "중앙일보",
+      "pubDate": "Mon, 23 Nov 2026 11:05:00 GMT",
+      "keyVisual": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/23/28f37158-4238-458a-9488-26640942eb24.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "11월 20일",
+      "location": "부산대 IT관 5층 라운지",
+      "format": "업무협약식",
+      "slogan": null,
+      "keyMessage": "SK AX가 부산대학교와 업무협약을 체결하고 AI·AX 특화 교육과정 공동 개발 및 동남권 지역 산업의 AI 전환 지원을 위한 산학협력에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:14:15.998Z"
+    },
+    {
+      "id": "f288b6f37f8ba37e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 고교생 대상 AI 교육 챌린지데이 진행…10개 우수팀 선발",
+      "link": "https://www.donga.com/news/Economy/article/all/20261123/135076010/1",
+      "publisher": "동아일보",
+      "pubDate": "Mon, 23 Nov 2026 09:11:05 GMT",
+      "keyVisual": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/23/135076009.2.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 고교생 대상 AI 교육 챌린지데이 진행…10개 우수팀 선발",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:10:58.073Z"
+    },
+    {
+      "id": "bd4575120d8b7fd1",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "\"1시 미팅\" 한마디면 AI가 회의실 예약, 팀원에 공지까지 - 매일경제",
+      "link": "https://www.mk.co.kr/news/it/12216209",
+      "publisher": "매일경제",
+      "pubDate": "Mon, 23 Nov 2026 07:00:59 GMT",
+      "keyVisual": "https://pimg.mk.co.kr/news/cms/202611/24/20261124_01110205000003_L00.jpg",
+      "activityType": "신제품·서비스 출시",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 자체 개발한 데스크톱 에이전틱 AI '에이엑스씽크 클로'를 전사에 도입하여 대화형 업무 환경 및 사내 자동화를 검증하고, 이를 바탕으로 고객 기업의 혁신을 지원한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근의 AI 교육 사회공헌이나 연구 협력 활동 중심의 행보와 달리, 자체 개발한 에이전틱 AI의 전사 적용 및 사내 업무 자동화 실증 사례를 다루고 있습니다."
+      },
+      "processedAt": "2026-11-24T05:11:26.017Z"
+    },
+    {
+      "id": "461875a8dc61f6fa",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "15% 폭락한 삼성SDS 담고, 삼전·닉스 팔고 [주식 초고수는 지금]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14RGxmTmI1QWRhVU9mQkxmdko2OFhJcDFDbW4zck1vQnpWaWFBYU92VzdMdTZENXk3M1VHQlQteElocVVOX3dSR3hnQzJNRHg2dFE?oc=5",
+      "publisher": "매일경제",
+      "pubDate": "Mon, 23 Nov 2026 05:31:00 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "15% 폭락한 삼성SDS 담고, 삼전·닉스 팔고 [주식 초고수는 지금]",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:08:45.460Z"
+    },
+    {
+      "id": "a3ffd68e30af646d",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 고교생 1,300명 AI 인재 육성…시각장애인 안내·어르신 재활 로봇 개발",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno",
+      "publisher": "인공지능신문",
+      "pubDate": "Mon, 23 Nov 2026 05:25:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 고등학생 1,300명을 대상으로 AI 인재를 육성하고 시각장애인 안내 및 어르신 재활 로봇 등의 개발 성과를 거두었다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:13:20.221Z"
+    },
+    {
+      "id": "f9f453faa9e7e712",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "급락장 속 ‘고수’는 삼전·닉스 팔고 셀트리온·삼성SDS 담았다",
+      "link": "https://www.sedaily.com/article/20117685",
+      "publisher": "서울경제",
+      "pubDate": "Mon, 23 Nov 2026 02:33:39 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/11/23/news-p.v1.20261123.27c458b71d1f419abd2800db47a7cec3_Z1.png",
+      "activityType": "언론보도",
+      "eventDate": "2026-11-23",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "증시 급락 속에서 고수익 투자자들이 두 자릿수 주가 낙폭을 기록한 삼성SDS를 순매수 상위 종목으로 매수하며 저가 매수 및 기술적 반등을 노렸습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:08:41.338Z"
+    },
+    {
+      "id": "83f1fda42fb2e6bf",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "초고수들, 네이버·삼성SDS 대거 담아…낙폭 큰 종목들 선별 매수",
+      "link": "https://www.hankyung.com/article/202611233723i",
+      "publisher": "한국경제",
+      "pubDate": "Mon, 23 Nov 2026 02:04:29 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202611/01.46515187.1.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-11-23",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "미국발 기술주 약세 여파로 증시가 급락하자 투자 상위 초고수들이 낙폭이 큰 삼성SDS 주식을 대거 순매수했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:09:24.417Z"
+    },
+    {
+      "id": "dfa0021b7c9dc62e",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "美 전력망 비용 부담 우려에 AI데이터센터株 '와르르'…삼성SDS 16%↓",
+      "link": "https://www.newsis.com/view/NISX20261123_0003878838",
+      "publisher": "뉴시스",
+      "pubDate": "Mon, 23 Nov 2026 01:26:08 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/11/18/NISI20261118_0002295159_web.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "미국 상원의 데이터센터 전력망 비용 부담 법안(BAAJA) 통과로 인프라 투자 비용 증가 및 수익성 악화 우려가 제기되며 삼성SDS 주가가 16% 급락했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:09:38.664Z"
+    },
     {
       "id": "f4514ae66991651b",
       "company": "LG CNS",
@@ -246,6 +598,50 @@
         "llmNote": "최근 조직·인사 및 사업 경쟁 관련 소식과 달리 미국발 AI 악재로 인한 주가 급락과 AIDC·GPU 사업 실적 전망을 다룬 증권가 분석 기사입니다."
       },
       "processedAt": "2026-11-23T01:23:59.001Z"
+    },
+    {
+      "id": "bdf11f14bb7d7723",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI주 찬바람에 삼성SDS·LG CNS 유탄…10%대 급락 - 머니투데이",
+      "link": "https://www.mt.co.kr/stock/2026/11/23/2026112309543083230",
+      "publisher": "머니투데이",
+      "pubDate": "Mon, 23 Nov 2026 00:55:40 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=686,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/11/2026112309543083230_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "미국발 AI주 급락 여파로 삼성SDS 주가가 장 초반 10%대 급락세를 보인 가운데, 증권가에서는 클라우드 매출 성장률과 GPUaaS 매출 비중이 향후 실적 판단의 주요 요소라고 분석했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:07:59.477Z"
+    },
+    {
+      "id": "bdf11f14bb7d7723",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "AI주 찬바람에 삼성SDS·LG CNS 유탄…10%대 급락 - 머니투데이",
+      "link": "https://www.mt.co.kr/stock/2026/11/23/2026112309543083230",
+      "publisher": "머니투데이",
+      "pubDate": "Mon, 23 Nov 2026 00:55:40 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=686,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/11/2026112309543083230_1.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "언론보도",
+      "slogan": null,
+      "keyMessage": "미국발 AI주 급락 여파로 LG CNS 주가가 10%대 급락한 가운데, 증권가에서는 AIDC 구축·운영 수주와 자체 GPU 서비스의 성장성과 함께 감가상각 부담을 분석했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:11:05.921Z"
     },
     {
       "id": "6cceee013cef62d4",
@@ -774,6 +1170,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-21T02:00:06.828Z"
+    },
+    {
+      "id": "81f995ff3c46b819",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 금융·공공 이끈 배민 부사장 승진…AI 전문인력 발탁",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMRC1ORjc2UlEwdWhfc2dORl9Ud24tbDNmTWZqSVQwWUhsWl9HLU5JUzJDWEY3Wi1qRHpGUGJnSVBLSE50dDhfb2s0dTgzbHYyekJTbWdEcXlneGJIcV9BYzBpT05jZw?oc=5",
+      "publisher": "디일렉",
+      "pubDate": "Thu, 19 Nov 2026 08:20:18 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 금융·공공 이끈 배민 부사장 승진…AI 전문인력 발탁",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-24T05:12:46.646Z"
     },
     {
       "id": "a14931e2916d1101",
