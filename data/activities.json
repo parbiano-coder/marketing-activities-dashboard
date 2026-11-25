@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T05:14:27.338Z",
+  "updatedAt": "2026-11-25T03:58:39.226Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,248 @@
   ],
   "activities": [
     {
+      "id": "2cb5a7ec6f8c4f76",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, '대한민국 정부혁신 박람회' 참가…AI 풀스택 역량 소개",
+      "link": "https://www.etnews.com/20261125000250",
+      "publisher": "전자신문",
+      "pubDate": "Wed, 25 Nov 2026 02:37:07 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/11/25/news-p.v1.20261125.d202de218fdb464cbaa09bd5f70544e4_P1.jpg",
+      "activityType": "전시",
+      "eventDate": "2026년 11월 25일 ~ 27일",
+      "location": "경기도 고양시 킨텍스 제1전시장",
+      "format": "오프라인 전시",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '2026 대한민국 정부혁신 박람회'에 참가해 AI 인프라, 플랫폼, 솔루션을 아우르는 공공 분야 AI 전환(AX) 풀스택 역량과 실제 도입 사례를 선보였다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 인사이동 및 주가·증권가 리포트 소식이 주를 이루었던 것과 달리, 공공 분야 AI 전환(AX) 기술력을 직접 알리는 대형 박람회 참가 소식이다."
+      },
+      "processedAt": "2026-11-25T03:56:23.769Z"
+    },
+    {
+      "id": "5bbb89dc4425b7de",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[SW 제값받기]① 삼성SDS·LG CNS, AI 대가 산정 길 열린다",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Wed, 25 Nov 2026 02:21:24 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS와 LG CNS 등 IT서비스 기업의 AI 서비스에 대한 대가 산정 기준이 마련되며 소프트웨어(SW) 제값받기의 길이 열리고 있다는 소식입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-25T03:56:47.184Z"
+    },
+    {
+      "id": "5bbb89dc4425b7de",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[SW 제값받기]① 삼성SDS·LG CNS, AI 대가 산정 길 열린다",
+      "link": "https://www.bloter.net/news/articleView.html?idxno",
+      "publisher": "블로터",
+      "pubDate": "Wed, 25 Nov 2026 02:21:24 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS와 LG CNS 등 주요 IT서비스 기업의 AI 서비스 대가 산정과 소프트웨어 제값받기 체계 정립 가능성을 다룬 언론보도이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 교육 및 사회공헌 활동 중심 보도와 달리 AI 서비스의 사업적 대가 산정 및 제도적 이슈를 다루고 있다는 점에서 특이점이 있다."
+      },
+      "processedAt": "2026-11-25T03:57:14.116Z"
+    },
+    {
+      "id": "0b3b920bc9a2cd1a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[CEO 리더십] 연임 날개 단 LG CNS 현신균 대표…’AI 팩토리’ 시대 연다 By FinancialPost",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GbDl0NjZ2WTkta1dqUG0xdlZCeHM2OEtqaTREM0dsNF9oSDAtZHBzQ1hJM0lVWElPcU84WldzLXZCeU9LU1JaTlAwTnJWN0RkalJ5RllaTFhwSGhjQ0doMFZrRUZnYjBxeW4yTmVTR3E?oc=5",
+      "publisher": "Investing.com 한국어",
+      "pubDate": "Wed, 25 Nov 2026 01:26:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "연임에 성공한 LG CNS 현신균 대표가 'AI 팩토리' 시대를 본격적으로 열며 AI 및 본업 경쟁력 강화를 이끌어갈 예정이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-25T03:56:54.117Z"
+    },
+    {
+      "id": "2281524225c47436",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, AWS와 전략적 협력 협약…피지컬 AI까지 협력 확대",
+      "link": "https://biz.chosun.com/it-science/ict/2026/11/25/HDG6FPALRFCWZGYATFIMK44CRM/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Wed, 25 Nov 2026 01:11:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/LBUAWCAXGZBQHBYRAZ3GBK4PDA.jpg?auth=6997fb3b36f34f1ec84d3d97e050370b915ac70e1fc476b8dfd347b2d5a18fa3&width=1200&height=630&smart=true",
+      "activityType": "파트너십·제휴",
+      "eventDate": "25일",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "LG CNS가 아마존웹서비스(AWS)와 전략적 협력 협약을 체결하고 클라우드 기반 AI 전환(AX) 공동 사업 확대 및 피지컬 AI 분야까지 협력을 강화한다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 활동이 교육·사회공헌이나 중소기업 지원 중심이었던 것과 달리, 글로벌 빅테크 기업인 AWS와의 대규모 전략적 협력 협약 체결 및 피지컬 AI 분야로의 협력 확대를 다루고 있다는 점에서 차별화된다."
+      },
+      "processedAt": "2026-11-25T03:57:03.805Z"
+    },
+    {
+      "id": "379265e2be2c3826",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 정부혁신 박람회서 공공 AX 역량 선보여",
+      "link": "https://www.news1.kr/it-science/internet-platform/6365066",
+      "publisher": "뉴스1",
+      "pubDate": "Wed, 25 Nov 2026 01:00:00 GMT",
+      "keyVisual": "https://i3n.news1.kr/system/photos/2026/11/25/8231291/high.jpg",
+      "activityType": "전시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 정부혁신 박람회에 참가하여 공공 분야의 AI 전환(AX) 역량을 선보였습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 소식들이 임원 인사나 증권사 분석 리포트에 치중되었던 것과 달리, 공공 분야 AX 역량을 직접 홍보하는 외부 박람회 참가 활동입니다."
+      },
+      "processedAt": "2026-11-25T03:56:13.202Z"
+    },
+    {
+      "id": "2a6db97481481e71",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "인니에 30㎿급 ‘AI 데이터센터’ 구축",
+      "link": "https://www.munhwa.com/article/11633873",
+      "publisher": "문화일보",
+      "pubDate": "Wed, 25 Nov 2026 00:16:11 GMT",
+      "keyVisual": "https://wimg.munhwa.com/news/cms/2026/11/25/news-p.v1.20261125.2ff10840f76b4dbfabf6255a94b7c772_R.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "인도네시아 자카르타",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 국내 기업 최초로 인도네시아 자카르타에 30㎿급 하이퍼스케일 AI 데이터센터 구축을 완료하며 글로벌 AI 인프라 사업 확대를 본격화하고 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 국내 AI 교육 및 중소기업 지원 등 사회공헌 중심 활동과 달리, 해외 AI 데이터센터를 직접 구축 완료하며 글로벌 인프라 사업 진출 성과를 발표했다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-25T03:57:23.617Z"
+    },
+    {
+      "id": "880fe3a01367c3d7",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] LG CNS, 키오스크 생산도 안 하면서 '생산자 1인' 수의계약…대기업에 또 뚫린 중기 시장",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84b2xGZ285RUVVMFh3SDhTX0FuZ3hacmdDeFFuQW0zNmNHTVBRRUZNRFZoOHhYc05hTTdfdmxTUjBwVmRmUHBTRW8weVJybmRYVlRUYUV5N1o3UDdMTlhLWnlXSk1CRS1PUlJMbk1n?oc=5",
+      "publisher": "조달경제신문",
+      "pubDate": "Tue, 24 Nov 2026 22:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 직접 키오스크를 생산하지 않음에도 생산자 1인 조건으로 수의계약을 체결하여 중소기업 관련 시장 침해 논란이 제기되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 인재 육성 및 AX 지원 등 긍정적인 ESG/AI 기술 중심의 활동들과 달리, 중소기업 시장 침해 및 수의계약 특혜 논란에 대한 부정적 이슈 보도라는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-25T03:57:52.671Z"
+    },
+    {
+      "id": "99aa0cb8d47f15db",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "�λ��� ��ǥ ������, �����Ź�",
+      "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code",
+      "publisher": "국제신문",
+      "pubDate": "Tue, 24 Nov 2026 10:42:00 GMT",
+      "keyVisual": "https://www.kookje.co.kr/kookje/images/logo_facebook_thumb.jpg?54",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "기사 본문의 인코딩 오류 및 문자 깨짐으로 인해 SK AX의 마케팅 활동 내용과 핵심 메시지를 확인할 수 없습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-25T03:58:03.565Z"
+    },
+    {
+      "id": "c1282127060c3337",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "- 부산일보",
+      "link": "https://mobile.busan.com/view/busan/view.php?code",
+      "publisher": "부산일보",
+      "pubDate": "Tue, 24 Nov 2026 08:42:12 GMT",
+      "keyVisual": "https://www.busan.com/nas/wcms/public/pc/images/busanilbo_thum_02.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문 내용에서 구체적인 마케팅 활동 정보를 확인할 수 없습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-25T03:58:15.104Z"
+    },
+    {
+      "id": "b610ff5aa6d3fb66",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "앤트로픽 주주 된 삼성SDS…'클로드'로 외부 수주 공략 : 네이버 블로그",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0xoaHAtOXlYNDM4emdSdjJTSmRNYzE5elNUSFo1bE5NZy04ckpxRzBaN1JzMmNlUktyR3RuQjBEZFRwOTRpVlByNU43YzlORVRYdDNUa2JlZWR6Ny1hVjJaaGNaVFpHeUFRMUh3MDJhcGViX2FDMmE4ZkNCTXFCaWlJUWJKN3BFbU1zaGFKMA?oc=5",
+      "publisher": "Naver Blog",
+      "pubDate": "Tue, 24 Nov 2026 04:58:00 GMT",
+      "keyVisual": null,
+      "activityType": "파트너십·제휴",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 글로벌 AI 기업 앤트로픽의 주주가 되어 생성형 AI '클로드'를 기반으로 외부 수주 공략에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 임원 인사 및 주가·실적 관련 소식과 달리, 글로벌 핵심 AI 기업에 대한 직접 투자 및 기술 협력을 통한 수주 전략이 구체적으로 제시된 점에서 차별화됩니다."
+      },
+      "processedAt": "2026-11-25T03:56:39.354Z"
+    },
+    {
       "id": "250f0f09b1e190eb",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -136,6 +378,28 @@
         "llmNote": "주가 변동, 자금 조달 및 해외 기업 협력 위주의 최근 활동들과 달리 내부 임원 인사 및 인재 중용에 관한 보도라는 점에서 차이가 있습니다."
       },
       "processedAt": "2026-11-24T05:10:26.370Z"
+    },
+    {
+      "id": "ec830bf132d68fcc",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[인사] 삼성SDS",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2YmFiVzJEWS1BM1Q0Z1ktdFFacjZCZndxNVhpR2hXYVFobHZfa3YtZ0R6eWtKUkRfdmtvTnpuNExMLUhObjVTbzlxTklzbE1CczZ4a0I3VHZtTERPaHJ2VDJ4MmVBZERIRFp3aDV3cXHSAXRBVV95cUxNVEllT051Nk9oNlJrUGJMY3RYN2R6cHFEZE1ZblVMNTRPYzF4S0l2X2l0NXVtV2tiVW91QW5KTFAwTzB4OUFGeXhVRk1qQjhwTmdSNGVTZkgtdDRKRzM3SEgzeXllSWZ0VlVUdUhKU1c2Z0J6YQ?oc=5",
+      "publisher": "IT조선",
+      "pubDate": "Tue, 24 Nov 2026 01:54:31 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS의 임원 인사 소식을 전달하는 언론보도입니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-25T03:56:28.308Z"
     },
     {
       "id": "80c7e364f83e3b7e",
@@ -336,6 +600,28 @@
       "processedAt": "2026-11-24T05:11:26.017Z"
     },
     {
+      "id": "0235a5523cbbd581",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 고교생 AI 우수작 시상…‘귀가 ON’ 대상",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KRnpxSlNvTmZqaFFLSGJ6bU82LXdPMEhaMXRmUk40UDE5MVpSbkFxNUY3c3VvR1Y0WW5iOU5LMHF6QmlFZ0pKOFRTbHJuMjl6eUJhLWhYV0ZtQW9td2dFd0o4R1lmWmhxN0lwaXZwYUvSAXRBVV95cUxNSjhSbGhQMVVUSjhtZ3U0TzJoR28wd3p2Q2R6UlJNUGFtcGVib0N3ZUlOSWJmSjNBQ3FhaEdrc2x2OXp0MElxTjYtWGpGWjFTeHBNUHlscmU1dFIzd3FudWNrbUZVZzJZWC0zYlk5Sm1mY2I2eQ?oc=5",
+      "publisher": "IT조선",
+      "pubDate": "Mon, 23 Nov 2026 05:39:01 GMT",
+      "keyVisual": null,
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 고교생 대상 AI 우수작 시상식을 진행하였으며 '귀가 ON' 작품이 대상을 수상했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-25T03:57:46.052Z"
+    },
+    {
       "id": "461875a8dc61f6fa",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -446,6 +732,28 @@
       "processedAt": "2026-11-24T05:09:38.664Z"
     },
     {
+      "id": "b34a48c9e922077c",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[부산소식] 부산대·SK AX, 산학협력 협약 | 연합뉴스",
+      "link": "https://www.yna.co.kr/amp/view/AKR20261123057900051",
+      "publisher": "연합뉴스",
+      "pubDate": "Mon, 23 Nov 2026 01:22:33 GMT",
+      "keyVisual": "https://img5.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123057900051_03_i_P4.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-11-23",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK AX가 부산대학교와 인공지능(AI) 인재 양성 및 동남권 지역의 AI 전환(AX)을 위한 산학협력 업무협약을 체결했습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-25T03:58:24.603Z"
+    },
+    {
       "id": "f4514ae66991651b",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -532,6 +840,28 @@
         "llmNote": "최근 임원 인사 및 계열사 간 경쟁 등 조직·경영 이슈가 주를 이루었던 것과 달리 고등학생 대상의 AI 인재 양성 사회공헌 행사를 개최한 점이 특징입니다."
       },
       "processedAt": "2026-11-23T01:25:02.439Z"
+    },
+    {
+      "id": "81cf8585f75e59c8",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "이데일리",
+      "link": "https://www.edaily.co.kr/?aspxerrorpath=/News/Read",
+      "publisher": "이데일리",
+      "pubDate": "Mon, 23 Nov 2026 01:00:03 GMT",
+      "keyVisual": "https://www.edaily.co.kr/profile_edaily_512.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 기사 본문에 LG CNS 관련 마케팅 활동은 포함되어 있지 않으며, 유한양행, 씨어스, 압타바이오 등 타 기업의 주요 동향이 수록되어 있습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "LG CNS의 기존 AI 및 인재 육성 관련 활동들과 달리 본문 전체가 LG CNS와 무관한 타 기업 소식으로 구성되어 있습니다."
+      },
+      "processedAt": "2026-11-25T03:57:38.818Z"
     },
     {
       "id": "d46286cc08a5afbb",
