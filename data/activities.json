@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T03:58:39.226Z",
+  "updatedAt": "2026-11-26T08:01:45.924Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,292 @@
   ],
   "activities": [
     {
+      "id": "ba4cd558c27bd725",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Thu, 26 Nov 2026 02:31:47 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 지디넷코리아의 웹사이트 하단 정보 및 뉴스레터 구독 안내 문구로, 네이버의 마케팅 활동에 대한 내용을 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:24:22.990Z"
+    },
+    {
+      "id": "28719406d026d3ce",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "당근, AI 에이전트 도입…네이버 텃밭 ‘온라인 카페’에 도전장",
+      "link": "https://www.chosun.com/economy/tech_it/2026/11/26/SZGYXHSIDVGCRGNCTYZXPUDDJ4/",
+      "publisher": "조선일보",
+      "pubDate": "Thu, 26 Nov 2026 01:43:00 GMT",
+      "keyVisual": "https://www.chosun.com/resizer/v2/4QNXMJZLWZD57KEZWOCGLP5OQI.jpg?auth=e13abcc7ddc3afda70316d2b411e2039f0b90075e709196d61e49d0e0d992582&width=1024&height=537&smart=true",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "당근, AI 에이전트 도입…네이버 텃밭 ‘온라인 카페’에 도전장",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T08:00:30.625Z"
+    },
+    {
+      "id": "cfbdc11ddbc71c42",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "토스 '페이스페이'·네이버 'AI탭', 개인정보 보호조치 이행 합격점",
+      "link": "https://www.newsis.com/view/NISX20261126_0003883838",
+      "publisher": "뉴시스",
+      "pubDate": "Thu, 26 Nov 2026 01:00:00 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/07/03/NISI20260703_0002176909_web.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026년 6월 26일",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "네이버의 AI 검색 서비스 'AI탭'이 개인정보보호위원회의 사전적정성 검토를 거쳐 수집·이용 과정에서의 개인정보 보호 조치를 적절히 이행한 것으로 확인되었습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 신규 서비스 출시나 사업 영역 확장 위주의 활동과 달리, 정부 기관의 검토를 통한 개인정보 보호 규제 준수 및 서비스 신뢰성 확보 소식을 다루었다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-26T08:01:01.669Z"
+    },
+    {
+      "id": "6b8a76588f36ad85",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "1兆 투입해 쿠팡 맞불 놓는 네이버···배송망 직접 챙기는 배경",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rbHR5RTBRbnJicnlSMXZ4cEtnamtmQmxsU2JCdzRzSFFDbnRyZEJ3MDZRdHhjaTkwRVpUbGNHRl92RUEyYUJlQUNoT19EVnZMXy14d0FrNHFfUEhtZVBIX3ZwTzUzVHlnTWc?oc=5",
+      "publisher": "뉴스웨이",
+      "pubDate": "Wed, 25 Nov 2026 22:03:22 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 쿠팡과의 경쟁에 대응하기 위해 1조 원을 투입하여 배송망을 직접 챙기며 물류 경쟁력 강화에 나섰습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 AI 서비스 및 디지털 플랫폼 확장 중심 활동과 달리, 쿠팡과의 경쟁을 위해 1조 원 규모의 대대적인 물류·배송망 직접 투자에 나선 점이 특이합니다."
+      },
+      "processedAt": "2026-11-26T08:00:54.775Z"
+    },
+    {
+      "id": "188d5eb4ed2153b8",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[진단] 중소기업 몫 키오스크 시장,LG CNS 수의계약 ‘생산자 1인' 은 사실인가",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HQko3LUphZ1l0X1lKSlowV0ktbjZtR2lSUjlLRk9NQnRiUFhGZDNFc1NRZ0JFY09BTU1falNGa0h0QnU0Y19PZ1p3UTZDY2lta1FYNXNXbVB0cGo1cWpZeURpbEhUNmo2RG00d2RB?oc=5",
+      "publisher": "조달경제신문",
+      "pubDate": "Wed, 25 Nov 2026 22:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "중소기업 몫인 키오스크 시장에서 LG CNS가 '생산자 1인' 조건으로 수의계약을 체결했다는 의혹의 사실 여부를 조명한 언론보도이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:22:30.761Z"
+    },
+    {
+      "id": "99967f29edddd2b2",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "공정위, 대형사건 심의 속도… 네이버 결합·정유사 담합 결과에 촉각",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jTXIySldfRTVkbW85TjZhR0s3N3VpcVBrUGpBZzI2QmRmVmd4c1pYdm4tSi1CSDNYOXJCV2o5LWs1WEkwWW5fUkNqTE9hXzNhemZBTGtpMFdTUQ?oc=5",
+      "publisher": "파이낸셜뉴스",
+      "pubDate": "Wed, 25 Nov 2026 09:19:57 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "공정거래위원회가 네이버의 기업결합 사건을 포함한 대형 사건 심의에 속도를 내면서 관련 심의 결과에 관심이 쏠리고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "기존의 사업 확장 및 마케팅 활동과 달리 공정위의 기업결합 심의 등 규제·사법 관련 이슈를 다루고 있다는 점에서 차이가 있습니다."
+      },
+      "processedAt": "2026-11-26T08:01:33.527Z"
+    },
+    {
+      "id": "26f77b11a51ef907",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "일요신문",
+      "link": "https://www.ilyo.co.kr/?ac",
+      "publisher": "일요신문",
+      "pubDate": "Wed, 25 Nov 2026 08:31:06 GMT",
+      "keyVisual": "https://ilyo.co.kr/design/images/facebook_icon_200.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "제공된 본문은 일요신문의 기사 목록 및 칼럼 내용으로 네이버의 마케팅 활동 정보를 포함하고 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T08:00:44.241Z"
+    },
+    {
+      "id": "2fc35fce483f551c",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "▒▒▒ eGovFrame Potal 온라인 지원 포탈 ▒▒▒",
+      "link": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE",
+      "publisher": "경기도뉴스포털",
+      "pubDate": "Wed, 25 Nov 2026 08:09:54 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "해당 웹 페이지를 찾을 수 없어 마케팅 활동에 대한 상세 정보를 확인할 수 없습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:21:31.591Z"
+    },
+    {
+      "id": "3931a507c1927296",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS 부스에 전시된 엔비디아 B300 GPU",
+      "link": "https://www.newspim.com/news/view/20261125001165",
+      "publisher": "뉴스핌",
+      "pubDate": "Wed, 25 Nov 2026 07:45:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/11/25/261125164450212_t1.jpg",
+      "activityType": "전시",
+      "eventDate": "2026-11-25",
+      "location": "경기 고양시 킨텍스 제1전시장 1홀",
+      "format": "전시 부스 운영",
+      "slogan": null,
+      "keyMessage": "삼성SDS는 '2026 정부혁신 박람회' 전시부스를 통해 엔비디아 B300 GPU를 전시하며 AI 인프라 관련 역량을 선보였다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:21:51.219Z"
+    },
+    {
+      "id": "1fb5e54f39cd41e1",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS·LG CNS 수장 유임···IT서비스, ‘AI 연속성’에 초점",
+      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno",
+      "publisher": "시사저널e",
+      "pubDate": "Wed, 25 Nov 2026 07:34:21 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 수장 유임을 결정하며 IT서비스 분야에서 'AI 연속성'에 초점을 맞춰 사업을 추진한다는 내용을 다룬 언론보도이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:22:20.306Z"
+    },
+    {
+      "id": "db3a6f3d3bcaa3b6",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[포토] 삼성SDS, 공공분야 AI 전환 기술 시연",
+      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno",
+      "publisher": "파이낸스투데이",
+      "pubDate": "Wed, 25 Nov 2026 07:20:37 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "[포토] 삼성SDS, 공공분야 AI 전환 기술 시연",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:22:00.282Z"
+    },
+    {
+      "id": "004b69a7f90d1df0",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS·LG CNS, 변화보다 내실에 무게…내년 사업 밑그림",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno",
+      "publisher": "데일리한국",
+      "pubDate": "Wed, 25 Nov 2026 06:32:31 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS와 LG CNS가 조직적 변화보다는 내실 강화에 무게를 두고 내년도 사업 밑그림을 그리고 있다는 내용이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:22:11.627Z"
+    },
+    {
+      "id": "42cb35ebf275ad31",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "로켓배송 독주 끝나나… 네이버 ‘1조 물류법인’·C커머스 ‘로컬 직배송’",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzWHQ0V3E1dm10NjlST25FZHRQSGplcHREZ1RrNmZSRk1PUDc3bnB0eDg2eUVILUJOQS0wVDcxSTV4eVM2bEItTEdlcU80S2hvaUVvN1Q3elY4czA0LWU4cEdjZkZfRDdiaEowc2gyUWbSAXRBVV95cUxQbkdqSEl4WGF1bkIwT2thWF9YSE1WRi1Rdm5JZnduTExycDhJMUxhMklYOXdMMG55QjhuUE1pQ0RDcXY0T0FpRHVwNDZib3BmN3A4ejF5YUVVcW55bUZiRUxKUnZDb1NZRU4xV2pfU3Q3WGRXeQ?oc=5",
+      "publisher": "IT조선",
+      "pubDate": "Wed, 25 Nov 2026 06:20:55 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "네이버가 1조 원 규모의 물류법인을 설립하여 커머스 물류 경쟁력을 대폭 강화하고 로켓배송 등 시장 독주에 대응하고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 기술 도입 및 B2B 플랫폼 확장에 주력하던 네이버가 1조 원 대형 물류법인 설립을 통해 커머스 물류 경쟁력 강화에 본격적으로 나선 점이 눈에 띕니다."
+      },
+      "processedAt": "2026-11-26T08:00:37.569Z"
+    },
+    {
       "id": "2cb5a7ec6f8c4f76",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -114,6 +400,28 @@
         "llmNote": "최근 인사이동 및 주가·증권가 리포트 소식이 주를 이루었던 것과 달리, 공공 분야 AI 전환(AX) 기술력을 직접 알리는 대형 박람회 참가 소식이다."
       },
       "processedAt": "2026-11-25T03:56:23.769Z"
+    },
+    {
+      "id": "0ed5c9722d8cfa08",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "네이버페이, 얼굴 이어 손바닥 정맥…오프라인 사업 영토 넓힌다",
+      "link": "https://v.daum.net/v/7wi7SuGh8k",
+      "publisher": "Daum",
+      "pubDate": "Wed, 25 Nov 2026 02:23:32 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S800x400/?fname=https://t1.daumcdn.net/news/202611/25/bloter/20261125112332799ksmw.png",
+      "activityType": "행사·컨퍼런스",
+      "eventDate": null,
+      "location": "서울 서초구 양재 aT센터",
+      "format": "오프라인 부스 전시 및 시연",
+      "slogan": null,
+      "keyMessage": "네이버페이가 '코리아 핀테크 위크 2026'에서 차세대 생체인증 기술인 장정맥 인증 'Npay 핸드사인'을 공개하고, 오프라인 통합 단말기를 중심으로 생체인증과 금융 서비스를 연계해 오프라인 사업 영토 확장에 나서고 있다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T08:01:09.679Z"
     },
     {
       "id": "5bbb89dc4425b7de",
@@ -226,6 +534,28 @@
       "processedAt": "2026-11-25T03:56:13.202Z"
     },
     {
+      "id": "5ba3464ad7d2b64b",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS '브리티웍스', 중앙부처 22만명 쓴다…AI 동료 '코워크' 공개 - 머니투데이",
+      "link": "https://www.mt.co.kr/tech/2026/11/25/2026112508183762945",
+      "publisher": "머니투데이",
+      "pubDate": "Wed, 25 Nov 2026 01:00:00 GMT",
+      "keyVisual": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026112508183762945_1.jpg",
+      "activityType": "전시",
+      "eventDate": "25일~27일",
+      "location": "경기 고양 킨텍스",
+      "format": "오프라인 박람회 전시",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 '2026 대한민국 정부혁신 박람회'에 참가하여 브리티웍스의 신규 AI 기능인 '코워크'를 공개하고 공공 분야 AI 전환(AX) 기술 및 실제 적용 사례를 소개했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:21:24.804Z"
+    },
+    {
       "id": "2a6db97481481e71",
       "company": "LG CNS",
       "category": "IT 서비스",
@@ -286,10 +616,32 @@
       "slogan": null,
       "keyMessage": "기사 본문의 인코딩 오류 및 문자 깨짐으로 인해 SK AX의 마케팅 활동 내용과 핵심 메시지를 확인할 수 없습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-11-25T03:58:03.565Z"
+    },
+    {
+      "id": "63c8a8e384535690",
+      "company": "네이버",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Tue, 24 Nov 2026 08:49:56 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "IT세상을 바꾸는 힘 지디넷코리아",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:24:56.723Z"
     },
     {
       "id": "c1282127060c3337",
@@ -308,7 +660,7 @@
       "slogan": null,
       "keyMessage": "제공된 본문 내용에서 구체적인 마케팅 활동 정보를 확인할 수 없습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-11-25T03:58:15.104Z"
@@ -400,6 +752,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-25T03:56:28.308Z"
+    },
+    {
+      "id": "09b8e7de79677d28",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 2027년 정기 임원 인사…부사장 4명·상무 6명 승진",
+      "link": "https://biz.chosun.com/it-science/ict/2026/11/24/CGZ4Z3R3AJBRHO2XH7TQA5NK2Q/",
+      "publisher": "Chosunbiz",
+      "pubDate": "Tue, 24 Nov 2026 01:46:00 GMT",
+      "keyVisual": "https://biz.chosun.com/resizer/v2/GFSGIN3FMJRDGN3GG5SGMYZUMU.jpg?auth=fe3adafa4f928efe8e05882f740c924f3e5a0ee7a41e5d588ee6ea0ff2ef68a2&width=840&height=441&smart=true",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 AI 전환(AX) 가속화와 사업 경쟁력 강화를 위해 부사장 4명과 상무 6명 등 총 10명 규모의 2027년 정기 임원 인사를 단행했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:21:41.554Z"
     },
     {
       "id": "80c7e364f83e3b7e",
@@ -550,10 +924,54 @@
       "slogan": null,
       "keyMessage": "SK AX가 부산대학교와 업무협약을 체결하고 AI·AX 특화 교육과정 공동 개발 및 동남권 지역 산업의 AI 전환 지원을 위한 산학협력에 나섭니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-11-24T05:14:15.998Z"
+    },
+    {
+      "id": "741df66971caca7d",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "부산대, SK AX와 AI 교육과정 공동 개발한다 | 미주중앙일보",
+      "link": "https://www.koreadaily.com/article/20261123030521055",
+      "publisher": "미주중앙일보",
+      "pubDate": "Mon, 23 Nov 2026 11:05:00 GMT",
+      "keyVisual": "https://www.koreadaily.com/data/photo/thumbnail/2026/11/24/8bfe8c93-0434-4d54-96c3-4805a80a17bb.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "부산대, SK AX와 AI 교육과정 공동 개발한다 | 미주중앙일보",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:22:48.329Z"
+    },
+    {
+      "id": "366234174cb397f4",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 고교생 AI 서비스 개발 공모전",
+      "link": "https://www.hankyung.com/article/2026112351001",
+      "publisher": "한국경제",
+      "pubDate": "Mon, 23 Nov 2026 09:12:48 GMT",
+      "keyVisual": "https://img.hankyung.com/photo/202611/AA.46520264.1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS, 고교생 AI 서비스 개발 공모전",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:22:32.260Z"
     },
     {
       "id": "f288b6f37f8ba37e",
@@ -576,6 +994,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-24T05:10:58.073Z"
+    },
+    {
+      "id": "e4544dea6d8c4483",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "앤트로픽 주주 된 삼성SDS…'클로드'로 외부 수주 공략",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XMVN0ZmVSeUk0TlNycWwzY3ZqTHlXNHROVFBTY1NHaXFvMnhlcHRLcGdEa0JEdjVySy12cjRnaGhNd0ZUQ1JkOXMtSjFIcVU?oc=5",
+      "publisher": "딜사이트",
+      "pubDate": "Mon, 23 Nov 2026 08:56:23 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "앤트로픽 주주 된 삼성SDS…'클로드'로 외부 수주 공략",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:21:52.497Z"
     },
     {
       "id": "bd4575120d8b7fd1",
@@ -666,6 +1106,50 @@
       "processedAt": "2026-11-24T05:13:20.221Z"
     },
     {
+      "id": "2531e4091425b41f",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "- 부산일보",
+      "link": "https://www.busan.com/view/busan/view.php?code",
+      "publisher": "부산일보",
+      "pubDate": "Mon, 23 Nov 2026 04:58:45 GMT",
+      "keyVisual": "https://www.busan.com/nas/wcms/public/pc/images/busanilbo_thum_02.png",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "- 부산일보",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:23:26.112Z"
+    },
+    {
+      "id": "d0ec215f6a61be19",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "부산대-SK AX, AI 인재 함께 양성한다",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXN1E0dE9JV00tU1FEc2tIcXp6WHgzUGFYam84SUkxbVVqS2NtVDRlbEFkZjhId3lmUlZxbWoyc1gtckkxVEZfQmU1ai11NzZyem5SRFQxbHNVMTd6NEZSSHdVRE5ZWEE?oc=5",
+      "publisher": "교수신문",
+      "pubDate": "Mon, 23 Nov 2026 03:57:19 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "부산대-SK AX, AI 인재 함께 양성한다",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:22:42.432Z"
+    },
+    {
       "id": "f9f453faa9e7e712",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -710,6 +1194,72 @@
       "processedAt": "2026-11-24T05:09:24.417Z"
     },
     {
+      "id": "f4f21d94e9601f11",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "부산대 SK AX 산학협력, 지역 AI 인재양성 협약 체결",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno",
+      "publisher": "공감신문",
+      "pubDate": "Mon, 23 Nov 2026 01:48:29 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "부산대 SK AX 산학협력, 지역 AI 인재양성 협약 체결",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:23:35.830Z"
+    },
+    {
+      "id": "86ad074d14deff25",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[부산소식]\"AI 인재 양성\"…부산대, SK AX와 손잡았다 등",
+      "link": "https://www.newsis.com/view/NISX20261123_0003878913",
+      "publisher": "뉴시스",
+      "pubDate": "Mon, 23 Nov 2026 01:37:12 GMT",
+      "keyVisual": "https://img1.newsis.com/2026/11/23/NISI20261123_0002299433_web.jpg",
+      "activityType": "파트너십·제휴",
+      "eventDate": "2026-11-23",
+      "location": null,
+      "format": "업무협약 체결",
+      "slogan": null,
+      "keyMessage": "SK AX가 부산대학교와 산학협력 업무협약을 체결하고 AI 인재 양성 및 동남권 지역의 AI 전환(AX)을 위한 공동 프로젝트와 교육과정 개발에 나섭니다.",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:23:31.740Z"
+    },
+    {
+      "id": "ee02b2a10274fbf5",
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "부산대·SK AX, 산학협력 협약",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno",
+      "publisher": "핀포인트뉴스",
+      "pubDate": "Mon, 23 Nov 2026 01:30:09 GMT",
+      "keyVisual": null,
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "부산대·SK AX, 산학협력 협약",
+      "anomaly": {
+        "statisticalSpike": true,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-26T03:24:13.379Z"
+    },
+    {
       "id": "dfa0021b7c9dc62e",
       "company": "삼성SDS",
       "category": "IT 서비스",
@@ -748,7 +1298,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 부산대학교와 인공지능(AI) 인재 양성 및 동남권 지역의 AI 전환(AX)을 위한 산학협력 업무협약을 체결했습니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": null
       },
       "processedAt": "2026-11-25T03:58:24.603Z"
@@ -792,7 +1342,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 부산대학교와 협력하여 AI 인재를 양성하고 부울경 지역 산업의 혁신을 추진합니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존 협력사 동반성장 및 사업 전략 발표 중심 활동과 달리 대학과의 산학협력을 통한 지역 AI 인재 양성 노력을 다룬 점이 특징입니다."
       },
       "processedAt": "2026-11-23T01:25:32.653Z"
@@ -814,7 +1364,7 @@
       "slogan": null,
       "keyMessage": "SK AX가 부산대학교와 업무협약을 체결하고 동남권 지역 산업의 AI 전환(AX)과 실무형 AI 인재 양성을 위한 산학협력에 나섭니다.",
       "anomaly": {
-        "statisticalSpike": false,
+        "statisticalSpike": true,
         "llmNote": "기존 협력사 상생 및 기업 대상 AI 사업 중심 활동에서 벗어나 지역 거점 대학과의 산학협력을 통해 동남권 지역 인재 양성과 지역 산업 AX 지원으로 협력 범위를 확장했습니다."
       },
       "processedAt": "2026-11-23T01:25:26.027Z"
