@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T08:01:45.924Z",
+  "updatedAt": "2026-11-27T08:00:41.206Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -94,6 +94,248 @@
   ],
   "activities": [
     {
+      "id": "292717eea6577e30",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS 부산 데이터센터, '대한민국 안전대상' 국무총리상",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrTEhHVktEeFJrZXYyaGRJa2czREtjMUpBWF9Tdmhtamg2UkR1c0l1c2VMQ2VsRVEtQ25EY0lvdmR1MWdmcXVkQmZtUXEwZFhuT3ZfSXZQSUwyUVhncHVBNGFud0J2OVJx?oc=5",
+      "publisher": "https://www.2news.co.kr/",
+      "pubDate": "Fri, 27 Nov 2026 02:42:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS 부산 데이터센터가 '대한민국 안전대상'에서 국무총리상을 수상했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 사업 전략 및 경영 관련 보도와 달리 데이터센터의 안전 관리 부문 수상 성과를 다루고 있다."
+      },
+      "processedAt": "2026-11-27T03:30:30.128Z"
+    },
+    {
+      "id": "55334fcf7f6407b8",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK증권, LG CNS AIDC 매출 본격화로 내년 성장 가속화 전망",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wS0dFY05yNll6eHIxTzRlMmlKNGFoaGR5M3hGU0JhcEtleUE2YXNkZjliZ0M3QzVDLTZlaW1ibmJZQmhNZFI0aE94QjdJTGQzSURRSlBhUlFNZjI2a0cwQkFpUWQ0bHNPMHc?oc=5",
+      "publisher": "AI타임스",
+      "pubDate": "Fri, 27 Nov 2026 02:30:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK증권이 LG CNS의 AIDC 매출 본격화에 힘입어 내년 성장이 가속화될 것으로 전망했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 대표 유임 및 AI 전략 관련 보도와 달리, AIDC(AI 데이터센터) 매출 본격화에 따른 구체적인 실적 성장 전망을 다루고 있다는 점이 특징적이다."
+      },
+      "processedAt": "2026-11-27T03:29:49.158Z"
+    },
+    {
+      "id": "255e9d53e1f07a9e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Fri, 27 Nov 2026 02:14:48 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "지디넷코리아의 뉴스레터 구독 신청 및 매체 운영 정보에 관한 안내이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "LG CNS의 실제 마케팅 활동이나 사업 관련 내용이 아닌 단순 언론사 하단 정보 및 뉴스레터 신청 안내 글이다."
+      },
+      "processedAt": "2026-11-27T03:30:02.699Z"
+    },
+    {
+      "id": "e041e1da4a2ac7d0",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS, 데이터센터 최초 대한민국 안전대상 수상",
+      "link": "https://www.newspim.com/news/view/20261127000261",
+      "publisher": "뉴스핌",
+      "pubDate": "Fri, 27 Nov 2026 01:02:00 GMT",
+      "keyVisual": "https://img.newspim.com/news/2026/11/27/2611271001063910_295_tc.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": "부산",
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 디지털 트윈과 AI 기반 종합 안전관리 체계를 구축한 부산 클라우드 데이터센터의 재난 대응 역량을 인정받아 대한민국 안전대상 국무총리상을 수상했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 사업 전략 및 경영 현황 중심의 보도와 달리 데이터센터 인프라의 재난 대응 및 안전 관리 역량 수상 소식을 다루었다."
+      },
+      "processedAt": "2026-11-27T03:29:55.427Z"
+    },
+    {
+      "id": "83804c0217310d3e",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "LG CNS AI·클라우드 사업 확대…내년 실적 개선 예고",
+      "link": "https://news.jkn.co.kr/post/1126455",
+      "publisher": "재경일보",
+      "pubDate": "Thu, 26 Nov 2026 23:53:00 GMT",
+      "keyVisual": "https://images.jkn.co.kr/data/images/full/113/19/1131959.jpg?v=1795737890&width=1200&height=630",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS AI·클라우드 사업 확대…내년 실적 개선 예고",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-27T03:31:03.011Z"
+    },
+    {
+      "id": "df035244c87cf0c3",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK증권 ",
+      "link": "https://stock.mk.co.kr/news/view/1206914",
+      "publisher": "매일경제 마켓",
+      "pubDate": "Thu, 26 Nov 2026 23:36:27 GMT",
+      "keyVisual": "https://stock.mk.co.kr/photos/20261127/PCM20261118000110017_P4.jpg",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK증권은 LG CNS가 AI 인프라 및 데이터센터 사업 성장에 힘입어 내년부터 본격적인 실적 성장을 기록할 것으로 전망했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-27T03:30:22.262Z"
+    },
+    {
+      "id": "ca6c382fc1f10e64",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "SK證 LG CNS, 내년 AI 인프라 성장 본격화…목표가 9만1000원",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhcjdnXzBlQklDRDQxcUp2WHVvZUJFMnNWaC1ucXppRVFVS1UtVjhuWElHTV9aUmE0UHpUUGdXcWcyRFlfejg5TXZrenF6eDBadVlXTmZkWjkyZ9IBWEFVX3lxTFB3YmU2S3F2S09qMll5UTVJMTFVNy1jVlZpdi02VEpCbjRpZV9nbFd0bndyN2NyR05feE93MEpTbnI2dzVyYUpuQXJxZmQ4NDVuSERfZWNnUjg?oc=5",
+      "publisher": "아주경제",
+      "pubDate": "Thu, 26 Nov 2026 23:23:25 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "SK증권이 LG CNS의 내년 AI 인프라 성장이 본격화될 것으로 전망하며 목표주가 9만 1000원을 제시했다는 내용을 다룬 언론보도이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-27T08:00:21.271Z"
+    },
+    {
+      "id": "25c6b04bd5f506bf",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "‘피지컬웍스’ 공개 반년…LG CNS, 로봇 플랫폼 수익화 어디까지",
+      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno",
+      "publisher": "이지경제",
+      "pubDate": "Thu, 26 Nov 2026 23:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 로봇 플랫폼 '피지컬웍스'를 공개한 지 반년이 지난 시점에서 해당 사업의 수익화 추진 현황을 다룬 언론보도이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 중심 전략 및 조직 내실 강화 관련 보도와 달리 로봇 플랫폼 사업의 수익화 현황에 집중하여 조명하고 있습니다."
+      },
+      "processedAt": "2026-11-27T08:00:29.230Z"
+    },
+    {
+      "id": "89bcaed4e0742638",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[헬로AX] 스마트 물류 자동화에 피지컬 AI 접목…LG CNS, 이기종 로봇 통합 운영 확대",
+      "link": "https://www.hellot.net/news/article.html?no",
+      "publisher": "헬로티",
+      "pubDate": "Thu, 26 Nov 2026 22:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 스마트 물류 자동화에 피지컬 AI를 접목하여 이기종 로봇 통합 운영을 확대하고 있다는 내용이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "경영 인사 및 사업 정책 중심이었던 최근 보도들과 달리, 피지컬 AI 기반 스마트 물류 및 로봇 통합 운영이라는 구체적인 기술적용 사례를 조명하고 있다."
+      },
+      "processedAt": "2026-11-27T03:30:13.123Z"
+    },
+    {
+      "id": "fa1bb5b47f914a94",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[클라우드 월드] 삼성SDS 정부혁신 박람회 참가·네이버클라우드 한수원 원전 AX 협력·포스코DX 'AX 해커톤 시즌 2'",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IcTc5bzF3dkVkZHdKWlBkMHBfbWhJYnR2dmpFV3E1dHkydlpNZXVQTld6VC16Qk1WNXowcDRSSURmbndITWhNcHk0TXJGbUFqZF9OV01vRTFMbWl1cXZCVkwtTlp5MHE1VW9VRTdBRdIBc0FVX3lxTFBNUS1adHNsWnI2ZDJhNlBhUUluSmhwT01xSkJmYUdscjlfU3d0TEFnWmpxQXBGVkJnVjBldnBTaUplMDVWdlJpdm9IcThUSUIyTXdUYlp5YUR2VlJjWnRsOFhIX0UtWGtvNm14a29uZnc5cEU?oc=5",
+      "publisher": "뉴스웍스",
+      "pubDate": "Thu, 26 Nov 2026 08:13:33 GMT",
+      "keyVisual": null,
+      "activityType": "전시",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 정부혁신 박람회에 참가하여 관련 역량을 선보였다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-27T03:28:50.631Z"
+    },
+    {
+      "id": "5519a4e7544ac8b0",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "IT세상을 바꾸는 힘 지디넷코리아",
+      "link": "https://zdnet.co.kr/error/",
+      "publisher": "지디넷코리아",
+      "pubDate": "Thu, 26 Nov 2026 06:29:45 GMT",
+      "keyVisual": "https://zdnet.co.kr/images/default_img.jpg?ver=20220902",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "지디넷코리아의 웹사이트 뉴스레터 구독 및 사이트 운영에 대한 안내 문구로, 삼성SDS의 마케팅 활동 내용은 포함되어 있지 않습니다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "삼성SDS의 마케팅 활동 내용이 전혀 포함되어 있지 않고 언론사 웹사이트 하단 안내문만 존재합니다."
+      },
+      "processedAt": "2026-11-27T03:28:11.005Z"
+    },
+    {
       "id": "ba4cd558c27bd725",
       "company": "네이버",
       "category": "IT 서비스",
@@ -136,6 +378,50 @@
         "llmNote": null
       },
       "processedAt": "2026-11-26T08:00:30.625Z"
+    },
+    {
+      "id": "6b9b8fd0038827ac",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[한국의 CISO-권력지도] 삼성, 돈은 전자가 쓰고 힘은 SDS가 쥐었다",
+      "link": "https://v.daum.net/v/ZBOZwgIki2",
+      "publisher": "Daum",
+      "pubDate": "Thu, 26 Nov 2026 01:40:01 GMT",
+      "keyVisual": "https://img1.daumcdn.net/thumb/S800x400/?fname=https://t1.daumcdn.net/news/202611/26/bloter/20261126104001805vioa.png",
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 부사장급 CISO의 CEO 직속 보고 체계와 높은 정보보호 투자 비중을 바탕으로 삼성그룹 주요 계열사 중 보안 거버넌스 평가 1위를 차지했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 공공 AI 전환(AX) 전시 및 행사 참가 중심의 활동과 달리 기업 정보보호 거버넌스 및 CISO 역량 평가에 초점을 맞춘 언론보도입니다."
+      },
+      "processedAt": "2026-11-27T03:28:17.984Z"
+    },
+    {
+      "id": "782b391579ef7bc9",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[장중수급포착] 삼성에스디에스, 외국인 5일 연속 순매수행진... 주가 +4.16%",
+      "link": "https://www.newspim.com/news/view/20261126000426",
+      "publisher": "뉴스핌",
+      "pubDate": "Thu, 26 Nov 2026 01:19:00 GMT",
+      "keyVisual": "https://img.newspim.com/etc/newspim_sns_logo_201x201_v1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성에스디에스의 주가가 외국인의 5일 연속 순매수세에 힘입어 전일 대비 4.16% 상승했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 활동들이 주로 AI 기술 전시 및 공공 사업 마케팅 관련이었던 것과 달리, 이번 건은 주가 상승 및 외국인 순매수 동향을 다룬 단순 금융 시황 기사이다."
+      },
+      "processedAt": "2026-11-27T03:29:02.007Z"
     },
     {
       "id": "cfbdc11ddbc71c42",
@@ -202,6 +488,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-26T03:22:30.761Z"
+    },
+    {
+      "id": "8e43e7f52d79ea03",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, 국가품질경영대회 첫 AI 부문 대통령 표창",
+      "link": "https://www.sedaily.com/article/20119028",
+      "publisher": "서울경제",
+      "pubDate": "Wed, 25 Nov 2026 21:00:00 GMT",
+      "keyVisual": "https://wimg.sedaily.com/news/cms/2026/11/25/news-p.v1.20260908.f7bf79a26391408bb8190589be32fa56_Z1.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-11-26",
+      "location": null,
+      "format": "보도자료 배포",
+      "slogan": null,
+      "keyMessage": "삼성SDS가 제52회 국가품질경영대회에서 민간과 공공의 성공적인 AI 전환을 이끈 공로를 인정받아 AI 부문 최초로 대통령표창을 수상했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-27T03:28:46.053Z"
     },
     {
       "id": "99967f29edddd2b2",
@@ -400,6 +708,28 @@
         "llmNote": "최근 인사이동 및 주가·증권가 리포트 소식이 주를 이루었던 것과 달리, 공공 분야 AI 전환(AX) 기술력을 직접 알리는 대형 박람회 참가 소식이다."
       },
       "processedAt": "2026-11-25T03:56:23.769Z"
+    },
+    {
+      "id": "92f307375105ca44",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "삼성SDS, '대한민국 정부혁신 박람회' 참가…AI 풀스택 역량 소개",
+      "link": "https://www.etnews.com/20261125000250",
+      "publisher": "전자신문",
+      "pubDate": "Wed, 25 Nov 2026 02:37:07 GMT",
+      "keyVisual": "https://img.etnews.com/news/article/2026/11/25/news-p.v1.20261125.d202de218fdb464cbaa09bd5f70544e4_P1.jpg",
+      "activityType": "기타",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS, '대한민국 정부혁신 박람회' 참가…AI 풀스택 역량 소개",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": null
+      },
+      "processedAt": "2026-11-27T03:29:33.129Z"
     },
     {
       "id": "0ed5c9722d8cfa08",
@@ -774,6 +1104,28 @@
         "llmNote": null
       },
       "processedAt": "2026-11-26T03:21:41.554Z"
+    },
+    {
+      "id": "4cfceee8a1aadcbc",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[인사] 삼성SDS | 연합뉴스",
+      "link": "https://www.yna.co.kr/view/AKR20261124066800017",
+      "publisher": "연합뉴스",
+      "pubDate": "Tue, 24 Nov 2026 01:36:05 GMT",
+      "keyVisual": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_1200x800_kr01.jpg",
+      "activityType": "언론보도",
+      "eventDate": "2026-11-24",
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "삼성SDS가 부사장 승진 4명 및 상무 승진 6명을 포함한 임원 인사를 발표했다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 인프라 전시 및 기술 시연 중심의 마케팅 활동과 달리 임원 인사를 다룬 보도자료이다."
+      },
+      "processedAt": "2026-11-27T03:29:40.159Z"
     },
     {
       "id": "80c7e364f83e3b7e",
@@ -2204,6 +2556,28 @@
         "llmNote": "삼성SDS의 IT 사업 및 마케팅 활동과 직접적인 관련이 없는 개인 부동산 세금 관련 내용이 포함되어 있습니다."
       },
       "processedAt": "2026-11-21T01:58:44.106Z"
+    },
+    {
+      "id": "b6d406145e051a8a",
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "sourceType": "news",
+      "title": "[단독] LG CNS '7000억 규모' 美 대형 도시재생 사업 참여 눈앞…美 시장·부동산 거물 총출동",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBraFNDdTdZdmZHYmhwYzFic0lIdW5qTklBcDZvelBIYl9tNllJVzR6MEpodmpEWGIydS1XaklLZDNaamk4anpWTjREMjltQ1lhdEo1eTA5eGlNdlRUVmN2aHFuRQ?oc=5",
+      "publisher": "더구루",
+      "pubDate": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "keyVisual": null,
+      "activityType": "언론보도",
+      "eventDate": null,
+      "location": null,
+      "format": null,
+      "slogan": null,
+      "keyMessage": "LG CNS가 약 7000억 원 규모의 미국 대형 도시재생 사업 참여를 앞두고 있음을 전하는 언론보도이다.",
+      "anomaly": {
+        "statisticalSpike": false,
+        "llmNote": "최근 AI 역량 및 국내 사업 내실 강화 위주의 소식과 달리 7000억 원 규모의 대형 미국 도시재생 사업 참여라는 해외 사업 확장 행보를 다루고 있어 차별화된다."
+      },
+      "processedAt": "2026-11-27T08:00:06.456Z"
     },
     {
       "id": "128c63ed7439479d",
